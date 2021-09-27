@@ -1,0 +1,217 @@
+---
+section: 7
+subsection: C
+chapter: 34
+title: Varicocele adolescente
+sort-key: 7-34
+permalink-en: https://www.pediatricurologybook.com/Varicocele.html
+---
+
+‭**Varicocele adolescente**‬
+‭**Jane M. Lewis, MD‬
+‭ Profesora Asistente de Urología y Pediatría‬
+‭ Hospital Amplatz de la Universidad de Minnesota y la Universidad de Minnesota, Minneapolis, Minnesota**‬
+
+‭**David A. Diamond, MD‬
+‭ Profesor de Cirugía (Urología)‬
+‭ Children&#39;s Hospital, Boston y Harvard Medical School,‬
+‭ Boston, Massachussetts**‬
+
+
+
+
+
+‭Traducido y editado desde el original al español‬
+
+‭Pedro-Jose Lopez‬
+
+‭Hospital Exequiel Gonzalez Cortes‬
+
+‭Santiago Chile‬
+
+‭**Introducción**‬
+‭ El manejo del varicocele se reconoció históricamente como un problema de adultos, observado en casi el 15% de la población masculina adulta (Saypol 1981). Más tarde, se observó que los hombres que presentaban pruebas de infertilidad mostraron un mayor porcentaje de varicoceles: un tercio de todos los hombres evaluados por infertilidad, que representan el 15-20% de todos los hombres con varicoceles (Pryor y Howards, 1987). Cuando esos varicoceles se corrigieron quirúrgicamente, lo que resultó en mejores características de los espermatozoides y tasas de embarazo, se sospechó una relación causal entre el varicocele y la infertilidad. Con estudios en curso para confirmar, la varicocelectomía se ha convertido en una práctica estándar para el varón adulto que se observa que tiene un varicocele cuando busca tratamiento en una clínica de infertilidad. Desde mediados de la década de 1980, se ha aceptado que estos varicoceles comienzan en la adolescencia y la pubertad, no desaparecen espontáneamente y, cuando se operan, pueden revertir el retraso del crecimiento testicular (Kass y Belman, 1987). Sin embargo, dada la alta prevalencia en la población masculina adulta (15%), y de ellos, solo el 15-20% que buscan tratamiento en clínicas de infertilidad, el dilema para los profesionales que cuidan a los varones adolescentes es cómo predecir el futuro: quién lo hará. eventualmente, tendrá problemas con la infertilidad y, por lo tanto, quién podría beneficiarse de la varicocelectomía más pronto que tarde, o nada.‬
+
+‭Este capítulo analizará con mayor detalle los factores relacionados con este dilema para que cada profesional o estudiante pueda comprender mejor cómo personalizar la atención para cada paciente con un varicocele. y, cuando se opera, puede revertir el retraso del crecimiento testicular (Kass y Belman, 1987).‬
+
+‭**Definición**‬
+‭ Un varicocele es una dilatación anormal de las venas escrotales que drenan la sangre del testículo. Un sistema de clasificación se utiliza tradicionalmente para describir la gravedad. Un varicocele subclínico, o grado 0, no se aprecia en el examen físico, pero se encuentra por casualidad en la ecografía escrotal. Los varicoceles de grado 1 no se pueden ver, pero se palpan en el examen como hinchazón en las venas escrotales observadas solo con el esfuerzo de Valsalva, lo que mejora el flujo venoso retrógrado. Los varicoceles de grado 2 son aquellas venas que se agrandan palpablemente sin necesidad de maniobras de Valsalva, pero no pueden visualizarse a través de la piel escrotal. El varicocele de grado 3 se refiere a la visualización de las venas congestionadas a través de la piel escrotal sin manipulación ni presión adicional de Valsalva (Dubin y Amelar, 1970; Figura 1).‬
+
+‭**Epidemiología**‬
+‭ El varicocele es altamente prevalente en la sociedad masculina adulta; aproximadamente el 15% de los hombres tienen uno. La aparición de varicocele en el examen físico es en gran medida un fenómeno pospúber, y la incidencia de varicocele aumenta con la edad. En un estudio danés publicado en 1971, en el examen físico de rutina de 188 niños de 6 a 9 años de edad, ninguno mostró varicocele (Oster 1971). Según este estudio, así como muchos otros, la incidencia de varicocele aumenta hasta el 16% durante los años de pubertad (Horner, 1960; Steeno y otros, 1976; Yerokhin, 1979; Berger, 1980; D&#39;Ottavio y otros, 1981) . La incidencia informada depende de la definición de varicocele de los investigadores, si se incluyó grado 1 o no, y también del modo de diagnóstico, específicamente, el examen físico versus el examen de ultrasonido Doppler. Cuando se usó una combinación de examen físico con examen de ultrasonido Doppler color simultáneo para determinar el flujo venoso retrógrado en niños escolares alemanes en 1998-99, la prevalencia de varicocele en el examen físico combinado con ultrasonido Doppler color en adolescentes de 12 a 18 años fue tan Alto como 42.8% (Pfeiffer, 2006).‬
+
+‭Estos números no son representativos de lo que observan los centros de atención terciaria en los Estados Unidos. Hasta la fecha, no hay definiciones claras en cuanto a los requisitos mínimos de flujo retrógrado en la ecografía Doppler color, ni el número de venas dilatadas, para definir el varicocele. [ASEEM: aquí es donde las 4 imágenes de ultrasonido de Harriet Paltiel probablemente serían las mejores]. la prevalencia de varicocele en el examen físico combinado con la ecografía Doppler color en adolescentes de 12 a 18 años fue tan alta como 42.8% (Pfeiffer, 2006). Estos números no son representativos de lo que observan los centros de atención terciaria en los Estados Unidos. Hasta la fecha, no hay definiciones claras en cuanto a los requisitos mínimos de flujo retrógrado en la ecografía Doppler color, ni el número de venas dilatadas, para definir el varicocele. [ASEEM: aquí es donde las 4 imágenes de ultrasonido de Harriet Paltiel probablemente serían las mejores]. la prevalencia de varicocele en el examen físico combinado con la ecografía Doppler color en adolescentes de 12 a 18 años fue tan alta como 42.8% (Pfeiffer, 2006).‬
+
+‭La mayoría de los varicoceles se encuentran solo en el lado izquierdo; 85-90% del tiempo. Generalmente, cuando se aprecia un varicocele del lado derecho, solo se asocia con un varicocele del lado izquierdo. La bilateralidad se observa el 10% del tiempo. En raras ocasiones, se produce un varicocele exclusivamente en el lado derecho, lo que debería provocar una ecografía del retroperitoneo para descartar una lesión masiva. Si bien la etnicidad parece afectar el tamaño de los testículos, no parece afectar la frecuencia del varicocele.‬
+
+‭La prevalencia de cada grado de varicocele para adolescentes es difícil de entender. Se notificó como 60% de grado 1, 27% de grado 2 y 13% de grado 3 (Niedziedlski, 1997), pero la detección de varicocele depende de una evaluación adecuada en el examen físico o del paciente que se queja de un nuevo hallazgo en el autoexamen. Si bien muchos han sugerido que el grado de varicocele se encuentra más comúnmente en pacientes de mayor edad, esto no significa necesariamente que el grado de varicocele empeore con la edad. Cuando se observa a un paciente individual, con poca frecuencia su grado de varicocele cambiará con el tiempo.‬
+
+‭**Anatomía**‬
+‭ El testículo tiene tres fuentes principales de suministro de sangre: la arteria testicular, la arteria del conducto deferente y la arteria cremasterica. Una vez dentro del testículo, hay comunicación de sangre arterial. El drenaje venoso, como en muchas áreas del cuerpo, es menos predecible. Una gran cantidad de venas existen en los niveles escrotal e ingle para drenar el testículo. La red más extensa se conoce como el plexo pampiniforme que comienza adyacente al testículo y se extiende hacia la ingle con el cordón espermático (Wishahi, 1991). Parte de la función de esta red de venas es enfriar la sangre arterial vecina desde una temperatura corporal central de 37 ° C hasta la temperatura escrotal de 33 ° C mediante un proceso de intercambio de calor contracorriente (Turner, 1982). La existencia de varicocele, en teoría,‬
+
+‭La porción más distal del plexo pampiniforme es drenada por la vena escrotal anterior hacia la vena femoral. Las cuatro fuentes principales de drenaje, sin embargo, son las venas pudendal testicular, vasal, cremasterica y externa. La vena vasal se vacía en la vena vesical inferior y, finalmente, en la vena ilíaca interna. El drenaje más proximal del plexo es hacia las venas cremastericas, que se vacían en la vena epigástrica inferior y, finalmente, en la vena ilíaca externa. El drenaje principal del plexo pampiniforme es la vena testicular, que drena directamente en la vena renal izquierda de la izquierda y en la vena cava inferior de la derecha. La relación anatómica en la izquierda requiere una vena ligeramente más larga, lo que ha dado lugar a la razón del predominio del varicocele en la izquierda.‬
+
+‭**Presentación clínica y diagnóstico**‬
+
+‭En la mayoría de los casos, en varones adolescentes, el varicocele se encuentra en un examen físico de rutina o deportivo por parte del profesional de la salud que realiza un examen genital informado. A veces, un paciente pospúber observa una nueva masa escrotal o hinchazón, o se queja de una molestia aburrida y molesta en la región escrotal, especialmente después de hacer ejercicio o estar de pie de forma prolongada. En general, la inflamación escrotal asociada con el varicocele es indolora. El examen clínico de los genitales masculinos de cualquier adolescente debe realizarse mientras el paciente está de pie, idealmente en una habitación cálida. Se perderían muchos varicoceles si se examinara al paciente en posición supina porque las venas dilatadas colapsan.‬
+
+‭Como se señaló anteriormente, el varicocele de grado 3 será obvio en la inspección visual del escroto como distensiones de tejido, a veces bastante grandes, en el área del cordón espermático. En ausencia de esto, el cordón espermático debe palparse por encima del nivel del testículo, donde se ha descrito un varicocele palpable (Grado 2) que se siente como una bolsa de gusanos o una serie de tubos blandos blandos. Para detectar el varicocele de grado 1, con el cordón espermático entre el pulgar del practicante y el índice, se le debe pedir al paciente que tosa o que se agache para producir el efecto Valsalva. El varicocele de grado 1 producirá una sensación de llenado entre los dedos del practicante. El examen físico del cordón espermático debe completarse con el paciente en posición supina, confirmando que las venas dilatadas desaparecen (como no lo haría una masa sólida).‬
+
+‭Si se ha observado un varicocele en el examen físico, se debe medir el tamaño o el volumen testicular, buscando la discrepancia de tamaño entre los dos lados. En la palpación, se puede determinar con mayor eficacia si los lados derecho e izquierdo son muy simétricos. Un testículo prepuberal debe tener un volumen de 1-3 mililitros. Un tamaño de\&gt; 3 ml indica el inicio de la pubertad, y esta ampliación generalmente comienza antes de cualquier signo de vello púbico.‬
+
+‭Sin embargo, para un cálculo de volumen adecuado, se han desarrollado varios dispositivos para uso de oficina, como el orquidómetro Prader, que es una cadena de cuentas con formas ovoides de tamaños cada vez mayores, y el orquidómetro Rochester (Takihara), que es un anillo lleno de Tarjetas pequeñas con espacios abiertos perforadas para acomodar la forma de un testículo (Figura 2). Algunos practicantes usan gobernantes, otros usan calibres.‬
+
+‭Para muchos, el método más confiable para calcular el volumen es el ultrasonido escrotal, que ha demostrado ser un método más confiable que los orquidómetros (Diamond, 2000). Si utiliza un sistema de medición bidimensional, el volumen del testículo (en mililitros) se calcula multiplicando el ancho x largo x profundidad (en centímetros) por una constante, como 0.71 según lo determinado por Lambert. Para evitar complicadas fórmulas de cálculo. La elección de la fórmula de Lambert fue investigada por radiólogos pediátricos y se determinó que era la más precisa (Paltiel, 2002).‬
+
+‭En estudios con animales se ha demostrado que la ecografía tiene la mejor correlación con el tamaño real de los testículos (Paltiel, 2002). El ultrasonido y el orquidómetro de Prader tienen una fuerte correlación, pero la correlación se relacionó directamente con la experiencia clínica del investigador (Behre, 1989). Otro pequeño estudio de niños adolescentes (n = 22) comparó el uso del orquidómetro de Prader con el ultrasonido, y desafortunadamente, el examen de Prader no pudo detectar al 24% de los niños con hipotrofia testicular (Costabile, 1992). En el mismo estudio, se pensó que tres pacientes tenían una discrepancia de tamaño de\&gt; 2 mililitros, pero se encontró que eran equivalentes en la ecografía.‬
+
+‭Además, es importante recordar que los testículos adolescentes no crecen exactamente a la misma velocidad. Cuando a los niños con varicocele se les realizaron ecografías anuales debido a una discrepancia de tamaño del 15%, la mayoría mostró resolución de la discrepancia de tamaño que fue duradera con el tiempo (Kolon 2008). Para los adolescentes en ese estudio en particular, esto significó que al 51-71% no se les recomendó la corrección quirúrgica de su varicocele, lo que podría haberse sugerido si se hubiera realizado una medición estática. Por lo tanto, los autores recomiendan encarecidamente al menos dos ecografías secuenciales (idealmente con 6-12 meses de diferencia) que documenten el tamaño de los testículos antes de tomar la decisión de proceder con la cirugía.‬
+
+‭**Fisiopatología**‬
+
+‭Como se mencionó anteriormente, el aspecto anatómico de un varicocele es una dilatación anormal de las venas que drenan los testículos, cuyos modelos animales se han creado mediante ligadura parcial de la vena renal izquierda (Saypol, 1981). Cómo esta dilatación eventualmente resulta en daño testicular es todavía un punto de discusión académica. Se han sugerido varios mecanismos: hipertermia, hipoxia, reflujo suprarrenal, desequilibrios endocrinos, desequilibrios paracrinos testiculares y flujo sanguíneo alterado. Vamos a discutir a continuación los mecanismos que tienen un apoyo sustancial.‬
+
+‭El efecto hipertermico se ha tratado anteriormente en este capítulo con el mecanismo de intercambio de calor a contracorriente del plexo pampiniforme, que se rompe con el varicocele. La hipertermia resultante afecta la actividad de la ADN polimerasa en las células germinales para la replicación del ADN, así como la síntesis de proteínas en espermátidas redondas, ambas sensibles a la temperatura con una función óptima a 33 ° C y 34 ° C, respectivamente (Fujisawa, 1988; Fujisawa, 1989 ). Esta incapacidad de las células germinales para reproducirse podría entonces explicar la reducción de las células espermatogónicas observadas en la biopsia de testículo de pacientes jóvenes con varicocele (Hienz, 1980). Las células de Sertoli también pueden verse afectadas por la temperatura más alta (Sofikitis, 1992).‬
+
+‭Los desequilibrios endocrinos son más complicados, con discrepancias entre modelos animales y humanos entre los niveles séricos de testosterona, las respuestas de desafío de la hormona liberadora de gonadotropina (GnRH), los niveles de hormona luteinizante (LH) y la hormona estimulante del folículo (FSH) (Skoog, 1997). Ni las células de Leydig ni las de Sertoli parecen funcionar de manera óptima en los testículos afectados por un varicocele (Rajfer, 1987). Los niveles de testosterona intratesticular podrían tener un efecto adverso sobre la espermatogénesis, al igual que la escasa capacidad de respuesta de las células de Sertoli a la estimulación con FSH, o su producción alterada de inhibina y transferrina (Plymate 1992; Griswold, 1988). Además, no está claro si estos efectos endocrinos se deben a la presencia o ausencia de la hormona, per se, o un efecto de dilución local en el aumento del volumen venoso.‬
+
+‭Los cambios en el flujo de sangre al testículo pueden ser una forma de explicar todas las otras disfunciones. Evidentemente, la presión arterial dentro del testículo es relativamente baja en comparación con otros compartimentos del cuerpo. Con incluso leves aumentos en las presiones post-capilares, los espacios intersticiales pueden inundarse (Sweeney, 1991). En ese entorno, ni las células de Leydig ni las de Sertoli pueden funcionar correctamente, lo que a su vez afecta la salud de la espermatogonía, que ya está afectada adversamente por el aumento de la temperatura. La dificultad para aceptar totalmente las alteraciones en la presión debidas a la alteración del flujo sanguíneo como mecanismo causal es el hecho de que se han observado efectos perjudiciales bilaterales, a pesar de que las presiones en el testículo derecho no se ven afectadas cuando las presiones del testículo izquierdo son altas. Los venogramas demuestran claramente las comunicaciones entre los dos sistemas venosos a través de la vena testicular derecha en muchos pacientes con varicocele, por lo tanto, algo anormal podría transmitirse desde el lado izquierdo afectado al lado derecho no afectado (Narayan et al, 1981). Además, la temperatura podría explicar los efectos perjudiciales bilaterales, ya que el testículo izquierdo más caliente se asienta muy cerca del testículo derecho, que se calienta ligeramente (Goldstein, 1989)‬
+
+‭El punto final de esta fisiopatología es el escaso crecimiento de los testículos. Esto se conoce como hipotrofia. En la biopsia de testículos, se observa un crecimiento pobre en todos los tipos de células del testículo, pero principalmente en las células germinales y las células de Sertoli (Kass, 1987; Hienz, 1980). La apariencia de las células de Leydig varía ampliamente de atrofia a hipertrofia (Hienz, 1980). El resultado final, como es lógico, es una producción pobre de esperma, como se demuestra en el análisis de semen en hombres jóvenes que tienen hipotrofia testicular con varicocele concurrente (Haans, 1991).‬
+
+‭**Manejo**‬
+‭ Una vez que se realiza un diagnóstico de varicocele en un examen clínico, se recomienda el cálculo de los volúmenes de los testículos con ecografía escrotal. Si no se observa una discrepancia en el tamaño y el paciente no presenta síntomas molestos, es razonable realizar un examen físico anual y una ecografía escrotal para controlar el crecimiento de los testículos durante la pubertad. Una vez que el paciente termina la pubertad, se debe ofrecer un análisis del semen para confirmar el recuento de espermatozoides y la motilidad apropiados. Esta recomendación es independiente del grado de varicocele, ya que los parámetros de hipotrofia y semen eventual no están relacionados con el grado de varicocele, que se ha establecido durante mucho tiempo en la población subfertile adulta (Dubin y Amelar, 1970)‬
+
+‭Si bien está bien establecido en la población adulta infértil que la hipotrofia testicular afecta adversamente los parámetros del semen, solo recientemente en la población adolescente se han establecido criterios de tamaño diferencial para predecir una posible disfunción espermática. Históricamente, se consideró que una diferencia de 2-3 ml o más representaba una pérdida significativa de volumen testicular, y la cirugía correctiva daría lugar a un crecimiento de recuperación del 80% de esos testículos (Costabile, 1992). Otros utilizaron un porcentaje de diferencia de volumen como límite para la intervención quirúrgica, que oscila entre 10 y 25%. Los datos respaldaron estas decisiones en cuanto a que el crecimiento de &quot;recuperación&quot; se apreció en la corrección posquirúrgica del testículo hipotrófico.‬
+
+‭El eventual objetivo de la fertilidad, sin embargo, no era conocido por los varones adolescentes. Para investigar qué porcentaje de diferencia de volumen entre los dos testículos dio lugar a parámetros de semen sustancialmente diferentes, se evaluaron 57 varones adolescentes que habían alcanzado el estadio 5 de Tanner de desarrollo puberal y que estaban dispuestos a proporcionar una muestra de esperma para el análisis (Diamond, 2007). El análisis del semen consistió en el recuento total de espermatozoides, la movilidad de los espermatozoides y la concentración de espermatozoides. Al comparar tres grupos diferenciales de volumen: \&lt;10%, 10-20% y\&gt; 20%, la concentración de esperma fue significativamente menor en el 10-20% y en el\&gt; 20% en comparación con el grupo \&lt;10%. El porcentaje de motilidad espermática fue significativamente menor en el grupo diferencial\&gt; 20% en comparación con los grupos \&lt;10% y 10-20%. La motilidad total del esperma también fue significativamente más baja en el grupo diferencial\&gt; 20% en comparación con el grupo \&lt;10%.‬
+
+‭En general, los autores concluyeron que cualquier adolescente masculino con\&gt; 10% de diferencia de volumen entre sus testículos está potencialmente en riesgo de tener problemas de motilidad en los espermatozoides, lo que podría ser un marcador de qué niños estarían en riesgo de infertilidad en el futuro y, por lo tanto, requieren una estrecha vigilancia con espermiograma o cirugía correctiva. Estos riesgos son mayores para diferenciales de volumen superiores al 20%.‬
+
+‭**Enfoques Quirúrgicos**‬
+
+‭Se han descrito y estudiado diversas técnicas quirúrgicas en el tratamiento del varicocele. Conceptualmente, los abordajes quirúrgicos se pueden dividir en aquellos que interrumpen el drenaje venoso por encima o por debajo del anillo inguinal interno. El objetivo final de la cirugía es eliminar el varicocele, pero también minimizar el riesgo para el paciente de complicaciones como la recurrencia del varicocele, la formación de hidrocele o la atrofia al testículo. Si bien existe cierto riesgo de recurrencia e hidrocele para todos los abordajes quirúrgicos, en la literatura médica no existe ningún informe de atrofia testicular en un paciente quirúrgicamente ingenuo para un abordaje que divide las venas espermáticas por encima del nivel del anillo inguinal interno, donde se puede evitar de manera más confiable daños en el conducto deferente y vasos deferentes (Figuras 3, 4).‬
+
+‭Comenzando con abordajes por debajo del nivel del anillo inguinal interno, Ivanissevich describió una reparación similar al abordaje de una reparación de hernia inguinal estándar. Esto implica una incisión en la piel lateral a la sínfisis púbica, por encima del anillo inguinal externo. La disección se lleva hacia abajo para definir el ligamento inguinal, luego se abre el anillo inguinal externo y la fascia oblicua externa, y se moviliza el cordón espermático sobre un drenaje de Penrose para la visualización de las venas dilatadas (Figura 5). El aumento de la lupa, así como la posición del paciente en Trendelenburg inverso, pueden ayudar a veces a identificar las venas dilatadas. Una vez que el conducto deferente se aísla cuidadosamente junto con el nervio ilioinguinal, las venas se identifican y se dividen cuidadosamente. Idealmente, la arteria espermática se conserva, si se puede identificar, a veces con la ayuda de solución salina tibia, papaverina o una ecografía Doppler de mano. La tasa de fracaso o recurrencia (algunos dicen que la persistencia) del varicocele en adolescentes para este enfoque es del 16%. La complicación más común de cualquier reparación de varicocele es el desarrollo de hidrocele escrotal, y para este enfoque, el hidrocele se reporta 3-8.6% del tiempo (Dubin y Amelar, 1977; Ross y Ruppman, 1993; Kass y Marcol, 1992).‬
+
+‭Presumiblemente, la formación de un hidrocele se debe a la ligadura de los canales linfáticos en el cordón. La complicación más común de cualquier reparación de varicocele es el desarrollo de hidrocele escrotal, y para este enfoque, el hidrocele se reporta 3-8.6% del tiempo (Dubin y Amelar, 1977; Ross y Ruppman, 1993; Kass y Marcol, 1992). Presumiblemente, la formación de un hidrocele se debe a la ligadura de los canales linfáticos en el cordón. La complicación más común de cualquier reparación de varicocele es el desarrollo de hidrocele escrotal, y para este enfoque, el hidrocele se reporta 3-8.6% del tiempo (Dubin y Amelar, 1977; Ross y Ruppman, 1993; Kass y Marcol, 1992). Presumiblemente, la formación de un hidrocele se debe a la ligadura de los canales linfáticos en el cordón.‬
+
+‭El enfoque microscópico subinguinal o inguinal se ha convertido en el enfoque de elección para el cirujano de infertilidad adulto (Marmar y Kim, 1994; Goldstein et al, 1992) y también ha ganado terreno entre algunos urólogos pediátricos. La incisión de la piel se realiza directamente debajo del anillo externo, pero el anillo externo se deja intacto. El cordón espermático se entrega completamente, con o sin el testículo, y se apoya en el campo quirúrgico utilizando un drenaje Penrose. Con el aumento microscópico, la identificación y preservación de la arteria testicular, así como los canales linfáticos, se pueden lograr más fácilmente. Esto ha resultado en una baja tasa de recurrencia, alrededor del 2%, y la tasa más baja de hidrocele de \&lt;1%.‬
+
+‭Hay dos enfoques quirúrgicos bien establecidos para el control del varicocele por encima del nivel del anillo inguinal interno. El procedimiento de Palomo es un abordaje quirúrgico abierto, pero el acceso se logra más proximalmente en los vasos espermáticos que con el abordaje de Ivanissevich. La incisión de la piel se realiza medialmente en la zona de la pata ilíaca superior anterior y en la parte superior del dedo por encima de la posición estimada del anillo interno. Se utiliza un abordaje de división muscular para entrar en el espacio retroperitoneal, donde se pueden ver los vasos espermáticos a lo largo de la pared peritoneal posterior (Figuras 6 y 7). A medida que el conducto deferente ingresa al anillo interno muy por debajo de esta exposición, la ligadura de los vasos puede realizarse fácilmente en un niño delgado sin riesgo de lesión vasal. Cuando se han realizado esfuerzos para preservar la arteria, se ha informado que la tasa de fracaso es del 13,6%, pero cuando la arteria y la vena se unen entre sí, la tasa de fracaso es inferior al 2%. La formación de hidrocele ocurre en aproximadamente el 7% de estos machos (Szabo y Kessler, 1984; Reitelman et al, 1987). Si bien la toma de la arteria espermática parece intuitivamente peligrosa para la salud final del testículo, los estudios de seguimiento de los grupos que preservan la arteria y la división de la arteria y el crecimiento compensatorio son comparables. (Atassi, 1995) Si bien la toma de la arteria espermática parece intuitivamente peligrosa para la salud final del testículo, los estudios de seguimiento de los grupos que preservan la arteria y la división de la arteria y el crecimiento compensatorio son comparables. (Atassi, 1995) Si bien la toma de la arteria espermática parece intuitivamente peligrosa para la salud final del testículo, los estudios de seguimiento de los grupos que preservan la arteria y la división de la arteria y el crecimiento compensatorio son comparables. (Atassi, 1995)‬
+
+‭La varicolectomía laparoscópica es similar al procedimiento de Palomo en que la ligadura de los vasos espermáticos ocurre al mismo nivel (Figura 8). Las ventajas de la cirugía laparoscópica son las incisiones mínimamente invasivas, pequeñas hechas para un puerto de cámara en el ombligo y dos puertos adicionales de 3-5 mm para un aplicador de clips y sujetadores de disección. Además, la laparoscopia ofrece un aumento óptico para facilitar y acelerar la cirugía, así como una rápida recuperación para la mayoría de los pacientes. Se ha informado que la tasa de éxito es similar al procedimiento de Palomo, pero algunos informan resultados aún mejores, con una tasa de fracaso del 1% y sin complicaciones. (Poddoubny, 2000).‬
+
+‭Los radiólogos intervencionistas también han corregido con éxito los varicoceles, utilizando escleroterapia o embolización de las venas espermáticas y, por definición, evitando el suministro arterial y linfático. Esto se puede realizar en adultos bajo anestesia local, lo que es claramente una ventaja, pero la tasa de fracaso varía ampliamente, de 5 a 20% (Clarke et al., 2001; Mazzoni et al., 2001), y la tasa de hidrocele es más alta que para otros abordajes quirúrgicos en aproximadamente el 14% (Fette y Mayr, 2000). Dada la alta probabilidad de requerir anestesia general para un adolescente, así como las tasas relativamente bajas de recurrencia y complicaciones, este enfoque no se ha utilizado de forma rutinaria para el manejo del varicocele en la adolescencia.‬
+
+‭De la experiencia de uno de los autores en la corrección quirúrgica del varicocele, el mayor éxito se ha encontrado en un abordaje combinado de cirugía abierta con escleroterapia. Específicamente, se trata de una incisión en la piel de Palomo y movilización de vasos proximales al anillo inguinal interno. Se utiliza la lupa de aumento. Con el Doppler de mano, al menos una arteria está identificada y aislada. Se hace un intento para evitar el drenaje linfático tanto como sea posible. Entonces todas las venas se atan individualmente y se dividen, excepto la más grande. Después de completar las ligaduras de las venas, se le indica al asistente que apriete suavemente por encima del testículo a lo largo del cordón espermático, ya que se inyecta en esta vena grande STS al 3% (tetradecilsulfato de sodio) (Lebed et al., 2008) a través de un angiocatéter de calibre 22 Para esclerar cualquier vena menor de alimentación.‬
+
+‭**Conclusiones**‬
+
+‭El manejo del varicocele para el paciente adolescente puede ser un desafío. Ayudar a las familias a entender el riesgo estadístico relativamente pequeño de infertilidad para su hijo puede parecer útil, pero lo que cada individuo quiere saber es si estará en el grupo afectado o no. Con la ayuda del tamaño testicular en la ecografía y el uso cada vez mayor del análisis del semen para evaluar al adolescente completamente desarrollado, el profesional tiene más herramientas para tranquilizar a las familias y / o justificar una corrección quirúrgica.‬
+
+‭**Bibliografía**‬
+
+‭ Atassi O, Kass EJ, Steinert BW. Crecimiento testicular después de la corrección exitosa del varicocele en adolescentes: comparación de las técnicas de conservación de la arteria con el procedimiento de Palomo.  _J Urol.  _1995; **153**: 482-3.‬
+‭ Behre HM, Nashan D, Nieschlag E. Medición objetiva del volumen testicular mediante ecografía: evaluación de la técnica y comparación con estimaciones del orquidómetro.  _Int J Androl.  _1989; **12**: 395-403.‬
+‭ Berger OG. Varicocele en la adolescencia.  _Clin Pediatr (Phila). _ 1980; **19**: 810-11.‬
+‭ Clarke SA, Agrawal N, Reidy J. Embolización percutánea de la vena testicular transfemoral en el tratamiento del varicocele infantil.  _Radioleria pediátrica.  _ 2001; **31**: 515-7.‬
+‭ Costabile RA, Skoog SJ, Radowich M. Evaluación del volumen testicular en el adolescente con varicocele.  _J Urol.  _1992; **147**: 1348-50.‬
+‭ Diamond DA, Paltiel HJ, DiCanzio J, et al. Evaluación comparativa del volumen testicular pediátrico: orquidómetro versus ecografía. _J Urol.  _ 2000; 164  **:** 1111.‬
+‭ Diamond DA, Zurakowski D, Bauer SB, et al. Relación del grado de varicocele y la hipotrofia testicular con los parámetros del semen en adolescentes.  _J Urol. _  2007; **178**: 1584.‬
+‭ D&#39;Ottavio G, et al. El varicocele idiopatico: considerazioni epidemiologiche e pathogenetiche. En: D&#39;Ottavio G, Pozza D, eds.  _Andrologia Chirugica. _  Roma, Italia: Borla; 1981: 77.‬
+‭ Dubin L, Amelar RD. Tamaño del varicocele y resultados de la varicocelectomía en hombres subfertiles seleccionados con varicocele.  _Fertil Steril_ . 1970; **21**: 606.‬
+‭ Dubin L, Amelar RD. Varicocelectomía: 986 casos en un estudio de 12 años.  _Urología. _ 1977; **10**: 446-9.‬
+‭ Fette A, Mayr J. Tratamiento de varicoceles en la infancia y la adolescencia con escleroterapia escrotal anterógrada de Tauber.  _Cirugía pediátrica.  _ 2000; **35**: 1222-5.‬
+‭ Fujisawa M, Yoshida S, Matsumoto O, Kojima K, Kamidono S. Actividad de la polimerasa del ácido desoxirribonucleico en los testículos de hombres infértiles con varicocele.  _Fertil Steril.  _1988; **50**: 795-800.‬
+‭ Fujisawa M, Yoshida S, Kojima K, Kamidono S. Cambios bioquímicos en el varicocele testicular.  _Arco Androl.  _1989; **22**: 149-59.‬
+‭ Goldstein M, Eid JF. Elevación de la temperatura de la superficie cutánea intratesticular y escrotal en varones con varicocele.  _J Urol. _ 1989; **142**: 743-5.‬
+‭ Goldstein M, Gilbert BR, Dicker AP, Dwosh J, Gnecco C. Varicocelectomía inguinal microquirúrgica con parto del testículo: una técnica de preservación de las arterias y los linfáticos.  _J Urol.  _ 1992; **148**: 1808-11.‬
+‭ Griswold MD, Morales C, Sylvester SR. Biología molecular de la célula de Sertoli.  _Oxford Rev Reprod Biol. _  1988; **10**: 124-61.‬
+‭ Haans LCF, Laven JSE, Mali WPTM, Velde ER, Wensing CJG. Volúmenes testiculares, calidad del semen y patrones hormonales en adolescentes con y sin varicocele.  _Fertil Steril.  _1991; **56**: 731-6.‬
+‭ Hienz HA, Voggenthaler J, Weissbach L. Hallazgos histológicos en los testículos con varicocele durante la infancia y sus consecuencias terapéuticas.  _Eur J Pediatr. _ 1980; **133**: 139-46.‬
+‭ Horner JS. El varicocele. Una encuesta entre alumnos de secundaria.  _Oficial médico. _ 1960; **104**: 377-81.‬
+‭ Kass EJ, Chandra RS, Belman AB. Histología testicular en el adolescente con varicocele.  _Pediatría. _ 1987; **79**: 996-8.‬
+
+‭Kass EJ, Belman AB. Separación de la falla del crecimiento testicular por ligadura de varicocele.  _J Urol. _ 1987; **137**: 475-6.‬
+‭ Kass EJ, Marcol B. Resultados de la cirugía de varicocele en adolescentes: una comparación de técnicas.  _J Urol. _  1992; **148**: 694-6.‬
+‭ Kolon TF, Clement MR, Cartwright L, et al. Crecimiento testicular asíncrono transitorio en varones adolescentes con varicocele.  _ J Urol.  _2008; **180**: 1111.‬
+‭ Lebed B, Packer M, Husmann D, Zaontz M. Resultados y complicaciones de la reparación de varicocele en adolescentes con escleroterapia intraoperatoria con morruato de sodio.  _J Urol. _  2008: 180: 1837-41.‬
+‭ Marmar JL, Kim Y. Varicocelectomía microquirúrgica subinguinal: una crítica técnica y análisis estadístico de los datos de semen y embarazo.  _J Urol.  _1994; **152**: 1127-32.‬
+‭ Mazzoni G, Spagnoli A, Lucchetti MC, Villa M, Capitanucci ML, Ferro F. Varicocele adolescente. Tauber antegrade escleroterapia versus reparación de Palomo.  _J Urol.  _ 2001; **166**: 1462-4.‬
+‭ Narayan P, Amplatz K, González R. Varicocele y subfertilidad masculina.  _Fertil Steril.  _ 1981; **36**: 92-7.‬
+‭ Niedziedlski J, Paduch D, Raczynski P. Evaluación de varicocele adolescente.  _Cirugía pediátrica int.  _1997; **12**: 410-3.‬
+‭ Oster J. Varicocele en niños y adolescentes. Una investigación de la incidencia entre escolares daneses.  _Scand J Urol Nephrol. _ 1971; **5**: 27-32.‬
+‭ Paltiel HJ, Diamond DA, Di Canzio J, Zurakowski D, Borer JG y Atala A: Volumen testicular: comparación de orquidómetro y medidas de EE. UU. En perros.  _Radiología. _2002; 222  **:**  114.‬
+‭ Pfeiffer D, Berger J, Schoop C, Tauber R. Un estudio basado en Doppler sobre la prevalencia del varicocele en niños y adolescentes alemanes.  _Andrologia.  _ 2006; **38**: 13-19.‬
+‭ Plymate SR, Paulsen CA, McLachlan RI. Relación entre los niveles de inhibina sérica y la producción de hormona estimulante del folículo sérico y espermatozoides en hombres normales y varicoceles.  _J Clin Endocrinol Metab.  _1992; **74**: 859-64.‬
+‭ Poddoubny IV, Dronov AF, Kowarski SL, Kornikova IN, Darenkov IA, Zalikhin DV. Ligadura laparoscópica de las venas testiculares para varicocele en niños. Un informe de 180 casos.  _Cirugía endoscópica.  _ 2000; **14**: 1107-9.‬
+‭ Pryor JL, Howards SS. Varicocele.  _Urol Clin North Am. _  1987; **14**: 499-513.‬
+‭ Rajfer J, Turner TT, Rivera F, Howards SS, Sikka SC. Inhibición de la biosíntesis de testosterona testicular después de un varicocele experimental en ratas.  _Biol Reprod. _ 1987; **36**: 933-37.‬
+‭ Reitelman C, Burbige KA, Sawczuk IS, Hensle TW. Diagnóstico y corrección quirúrgica del varicocele pediátrico.  _J Urol. _ 1987; **138**: 1038-40.‬
+‭ Ross LS, Ruppman N. Ligadura de la vena varicocele en 565 pacientes bajo anestesia local: una revisión a largo plazo de la técnica, los resultados y las complicaciones a la luz del manejo propuesto por laparoscopia.  _J Urol. _ 1993; **149**: 1361-3.‬
+‭ Saypol DC, Howards SS, Turner TT, Miller ED Jr. Influencia del varicocele inducido quirúrgicamente en el flujo sanguíneo testicular, la temperatura y la histología en ratas y perros adultos.  _J Clin Invest. _1981; **68**: 39-45.‬
+‭ Saypol DC. Varicocele.  _J Androl. _ 1981; **2**: 61-71.‬
+‭ Skoog SJ, Roberts KP, Goldstein M, Pryor JL. El varicocele adolescente: ¿Qué hay de nuevo con un problema antiguo en pacientes jóvenes?  _Pediatría.  _1997; **100**: 112-27.‬
+‭ Sofikitis N, Takahashi C, Kadowaki H, et al. Reparación quirúrgica versus tratamiento médico del varicocele en ratas: manipulación farmacológica del testículo varicocelizado.  _Eur Urol. _  1992; **22**: 44-52.‬
+
+‭Steeno O, Knops J, DeClerck L, Adimoelja A, van de Voorde H. Prevención de los trastornos de la fertilidad mediante la detección y el tratamiento del varicocele en edad escolar y universitaria.  _Andrologia. _ 1976; **8**: 47-53.‬
+‭ Sweeney TE, Rozum JS, Desjardins C, Gore RW. Distribución de la presión microvascular en el testículo de hámster.  _Soy J Physiol. _  1991; **260**: H1581-89.‬
+‭ Szabo R, Kessler R. Hydrocele después de la ligadura de la vena espermática interna: un estudio retroperitoneal y revisión de la literatura.  _J Urol. _ 1984; **132**: 924-5.‬
+‭ Turner TT, López TJ. Flujo sanguíneo testicular en ratas peripúberes y mayores con varicocele experimental unilateral e investigación sobre el mecanismo de la respuesta bilateral a la lesión unilateral.  _J Urol.  _1982; **144**: 1018.‬
+‭ Wishahi MM. Anatomía detallada de la vena espermática interna y la vena ovárica. Estudio de cadáveres humanos y venografía espermática operatoria: aspectos clínicos.  _J Urol. _ 1991; **145**: 780-84.‬
+‭ Yerokhin AP. Clasificación y frecuencia del varicocele en niños.  _Klin Khir. _ 1979; **6**: 45-6.‬
+
+‭Figura 1. Varicocele grado 3 en un varón de 17 años. (Aseem: esto necesita una flecha dibujada para apuntar al varicocele).‬
+
+‭![Figura 1](/assets/figures/figure-7-34-1.jpg)‬
+
+‭Figura 2. Orquiómetro de Rochester.‬
+
+‭![Figura 2](/assets/figures/figure-7-34-2.jpg)‬
+
+‭Figura 3. Sitios de incisión quirúrgica para Palomo, Ivanissevich y abordajes subinguinales.‬
+‭ ![Figura 3](/assets/figures/figure-7-34-3.jpg)‬
+
+‭Figura 4. Sitios de incisión quirúrgica en correlación con el drenaje venoso.‬
+
+‭![Figura 4](/assets/figures/figure-7-34-4.jpg)‬
+
+‭Figura 5. Enfoque de Ivanissevich. A la izquierda, se abre la fascia oblicua externa, se aísla el cordón espermático con drenaje de Penrose. A la derecha, el conducto deferente y la arteria deferente se aíslan de la arteria y venas espermáticas.‬
+
+‭![Figura 5](/assets/figures/figure-7-34-5.jpg)‬
+
+‭Figura 6. Enfoque de Palomo. La línea discontinua representa la incisión sugerida, muy cerca de la arteria y vena espermáticas, muy por encima del anillo inguinal interno.‬
+
+‭![Figura 6](/assets/figures/figure-7-34-6.jpg)‬
+
+‭Figura 7. Enfoque de Palomo. El retroperitoneo se ingresa a través de una técnica de división de músculos. Busque los vasos debajo del pliegue peritoneal.‬
+‭ ![Figura 7](/assets/figures/figure-7-34-7.jpg)‬
+
+‭Figura 8. Abordaje laparoscópico. A) Vena espermática izquierda expuesta bajo el pliegue peritoneal.‬
+‭ ![Figura 8](/assets/figures/figure-7-34-8.jpg)‬
+
+‭B) Vena espermática movilizada.‬
+‭ ![Figura 9](/assets/figures/figure-7-34-9.jpg)‬
+
+‭C) Vena espermática dividida con clips quirúrgicos.‬
+
+‭![Figura 10](/assets/figures/figure-7-34-10.jpg)‬
+
+‭Figura 9. Imagen de escala de grises transversal que muestra ambos testículos y ambos‬
+‭ varicoceles.‬
+
+‭![Figura 11](/assets/figures/figure-7-34-11.jpg)‬
+
+‭Figura 10. Imagen en una escala de grises sagital de un varicocele izquierdo.‬
+
+‭![](RackMultipart20210723-4-60r3l1_html_6405591f1daa7b0.jpg)‬
+
+‭Figura 11. Imagen sagital en color Doppler de un varicocele izquierdo con el‬
+‭ paciente en reposo.‬
+
+‭![Figura 12](/assets/figures/figure-7-34-12.jpg)‬
+
+‭Figura 12. Imagen sagital en color Doppler del varicocele izquierdo con el paciente realizando una maniobra de Valsalva, con un aumento notable del flujo a través del varicocele.‬
+
+‭![Figura 13](/assets/figures/figure-7-34-13.jpg)‬

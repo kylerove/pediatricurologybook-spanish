@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "es" }}">
+
+  {%- include head.html -%}
+
+  <body data-plugin-page-transition>
+
+    <div class="body" aria-label="Content">
+      
+      {%- include header.html -%}
+
+      {{ content }}
+
+      {%- include footer.html -%}
+
+    </div>
+    
+    <!-- Vendor -->
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+    
+    <!-- Scroll to top -->
+    <a class="scroll-to-top hidden-mobile" href="#"><i class="fas fa-chevron-up"></i></a>
+    
+  </body>
+</html>

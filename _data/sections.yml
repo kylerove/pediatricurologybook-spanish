@@ -1,0 +1,62 @@
+-
+  index: 1
+  title: Introducción
+  subsections:
+-
+  index: 2
+  title: "Tracto urinario superior: riñón y uréter"
+  subsections:
+    -
+      index: A
+      title: "Anomalías del desarrollo"
+    -
+      index: B
+      title: "Consideraciones nefrológicas"
+    -
+      index: C
+      title: "Obstrucción"
+-
+  index: 3
+  title: "Tracto urinario inferior: vejiga"
+  subsections:
+    -
+      index: A
+      title: "Anomalías del desarrollo"
+    -
+      index: B
+      title: "Alteraciones de la micción funcional"
+    -
+      index: C
+      title: "Reflujo vesicoureteral e infección del tracto urinario"
+-
+  index: 4
+  title: "Tracto urinario inferior: infravesical"
+  subsections:
+    -
+      index: A
+      title: "Anomalías del desarrollo"
+    -
+      index: B
+      title: "Consideraciones nefrológicas"
+-
+  index: 5
+  title: "Oncología"
+-
+  index: 6
+  title: "Anormalidades neurogénicas"
+-
+  index: 7
+  title: "Genitales y perineo"
+  subsections:
+    -
+      index: A
+      title: "Pene"
+    -
+      index: B
+      title: "Trastornos del desarrollo sexual"
+    -
+      index: C
+      title: "Condiciones de testículos e ingle"
+-
+  index: 8
+  title: "Diverso"

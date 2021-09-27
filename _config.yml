@@ -18,21 +18,48 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Pediatric Urology Book v1 Español
+email: admin@pediatricurologybook.com
+tagline: Un libro en línea gratuito de urología pediátrica
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Este libro en línea gratuito de Urología Pediátrica, Edición 1.0, presenta temas que se actualizan con frecuencia, como el manejo de la hidronefrosis, técnicas de hipospadias, enfoques para la infección del tracto urinario, información sobre disfunción del intestino y la vejiga, vejiga neurogénica, oncología urológica pediátrica y mucho más.
+baseurl: "/es" # the subpath of your site, e.g. /blog
+url: "https://v1.pediatricurologybook.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: pediatricurologybook
+github_username:  kylerove
+
+# polyglot settings
+languages: ["es"]
+default_lang: "es"
+exclude_from_localization: ["_config.yml", "assets", "_layouts", "_includes"]
+parallel_localization: true
+version: 1.0.0
+encoding: utf-8
+permalink: pretty
 
 # Build settings
-theme: minima
+theme: null
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-toc
+  - jekyll-polyglot
+  
+collections:
+  chapters:
+    output: true
+    sections: true
+    sort_by: sort_key
+    permalink: /libro/capitulo/:title.html
+    
+kramdown:
+  auto_ids          : true
+  entity_output     : as_char
+  toc_levels        : [1, 2, 3, 4, 5, 6]
+  smart_quotes      : lsquo,rsquo,ldquo,rdquo
+  input             : GFM
+  hard_wrap         : false
+  footnote_nr       : 1
+  show_warnings     : false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
