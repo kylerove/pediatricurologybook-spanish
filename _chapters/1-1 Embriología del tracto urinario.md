@@ -12,7 +12,7 @@ permalink-en: https://pediatricurologybook.com/embryology_urinary_tract.html
 **Kathleen Kieran, MD; Christopher S. Cooper, MD**  
 **Departamento de Urología de la Universidad de Iowa**
 
-_Traducido y editado desde el original al español_ [Enlace a la versión en inglés]({{ page.permalink-en }})  
+_Traducido y editado desde el original al español | [Enlace a la versión en inglés]({{ page.permalink-en }})_  
 Dra Maria Santos  
 Dra Carolina Acuña  
 Hospital Padre Hurtado  
