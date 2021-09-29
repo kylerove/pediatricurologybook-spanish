@@ -12,7 +12,7 @@ permalink-en: https://pediatricurologybook.com/embryology_urinary_tract.html
 **Kathleen Kieran, MD; Christopher S. Cooper, MD**  
 **Departamento de Urología de la Universidad de Iowa**
 
-_Traducido y editado desde el original al español_  
+_Traducido y editado desde el original al español_ [Enlace a la versión en inglés]({{ page.permalink-en }})  
 Dra Maria Santos  
 Dra Carolina Acuña  
 Hospital Padre Hurtado  
@@ -22,11 +22,11 @@ Es fundamental entender la embriología de los genitales y del sistema urinario 
 
 ## Los riñones
 
-El desarrollo de los riñones se divide en tres etapas: los pronefros, los mesonefros y los metanefros. El pronefros se desarrolla en la tercera semana de gestación como una condensación del mesodermo intermedio en las regiones cervical inferior y torácica superior extendiéndose hasta la cloaca. Involuciona casi por completo en la cuarta semana de gestación (Figura 1).
+El desarrollo de los riñones se divide en tres etapas: los pronefros, los mesonefros y los metanefros. El pronefros se desarrolla en la tercera semana de gestación como una condensación del mesodermo intermedio en las regiones cervical inferior y torácica superior extendiéndose hasta la cloaca. Involuciona casi por completo en la cuarta semana de gestación (**Figura 1**).
 
 ![Figura 1](/assets/figures/figure-1-1-1.jpg)
 
-El conducto pronéfrico, que surge de las evaginaciones dorsal y caudal de los pronefros, se conserva y dará lugar al conducto mesonéfrico. El mesonefros se desarrolla más caudalmente, a partir del mesodermo intermedio; Aunque la mayoría de estos túbulos se degeneran, el conducto mesonéfrico persiste bilateralmente. En ambos sexos, los uréteres, la pelvis renal y el trígono vesical se derivan del conducto mesonéfrico; en el varón, el conducto mesonéfrico también da lugar a los vasos deferentes, epidídimos y vesículas seminales; el primero es parte del propio conducto, mientras que las dos últimas estructuras surgen como resultado de la dilatación o evaginación del conducto (Figuras 2, 3).
+El conducto pronéfrico, que surge de las evaginaciones dorsal y caudal de los pronefros, se conserva y dará lugar al conducto mesonéfrico. El mesonefros se desarrolla más caudalmente, a partir del mesodermo intermedio; Aunque la mayoría de estos túbulos se degeneran, el conducto mesonéfrico persiste bilateralmente. En ambos sexos, los uréteres, la pelvis renal y el trígono vesical se derivan del conducto mesonéfrico; en el varón, el conducto mesonéfrico también da lugar a los vasos deferentes, epidídimos y vesículas seminales; el primero es parte del propio conducto, mientras que las dos últimas estructuras surgen como resultado de la dilatación o evaginación del conducto (**Figuras 2, 3**).
 
 ![Figura 2](/assets/figures/figure-1-1-2.jpg)
 
@@ -36,13 +36,13 @@ Una vez que el conducto mesonéfrico entra en contacto con la cloaca en el aspec
 
 La yema ureteral y el mesénquima metanéfrico inducen recíprocamente el crecimiento, formando el riñón. El brote ureteral se agranda y se divide progresivamente para formar la pelvis renal, infundíbulos, conductos colectores y 8-12 cálices mayores y menores (2). La ramificación del brote uretérico se controla mediante la interacción del factor neurotrófico derivado de células gliales (GDNF) y el receptor RET-1, con la activación subsiguiente de Wnt-11 (3,4). La proteína morfogenética ósea (BMP) -4 actúa localmente para disminuir la génesis y la ramificación de las yemas ureterales. Parece también estar involucrada en la prevención de la ectopia de las yemas ureterales y en la promoción del desarrollo del musculo liso periureteral (5). Gremlin 1 (grem 1), un antagonista de BMP-4, normalmente está presente alrededor de la yema uretérica, disminuyendo localmente la actividad de BMP-4 y permitiendo así la ramificación ureteral.  Existen también muchos otros genes y proteínas que han sido implicados en el desarrollo renal (6). Los túbulos colectores invaginan el mesodermo metanéfrico para formar vesículas metanéfricas, que posteriormente se alargan para formar los túbulos metanéfricos. A medida que los túbulos metanéfricos están invaginados por capilares (glomérulos), se forman nefrones. Este proceso continúa hasta la semana 32 de gestación. Al nacer, aproximadamente 750,000 a 1 millón de nefronas están presentes en cada riñón; después del nacimiento, el tamaño renal puede aumentar debido a la elongación de los túbulos contorneados proximales (7).
 
-Con el crecimiento longitudinal diferencial del embrión, el riñón &quot;asciende&quot; desde su ubicación inicial en la pelvis hasta su ubicación final en el retroperitoneo superior. Durante el ascenso, los vasos sanguíneos transitorios ascienden y luego se degeneran; estas arterias persisten en los riñones ectópicos, así como en algunas unidades renales ortotópicas. Al mismo tiempo, los riñones giran alrededor de sus ejes vertical y horizontal, de modo que su orientación final los polos superiores son ligeramente más mediales y anteriores que los polos inferiores (Figura 4) (8).
+Con el crecimiento longitudinal diferencial del embrión, el riñón &quot;asciende&quot; desde su ubicación inicial en la pelvis hasta su ubicación final en el retroperitoneo superior. Durante el ascenso, los vasos sanguíneos transitorios ascienden y luego se degeneran; estas arterias persisten en los riñones ectópicos, así como en algunas unidades renales ortotópicas. Al mismo tiempo, los riñones giran alrededor de sus ejes vertical y horizontal, de modo que su orientación final los polos superiores son ligeramente más mediales y anteriores que los polos inferiores (**Figura 4**) (8).
 
 ![Figura 4](/assets/figures/figure-1-1-4.jpg)
 
 ## Vejiga
 
-Hasta la semana 7 de gestación, el embrión tiene una cloaca y un orificio único hacia caudal. Durante la semana 7 de gestación, la membrana urogenital crece de forma caudal, dividiendo la cloaca en componentes ventral (seno urogenital) y dorsal (recto) (Figura 5).
+Hasta la semana 7 de gestación, el embrión tiene una cloaca y un orificio único hacia caudal. Durante la semana 7 de gestación, la membrana urogenital crece de forma caudal, dividiendo la cloaca en componentes ventral (seno urogenital) y dorsal (recto) (**Figura 5**).
 
 ![Figura 5](/assets/figures/figure-1-1-5.jpg)
 
@@ -54,7 +54,7 @@ Las capas no epiteliales de la porción del detrusor (no trígono) de la vejiga 
 
 ## Próstata
 
-La glándula prostática deriva del seno urogenital y el endodermo se invagina en el mesénquima circundante en las semanas 9-11 de gestación (Figura 6) (14).
+La glándula prostática deriva del seno urogenital y el endodermo se invagina en el mesénquima circundante en las semanas 9-11 de gestación (**Figura 6**) (14).
 
 ![Figura 6](/assets/figures/figure-1-1-6.jpg)
 
@@ -66,7 +66,7 @@ La uretra es derivada del seno urogenital, con endodermo que da lugar al epiteli
 
 ## Gónadas
 
-En la quinta semana de gestación, las condensaciones del epitelio mesodérmico y el mesénquima subyacente forman las crestas gonadales laterales al mesonefros. Las células germinales primordiales cerca del alantoides en el lado ventral del embrión se mueven dorsalmente a medida que el embrión se pliega. Estas células germinales se recogen en grupos de epitelio llamados cordones sexuales, que invaginan el tejido mesenquimatoso local y migran a las crestas gonadales. Hasta la séptima semana, las gónadas de los embriones masculinos y femeninos son idénticas. La diferenciación de las gónadas en un testículo u ovario se determina por el sexo cromosómico del embrión (46, XY o 46, XX; Figura 7).
+En la quinta semana de gestación, las condensaciones del epitelio mesodérmico y el mesénquima subyacente forman las crestas gonadales laterales al mesonefros. Las células germinales primordiales cerca del alantoides en el lado ventral del embrión se mueven dorsalmente a medida que el embrión se pliega. Estas células germinales se recogen en grupos de epitelio llamados cordones sexuales, que invaginan el tejido mesenquimatoso local y migran a las crestas gonadales. Hasta la séptima semana, las gónadas de los embriones masculinos y femeninos son idénticas. La diferenciación de las gónadas en un testículo u ovario se determina por el sexo cromosómico del embrión (46, XY o 46, XX; **Figura 7**).
 
 ![Figura 7](/assets/figures/figure-1-1-7.jpg)
 
@@ -74,7 +74,7 @@ El factor determinante de los testículos (TDF, también conocido como el gen Sr
 
 En lo contrario, los embriones con un genotipo 46, XX o en quienes TDF no está presente desarrollarán ovarios (25). Generalmente se necesitan dos cromosomas X para el desarrollo ovárico normal (26). Los cordones sexuales primarios que se extienden hacia la médula de manera análoga al desarrollo de los testículos se degeneran posteriormente (27). Los cordones sexuales secundarios, que crecen desde el epitelio de la superficie al mesénquima subyacente, incorporan células germinales primordiales, pero luego se rompen en grupos llamados folículos primordiales, cada uno de los cuales consiste en una ovogonia: una célula germinal rodeada por células foliculares derivadas del cordón sexual; el número de folículos aumenta con la mitosis prenatal (que no continúa después del nacimiento). Aunque la mayoría de las ovogonias se degeneran antes de nacer, las que no lo hacen seguirán creciendo y convirtiéndose en ovocitos primarios. (28)
 
-El desarrollo de los conductos mesonéfricos ya ha sido discutido. Los conductos paramesonéfricos, laterales a los conductos mesonéfricos, se extienden desde el peritoneo hasta la futura pelvis del embrión. Los conductos paramesonéfricos se fusionan en la pelvis, formando el útero y los dos tercios superiores de la vagina en las mujeres (Figura 8).
+El desarrollo de los conductos mesonéfricos ya ha sido discutido. Los conductos paramesonéfricos, laterales a los conductos mesonéfricos, se extienden desde el peritoneo hasta la futura pelvis del embrión. Los conductos paramesonéfricos se fusionan en la pelvis, formando el útero y los dos tercios superiores de la vagina en las mujeres (**Figura 8**).
 
 ![Figura 8](/assets/figures/figure-1-1-8.jpg)
 
