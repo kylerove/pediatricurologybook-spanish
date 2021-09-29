@@ -130,4 +130,4 @@ El crecimiento y la ramificación del tejido uretral en el mesénquima circundan
 36. Feldman KW, Smith DW. Fetal phallic growth and penile standards for newborn male infants. _J Pediatr_ 1975; **86**: 395-8.
 37. Zalel Y, Pinhas-Hamiel O, Lipitz S, et al. The development of the fetal penis – an in utero sonographic evaluation. _Ultrasound Obstet Gynecol_ 2001; **17**: 129-31.
 38. Kluth D, Fiegel HC, Geyer C, et al. Embryology of the distal urethra and external genitals. _Semin Pediatr Surg_ 2011; **20**: 176-87.
-39. Miyagawa S, Matsumaru D, Murashima A, et al. The role of sonic hedgehog-Gli2 pathway in the masculinization of external genitalia. _Endocrinology_ 2011:152:2894-903.
+39. Miyagawa S, Matsumaru D, Murashima A, et al. The role of sonic hedgehog-Gli2 pathway in the masculinization of external genitalia. _Endocrinology_ 2011: **152**: 2894-903.
