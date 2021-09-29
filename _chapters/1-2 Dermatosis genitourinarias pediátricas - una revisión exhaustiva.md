@@ -249,7 +249,7 @@ _**Un agradecimiento especial al Dr. Kenneth E Greer y al Dr. Craig A Peters por
 [^Fisler]: Fisler RE, Saeb M, Liang MG, Howard RM, McKee PH. Childhood bullous pemphigoid: A clinicopathologic study and review of the literature. _Am J Dermatopathol_ 2003; **25**: 183–9.
 [^Forman]: Forman SB, Sumfest JM, Pride HB, Ferringer TC. Penile granuloma annulare of an adolescent male--case report and review of the literature. _Pediatr Dermatol_ 2008; **25**: 260–2.
 [^Fuertes]: Fuertes I, Guilabert A, Mascaro JM,Jr, Iranzo P. Rituximab in childhood pemphigus vulgaris: A long-term follow-up case and review of the literature. _Dermatology_ 2010; **221**: 13–6.
-[^Garcovich]: Garcovich S, Gatto A, Ferrara P, Garcovich A. Vulvar pyoderma gangrenosum in a child. _Pediatr Dermatol_ 2009;26(5): 629–31.
+[^Garcovich]: Garcovich S, Gatto A, Ferrara P, Garcovich A. Vulvar pyoderma gangrenosum in a child. _Pediatr Dermatol_ 2009; **26**: 629–31.
 [^Garzon]: Garzon MC, Paller AS. Ultrapotent topical corticosteroid treatment of childhood genital lichen sclerosus. _Arch Dermatol_ 1999; **135**: 525–8.
 [^Georgala]: Georgala S, Georgala C, Nicolaidou E. Pyoderma gangrenosum of the penis: A potentially dramatic skin disease. _Urology_ 2008; **72**:1185.e9,1185.10.
 [^Gor]: Gor RA, Schober JM. Giant condyloma with demise secondary to meningococcemia in an infant boy. _J Pediatr Urol_ 2009; **5**: 327–9.
@@ -279,7 +279,7 @@ _**Un agradecimiento especial al Dr. Kenneth E Greer y al Dr. Craig A Peters por
 [^Moresi]: Moresi JM, Herbert CR, Cohen BA. Treatment of anogenital warts in children with topical 0.05% podofilox gel and 5% imiquimod cream. _Pediatr Dermatol_ 2001; **18**: 448–50; discussion 452.
 [^Murphy]: Murphy MI, Brant WE. Hematocolpos caused by genital bullous lesions in a patient with stevens-johnson syndrome. _J Clin Ultrasound_ 1998; **26**: 52–4.
 [^Neri]: Neri I, Bardazzi F, Raone B, Negosanti M, Patrizi A. Ectopic pearly penile papules: A paediatric case. _Genitourin Med_ 1997; **73**:136.
-[^Nussinovitch]: Nussinovitch M, Prais D, Ben-Amitai D, Amir J, Volovitz B. Fixed drug eruption in the genital area in 15 boys. _Pediatr Dermatol_ 2002 May-Jun;19(3): 216–9.
+[^Nussinovitch]: Nussinovitch M, Prais D, Ben-Amitai D, Amir J, Volovitz B. Fixed drug eruption in the genital area in 15 boys. _Pediatr Dermatol_ 2002; **19**: 216–9.
 [^Osterne]: Osterne RL, Matos Brito RG, Pacheco IA, Alves AP, Sousa FB. Management of erythema multiforme associated with recurrent herpes infection: A case report. _J Can Dent Assoc_ 2009; **75**: 597–601.
 [^Ozeki]: Ozeki M, Saito R, Tanaka M. Dermoscopic features of pearly penile papules. _Dermatology_ 2008; **217**: 21–2.
 [^Ozen]: Ozen S. Pediatric onset behcet disease. _Curr Opin Rheumatol_ 2010; **22**: 585–9.
@@ -290,10 +290,10 @@ _**Un agradecimiento especial al Dr. Kenneth E Greer y al Dr. Craig A Peters por
 [^Pullen]: Pullen SK, Warshaw EM. Vulvar allergic contact dermatitis from clotrimazole. _Dermatitis_ 2010; **21**: 59–60.
 [^Rapini,2007]: Rapini, Ronald P.; Bolognia, Jean L.; Jorizzo, Joseph L. (2007). Dermatology: 2-Volume Set. St. Louis: Mosby.
 [^Sawamura]: Sawamura D, Nakano H, Matsuzaki Y. Overview of epidermolysis bullosa. _J Dermatol_ 2010; **37**: 214–9.
-[^Sharma]: Sharma VK, Asati DP. Pediatric contact dermatitis. _Indian J Dermatol Venereol Leprol. 2010 Sep-Oct;76(5): 514–20.
+[^Sharma]: Sharma VK, Asati DP. Pediatric contact dermatitis. _Indian J Dermatol Venereol Leprol_ 2010; **76**: 514–20.
 [^Sidwell]: Sidwell RU, Green JS, Agnew K, Francis ND, Roberts NM, Yates VM, et al. Subcutaneous granuloma annulare of the penis in 2 adolescents. _J Pediatr Surg_ 2005; **40**: 1329–31.
 [^SmithA]: Smith GA, Sharma V, Knapp JF, Shields BJ. The summer penile syndrome: Seasonal acute hypersensitivity reaction caused by chigger bites on the penis. _Pediatr Emerg Care_ 1998; **14**: 116–8.
-[^SmithB]: Smith SD, Fischer G. Childhood onset vulvar lichen sclerosus does not resolve at puberty: A prospective case series. _Pediatr Dermatol_ 2009 Nov-Dec;26(6): 725–9.
+[^SmithB]: Smith SD, Fischer G. Childhood onset vulvar lichen sclerosus does not resolve at puberty: A prospective case series. _Pediatr Dermatol_ 2009; **26**: 725–9.
 [^Srinivasin]: Srinivasin A, Palmer LS. Genitourinary complications of epidermolysis bullosa. _Urology_ 2007; **70**:179.e5,179.e6.
 [^Steffens]: Steffens JA, Anheuser P, Treiyer AE, Reisch B, Malone PR. Plastic meatotomy for pure meatal stenosis in patients with lichen sclerosus. _BJU Int_ 2010; **105**: 568–72.
 [^Sugawara]: Sugawara N, Nagai Y, Matsushima Y, Aoyama K, Ishikawa O. Infantile bullous pemphigoid treated with intravenous immunoglobulin therapy. _J Am Acad Dermatol_ 2007; **57**: 1084–9.
@@ -301,14 +301,14 @@ _**Un agradecimiento especial al Dr. Kenneth E Greer y al Dr. Craig A Peters por
 [^TragerB]: Trager JD. What&#39;s your diagnosis? well-demarcated vulvar erythema in two girls. _J Pediatr Adolesc Gynecol_ 2005; **18**:43-6
 [^Tsujii]: Tsujii T, Iwai T, Inoue Y, Kubota T, Kihara K, Oshima H. Cutaneous hemangioma of the penis successfully treated with sclerotherapy and ligation. _Int J Urol_ 1998; **5**: 396–7.
 [^Tyring]: Tyring SK. Molluscum contagiosum: The importance of early diagnosis and treatment. _Am J Obstet Gynecol_ 2003; **189**: S12-6.
-[^Vanfleteren]: Vanfleteren I, Van Gysel D, De Brandt C. Stevens-johnson syndrome: A diagnostic challenge in the absence of skin lesions. _Pediatr Dermatol_ 2003 Jan-Feb;20(1): 52–6.
+[^Vanfleteren]: Vanfleteren I, Van Gysel D, De Brandt C. Stevens-johnson syndrome: A diagnostic challenge in the absence of skin lesions. _Pediatr Dermatol_ 2003; **20**: 52–6.
 [^Visscher]: Visscher MO, Chatterjee R, Munson KA, Bare DE, Hoath SB. Development of diaper rash in the newborn. _Pediatr Dermatol_ 2000; **17**: 52–7.
-[^Krogh]: von Krogh G, Szpak E, Andersson M, Bergelin I. Self-treatment using 0.25%-0.50% podophyllotoxin-ethanol solutions against penile condylomata acuminata: A placebo-controlled comparative study. Genitourin Med_ 1994; **70**: 105–9.
-[^Wananukul]: Wananukul S, Pongprasit P. Childhood pemphigus. Int J Dermatol_ 1999; **38**: 29–35.
-[^Weston]: Weston JA, Weston WL. The overdiagnosis of erythema multiforme. Pediatrics. 1992 Apr;89(4 Pt 2):802.
-[^Wu]: Wu IB, Schwartz RA. Reiter&#39;s syndrome: The classic triad and more. J Am Acad Dermatol_ 2008; **59**: 113–21.
-[^Yanar]: Yanar H, Taviloglu K, Ertekin C, Guloglu R, Zorba U, Cabioglu N, et al. Fournier&#39;s gangrene: Risk factors and strategies for management. World J Surg_ 2006; **30**: 1750–4.
-[^Yazganoglu]: Yazganoglu KD, Baykal C, Kucukoglu R. Childhood pemphigus vulgaris: Five cases in 16 years. J Dermatol_ 2006; **33**: 846–9.
-[^Yigiter]: Yigiter M, Arda IS, Hicsonmez A. An unusual cause of paraphimosis: Hemangioma of the glans penis. J Pediatr Surg_ 2008; **43**:e31-3.
-[^Zimmerer]: Zimmerer RE, Lawson KD, Calvert CJ. The effects of wearing diapers on skin. Pediatr Dermatol_ 1986; **3**: 95–101.
-[^Zivony]: Zivony D, Nocton J, Wortmann D, Esterly N. Juvenile reiter&#39;s syndrome: A report of four cases. J Am Acad Dermatol_ 1998; **38**: 32–7.
+[^Krogh]: von Krogh G, Szpak E, Andersson M, Bergelin I. Self-treatment using 0.25%-0.50% podophyllotoxin-ethanol solutions against penile condylomata acuminata: A placebo-controlled comparative study. _Genitourin Med_ 1994; **70**: 105–9.
+[^Wananukul]: Wananukul S, Pongprasit P. Childhood pemphigus. _Int J Dermatol_ 1999; **38**: 29–35.
+[^Weston]: Weston JA, Weston WL. The overdiagnosis of erythema multiforme. _Pediatrics_ 1992; **89**: 802.
+[^Wu]: Wu IB, Schwartz RA. Reiter&#39;s syndrome: The classic triad and more. _J Am Acad Dermatol_ 2008; **59**: 113–21.
+[^Yanar]: Yanar H, Taviloglu K, Ertekin C, Guloglu R, Zorba U, Cabioglu N, et al. Fournier&#39;s gangrene: Risk factors and strategies for management. _World J Surg_ 2006; **30**: 1750–4.
+[^Yazganoglu]: Yazganoglu KD, Baykal C, Kucukoglu R. Childhood pemphigus vulgaris: Five cases in 16 years. _J Dermatol_ 2006; **33**: 846–9.
+[^Yigiter]: Yigiter M, Arda IS, Hicsonmez A. An unusual cause of paraphimosis: Hemangioma of the glans penis. _J Pediatr Surg_ 2008; **43**:e31-3.
+[^Zimmerer]: Zimmerer RE, Lawson KD, Calvert CJ. The effects of wearing diapers on skin. _Pediatr Dermatol_ 1986; **3**: 95–101.
+[^Zivony]: Zivony D, Nocton J, Wortmann D, Esterly N. Juvenile reiter&#39;s syndrome: A report of four cases. _J Am Acad Dermatol_ 1998; **38**: 32–7.
