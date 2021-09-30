@@ -10,13 +10,12 @@ permalink-en: https://pediatricurologybook.com/embryology_urinary_tract.html
 # Embriología del tracto urinario
 
 **Kathleen Kieran, MD; Christopher S. Cooper, MD**  
-**Departamento de Urología de la Universidad de Iowa**
+_Departamento de Urología de la Universidad de Iowa, Iowa City, IA, USA_
 
-_Traducido y editado desde el original al español | [Enlace a la versión en inglés]({{ page.permalink-en }})_  
-Dra Maria Santos  
-Dra Carolina Acuña  
-Hospital Padre Hurtado  
-Santiago Chile
+*Traducido y editado desde el original al español | [Enlace a la versión en inglés]({{ page.permalink-en }})*{: #translation-head}  
+**Dra Maria Santos, Dra Carolina Acuña**{: #translator-names}  
+_Hospital Padre Hurtado, Santiago Chile_{: .translator-location}
+{: #translator-p}
 
 Es fundamental entender la embriología de los genitales y del sistema urinario para así comprender la función normal y patológica de estos órganos. Si bien, los genitales y el sistema urinario tienen funciones distintas, comparten orígenes embriológicos.
 

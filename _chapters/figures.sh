@@ -1,6 +1,9 @@
 #!/bin/bash
 
 
+# how to get rid of zero width characters
+#gsed -i 's/\xc2\x91\|\xc2\x92\|\xc2\xa0\|\xe2\x80\x8e\|\xe2\x80\xad//g' *.md
+
 for file in *.md;
 do 
   if [[ "$file" =~ ^([0-9]{1}-[0-9]{1,2}) ]]; then

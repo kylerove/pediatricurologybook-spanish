@@ -10,13 +10,12 @@ permalink-en: https://pediatricurologybook.com/dermatoses_.html
 # Dermatosis genitourinarias pediátricas: una revisión exhaustiva
 
 **Riel Smith-Harrison, Zaineb Makhzoumi, Jules Manger, Sean T. Corbett**  
-**Universidad de Virginia, Charlottesville**
+_Universidad de Virginia, Charlottesville, VA, USA_
 
-_Traducido y editado desde el original al español | [Enlace a la versión en inglés]({{ page.permalink-en }})_  
-Dra Maria Santos  
-Dra Carolina Acuña  
-Hospital Padre Hurtado  
-Santiago Chile
+*Traducido y editado desde el original al español | [Enlace a la versión en inglés]({{ page.permalink-en }})*{: #translation-head}  
+**Dra Maria Santos, Dra Carolina Acuña**{: #translator-names}  
+_Hospital Padre Hurtado, Santiago Chile_{: .translator-location}
+{: #translator-p} 
 
 ## Introducción
 

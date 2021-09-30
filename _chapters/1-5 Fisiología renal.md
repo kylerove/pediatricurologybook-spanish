@@ -7,29 +7,15 @@ sort-key: 1-5
 permalink-en: https://pediatricurologybook.com/renal_physiology.html
 ---
 
+# Fisiología renal
 
-‭# **Fisiología renal**‬
+**Danielle E. Soranno, MD**  
+_Children’s Hospital Colorado, Aurora, CO, USA_
 
-Danielle E. Soranno, MD
- Profesor Asistente
- Universidad de Colorado
- Hospital Infantil Colorado
- 13123 East 16th Ave
- Aurora CO 80045
-
-
-
-
-
-Traducido y editado desde el original al español
-
-Dra Maria Santos
-
-Dra Carolina Acuña
-
-Hospital Padre Hurtado
-
-Santiago Chile
+*Traducido y editado desde el original al español | [Enlace a la versión en inglés]({{ page.permalink-en }})*{: #translation-head}  
+**Dra Maria Santos, Dra Carolina Acuña**{: #translator-names}  
+_Hospital Padre Hurtado, Santiago Chile_{: .translator-location}
+{: #translator-p}
 
 **Visión general de la función renal:**
 

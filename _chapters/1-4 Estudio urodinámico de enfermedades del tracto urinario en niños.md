@@ -9,17 +9,15 @@ permalink-en: https://pediatricurologybook.com/urodynamic.html
 
 # Estudio urodinámico de enfermedades del tracto urinario en niños
 
-**Danielle Reyes C., Gabriela Retamal, Pedro-José López E.**
+**Danielle C. Reyes<sup>a</sup>, Gabriela Retamal<sup>b</sup>, Pedro-José E. López<sup>c</sup>**  
+_<sup>a</sup>Departamento de Urología Pediátrica, Hospital Exequiel González Cortes, Universidad de Chile, Santiago, Chile_  
+_<sup>b</sup>Departamento de Urología Pediátrica. Hospital Roberto del Rio, Santiago, Chile_  
+_<sup>c</sup>Clinica Alemana, Santiago, Chile_
 
-**1 Departamento de Urología Pediátrica, Hospital Exequiel González Cortes, Universidad de Chile, Santiago, Chile
-2 Departamento de Urología Pediátrica. Hospital Roberto del Rio, Santiago, Chile
-3 Clinica Alemana, Santiago, Chile**
-
-_Traducido y editado desde el original al español_
-Dra Maria Santos
-Dra Carolina Acuña
-Hospital Padre Hurtado
-Santiago Chile
+*Traducido y editado desde el original al español | [Enlace a la versión en inglés]({{ page.permalink-en }})*{: #translation-head}  
+**Dra Maria Santos, Dra Carolina Acuña**{: #translator-names}  
+_Hospital Padre Hurtado, Santiago Chile_{: .translator-location}
+{: #translator-p} 
 
 ## Introducción
 
@@ -162,8 +160,8 @@ La interpretación de un estudio urodinámico requiere experiencia. Estos estudi
 19. Gierup J. Ericsson NO and Okmain L . Micturitiun studies in infants and Children Scand J. Urol 3: 1, 1969
 20. Churchill B., Abramson R., Whal W **. ** Disfunción de la parte baja  de las vias urinarias y porcion distal del tubo digestivo en pacientes pediatricos con trastornos diagnosticados de la medula espinal, Clinicas Pediatricas de Norteamérica Urología 2001
 
-![Figura 1](/assets/figures/figure-1-4-1.jpg)
+![Figura 1](/assets/figures/figure-1-4-1.jpg)  
 **Figura 1**. Flujometría con un WC
 
-![Figura 2](/assets/figures/figure-1-4-2.jpg)
+![Figura 2](/assets/figures/figure-1-4-2.jpg)  
 **Figura 2**. Equipo urodinamico
