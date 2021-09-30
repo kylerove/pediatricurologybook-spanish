@@ -46,7 +46,7 @@ La tasa de filtración glomerular (TFG) es la velocidad a la que el plasma se fi
 
 ![Figura 2](/assets/figures/figure-1-5-2.jpg)
 
-### 3. Función tubular
+### 2. Función tubular
 
 La función tubular se puede evaluar mediante el equilibrio de electrolitos, así como la capacidad de concentrar y diluir la orina. Las tubulopatías a menudo se diagnostican a través de la interpretación de alteraciones electrolíticas.[^2] Por ejemplo, la eliminación tubular de sodio, fósforo, potasio, aminoácidos y glucosa debería hacer sospechar un síndrome de Fanconi. El síndrome de Fanconi ocurre cuando hay un defecto global en la función tubular proximal con pérdidas urinarias resultantes de la carga filtrada que normalmente se reabsorbería.[^3] Los niños con síndrome de Fanconi suelen presentarse con retraso en el desarrollo.
 
