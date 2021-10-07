@@ -134,7 +134,8 @@ Al igual que con los riñones en herradura, no se requiere intervención en la e
 
 Las anomalías de la migración renal y la fusión son raras. La mayoría son asintomáticos y, de hecho, permanecen sin ser detectados durante toda la vida. Para aquellos pacientes afectados por obstrucción, infección recurrente o cálculos renales; la función renal debe dictar el manejo, aunque el suministro de sangre y la posición deben considerarse cuando se planea la cirugía.‬
 
-**Referencias**‬  
+**Referencias**‬
+
 Mouriquand PDE, Mollard P, Ransley P: Dilemmes souleves par le diagnostic antenatal des uropathies obstructives et leurstraitments. Pediatrie 44:357, 1989.‬  
 Cambell MF. Renal ectopy. J Urol 1930; **24**: 187-98‬  
 Thompson GJ, Pace JM. Ectopic kidney: a review of 97 cases. Surg Gynecol Obstet 1937; **64**: 935-43‬  
