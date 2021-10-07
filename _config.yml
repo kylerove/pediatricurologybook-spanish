@@ -23,8 +23,8 @@ email: admin@pediatricurologybook.com
 tagline: Un libro en línea gratuito de urología pediátrica
 description: >- # this means to ignore newlines until "baseurl:"
   Este libro en línea gratuito de Urología Pediátrica, Edición 1.0, presenta temas que se actualizan con frecuencia, como el manejo de la hidronefrosis, técnicas de hipospadias, enfoques para la infección del tracto urinario, información sobre disfunción del intestino y la vejiga, vejiga neurogénica, oncología urológica pediátrica y mucho más.
-baseurl: "/es" # the subpath of your site, e.g. /blog
-url: "https://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pediatricurologybook
 github_username:  kylerove
 
