@@ -98,9 +98,9 @@ La urografía intravenosa, aunque rara vez se realiza en niños, a menudo muestr
 
 **Anomalías asociadas**‬
 
-Se ha informado que un tercio de los pacientes con riñón en herradura tienen al menos otra anomalía. Los sistemas más comúnmente afectados son el sistema gastrointestinal, esquelético, cardiovascular y nervioso central. Se reporta que la duplicación ureteral ocurre en 10% y RVU en 10[ ](http://www.pediatricurologybook.com/kidney_fusion.html#_edn2)- 80% . También se ha notificado displasia multiquística y enfermedad renal poliquística autosómica dominante.‬
+Se ha informado que un tercio de los pacientes con riñón en herradura tienen al menos otra anomalía. Los sistemas más comúnmente afectados son el sistema gastrointestinal, esquelético, cardiovascular y nervioso central. Se reporta que la duplicación ureteral ocurre en 10% y RVU en 10-80% . También se ha notificado displasia multiquística y enfermedad renal poliquística autosómica dominante.‬
 
-El riñón en herradura está presente en el 21% de los pacientes con trisomía 18 y en el 7% en los pacientes con síndrome de Turner. Los aneurismas aórticos abdominales se presentan más adelante en la vida[ ](http://www.pediatricurologybook.com/kidney_fusion.html#_edn4). La hipospadias y la criptorquidia ocurren en el 4% de los hombres; y el útero bicornado, o la vagina septada en el 7% de las mujeres.‬
+El riñón en herradura está presente en el 21% de los pacientes con trisomía 18 y en el 7% en los pacientes con síndrome de Turner. Los aneurismas aórticos abdominales se presentan más adelante en la vida. La hipospadias y la criptorquidia ocurren en el 4% de los hombres; y el útero bicornado, o la vagina septada en el 7% de las mujeres.‬
 
 **Resultados y complicaciones**‬
 
