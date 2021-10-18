@@ -36,7 +36,7 @@ La ectopia renal se debe a una falla en el ascenso normal del riñón embrionari
 
 La incidencia de ectopia renal en estudios postmortem varía de 1 en 500 a 1 en 1290. El lado izquierdo es un poco más frecuentemente afectado y el 10% de los casos son bilaterales. La afección en relación hombre a mujer es igual. Alrededor del 50% permanece sin ser reconocido a lo largo de la vida. En partes de Kenia hay una incidencia 3 veces mayor en sujetos no relacionados, lo que sugiere un factor ambiental aún no definido.‬
 
-**Anatomía**‬
+### Anatomía
 
 Los riñones ectópicos se encuentran fuera de la fosa renal y pueden ser pélvicos, ilíacos, torácicos o cruzados y rara vez son normales. A menudo son riñones lobulados, pequeños, con rotación anormal, con cálices extra renales y un suministro vascular irregular. La ectopia renal simple,‬
 
