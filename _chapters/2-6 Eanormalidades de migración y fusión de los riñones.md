@@ -22,7 +22,7 @@ _Correo electrónico: [kathryn.evans@uhbristol.nhs.uk‬](mailto:kathryn.evans@u
 _Miami Children&#39;s Hospital, Jackson Memorial Hospital, Miami, Fl, USA‬_{: .translator-location}
 {: #translator-p}
 
-**EMBRIOLOGÍA**‬
+## EMBRIOLOGÍA
 
 El desarrollo embrionario del riñón se debe a la interacción entre la yema uretéral derivada del conducto mesonéfrico y, del metanefos, la parte más caudal del cordón nefrógenico. El desarrollo comienza a principios de la cuarta semana de gestación y durante las sexta y octava semanas los riñones embrionarios lobulados ascienden desde la región pélvica hacia arriba a lo largo de la pared abdominal posterior hasta su posición normal y experimentan una rotación axial de 90 ° desde la horizontal hasta la media. Al mismo tiempo, el brote uretéral se divide secuencialmente para formar el sistema pelvicaliceal.‬
 
@@ -30,7 +30,7 @@ Durante el proceso de ascenso desde la pelvis, los riñones derivan su suministr
 
 Un riñón ectópico resulta de un ascenso incompleto, excesivo o anormal. Si durante el proceso de ascenso los riñones entran en contacto, se producirá un riñón en herradura o una ectopia renal cruzada.‬
 
-**ANOMALÍAS DE MIGRACIÓN: ECTOPIA RENAL**‬
+## ANOMALÍAS DE MIGRACIÓN: ECTOPIA RENAL
 
 La ectopia renal se debe a una falla en el ascenso normal del riñón embrionario. Esto puede surgir como resultado de anomalías del brote uretéral o del metanefros, un suministro vascular anormal o anomalías genéticas.‬
 
@@ -92,7 +92,7 @@ El riñón en herradura se puede sospechar en una ecografía prenatal o diagnost
 El diagnóstico se puede sospechar en una radiografía abdominal simple, si los contornos renales son visibles. Las imágenes de radionúclidos pueden revelar un istmo en funcionamiento (consulte la **Figura 5**).‬
 
 ![Figura 5](/assets/figures/figure-2-6-5.jpg)  
-Figura 5
+**Figura 5**
 
 La urografía intravenosa, aunque rara vez se realiza en niños, a menudo muestra apariencias clásicas con malrotación renal y medialmente apuntando los cálices del polo inferior. Los uréteres superiores a menudo son desplazados lateralmente por el istmo. VUR se puede demostrar en MCUG. Se pueden obtener excelentes detalles anatómicos utilizando la TC, o la urografía con RM con gadolinio.‬
 

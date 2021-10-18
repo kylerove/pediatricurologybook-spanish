@@ -32,7 +32,7 @@ El proyecto ALSPC informó que la razón de probabilidades para un niño que des
 
 Los estudios de gemelos brindan un fuerte apoyo para la modificación ambiental de una predisposición genética en la etiología de la enuresis. En 1971, Bakwin informó que 338 parejas de gemelos del mismo sexo encontraron un 68% de concordancia para la enuresis en gemelos monocigóticos y un 36% de concordancia en gemelos dicigóticos. En un estudio basado en una población finlandesa mucho más grande, la tasa de concordancia para la enuresis entre los gemelos monocigóticos fue del 46% en comparación con el 19% para los gemelos dicigóticos (16).‬
 
-**Fisiolog**** í ****a / fisiopatolog**** ía**‬
+## Fisiología / fisiopatología
 
 En 2000, Butler y Holland propusieron &quot;El modelo de los tres sistemas&quot; para facilitar nuestra comprensión de la patogenia de la enuresis y para alentar intervenciones terapéuticas más dirigidas y enfocadas (17). Propusieron que la enuresis era el resultado final de la disfunción en uno o más de los siguientes tres &quot;sistemas&quot;: i) la variación diurna normal en la liberación de vasopresina durante el sueño, ii) hiperactividad del detrusor, iii) mecanismos normales de sueño / activación. Este modelo sigue teniendo una gran validez en la actualidad, aunque al leer la literatura es evidente que las subespecialidades individuales ponen mayor énfasis en los diferentes elementos. Aunque con nuestra mejor comprensión, los tres sistemas han evolucionado hacia: i) poliuria nocturna relativa, ii) disfunción vesical nocturna, iii) retraso del desarrollo neurológico.‬
 
@@ -72,7 +72,7 @@ Yeung et al en Hong Kong utilizaron una combinación de cistometría de llenado 
 
 Otra evidencia de la interacción entre los tres sistemas de Butler y el modelo de Hollands proviene del hallazgo de que el uso del sistema de alarma y del timbre, pensado para abordar las anomalías de la excitación o la vigilia, de hecho, también altera la capacidad de la vejiga nocturna. Oredesson demostró un aumento en la capacidad de la vejiga nocturna de una media de 270 ml de tratamiento de pre-alarma a 370 ml después de 6 semanas de terapia de alarma, en 10 de los 18 pacientes que lograron estar secos (38). Incluso en los 8/18 que no se secaron, demostraron un aumento de la capacidad de la vejiga nocturna de 235 a 294 ml después de 6 semanas de tratamiento. Ambos grupos tenían capacidades diurnas aceptables de 345 ml y 315 ml, respectivamente, antes del inicio del tratamiento, lo que sugiere una enuresis monosintomática. Norgaard et demostraron contracciones del detrusor en el 50% de los enuréticos durante la cistometría del sueño, que podrían incrementarse hasta el 100% mediante diuresis forzada (39). Esto apoya el papel de la interacción entre los factores que pueden causar poliuria nocturna y la hiperactividad del detrusor nocturno.‬
 
-**Retraso del desarrollo neuroló**** gico**‬
+## Retraso del desarrollo neurológico
 
 En 1879, Powers describió los experimentos llevados a cabo por Goltz, quien mientras limpiaba perros con médulas espinales seccionadas notó que tocar el perineo con una esponja húmeda inducía la micción y lo atribuía a una liberación de &quot;influencias mentales superiores&quot; similar a cuando dormía (32).‬
 
@@ -80,25 +80,9 @@ Así como es importante tener una comprensión de los mecanismos renales que con
 
 A diferencia de muchos animales, los humanos al nacer son muy inmaduros en su desarrollo tanto físico como mental / neurológico (43). Ahora parece que 5/6 del crecimiento del cerebro humano se produce después del parto y la mielinización rápida no se completa hasta aproximadamente la edad de 3-4 años. Esto explica el logro gradual y progresivo de los hitos del desarrollo, como sentarse a 7 ![Figura 1](/assets/figures/figure-3-15-1.jpg) meses, gateando a 9 meses, caminando a 12 meses y las tasas de progreso más lentas para funciones más altas como hablar, comprender, socializar, etc. Sabemos que el control de la vejiga es un fenómeno adquirido que progresa del vaciado automático o reflexivo de la vejiga de un neonato, a la capacidad volitiva de abstenerse e iniciar el vaciado de la vejiga bajo demanda que sigue al entrenamiento exitoso del baño. Koff argumenta que trazar una línea en la arena y decir que más allá de ese tiempo una ocurrencia normal previamente aceptada es ahora un proceso patológico en lugar de una simple reflexión de desarrollo tardío es contraintuitivo (44). Sobre la base de gran parte de la evidencia ya presentada, propone la existencia de un retraso de desarrollo dual en su SNC.‬
 
-
-
-
-
-
-
-
-
 Retraso de desarrollo eferente: un fallo del SNC para suprimir el arco reflejo de micción mientras el paciente está dormido, también debe asociarse con un fallo para despertarse.‬
 
 En 1989, Javelin informó sobre el desarrollo neurológico de 156 enuréticos y 170 controles, niños de 7 años, a los cuales observaron su desarrollo e historias perinatales y aplicaron una prueba de deterioro motor (45). Él, como otros, encontró más torpeza motora fina y gruesa en los niños enuréticos. Los niños enuréticos también tienen tasas de crecimiento más lentas, lo que sugiere que la enuresis aislada se asoció con un retraso evidente en el desarrollo. Además, esos pacientes tuvieron la mayor influencia genética, lo que sugiere que el retraso en el desarrollo fue de origen genético. Los eventos perinatales no tuvieron una asociación significativa con la enuresis monosintomática, pero pequeños para edad gestacional, la asfixia y otras lesiones neurológicas durante el período neonatal se asociaron con un mayor riesgo de desarrollar enuresis no sintomática. Otros también han encontrado evidencia de retraso neuromotor generalizado y disfunción específica del tronco cerebral en enuréticos (46). Ese mismo grupo también encontró evidencia de retraso en la maduración de la corteza motora del cerebro (47). Ornitz et al utilizaron muy hábilmente la inhibición prepulso (IBP) de un reflejo de sobresalto para modelar la inhibición refleja de la contracción de la vejiga durante el llenado mediado por el núcleo tegmental pedúnculopontino a través de la región L del centro de micción pontino (48). En resumen, el reflejo de inhibición prepulso es un embotamiento del reflejo de sobresalto normal en respuesta a una visión auditiva, visual o ![Figura 2](/assets/figures/figure-3-15-2.jpg) estímulo táctil por sensibilización previa con un estímulo mucho más débil 120 mseg antes. En comparación con el control de los niños, los enuréticos tienen una respuesta PPI deficiente. Es interesante que esta deficiencia se mantiene incluso después de que la enuresis se haya resuelto, lo que sugiere un posible rasgo hereditario que predispone a la enuresis en lugar de un retraso del desarrollo per se (49).‬
-
-
-
-
-
-
-
-
 
 Cuando se les pregunta a las familias qué creen que es la causa de la enuresis, casi universalmente apuntan a la profundidad del sueño del paciente y su incapacidad para despertarlo. Sin embargo, numerosos estudios sobre el sueño han demostrado una arquitectura normal del sueño y que los episodios enuréticos ocurren durante todas las etapas del sueño. Es su viabilidad lo que se deteriora. Wolfish demostró que los varones enuréticos eran más difíciles de despertar que los controles emparejados por edad, con el 9.3% de los primeros y el 39.7% de los últimos respondiendo a estímulos acústicos de hasta 120dB (50). Esto es consistente con la experiencia de los padres que &#39;levantan&#39; a sus hijos para orinar durante la noche, generalmente señalando que pueden hacerlo sin que parezca que están completamente despiertos. Además, la terapia de alarma a menudo se abandona temprano debido a una falla en despertar al paciente a pesar de despertar a todos los demás miembros del hogar. Un informe reciente que utiliza una tecnología diferente (un Actigraph, que documenta el movimiento) llevado a cabo en el entorno del hogar del paciente en lugar del hospital, sugiere que los enuréticos no tienen una arquitectura de sueño normal como se indicó anteriormente, sino que tienen un sueño más fragmentado con más despertares nocturnos y más movimiento durante el sueño (51). Esto no es incompatible con el trabajo anterior, ya que una mayor perturbación del sueño puede resultar en una mayor privación del sueño y, por lo tanto, mayores umbrales de activación.‬
 
@@ -108,7 +92,7 @@ Ha habido múltiples informes contradictorios de asociaciones entre la enuresis 
 
 En última instancia, la enuresis se produce porque el paciente no logra despertar para anular una vez que el volumen de orina en la vejiga se acerca o supera su capacidad para contenerla.‬
 
-**Diagn**** ó ****stico**‬
+## Diagnóstico
 
 El diagnóstico de enuresis es fundamentalmente clínico, y se basa casi en su totalidad en la historia obtenida del paciente y del padre. Lo que es crucial durante la historia clínica es, en primer lugar, excluir otras formas de incontinencia urinaria, ya sea una incontinencia mixta de día y de noche que sugiera una disfunción vesical subyacente, una incontinencia continua que sugiera anomalías estructurales o anatómicas o una enuresis secundaria más sugerente de otras causas médicas o psicológicas (53).‬
 
