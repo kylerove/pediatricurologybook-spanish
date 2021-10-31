@@ -217,10 +217,10 @@ Grado III - dilatación leve / moderada del uréter, pelvis renal y cálices con
 Grado IV: dilatación de la pelvis renal y cálices con tortuosidad ureteral moderada‬
 Grado V: dilatación general del uréter, pelvis y cálices; tortuosidad ureteral; pérdida de impresiones papilares‬
 
-![Figura 5](/assets/figures/figure-1-3-5.png)‬  
+![Figura 5](/assets/figures/figure-1-3-5.jpg)‬  
 **Figura 5.** Grado radiológico del RVU.‬
 
-![Figura 6](/assets/figures/figure-1-3-6.jpg)‬  
+![Figura 6](/assets/figures/figure-1-3-6.png)‬  
 **Figura 6.** reflujo de grado 3.
 
 ## Medicina nuclear
