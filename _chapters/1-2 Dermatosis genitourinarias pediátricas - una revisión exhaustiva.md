@@ -5,6 +5,7 @@ chapter: 2
 title: "Dermatosis genitourinarias pediátricas: una revisión exhaustiva"
 sort-key: 1-2
 permalink-en: https://pediatricurologybook.com/dermatoses_.html
+review-formatting-complete: KR-2021-11-05
 ---
 
 # Dermatosis genitourinarias pediátricas: una revisión exhaustiva
@@ -66,13 +67,13 @@ El eritema multiforme (EM) es una afección dermatológica generalizada, caracte
 ![Figura 1](/assets/figures/figure-1-2-1.jpg)  
 **Figura 1**
 
-![Figura 2](/assets/figures/figure-1-2-2.jpg) ![Figura 3](/assets/figures/figure-1-2-3.jpg)  
-**Figuras 2 y 3**
+![Figura 2](/assets/figures/figure-1-2-2.jpg)  
+**Figura 2**
 
-![Figura 4](/assets/figures/figure-1-2-4.jpg)  
-**Figura 4**
+![Figura 3](/assets/figures/figure-1-2-3.jpg)  
+**Figura 3**
 
-**Figuras 1-4.** Niño pequeño con síndrome de Stevens-Johnson. Nótese la afección focal de la mucosa oral con erosiones generalizadas, que también afectan al pene.
+**Figuras 1-3.** Niño pequeño con síndrome de Stevens-Johnson. Nótese la afección focal de la mucosa oral con erosiones generalizadas, que también afectan al pene.
 
 En los niños, la EM se asocia frecuentemente con el VHS, Mycoplasma pneumoniae, sulfonamidas y ß-lactamasas.[^Weston]<sup>,</sup>[^Osterne] El EM puede precipitarse tanto por VHS-1 como por VHS-2. Es producido entre 10 y 14 días después de la infección y, a veces, se manifiestan síntomas prodrómicos. El pródromo no es tan grave como el observado con SJS, puede incluir fiebre, dolor de cabeza y tos. El tratamiento es de soporte y se puede indicar Aciclovir para los episodios recurrentes.[^Osterne] La neumonía por Mycoplasma está particularmente asociada con el desarrollo de SJS. Por lo general, está precedida por una fase prodrómica de fiebre, dolor de cabeza, síntomas respiratorios altos y / o odinofagia. Cuando los genitales están involucrados, la presentación más común son erosiones con eritema y posible sangrado del glande y de los labios.[^Vanfleteren] Dichas lesiones pueden llevar a complicaciones como se observó en una niña de 14 años que desarrolló hematocolpos luego de una infección por M. neumonía asociada a SJS con lesiones flictenares en los genitales externos e internos.[^Murphy] El tratamiento generalmente se limita a medidas de apoyo. Si la etiologia es M. neumonía, se justifica el uso de antibióticos.
 
@@ -80,8 +81,8 @@ En los niños, la EM se asocia frecuentemente con el VHS, Mycoplasma pneumoniae,
 
 El tronco y las extremidades suelen ser los sitios más comunes de picaduras de insectos, aún así los genitales no son un sitio infrecuente. Son muchos los insectos causantes como; mosquitos, garrapatas, avispas, ácaros, hormigas, niguas y abejas. La mayoría de las picaduras ocurren durante los meses más cálidos, cuando los niños están afuera y expuestos a insectos. Si bien los síntomas más comunes son prurito, eritema e inflamación local, algunas reacciones pueden ser sistémicas y las picaduras particularmente venenosas pueden conducir a síntomas más preocupantes. Las reacciones de hipersensibilidad resultantes varían en intensidad desde un ligero eritema hasta la erupción de pápulas y vesículas. En algunos casos, la ubicación y la forma particular de reacción pueden hacer sospechar el tipo de insecto. El eritema migrans típicamente indica una picadura de garrapata, mientras que las erupciones genitales acompañadas de mordeduras en las líneas de ropa sugieren niguas.[^SmithA]<sup>,</sup>[^Elston] Si los genitales se han expuesto al aire libre y las picaduras se asocian con eritema, ronchas y angioedema, los mosquitos pueden ser los causantes.[^Kulthanan]
 
-![Figura 5](/assets/figures/figure-1-2-5.jpg)  
-**Figura 5.** Picadura de garrapata e hinchazón asociada del escroto en un niño pequeño.
+![Figura 4](/assets/figures/figure-1-2-4.jpg)  
+**Figura 4.** Picadura de garrapata e hinchazón asociada del escroto en un niño pequeño.
 
 El tratamiento de estas picaduras es principalmente sintomático con el uso de esteroides tópicos y antihistamínicos. El uso de ropa de manga larga y repelentes son útiles para prevenir las picaduras de insectos. También es importante que los pacientes reconsulten si aparecen nuevos síntomas, persisten o si progresan las lesiones,[^Kulthanan] debido a que esto podría indicar una sobreinfección bacteriana. La fiebre, el malestar y las artralgias podrían indicar la transmisión de una enfermedad transmitida por vectores, como la enfermedad de Lyme o la fiebre manchada de las Montañas Rocosas.[^Elston] El tratamiento con antibióticos entonces se vuelve necesario.
 
@@ -91,8 +92,8 @@ El tratamiento de estas picaduras es principalmente sintomático con el uso de e
 
 El liquen escleroso es un proceso inflamatorio crónica que afecta principalmente la región perineal de hombres y mujeres. Las lesiones características son áreas de palidez, adelgazadas, frágiles y atróficas. La piel suele estar arrugada y pueden observarse telangiectasias, púrpura, fisuras o erosiones. La progresión de la enfermedad puede provocar cicatrización, fimosis en los hombres y degeneración en carcinoma de células escamosas.[^Jasaitiene] Cuando este proceso se encuentra en los hombres y se limita al pene, se conoce como balanitis xerótica obliterante (BXO). Es histológicamente idéntico al liquen escleroso y se trata igual.[^Kiss] Esta también se puede asociar con liquen plano y el penfigoide cicatricial.[^Mallon] Tanto el liquen escleroso como la BXO son procesos atróficos y escleróticos con una fisiopatología poco clara. El trabajo que involucra una teoría autoinmune, ha demostrado una mayor incidencia de HLA DQ7 en pacientes pediátricos, esta asociación es incluso mayor que la observada en adultos.[^PowellA]
 
-![Figura 6](/assets/figures/figure-1-2-6.gif)  
-**Figura 6.** Liquen escleroso. Tenga en cuenta la apariencia de &quot;reloj de arena&quot; en la vulva y el ano, con centro blanco atrófico y eritema e hiperpigmentación circundantes.
+![Figura 5](/assets/figures/figure-1-2-5.jpg)  
+**Figura 5.** Liquen escleroso. Tenga en cuenta la apariencia de &quot;reloj de arena&quot; en la vulva y el ano, con centro blanco atrófico y eritema e hiperpigmentación circundantes.
 
 La evolución de la enfermedad observada en niños con liquen escleroso es ligeramente diferente al de los adultos. La edad media de la primera presentación es de 5 años y la edad media de diagnóstico de 7 años. En las niñas, los síntomas más comunes son prurito y dolor. Otros síntomas incluyen erosiones genitales, fisuras, disuria, púrpura y estreñimiento. Un pequeño porcentaje de niñas no tiene síntomas. En los niños, el liquen escleroso está asociado con la fimosis, tanto congénita como adquirida. La cicatrización del meato uretral también puede provocar estenosis e incluso fibrosis uretral.[^PowellB] El diagnóstico se realiza con mayor frecuencia sobre una base clínica, pero la biopsia de las lesiones mostrará infiltrado inflamatorio y degeneración dermoepidérmica.[^Kiss] El tratamiento del liquen escleroso es de suma importancia debido a la posibilidad de transformación en un proceso maligno. El tratamiento inicial para el liquen escleroso involucra potentes esteroides tópicos que incluyen betametasona y clobetasol.[^Garzon] Más recientemente, se han utilizado inmunomoduladores como pimecromilus y tacrolimus con buenos resultados, siendo este ultimo utilizado también como adyuvante posterior a la cirugía.[^Ebert]<sup>,</sup>[^Steffens]  La cirugía puede ser necesaria para las lesiones que conducen a la fimosis, la estenosis meatal o la estenosis uretral. El liquen escleroso es una enfermedad recurrente, sin embargo, en algunos casos pediátricos, el liquen escleroso se resuelve completamente. Se discute la frecuencia de resolución, pero se piensa que el liquen escleroso pediátrico tiene un mejor pronóstico que la forma adulta. El papel de la pubertad en este proceso está aún bajo debate.[^SmithB]
 
@@ -100,8 +101,8 @@ La evolución de la enfermedad observada en niños con liquen escleroso es liger
 
 La psoriasis es un trastorno de la piel mediado por el sistema inmunitario que genera lesiones inflamatorias e hiperproliferativas características. Es un trastorno bastante común, con una prevalencia de alrededor del 2% en la población general. Tradicionalmente, estas lesiones se caracterizan como lesiones similares a placas en el cuero cabelludo y en las superficies extensoras del cuerpo. La psoriasis puede presentarse en cualquier lugar y la afectación genital no es infrecuente. Las lesiones genitales a menudo se presentan como lesiones eritematosas, bien demarcadas y con placas delgadas que carecen de la descamación tradicional. Si se presenta descamación, es mínima y se raspa con facilidad, esto producirá un sangrado puntiforme. En un estudio, la edad media de presentación con compromiso genital fue de 35 años, aunque puede presentarse a cualquier edad.[^Meeuwis]
 
-![Figura 7](/assets/figures/figure-1-2-7.gif) ![Figura 8](/assets/figures/figure-1-2-8.jpg)  
-**Figuras 7 y 8.** Presentación eritrodérmica de la psoriasis, con eritema casi confluente con descamación.
+![Figura 6](/assets/figures/figure-1-2-6.gif)  
+**Figura 6.** Presentación eritrodérmica de la psoriasis, con eritema casi confluente con descamación.
 
 Frente a la presentación de lesiones con eritema, descamación o prurito en la región perineal, la psoriasis debe ser parte del diagnóstico diferencial. En la población pediátrica la psoriasis se asocia con vulvovaginitis crónica.[^Fischer] El diagnóstico generalmente se realiza después de observar la evolución en el tiempo, la historia familiar y una adecuada historia y examen físico en busca de otras lesiones de la piel.[^TragerA]<sup>,</sup>[^TragerB] La presentación clínica y la historia suelen ser suficientes para el diagnóstico. Si el diagnóstico no es seguro, se puede tomar una biopsia para obtener el diagnostico definitivo. Otra opción menos invasiva es el uso de la videodermatoscopia. En el examen de la balanitis psoriática con videodermatoscopia, en todos los pacientes se observan capilares dilatados y tortuosos.[^Lacarrubba] Si la afectación psoriática se limita a los genitales, el tratamiento sistémico es innecesario. Junto con la higiene y la eliminación de factores irritantes, el tratamiento tiende a centrarse en los esteroides tópicos, como la betametasona o la crema de licor picis carbonis (LPC).[^TragerA]<sup>,</sup>[^TragerB] Si esto no tiene éxito, los ensayos recientes de inmunomoduladores como pimecromilus han tenido éxito.[^Amichai]
 
@@ -125,8 +126,8 @@ Esta patología dermatológica se compone de trastornos que implican la detecci�
 
 El penfigoide bulloso (PB) es un proceso crónico, autoinmune, caracterizado por el desarrollo de ampolla tensas en piel normal o inflamada. Su incidencia en los niños es baja y la participación de los genitales aún más. Las lesiones se encuentran generalmente en zonas flexoras y mucosa oral. El desarrollo de manifestaciones cutáneas implica autoanticuerpos IgG dirigidos a la zona de la membrana basal de la piel (BMZ) y la posterior formación de ampollas. La confirmación diagnóstica requiere de biopsia con inmunofluorescencia directa y en algunos casos el aislamiento de antígenos diana puede ser útil.[^Fisler]
 
-![Figura 9](/assets/figures/figure-1-2-9.jpg)  
-**Figura 9.** Penfigoide ampollar en un niño con múltiples ampollas tensas con eritema circundante.
+![Figura 7](/assets/figures/figure-1-2-7.gif)  
+**Figura 7.** Penfigoide ampollar en un niño con múltiples ampollas tensas con eritema circundante.
 
 Si bien el compromiso de genitales en niños es rara, se han observado múltiples casos tanto en niños como en niñas. Cuando se trata de niños, las características de la enfermedad incluyen inflamación crónica y ampollas en el glande y fimosis severa.[^Mirza] En mujeres jóvenes, el PB se caracteriza por molestias, disuria y ampollas subepidérmicas de la vulva. Nuevamente, la inmunofluorescencia ha demostrado la deposición lineal de IgG en la unión dermoepidérmica y los antígenos BP230 y BP180.  La mayoría de estos pacientes epidermizan bien sin dejar cicatrices ni cambios en la vulva.[^Farrell] Los pacientes que tienen compromiso sistémico más generalizado tienden a tener resultados menos satisfactorios y pueden requerir terapias más agresivas.
 
@@ -142,13 +143,13 @@ Al igual que en la enfermedad del adulto, el pénfigo infantil produce ampollas 
 
 La epidermólisis bullosa (EB) es una afección dermatológica congénita rara, caracterizada por una piel frágil y frecuentes ampollas y degradación de las membranas mucosas y la dermis. Esta condición se divide en tres categorías: EB simple, EB de la unión y EB distrófica. La distinción está determinada por la participación específica de un gen y la zona de la membrana basal afectada. El diagnóstico inicial generalmente se hace a partir de manifestaciones clínicas y antecedentes familiares. El diagnóstico definitivo se puede realizar mediante biopsia y microscopía de inmunofluorescencia directa.[^Sawamura] La participación del tracto genitourinario es un componente importante. Cualquier paciente con EB de unión o distrófica sumado a hematuria o estenosis pilórica debe ser evaluado en búsqueda de compromiso genitourinario.
 
-![Figura 10](/assets/figures/figure-1-2-10.jpg)  
-**Figura 10.** Desarrollo de estenosis meatal en un niño con epidermólisis bullosa.
+![Figura 8](/assets/figures/figure-1-2-8.jpg)  
+**Figura 8.** Desarrollo de estenosis meatal en un niño con epidermólisis bullosa.
 
 Las complicaciones genitourinarias de la EB se observan con mayor frecuencia en las formas de unión y distróficas. Los hallazgos dermatológicos de los genitales pueden incluir estenosis meatal, ulceración del glande y labios, cicatrización del glande, fusión de los labios y estrechamiento del vestíbulo vaginal. Junto con el compromiso de genitales externos, el tracto genitourinario también puede verse afectado por estenosis y complicaciones relacionada.[^Fine]<sup>,</sup>[^Srinivasin] Junto con el dolor y la incomodidad asociados con la formación de ampollas, pueden también presentar disuria e infecciones recurrentes. El objetivo principal del urólogo debe ser la preservación de la función renal debido a la tendencia al desarrollo de estenosis y disfunción de la vejiga. El principal tratamiento es la desviación urinaria, la forma particular de desviación depende de la participación del tracto gastrointestinal y el pronóstico del paciente.[^Donatucci]
 
-![Figura 11](/assets/figures/figure-1-2-11.jpg)  
-**Figura 11.** Compromiso genital e inguinal en un niño con Epidermólisis bullosa. Obliteración completa del meato y la uretra distal que requiere la colocación de un cystofix observe la reacción alrededor del tubo.
+![Figura 9](/assets/figures/figure-1-2-9.jpg)  
+**Figura 9.** Compromiso genital e inguinal en un niño con Epidermólisis bullosa. Obliteración completa del meato y la uretra distal que requiere la colocación de un cystofix observe la reacción alrededor del tubo.
 
 ## Úlceras no infecciosas
 
@@ -166,8 +167,8 @@ La enfermedad de Behçet tiende a desarrollarse en la tercera y cuarta décadas 
 
 ### Gangrena De Fournier
 
-![Figura 12](/assets/figures/figure-1-2-12.jpg)  
-**Figura 12.** Gangrena de Fournier en escroto de paciente pediátrico.
+![Figura 10](/assets/figures/figure-1-2-10.jpg)  
+**Figura 10.** Gangrena de Fournier en escroto de paciente pediátrico.
 
 La gangrena de Fournier (GF) es el desarrollo agudo de la fascitis necrotizante del escroto, periné o área perianal y se asocia con alta morbimortalidad. Los factores de riesgo comunes incluyen diabetes mellitus, vejez, malignidad y estados inmunocomprometidos. La fuente inicial de infección tiende a provenir de la enfermedad colorrectal, la enfermedad urológica y el trauma.[^Yanar] Generalmente la infección es polimicrobiana con mayor frecuencia por _Escherichia coli_ , _Staphylococcus aureus_ y _Klebsiella pneumoniae_. Los síntomas más comunes son fiebre, dolor, aumento de volumen, secreción purulenta y cambios eritematosos en la piel.[^ChenB] También se puede observar la enfisema cutáneo y el dolor desproporcionado. La GF es una emergencia quirúrgica debido a la rápida progresión de la infección a la pared y cavidad abdominal. Esto puede conducir rápidamente a sepsis y muerte. Por este motivo, se debe descartar la GF en cualquier caso de infección de tejidos blandos que afecte a los genitales o regiones perianales.
 
@@ -179,8 +180,8 @@ El manejo se basa en un diagnóstico oportuno, el inicio de antibióticos de amp
 
 El molusco contagioso (MC) es causado por un conjunto de virus de la familia Poxviridae. Estos virus, MCVs-1, 2 y 3, causan lesiones solevantas y umbilicadas de la epidermis. Suelen observarse como pápulas umbilicadas de color carne, siendo generalmente múltiples. Las lesiones causadas por el MCV son en su mayoría autolimitadas, pero pueden durar desde 6 meses hasta 5 años. Debido a que la mayoría de las infecciones se contagian por contacto sexual, se considera una enfermedad de transmisión sexual.[^Tyring] En la población pediátrica, dos tercios de los casos se encuentran en niños menores de ocho años y más de la mitad de MC en múltiples sitios [^Dohil]. El diagnóstico suele ser clínico y la biopsia está indicada en casos atípicos.
 
-![Figura 13](/assets/figures/figure-1-2-13.jpg)  
-**Figura 13.** Molusco contagioso: múltiples pápulas umbilicadas periorificial.
+![Figura 11](/assets/figures/figure-1-2-11.jpg)  
+**Figura 11.** Molusco contagioso: múltiples pápulas umbilicadas periorificial.
 
 La presentación de pápulas de color carne en las regiones genital, suprapúbica o perianal en un niño, el MC debe ser parte del diagnostico diferencial. Una vez diagnosticadas, existen varias opciones de tratamiento. Debido a que estas lesiones se resolverán solas, la espera vigilante es una opción. Puede que esta no sea una opción adecuada para algunas personas debido a las preferencias personales y el riesgo de propagación a los contactos cercanos. Los tratamientos tópicos que incluyen tretinoína, imiquimod y cidofovir. Los tratamientos más agresivos incluyen curetaje, crioterapia y cantarona (no disponible en los EE. UU.).[^TragerA]
 
@@ -188,8 +189,8 @@ La presentación de pápulas de color carne en las regiones genital, suprapúbic
 
 Condyloma Accuminata (CA) son lesiones causadas por virus del papiloma humano (VPH). Es una infección extremadamente común en adultos y se está volviendo cada vez más común en la población pediátrica. Los modos de transmisión pueden incluir contacto vertical y sexual. El período de incubación para el virus puede variar de 1 a 20 meses.[^Allen] En los niños, la presentación más común son las verrugas perineales, que pueden evolucionar a lesiones cutáneas grandes con aspecto fúngico. Las lesiones vulvares son particularmente comunes. En casos seleccionados, las lesiones pueden volverse invasivas y destruir estructuras subyacentes.[^Gor] El diagnóstico puede ser clínico, pero si se necesita más certeza, se confirma con tinción inmunohistoquímica y tipificación de VPH.
 
-![Figura 14](/assets/figures/figure-1-2-14.jpg)  
-**Figura 14.** Verrugas genitales en dorso del pene.
+![Figura 12](/assets/figures/figure-1-2-12.jpg)  
+**Figura 12.** Verrugas genitales en dorso del pene.
 
 La remisión espontánea es posible en pacientes pediátricos, aunque no se cree que sea lo habitual. Desafortunadamente, las múltiples terapias farmacológicas disponibles tienen tasas de mejoría deficientes y el condiloma tiene una tasa alta de recaída. En un estudio, los niños que no presentaron remisión espontánea dentro de los dos años tuvieron bajas tasas de remisión posterior y mala respuesta al tratamiento.[^Allen] Las opciones de tratamiento disponibles incluyen cimetidina, podofilina, crioterapia, electrocauterio y cantaradina.[^Krogh] Los tratamientos que se centran en la destrucción epitelial se asocian con dolor y malestar. Las cremas como podofilox e imiquimod se asocian con una buena respuesta y menos irritación, pero aún se desconoce la eficacia a largo plazo.[^Moresi] Otra opción terapéutica es la terapia fotodinámica con un 20% de gel de ácido 5-aminolaevulínico (ALA) y un láser de He-Ne. En un paciente de 9 años con lesiones vulvares, se observó resolución completa de las lesiones. Si bien este tratamiento es caro y se limita a verrugas externas, tiene como ventaja que es indoloro y no deja cicatrices.[^ChenA]
 
@@ -199,8 +200,8 @@ La remisión espontánea es posible en pacientes pediátricos, aunque no se cree
 
 Las pápulas del pene nacarado son lesiones benignas que generalmente se encuentran cerca de la corona del pene y, ocasionalmente en el cuerpo. Las características de las lesiones son variadas, tienden a ser de 1 a 2 mm de ancho y de 1 a 4 mm de longitud. El color de las lesiones puede ser rosado, amarillo, blanco o translúcido. La mayoría de estas lesiones benignas se encuentran de forma incidental. En la mayoría de los casos son asintomáticas y se ven después de la pubertad. Histológicamente están relacionadas con los angiofibromas acrales.[^Agrawal]
 
-![Figura 15](/assets/figures/figure-1-2-15.jpg)  
-**Figura 15.** Pápulas del pene perlado.
+![Figura 13](/assets/figures/figure-1-2-13.jpg)  
+**Figura 13.** Pápulas del pene perlado.
 
 La mayoría de los casos son diagnosticados después de la pubertad, se piensa que la incidencia de pápulas del pene perlado es extremadamente baja. La presentación es asintomática y similar a la de los adultos.[^Neri] En casos pediátricos, se debe considerar el molusco contagioso y el condiloma acuminado como diagnostico diferencial. El diagnóstico definitivo es con anatomía patológica. Otra opción es el uso de la dermatoscopía, que tiene la ventaja de ser no invasivo.[^Ozeki] El tratamiento de elección es la crioterapia y el láser de dióxido de carbono.[^Agrawal]
 

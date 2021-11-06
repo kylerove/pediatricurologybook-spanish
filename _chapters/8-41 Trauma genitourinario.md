@@ -5,6 +5,7 @@ chapter: 41
 title: Trauma genitourinario
 sort-key: 8-41
 permalink-en: https://www.pediatricurologybook.com/urinary_tract_trauma.html
+review-formatting-complete: KR-2021-11-05
 ---
 
 # Trauma genitourinario
@@ -97,7 +98,7 @@ La incidencia de lesión ureteral es infrecuente, representa menos del 3% de tra
 
 Se debe mantener un alto índice de sospecha de lesión ureteral y el urólogo debe ser consciente del riesgo de necrosis tardía. La hematuria puede estar presente en solo el 23-45% de los casos y las tomografías computarizadas pueden pasar por alto hasta el 75% de los casos. Las imágenes tardías son imprescindibles para visualizar el contraste en todo el sistema recolector **(Figura 2)** .‬
 
-![Figura 2](/assets/figures/figure-8-41-2.jpg) ‬ 
+![Figura 2](/assets/figures/figure-8-41-2.jpg)  
 **Figura 2:** extravasación extensa de contraste de una lesion ureteral proximal.‬
 
 La evaluación intraoperatoria no siempre identifica una lesión clara. Si existe preocupación por una lesión ureteral oculta, la identificación de los uréteres al pasar un catéter uretérico puede ser útil, particularmente en una disección o reoperación difíciles. Otra alternativa es la administración de indigo-carmín o azul de metileno y la inspección endoscópica de los orificios ureterales pueden confirmar un sistema intacto.‬

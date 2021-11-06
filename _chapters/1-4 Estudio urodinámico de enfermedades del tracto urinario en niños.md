@@ -5,6 +5,7 @@ chapter: 4
 title: Estudio urodinámico de enfermedades del tracto urinario en niños
 sort-key: 1-4
 permalink-en: https://pediatricurologybook.com/urodynamic.html
+review-formatting-complete: KR-2021-11-05
 ---
 
 # Estudio urodinámico de enfermedades del tracto urinario en niños

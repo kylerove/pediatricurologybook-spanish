@@ -5,6 +5,7 @@ chapter: 1
 title: Embriología del tracto urinario
 sort-key: 1-1
 permalink-en: https://pediatricurologybook.com/embryology_urinary_tract.html
+review-formatting-complete: KR-2021-11-05
 ---
 
 # Embriología del tracto urinario

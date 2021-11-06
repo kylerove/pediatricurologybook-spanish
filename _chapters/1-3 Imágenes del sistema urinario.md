@@ -5,6 +5,7 @@ chapter: 3
 title: Imágenes del sistema urinario
 sort-key: 1-3
 permalink-en: https://pediatricurologybook.com/Imaging_urinary_tract.html
+review-formatting-complete: KR-2021-11-05
 ---
 
 # Imágenes del sistema urinario
@@ -254,7 +255,7 @@ El DMSA se utiliza para evaluar la función renal relativa y la cicatrización.�
 - Captación absoluta‬
 
 ![Figura 7](/assets/figures/figure-1-3-7.jpg)‬  
-Fig. 7: DMSA en un paciente con doble sistema recolector derecho. Se observa cicatrización significativa y función reducida en el polo inferior y un polo superior no funcional.‬
+**Fig. 7:** DMSA en un paciente con doble sistema recolector derecho. Se observa cicatrización significativa y función reducida en el polo inferior y un polo superior no funcional.‬
 
 ### Gammagrafía MAG-3 / Gammagrafía renal dinámica
 
