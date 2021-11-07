@@ -36,3 +36,60 @@
     padding-left:10px;
     margin-bottom:10px;
 }
+
+a, a:hover, a:focus {
+color: #2F68AD;
+}
+
+#content > p:first-of-type, #content > #translator-p {
+    padding:24px;
+    background-color:rgb(244, 247, 247);
+    position:relative;
+}
+
+#content > p:first-of-type strong, #content > #translator-p strong {
+    color:#849aa8;
+    font-size:1.4em;
+    font-weight:700;
+}
+
+#content > p:first-of-type em, #content > #translator-p em {
+    color:#666;
+    font-size:1.2em;
+    font-weight:normal;
+}
+
+#content > #translator-p:after {
+    content: "\f558";  /* this is your text. You can also use UTF-8 character codes as I do here */
+    font-family: "Font Awesome 5 Free";
+    font-size:7em;
+    opacity:0.2;
+    position:absolute;
+    top:50px;
+    right:24px;
+}
+
+#content > h1 {
+    color: #334445;
+    display:inline-block;
+    font-weight:bold;
+    background-image: linear-gradient(to top,rgba(116,232,239,.1),rgba(116,232,239,.1) 50%,rgba(255,255,255,.001) 50%);
+    margin-bottom: 32px;
+}
+
+#content > h2,#content > h3,#content > h4,#content > h5,#content > h6 {
+    color: #334445;
+    font-weight:bold;
+    margin-bottom:0;
+}
+
+#content > #translator-p em#translation-head {
+    font-size:0.9em;
+    color:#888;
+}
+
+#translation-head a::before {
+    content: "\f57d  ";
+    font-family: "Font Awesome 5 Free";
+    font-style:normal;
+}
