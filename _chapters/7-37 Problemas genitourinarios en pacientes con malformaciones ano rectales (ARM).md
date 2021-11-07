@@ -5,6 +5,7 @@ chapter: 37
 title: Problemas genitourinarios en pacientes con malformaciones ano rectales (ARM)
 sort-key: 7-37
 permalink-en: https://www.pediatricurologybook.com/arm01.html
+layout: default
 review-formatting-complete: KR-2021-11-05
 ---
 

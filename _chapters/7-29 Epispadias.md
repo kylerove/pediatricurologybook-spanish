@@ -5,6 +5,7 @@ chapter: 29
 title: Epispadias
 sort-key: 7-29
 permalink-en: https://www.pediatricurologybook.com/epispadias.html
+layout: default
 ---
 
 # Epispadias

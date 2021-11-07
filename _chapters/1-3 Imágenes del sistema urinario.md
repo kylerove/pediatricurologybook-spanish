@@ -5,6 +5,7 @@ chapter: 3
 title: Imágenes del sistema urinario
 sort-key: 1-3
 permalink-en: https://pediatricurologybook.com/Imaging_urinary_tract.html
+layout: default
 review-formatting-complete: KR-2021-11-05
 ---
 

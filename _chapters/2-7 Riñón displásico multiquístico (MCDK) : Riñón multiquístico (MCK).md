@@ -5,6 +5,7 @@ chapter: 7
 title: Riñón displásico multiquístico (MCDK) / Riñón multiquístico (MCK)
 sort-key: 2-7
 permalink-en: https://pediatricurologybook.com/muticystic_.html
+layout: default
 ---
 
 # Riñón displásico multiquístico (MCDK) / Riñón multiquístico (MCK)

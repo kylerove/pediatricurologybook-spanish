@@ -5,6 +5,7 @@ chapter: 24
 title: Tumores adrenales
 sort-key: 5-24
 permalink-en: https://www.pediatricurologybook.com/adrenaltumours.html
+layout: default
 ---
 
 # Tumores adrenales

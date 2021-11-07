@@ -5,6 +5,7 @@ chapter: 2
 title: "Dermatosis genitourinarias pediátricas: una revisión exhaustiva"
 sort-key: 1-2
 permalink-en: https://pediatricurologybook.com/dermatoses_.html
+layout: default
 review-formatting-complete: KR-2021-11-05
 ---
 

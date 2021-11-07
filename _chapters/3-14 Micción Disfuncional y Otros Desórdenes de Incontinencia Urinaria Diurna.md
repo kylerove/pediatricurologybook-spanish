@@ -5,6 +5,7 @@ chapter: 14
 title: Incontinencia Urinaria Diurna
 sort-key: 3-14
 permalink-en: https://www.pediatricurologybook.com/dysfunc_void.html
+layout: default
 ---
 
 # Micción Disfuncional y Otros Desórdenes de Incontinencia Urinaria Diurna

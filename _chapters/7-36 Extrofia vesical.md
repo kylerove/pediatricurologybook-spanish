@@ -5,6 +5,7 @@ chapter: 36
 title: Extrofia Vesical
 sort-key: 7-36
 permalink-en: https://www.pediatricurologybook.com/bladder_exstrophy.html
+layout: default
 ---
 
 # Extrofia Vesical
@@ -304,290 +305,205 @@ Algunos pacientes con lesiones neurológicas mínimas tienen una vejiga funciona
 
 Con la mejora de la supervivencia y la cirugía reconstructiva, los problemas del desarrollo a largo plazo se han convertido en algo primordial. Reiner ha informado sobre seis niños que se han sometido a una reasignación de género, todos con dificultades de desarrollo. Dos tuvieron reasignación a género masculino. En contraste, Shober informó 46 pacientes con extrofia cloacal XY a quienes todos tenían una identidad de género central femenina típica en el seguimiento a largo plazo. Los pacientes tienen que ser seguidos a la vida adulta para tomar decisiones apropiadas y obtener información de la calidad de vida a largo plazo.‬
 
-**Resumen**‬
+## Resumen
 
 El manejo de la extrofia cloacal ha mejorado para brindar una mejor calidad de vida a estos niños. La reconstrucción completa en el período del recién nacido parece ser el mejor enfoque si la condición del bebé lo permite. El manejo neurológico y gastrointestinal tiene prioridad sobre la reparación urológica y genital y el intestino posterior debe incorporarse para maximizar la longitud y la función del intestino. Las mejoras en la evaluación neurológica han servido para reducir las complicaciones que amenazan la vida y la progresión de los déficits neurológicos. La continencia urinaria es posible en la mayoría de los niños, pero siempre requiere una reconstrucción adicional. Las técnicas de reconstrucción quirúrgica actuales han avanzado lo suficiente como para los pacientes con XY puedan ser reconstruidos y criados como hombres, lo que parece ser la opción óptima; sin embargo, se necesitan más evaluaciones a largo plazo para evaluar la satisfacción de estos pacientes. Los avances en la ingeniería tisular y la investigación con células madre probablemente permitirán la crianza congruente de todos los pacientes masculinos con extrofia cloacal.‬
 
-**Figuras:**‬
-
-Figura 1. Recién nacido con extrofia vesical clásica.‬
-
-Figura 2: ultrasonido de gestación de 30 semanas que muestra ausencia de vejiga y una masa abdominal inferior.‬
-
-Figura 3: Vista sagital de la extrofia vesical (masa) debajo de la inserción abdominal del cordón umbilical (AIC) en la RM prenatal T2.‬
-
-Figura 4: _A_ , desplazamiento del elevador del ano a una posición más posterior. En el paciente con extrofia.‬
-
-Figura 5: Mediciones del pene y la pelvis en hombres normales y pacientes con extrofia.‬
-
-Figura 6: Recién nacido con extrofia vesical clásica. Tenga en cuenta múltiples pólipos en la placa vesical.‬
-
- Figura 7: Intubación de orificios ureterales bilaterales en preparación para la disección.‬
-
-
- Figura 8: Marcaje de placa uretral. Observe dos suturas de tracción en cada hemi glande.‬
-
-
- Figura 9: Movilización agresiva de la vejiga, incluido el ombligo.‬
-
-Figura 10: Identificación de cuerpos cavernosos bilaterales después del desprendimiento del falo.‬
-
-
- Figura 11: Después de la separación de los cuerpos cavernosos y la movilización de la placa uretral.‬
-
-
- Figura 12: Después de la separación completa de los cuerpos cavernosos y el glande.‬
-
-Figura 13: Colocación del tubo suprapúbico antes del cierre de la vejiga. Esto saldrá del abdomen por el ombligo.‬
-
-Figura 14: vejiga y uretra cerradas en 2 capas como una sola unidad. Obsérvense los catéteres ureterales bilaterales que salen a través del meato uretral.‬
-
-
- Figura 15: Se puede lograr la rotación interna de la pelvis para volver a aproximarse al pubis cuando se reconstruye en las primeras 72 horas de vida.‬
-
-
- Figura 16: Reconstrucción del falo.‬
-
-
- Figura 17: Cierre fascial.‬
-
-
- Figura 18: Cierre de la pared abdominal.‬
-
-
- Figura 19: Tracción modificada de Bryant.‬
-
-
- Figura 20: Postoperatorio.‬
-
-
- Figura 21: Recién nacido con extrofia cloacal.‬
-
-Figura 22: Ecografía prenatal de mujer con extrofia cloacal. Obsérvese la masa compleja de la pared abdominal anterior inferior a la inserción del cordón umbilical. No se visualiza vejiga.‬
-
-Figura 1‬
-
-![Figura 1](/assets/figures/figure-7-36-1.jpg)‬
-
-Figura 2‬
-
-![Figura 2](/assets/figures/figure-7-36-2.jpg)‬
-
-figura 3‬
-
-![](RackMultipart20210723-4-w4y3uc_html_36fb7d3babb1d0b.jpg)‬
-
-Figura 4‬
-
-![Figura 3](/assets/figures/figure-7-36-3.jpg)‬
-
-Figura 5‬
-
-![Figura 4](/assets/figures/figure-7-36-4.jpg)‬
-
-Figura 6‬
-
-![](RackMultipart20210723-4-w4y3uc_html_6512236092b248d.jpg)‬
-
-Figura 7‬
-
-![Figura 5](/assets/figures/figure-7-36-5.jpg)‬
-
-Figura 8‬
-
-![Figura 6](/assets/figures/figure-7-36-6.jpg)‬
-
-Figura 9‬
-
-![Figura 7](/assets/figures/figure-7-36-7.jpg)‬
-
-Figura 10‬
-
-![Figura 8](/assets/figures/figure-7-36-8.jpg)‬
-
-Figura 11‬
-
-![Figura 9](/assets/figures/figure-7-36-9.jpg)‬
-
-Figura 12‬
-
-![Figura 10](/assets/figures/figure-7-36-10.jpg)‬
-
-Figura 13‬
-
-![Figura 11](/assets/figures/figure-7-36-11.jpg)‬
-
-Figura 14‬
-
-![Figura 12](/assets/figures/figure-7-36-12.jpg)‬
-
-Figura 15‬
-
-![Figura 13](/assets/figures/figure-7-36-13.jpg)‬
-
-Figura 16‬
-
-![Figura 14](/assets/figures/figure-7-36-14.jpg)‬
-
-Figura 17‬
-
-![Figura 15](/assets/figures/figure-7-36-15.jpg)‬
-
-Figura 18‬
-
-![Figura 16](/assets/figures/figure-7-36-16.jpg)‬
-
-Figura 19‬
-
-![Figura 17](/assets/figures/figure-7-36-17.jpg)‬
-
-Figura 20‬
-
-![Figura 18](/assets/figures/figure-7-36-18.jpg)‬
-
-Figura 21‬
-
-![Figura 19](/assets/figures/figure-7-36-19.jpg)‬
-
-Figura 22‬
-
-![Figura 20](/assets/figures/figure-7-36-20.jpg)‬
-
-**Referencias:**‬
-
-- Hsieh K, O&#39;Loughlin MT, Ferrer FA. Bladder Exstrophy and Pheontypic Gender Determination on Fetal Magnetic Resonance Imaging. Urology 2005; **65**: 998-999.‬
-- Hsieh K, O&#39;Loughlin MT, Ferrer FA. Bladder Exstrophy and Pheontypic Gender Determination on Fetal Magnetic Resonance Imaging. Urology 2005; **65**: 998-999.‬
-- Stec AA, Pannu HK, Tadros YE, et al: Pelvic floor evaluation in classic bladder exstrophy using 3-dimensional computerized tomography-Initial insights. J Urol 2001; **166**: 1444.‬
-- Silver RI, Partin AW, Epstein JI, et al: Prostate specific antigen in men born with bladder exstrophy. Urology 1997; **49**: 253.‬
--‬
- .           Reiner WG. Psychosocial concerns in bladder and cloacal exstrophy. Dialogues in Pediatric Urology 1999; **22**: 8.‬
-- .          Shober JM, Carmichael PA, Hines M, et al. The ultimate challenge of cloacal exstrophy. J Urol 2002; **167**: 300.‬
--‬
- .           Lee RS, Grady R, Joyner B, Casale P, et al. Can a complete primary repair approach be applied to cloacal exstrophy? J Urol 2006:176Z:2643.‬
-- .          Ben-Chaim J, Sponseller PD, Jeffs RD, et al. Application of osteotomy in cloacal exstrophy patients. J Urol 1995; **154**: 865.‬
-- .          Silver RI, Sponseller PD, Gearhart JP. Staged closure of the pelvis in cloacal exstrophy: first description of a new approach. J Urol 1999; **161**: 263.‬
-- .         Adams MC, Mitchell ME, Rink RC. Gastrocystoplasty: an alternative solution to the problem of urological reconstruction in the severely compromised patient. J Urol 1988; **140**: 1152.‬
-- .          Hendren WH. Ileal nipple for continence in cloacal exstrophy. J Urol 1992; **148**: 372.‬
-- .           Tank ES, Lindenaur SM: Principles of management of exstrophy of the cloaca. Am J Surg 1970; **119**: 95.‬
-- .          Gearhart JP, Jeffs RD:. Techniques to create urinary continence in cloacal exstrophy patients. J Urol 1991; **146**: 616.‬
-- .          Ricketts R, Woodard JR, Zwiren GT, et al. Modern treatment of cloacal exstrophy. J Pediatr Surg 1991; **26**: 444.‬
-- .         Austin P, Holmsy YL, Gearhart JP, et al. Prenatal diagnosis of cloacal exstrophy. J Urol 1998; **160**: 1179.‬
-- .          Hamada H, Pakano K, Shinah H, et al. New ultrasonographic criterion for the prenatal diagnosis of cloacal exstrophy: elephant trunk-like image. J Urol 1999; **162**: 2123.‬
-- .         Husmann DA, McLorie GA, Churchill BM. Phallic reconstruction in cloacal exstrophy. J Urol 1989; **142**: 563.‬
-- .         Mathews RI, Perlman E, Gearhart JP: Gonadal morphology in cloacal exstrophy: implications in gender assignment. BJU Int 1999; **83**: 484.‬
-- .        Reiner WG. Psychosexual development in genetic males assigned female: the cloacal exstrophy experience. Child Adolesc Psychiatr Clin North Am 2004; **13**: 657.‬
-- .         Schober JM, Carmichael PA, Hines M, Ransley PG. The ultimate challenge of cloacal exstrophy. J Urol 2002; **167**: 300.‬
-- .          Baker Towell DM, Towell AD. A preliminary investigation into quality of life, psychological distress and social competence in children with cloacal exstrophy. J Urol 2003; **169**: 1850.‬
-- .         Taghizadeh A, Qteishat A, Cuckow PM. Restoring hindgut continuity in cloacal exstrophy: A valuable method of optimizing bowel length. Eur J Pediatr Surg 2009; **19**: 141.‬
-- .         Husmann DA, McLorie GA, Churchill BM: Closure of the exstrophic bladder: an evaluation of the factors leading to its success and its importance on urinary continence. J Urol 1989; **142**: 522.‬
-- .        Ricketts R, Woodard JR, Zwiren GT, et al. Modern treatment of cloacal exstrophy. J Pediatr Surg 1991; **26**: 444.‬
-- .        Levitt MA, Mak GZ, Falcone RA Jr., Pena A. Cloacal exstrophy – pull-through or permanent stoma? A review of 53 patients. J Ped Surg 2008; **43**: 164.‬
-- .           Hurwitz RS, Manzoni GA, Ransley PG, et al. Cloacal exstrophy: a report of 34 cases. J Urol 1987; **138**: 1060.‬
-- .          Thauvin-Robinet C, Faivre L, Cusin V, et al. Cloacal exstrophy in an infant with 9q34.1-qter deletion resulting from a de novo unbalanced translocation between chromosome 9q and Yq. Am J Med Genet A 2004; **126**: 303.‬
-- .          Rickham PP. Vesicointestinal fissure. Arch Dis Child 1960; **35**: 97.‬
-- .         Mathews R, Jeffs RD, Reiner WG, et al. Cloacal exstrophy-improving the quality of life: The Johns Hopkins experience. J Urol 1998; **160**: 2452.‬
-- .          Keppler-Noreiul KM. OEIS complex (omphalocele-exstrophy-imperforate anus-spinal defects): a review of 14 cases. Am J Med Genet 2001; **99**: 271.‬
-- .         Appignani BA, Jaramillo D, Barnes PD, et al. Dysraphic myelodysplasias associated with urogenital and anorectal anomalies: prevalence and types seen with MR imaging. AJR Am J Roentgenol 1994; **163**: 1199.‬
-- .         McLaughlin KT, Rink RC, Kalsbeck GE, et al. Cloacal exstrophy: the neurological implications. J Urol 1995; **154**: 782.‬
-- .        Karrer FM, Flannery AM, Nelson MDJ, et al. Anorectal malformations: evaluation of associated spinal dysraphic syndromes. J Pediatr Surg 1988; **23**: 45.‬
-- .         Dick EA, de Bruyn R, Patel K, et al. Spinal ultrasound in cloacal exstrophy. Clin Radiol 2001; **56**: 289.‬
-- .          Husmann DA, Vandersteen VR, McLorie GA, et al. Urinary continence after staged bladder reconstruction in cloacal exstrophy: the affect of co-existing neurological abnormalities on urinary continence. J Urol 1999;161;1598.‬
-- .         Schlegel PN, Gearhart JP. Neuroanatomy of the pelvis in an infant with cloacal exstrophy: a detailed microdissection with histology. J Urol 1989; **141**: 583.‬
-- .         Cohen AR. The mermaid malformation: cloacal exstrophy and occult spinal dysraphism. Neurosurgery 1991; **28**: 834.‬
-- .        Sponseller PD, Bisson LJ, Gearhart JP, et al. The anatomy of the pelvis in the exstrophy complex. J Bone Joint Surg Am 1995; **77**: 177.‬
-- .        Stec AA, Wakim A, Barbet P, et al. Fetal bony pelvis in the bladder exstrophy complex: Normal potential for growth? Urology 2003; **62**: 337.‬
-- .         Diamond DA: Management of cloacal exstrophy. Dial Pediatr Urol 1990; **13**: 2.‬
-- .        Greene WB, Dias LS, Lindseth RE, et al. Musculoskeletal problems in association with cloacal exstrophy. J Bone Joint Surg Am 1991; **73**: 551.‬
-- .        Hurwitz RS, Manzoni GA, Ransley PG, et al. Cloacal exstrophy: a report of 34 cases. J Urol 1987; **138**: 1060.‬
-- .           Baird AD, Nelson CP, Gearhart JP. Modern staged repair of bladder exstrophy: a contemporary series. J Pediatr Urol 2007; **3**: 311.‬
-- .          Purves JT, Baird AD, Gearhart JP. The modern staged repair of bladder exstrophy in the female: a contemporary series. J Pediatr Urol 2008; **4**: 150.‬
-- .          Hanna MK, Williams DI. Genital function in males with vesical exstrophy and epispadias. BJU Int 1969; **44**: 1972.‬
-- .         Stein R, Stuckel M, Fisch M, et al. Fate of the adult exstrophy patient. J Urol 1994; **152**: 1413.‬
-- .          Bastuba MD, Alper MM, Oats RD. Fertility and the use of assisted reproductive techniques in the adult male exstrophy patient. Fertil Steril 1993; **60**: 733.‬
-- .         Woodhouse CR. Sexual function in boys with exstrophy, myelomeningocele, and micropenis. Urology 1998; **52**: 3.‬
-- .         Ben-Chaim J, Jeffs RD, Reiner WG, et al. The outcome of patients with classic bladder exstrophy in adult life. J Urol 1996; **155**: 1251.‬
-- .        Kropp BP, Cheng EY. Total urogenital complex mobilization in female patients with exstrophy. J Urol 2000; **164**: 1035.‬
-- .         Woodhouse CR. The gynecology of exstrophy. BJU Int 1999; **83**: 34.‬
-- .          Mathews RI, Gan, M, Gearhart JP. Urogynaecologic and obstetric issues in women with the exstrophy-epispadias complex. BJU Int 2003; **91**: 845.‬
-- .         Kramer SA, Jackson IT. Bilateral rhomboid flaps for reconstruction of the external genitalia in epispadias-exstrophy. Plast Reconstr Surg 1986; **77**: 621.‬
-- .         Krisiloff M, Puchner PJ, Tretter W, et al. Pregnancy in women with bladder exstrophy. J Urol 1978; **119**: 478.‬
-- .        Burbage KA, Hensle TW, Chambers WJ, et al: Pregnancy and sexual function in bladder exstrophy. Urology 1986; **28**: 12.‬
-- .        Kennedy WA, Hensle TW, Riley EA. Pregnancy after orthotopic continent urinary diversion. Surg Obstet Gynecol 1993; **177**: 405.‬
-- .         Stein R, Fisch M, Bauer H, et al. Operative reconstruction in external and internal genitalia in female patients with bladder exstrophy and epispadias. J Urol 1995; **154**: 1002.‬
--‬
- .           Mednick L, Gargollo P, Oliva M, et al. Stress and coping of parents of young children diagnosed with bladder exstrophy. J Urol 2009; **181**: 1312.‬
-- .          Meldrum KK, Mathews RI, Nelson CP, et al. Subspecialty training and surgical outcomes in children with failed bladder exstrophy closure. J Pediatr Urol 2005; **1**: 95.‬
-- .          Nelson CP, North AC, Ward MK, et al. Economic impact of failed or delayed primary repair of bladder exstrophy: differences in cost of hospitalization. J Urol 2008; **179**: 680.‬
-- .         Nelson CP, Dunn RL, Wei JT, et al. Surgical repair of bladder exstrophy in the modern era: contemporary practice patterns and the role of hospital case volume. J Urol 2005; **174**: 1099.‬
-- .          Sweetser TH, Chisolm TC, Thompson WH. Exstrophy of the urinary bladder: discussion of anatomic principles applicable to repair with a preliminary report of a case. Minn Med 1952; **35**: 654.‬
-- .         Cendron J. La réconstruction vésicale. Ann Chir Infant 1971; **12**: 371.‬
-- .         Jeffs RD, Charrios R, Mnay M, et al. Primary closure of the exstrophied bladder. In Scott R (ed): Current Controversies in Urologic Management. Philadelphia:WB Saunders, 1972; 235.‬
-- .        Williams DI, Keaton J. Vesical exstrophy: Twenty years&#39; experience. Br J Surg 1973; **60**: 203.‬
-- .         Gearhart JP, Jeffs RD. State of the art reconstructive surgery for bladder exstrophy at the Johns Hopkins Hospital. Am J Dis Child 1989; **143**: 1475.‬
-- .          Grady R, Mitchell ME. Complete repair of exstrophy. J Urol 1999; **162**: 1415.‬
-- .         Chan DY, Jeffs RD, Gearhart JP. Determinants of continence in the bladder exstrophy population: predictors of success? Urology 2001; **57**: 774.‬
-- .         Stein R, Fisch M, Black P. Strategies for reconstruction after unsuccessful or unsatisfactory primary treatment of patients with bladder exstrophy and incontinent epispadias. J Urol 1999; **161**: 1934.‬
-- .        Grady RW, Mitchell ME. Surgical techniques for one-stage reconstruction of the exstrophy-epispadias complex. In: Wein AJ, Kavoussi LR, Novick AC, Partin AW, Peters CA (eds). Campbell-Walsh Urology. Philadelphia: Saunders; 2007, p. 3497.‬
-- .        Husmann DA. Surgery Insight: advantages and pitfalls of surgical techniques for the correction of bladder exstrophy. Nat Clin Prac Urol 2006:3:95.‬
-- .         Kibur Y, Roth CC, Frimberger D, et al. Our initial experience with the technique of complete primary repair for bladder exstrophy. J Pediatr Urol 2009; **5**: 186.‬
-- .        Mitchell ME. Bladder exstrophy repair: complete primary repair of exstrophy. Urology 2005; **65**: 5.‬
-- .        Gargollo PC, Borer JG, Diamond DA, et al. Prospective followup in patients after complete primary repair of bladder exstrophy. J Urol 2008; **180**: 1665.‬
-- .       Kibur Y, Roth CC, Frimberger D, et al. Our initial experience with the technique of complete primary repair for bladder exstrophy. J Pediatr Urol 2009; **5**: 186.‬
-- .        Shnorhavorian M, Grady RW, Anderson A, et al. Long-term followup of complete primary repair of exstrophy: The Seattle Experience. J Urol 2008; **180**: 1615.‬
-- .         Hafez AT and El-Sherbiny MT. Complete repair of bladder exstrophy: management of resultant hypospadias. J Urol 2005; **173**: 958-961.‬
-- .        Gearhart JP,Baird AD. The failed complete repair of bladder exstrophy: insights and outcomes. J Urol 2005; **174**: 1669-.‬
-- .        Gargollo PC and Borer JG. Contemporary outcomes in bladder exstrophy. Curr Opin Urol 2007; **17**: 272-280.‬
--‬
- .           Mathews RI, Gan, M, Gearhart JP. Urogynaecologic and obstetric issues in women with the exstrophy-epispadias complex. BJU Int 2003; **91**: 845.‬
-- .          Shapiro E, Jeffs RD, Gearhart JP, et al. Muscarinic cholinergic receptors in bladder exstrophy: Insights into surgical management. J Urol 1985; **134**: 309.‬
-- .          Lee BR, Perlman EJ, Partin AW, et al. Evaluation of smooth muscle and collagen subtypes in normal newborns and those with bladder exstrophy. J Urol 1996; **156**: 203.‬
-- .         Peppas DS, Blanche-Tijien M, Perlman E, et al: A quantitative histology of the bladder in various stages of reconstruction utilizing color morphometry. In Gearhart JP, Mathews RI (eds): Exstrophy-Epispadias Complex: Research Concepts and Clinical Applications. New York, Plenum, 1999:41.‬
-- .          Lais A, Paolocci N, Ferro N, et al. Morphometric analysis of smooth muscle in the exstrophy-epispadias complex. J Urol 1996; **156**: 819.‬
-- .         Orsola A, Estrada CR, Nguyen HT, et al. Growth and stretch response of human exstrophy bladder smooth muscle cells: molecular evidence of normal intrinsic function. BJU Int 2005; **95**: 144.‬
-- .         Mathews RI, Wills M, Perlman E, et al. Neural innervation of the newborn exstrophy bladder: An immunohistological study. J Urol 1999; **162**: 506.‬
-- .        Rosch W, Christl A, Strauss B, et al. Comparison of preoperative innervation pattern and post reconstructive urodynamics in the exstrophy-epispadias complex. Urol Int 1997; **59**: 6.‬
-- .         Hipp J, Andersson KE, Kwon TG, et al. Micoarray analysis of exstrophic human bladder smooth muscle. BJU Int 2008; **101**: 100.‬
-- .          Novak TE, Lakshmanan Y, Frimberger D. et al. Polyps in the exstrophic bladder. A cause for concern? J Urol 2005; **174**: 1522.‬
-- .         Toguri AG, Churchill BM, Schillinger JF, et al. Continence in cases of bladder exstrophy. J Urol 1987; **119**: 538.‬
-- .         Diamond DA, Bauer SB, Dinlenc C, et al. Normal urodynamics in patients with bladder exstrophy: Are they achievable? J Urol 1999; **162**: 841.‬
-- .        Mathews R, Gosling JA, Gearhart JP. Ultrastructure of the bladder in classic exstrophy-Correlation with development of continence. J Urol 2004; **172**: 1446.‬
--‬
- .           Wakim A, Barbet JP. Connections of the bladder plate and bladder neck with the bony pelvis in a fetus with classic bladder exstrophy. Urology 2002; **60**: 142.‬
-- .          Gearhart JP. Failed bladder exstrophy closure: evaluation and management. Urol Clin North Am 1991; **18**: 687.‬
-- .          Connolly JA, Peppas DS, Jeffs RD, et al. Prevalence in repair of inguinal hernia in children with bladder exstrophy. J Urol 1995; **154**: 1900.‬
-- .         Baker LA, Gearhart JP. Staged approach to bladder exstrophy and the role of osteotomy. World J Urol 1998; **16**: 205.‬
-- .          Silver RI, Partin AW, Epstein JI, et al. Penile length in adulthood after bladder exstrophy reconstruction. J Urol 1997; **158**: 999.‬
-- .         Gearhart JP, Yang A, Leonard MP, et al. Prostate size and configuration in adult patients with bladder exstrophy. J Urol 1993; **149**: 308.‬
-- .         Silver RI, Partin AW, Epstein JI, et al: Prostate specific antigen in men born with bladder exstrophy. Urology 1997; **49**: 253.‬
-- .        Berkowitz J, Carter HB, Gearhart JP. Prostate cancer in patients with the bladder exstrophy-epispadias complex: insights and outcomes. Urology 2008; **71**: 1064.‬
-- .         Schlegel PN, Gearhart JP. Neuroanatomy of the pelvis in an infant with cloacal exstrophy: A detailed microdissection with histology. J Urol 1989; **141**: 583.‬
-- .          D&#39;Hauwers KS, Feitz WF, Kremer JA. Bladder exstrophy and male infertility: pregnancies after ICSI with ejaculated or epididymal sperm.  Fertil Steril 2008; **89**: 387.‬
-- .           Sponseller PD, Bisson LJ, Gearhart JP, et al. The anatomy of the pelvis in the exstrophy complex. J Bone Joint Surg Am 1995; **77**: 177.‬
-- .          Cadeddu JA, Benson JE, Silver RI, et al. Spinal abnormalities in classic bladder exstrophy. Br J Urol 1997:79:975.‬
-- .          Stec AA, Pannu HK, Tadros YE, et al. Pelvic floor evaluation in classic bladder exstrophy using 3-dimensional computerized tomography-Initial insights. J Urol 2001; **166**: 1444.‬
-- .         Halachmi S, Farhat W, Konen O, et al. Pelvic floor magnetic resonance imaging after neonatal single stage reconstruction in male patients with classic bladder exstrophy. J Urol 2003; **170**: 1505.‬
-- .          Gargollo PC, Borer JG, Retik AB, et al. Magnetic resonance imaging of pelvic musculoskeletal and genitourinary anatomy in patients before and after complete primary repair of bladder exstrophy. J Urol 2005; **174**: 1559.‬
-- .         Ebert AK, Falkert A, Brandl R, et al. Pelvic-floor imaging using three-dimensional ultrasonography and magnetic resonance imaging in the long term follow-up of the bladder-exstrophy-epispadias complex. BJU Int 2010; **105**: 248.‬
--‬
- .           Ives E, Coffey R, Carter CO. A family study of bladder exstrophy. J Med Genet 1980; **17**: 139.‬
-- .          Reutter H, Qi L, Gearhart JP, et al. Concordance analyses of twins with bladder exstrophy-epispadias complex suggest genetic etiology. Am J Med Genet Part A 2007;143A:2751.‬
-- .          Boyadijiev SA, Dodson JL, Radford CL, et al. Clinical and molecular characterization of the bladder exstrophy-epispadias complex: analysis of 232 families. BJU Int 2004; **94**: 1337.‬
-- .         Wood HP, Trock BP, Gearhart JP. In vitro fertilization and the cloacal-bladder exstrophy-epispadias complex: Is there an association? J Urol 2003; **169**: 1512.‬
-- .          Wood HM, Babineau D, Gearhart JP. In vitro fertilization and the cloacal/bladder exstrophy-epispadias complex: a continuing association. J Pediatr Urol 2007; **3**: 305.‬
-- .         Boyadijiev S, South S, Radford C, et al. Characterization of reciprocal translocation 46XY,t(8;9)(p11.2;13) in a patient with bladder exstrophy identifies CASPR3 as a candidate gene and shows duplication of the regions flanking the pericentric heterochromatin on chromosome 9 in normal population. Presented at American Society of Genetics, Oct. 29, 2004, Toronto, Canada.‬
-- .         Reutter H, Thauvin-Robinet C, Boemers TM, et al. Bladder exstrophy-epispadias complex: Investigation of suppressor of variegation, enhancer of zeste and Trithorax (SET) as a candidate gene in a large cohort of patients. Scand J Urol Nephrol. 2006; **40**: 221.‬
-- .        Boyadjiev SA, South ST, Radford CL, et al. A reciprocal translocation 46,XY,t(8;9)(p11.2;q13) in a bladder exstrophy patient disrupts CNTNAP3 and presents evidence of a pericentromeric duplication on chromosome 9. Genomics 2005; **85**: 622.‬
-- .         Ludwig M, Ruschenforf F, Saar K, Hubner N, Siekmann L, Boyadjiev SA, Reutter H. Genome-wide linkage scan for bladder exstrophy-epispadias complex. Birth Defects Res A Clin Mol Teratol. 2009 Feb;85(2):174-8.‬
-- .          Gearhart JP, Ben Chaim J, Jeffs RD. Criteria for prenatal diagnosis of bladder exstrophy. Obstet Gynecol 1995; **85**: 961.‬
-- .         Gobbi D, Fascetti LF, Tregnaghi A, et al. Early prenatal diagnosis of cloacal exstrophy with fetal magnetic resonance imaging. Fetal Diagn Ther 2008; **24**: 437.‬
--‬
- .           Lattimer JK, Smith MJK: Exstrophy closure: a follow-up on 70 cases. J Urol 1966; **95**: 356.‬
-- .          Lancaster PAL: Epidemiology of bladder exstrophy: A communication from the International Clearinghouse for Birth Defects monitoring System. Teratology 36:221, 1987.‬
-- Nelson CP, Dunn RL, Wei JT. Contemporary epidemiology of bladder exstrophy in the United States. J Urol 2005; **173**: 1728.‬
-- .         Shapiro E, Lepor H, Jeffs RD. The inheritance of classic bladder exstrophy. J Urol 1984; **132**: 308.‬
-- .          Ives E, Coffey R, Carter CO. A family study of bladder exstrophy. J Med Genet 1980; **17**: 139.‬
-- .         Lancaster PA. Epidemiology of bladder exstrophy: A communication from the International Clearinghouse for Birth Defects monitoring System. Teratology 1987; **36**: 221.‬
-- .         Ambrose SS, O&#39;Brian DP. Surgical embryology of the exstrophy-epispadias complex. Surg Clin North Am 1974; **54**: 1379.‬
-- .        Marshall VF, Muecke C. Congenital abnormalities of the bladder. In Handbuch der Urologie. New York: Springer Verlag, 1968; p. 165.‬
-- .         Mildenberger H, Lkuth D, Dziuba M. Embryology of bladder exstrophy. J Pediatr Surg 1988; **23**: 116.‬
-- .          Johnson JH, Kogan SJ. The exstrophic anomalies and their surgical reconstruction. Curr Prob Surg 1974 (August):1-39.‬
+## Figuras 
+
+![Figura 1](/assets/figures/figure-7-36-1.jpg)‬  
+**Figura 1:** Recién nacido con extrofia vesical clásica.‬
+
+![Figura 2](/assets/figures/figure-7-36-2.jpg)  
+**Figura 2:** ultrasonido de gestación de 30 semanas que muestra ausencia de vejiga y una masa abdominal inferior.‬
+
+![Figura 3](/assets/figures/figure-7-36-3.jpg)  
+**Figura 3:** Vista sagital de la extrofia vesical (masa) debajo de la inserción abdominal del cordón umbilical (AIC) en la RM prenatal T2.‬
+
+![Figura 4](/assets/figures/figure-7-36-4.jpg)  
+**Figura 4:** Desplazamiento del elevador del ano a una posición más posterior. En el paciente con extrofia.‬
+
+![Figura 5](/assets/figures/figure-7-36-5.jpg)  
+**Figura 5:** Mediciones del pene y la pelvis en hombres normales y pacientes con extrofia.‬
+
+![Figura 6](/assets/figures/figure-7-36-6.jpg)  
+**Figura 6:** Recién nacido con extrofia vesical clásica. Tenga en cuenta múltiples pólipos en la placa vesical.‬
+
+![Figura 7](/assets/figures/figure-7-36-7.jpg)  
+**Figura 7:** Intubación de orificios ureterales bilaterales en preparación para la disección.‬
+
+![Figura 8](/assets/figures/figure-7-36-8.jpg)  
+**Figura 8:** Marcaje de placa uretral. Observe dos suturas de tracción en cada hemi glande.‬
+
+![Figura 9](/assets/figures/figure-7-36-9.jpg)  
+**Figura 9:** Movilización agresiva de la vejiga, incluido el ombligo.‬
+
+![Figura 10](/assets/figures/figure-7-36-10.jpg)  
+**Figura 10:** Identificación de cuerpos cavernosos bilaterales después del desprendimiento del falo.‬
+
+![Figura 11](/assets/figures/figure-7-36-11.jpg)  
+**Figura 11:**: Después de la separación de los cuerpos cavernosos y la movilización de la placa uretral.‬
+
+![Figura 12](/assets/figures/figure-7-36-12.jpg)  
+**Figura 12:**: Después de la separación completa de los cuerpos cavernosos y el glande.‬
+
+![Figura 13](/assets/figures/figure-7-36-13.jpg)  
+**Figura 13:**: Colocación del tubo suprapúbico antes del cierre de la vejiga. Esto saldrá del abdomen por el ombligo.‬
+
+![Figura 14](/assets/figures/figure-7-36-14.jpg)  
+**Figura 14:**: vejiga y uretra cerradas en 2 capas como una sola unidad. Obsérvense los catéteres ureterales bilaterales que salen a través del meato uretral.‬
+
+![Figura 15](/assets/figures/figure-7-36-15.jpg)  
+**Figura 15:**: Se puede lograr la rotación interna de la pelvis para volver a aproximarse al pubis cuando se reconstruye en las primeras 72 horas de vida.‬
+
+![Figura 16](/assets/figures/figure-7-36-16.jpg)  
+**Figura 16:**: Reconstrucción del falo.‬
+
+![Figura 17](/assets/figures/figure-7-36-17.jpg)  
+**Figura 17:**: Cierre fascial.‬
+
+![Figura 18](/assets/figures/figure-7-36-18.jpg)  
+**Figura 18:**: Cierre de la pared abdominal.‬
+
+![Figura 19](/assets/figures/figure-7-36-19.jpg)  
+**Figura 19:**: Tracción modificada de Bryant.‬
+
+![Figura 20](/assets/figures/figure-7-36-20.jpg)  
+**Figura 20:**: Postoperatorio.‬
+
+![Figura 21](/assets/figures/figure-7-36-21.jpg)  
+**Figura 21:**: Recién nacido con extrofia cloacal.‬
+
+![Figura 22](/assets/figures/figure-7-36-22.jpg)  
+**Figura 22:**: Ecografía prenatal de mujer con extrofia cloacal. Obsérvese la masa compleja de la pared abdominal anterior inferior a la inserción del cordón umbilical. No se visualiza vejiga.‬
+
+## Referencias
+
+Hsieh K, O&#39;Loughlin MT, Ferrer FA. Bladder Exstrophy and Pheontypic Gender Determination on Fetal Magnetic Resonance Imaging. _Urology_ 2005; **65**: 998-999.‬
+Stec AA, Pannu HK, Tadros YE, et al: Pelvic floor evaluation in classic bladder exstrophy using 3-dimensional computerized tomography-Initial insights. _J Urol_ 2001; **166**: 1444.‬
+Silver RI, Partin AW, Epstein JI, et al: Prostate specific antigen in men born with bladder exstrophy. _Urology_ 1997; **49**: 253.‬
+Reiner WG. Psychosocial concerns in bladder and cloacal exstrophy. _Dialogues in Pediatric Urology_ 1999; **22**: 8.‬
+Shober JM, Carmichael PA, Hines M, et al. The ultimate challenge of cloacal exstrophy. _J Urol_ 2002; **167**: 300.‬
+Lee RS, Grady R, Joyner B, Casale P, et al. Can a complete primary repair approach be applied to cloacal exstrophy? J Urol 2006:176Z:2643.‬
+Ben-Chaim J, Sponseller PD, Jeffs RD, et al. Application of osteotomy in cloacal exstrophy patients. _J Urol_ 1995; **154**: 865.‬
+Silver RI, Sponseller PD, Gearhart JP. Staged closure of the pelvis in cloacal exstrophy: first description of a new approach. _J Urol_ 1999; **161**: 263.‬
+Adams MC, Mitchell ME, Rink RC. Gastrocystoplasty: an alternative solution to the problem of urological reconstruction in the severely compromised patient. _J Urol_ 1988; **140**: 1152.‬
+Hendren WH. Ileal nipple for continence in cloacal exstrophy. _J Urol_ 1992; **148**: 372.‬
+Tank ES, Lindenaur SM: Principles of management of exstrophy of the cloaca. _Am J Surg_ 1970; **119**: 95.‬
+Gearhart JP, Jeffs RD:. Techniques to create urinary continence in cloacal exstrophy patients. _J Urol_ 1991; **146**: 616.‬
+Ricketts R, Woodard JR, Zwiren GT, et al. Modern treatment of cloacal exstrophy. _J Pediatr Surg_ 1991; **26**: 444.‬
+Austin P, Holmsy YL, Gearhart JP, et al. Prenatal diagnosis of cloacal exstrophy. _J Urol_ 1998; **160**: 1179.‬
+Hamada H, Pakano K, Shinah H, et al. New ultrasonographic criterion for the prenatal diagnosis of cloacal exstrophy: elephant trunk-like image. _J Urol_ 1999; **162**: 2123.‬
+Husmann DA, McLorie GA, Churchill BM. Phallic reconstruction in cloacal exstrophy. _J Urol_ 1989; **142**: 563.‬
+Mathews RI, Perlman E, Gearhart JP: Gonadal morphology in cloacal exstrophy: implications in gender assignment. _BJU Int_ 1999; **83**: 484.‬
+Reiner WG. Psychosexual development in genetic males assigned female: the cloacal exstrophy experience. _Child Adolesc Psychiatr Clin North Am_ 2004; **13**: 657.‬
+Schober JM, Carmichael PA, Hines M, Ransley PG. The ultimate challenge of cloacal exstrophy. _J Urol_ 2002; **167**: 300.‬
+Baker Towell DM, Towell AD. A preliminary investigation into quality of life, psychological distress and social competence in children with cloacal exstrophy. _J Urol_ 2003; **169**: 1850.‬
+Taghizadeh A, Qteishat A, Cuckow PM. Restoring hindgut continuity in cloacal exstrophy: A valuable method of optimizing bowel length. _Eur J Pediatr Surg_ 2009; **19**: 141.‬
+Husmann DA, McLorie GA, Churchill BM: Closure of the exstrophic bladder: an evaluation of the factors leading to its success and its importance on urinary continence. _J Urol_ 1989; **142**: 522.‬
+Ricketts R, Woodard JR, Zwiren GT, et al. Modern treatment of cloacal exstrophy. _J Pediatr Surg_ 1991; **26**: 444.‬
+Levitt MA, Mak GZ, Falcone RA Jr., Pena A. Cloacal exstrophy – pull-through or permanent stoma? A review of 53 patients. _J Ped Surg_ 2008; **43**: 164.‬
+Hurwitz RS, Manzoni GA, Ransley PG, et al. Cloacal exstrophy: a report of 34 cases. _J Urol_ 1987; **138**: 1060.‬
+Thauvin-Robinet C, Faivre L, Cusin V, et al. Cloacal exstrophy in an infant with 9q34.1-qter deletion resulting from a de novo unbalanced translocation between chromosome 9q and Yq. _Am J Med Genet A_ 2004; **126**: 303.‬
+Rickham PP. Vesicointestinal fissure. _Arch Dis Child_ 1960; **35**: 97.‬
+Mathews R, Jeffs RD, Reiner WG, et al. Cloacal exstrophy-improving the quality of life: The Johns Hopkins experience. _J Urol_ 1998; **160**: 2452.‬
+Keppler-Noreiul KM. OEIS complex (omphalocele-exstrophy-imperforate anus-spinal defects): a review of 14 cases. _Am J Med Genet_ 2001; **99**: 271.‬
+Appignani BA, Jaramillo D, Barnes PD, et al. Dysraphic myelodysplasias associated with urogenital and anorectal anomalies: prevalence and types seen with MR imaging. _AJR Am J Roentgenol_ 1994; **163**: 1199.‬
+McLaughlin KT, Rink RC, Kalsbeck GE, et al. Cloacal exstrophy: the neurological implications. _J Urol_ 1995; **154**: 782.‬
+Karrer FM, Flannery AM, Nelson MDJ, et al. Anorectal malformations: evaluation of associated spinal dysraphic syndromes. _J Pediatr Surg_ 1988; **23**: 45.‬
+Dick EA, de Bruyn R, Patel K, et al. Spinal ultrasound in cloacal exstrophy. _Clin Radiol_ 2001; **56**: 289.‬
+Husmann DA, Vandersteen VR, McLorie GA, et al. Urinary continence after staged bladder reconstruction in cloacal exstrophy: the affect of co-existing neurological abnormalities on urinary continence. _J Urol_ 1999;161;1598.‬
+Schlegel PN, Gearhart JP. Neuroanatomy of the pelvis in an infant with cloacal exstrophy: a detailed microdissection with histology. _J Urol_ 1989; **141**: 583.‬
+Cohen AR. The mermaid malformation: cloacal exstrophy and occult spinal dysraphism. _Neurosurgery_ 1991; **28**: 834.‬
+Sponseller PD, Bisson LJ, Gearhart JP, et al. The anatomy of the pelvis in the exstrophy complex. _J Bone Joint Surg Am_ 1995; **77**: 177.‬
+Stec AA, Wakim A, Barbet P, et al. Fetal bony pelvis in the bladder exstrophy complex: Normal potential for growth? Urology 2003; **62**: 337.‬
+Diamond DA: Management of cloacal exstrophy. _Dial Pediatr Urol_ 1990; **13**: 2.‬
+Greene WB, Dias LS, Lindseth RE, et al. Musculoskeletal problems in association with cloacal exstrophy. _J Bone Joint Surg Am_ 1991; **73**: 551.‬
+Hurwitz RS, Manzoni GA, Ransley PG, et al. Cloacal exstrophy: a report of 34 cases. _J Urol_ 1987; **138**: 1060.‬
+Baird AD, Nelson CP, Gearhart JP. Modern staged repair of bladder exstrophy: a contemporary series. _J Pediatr Urol_ 2007; **3**: 311.‬
+Purves JT, Baird AD, Gearhart JP. The modern staged repair of bladder exstrophy in the female: a contemporary series. _J Pediatr Urol_ 2008; **4**: 150.‬
+Hanna MK, Williams DI. Genital function in males with vesical exstrophy and epispadias. _BJU Int_ 1969; **44**: 1972.‬
+Stein R, Stuckel M, Fisch M, et al. Fate of the adult exstrophy patient. _J Urol_ 1994; **152**: 1413.‬
+Bastuba MD, Alper MM, Oats RD. Fertility and the use of assisted reproductive techniques in the adult male exstrophy patient. _Fertil Steril_ 1993; **60**: 733.‬
+Woodhouse CR. Sexual function in boys with exstrophy, myelomeningocele, and micropenis. _Urology_ 1998; **52**: 3.‬
+Ben-Chaim J, Jeffs RD, Reiner WG, et al. The outcome of patients with classic bladder exstrophy in adult life. _J Urol_ 1996; **155**: 1251.‬
+Kropp BP, Cheng EY. Total urogenital complex mobilization in female patients with exstrophy. _J Urol_ 2000; **164**: 1035.‬
+Woodhouse CR. The gynecology of exstrophy. _BJU Int_ 1999; **83**: 34.‬
+Mathews RI, Gan, M, Gearhart JP. Urogynaecologic and obstetric issues in women with the exstrophy-epispadias complex. _BJU Int_ 2003; **91**: 845.‬
+Kramer SA, Jackson IT. Bilateral rhomboid flaps for reconstruction of the external genitalia in epispadias-exstrophy. _Plast Reconstr Surg_ 1986; **77**: 621.‬
+Krisiloff M, Puchner PJ, Tretter W, et al. Pregnancy in women with bladder exstrophy. _J Urol_ 1978; **119**: 478.‬
+Burbage KA, Hensle TW, Chambers WJ, et al: Pregnancy and sexual function in bladder exstrophy. _Urology_ 1986; **28**: 12.‬
+Kennedy WA, Hensle TW, Riley EA. Pregnancy after orthotopic continent urinary diversion. _Surg Obstet Gynecol_ 1993; **177**: 405.‬
+Stein R, Fisch M, Bauer H, et al. Operative reconstruction in external and internal genitalia in female patients with bladder exstrophy and epispadias. _J Urol_ 1995; **154**: 1002.‬
+Mednick L, Gargollo P, Oliva M, et al. Stress and coping of parents of young children diagnosed with bladder exstrophy. _J Urol_ 2009; **181**: 1312.‬
+Meldrum KK, Mathews RI, Nelson CP, et al. Subspecialty training and surgical outcomes in children with failed bladder exstrophy closure. _J Pediatr Urol_ 2005; **1**: 95.‬
+Nelson CP, North AC, Ward MK, et al. Economic impact of failed or delayed primary repair of bladder exstrophy: differences in cost of hospitalization. _J Urol_ 2008; **179**: 680.‬
+Nelson CP, Dunn RL, Wei JT, et al. Surgical repair of bladder exstrophy in the modern era: contemporary practice patterns and the role of hospital case volume. _J Urol_ 2005; **174**: 1099.‬
+Sweetser TH, Chisolm TC, Thompson WH. Exstrophy of the urinary bladder: discussion of anatomic principles applicable to repair with a preliminary report of a case. _Minn Med_ 1952; **35**: 654.‬
+Cendron J. La réconstruction vésicale. _Ann Chir Infant_ 1971; **12**: 371.‬
+Jeffs RD, Charrios R, Mnay M, et al. Primary closure of the exstrophied bladder. In Scott R (ed): Current Controversies in Urologic Management. Philadelphia:WB Saunders, 1972; 235.‬
+Williams DI, Keaton J. Vesical exstrophy: Twenty years&#39; experience. _Br J Surg_ 1973; **60**: 203.‬
+Gearhart JP, Jeffs RD. State of the art reconstructive surgery for bladder exstrophy at the Johns Hopkins Hospital. _Am J Dis Child_ 1989; **143**: 1475.‬
+Grady R, Mitchell ME. Complete repair of exstrophy. _J Urol_ 1999; **162**: 1415.‬
+Chan DY, Jeffs RD, Gearhart JP. Determinants of continence in the bladder exstrophy population: predictors of success? Urology 2001; **57**: 774.‬
+Stein R, Fisch M, Black P. Strategies for reconstruction after unsuccessful or unsatisfactory primary treatment of patients with bladder exstrophy and incontinent epispadias. _J Urol_ 1999; **161**: 1934.‬
+Grady RW, Mitchell ME. Surgical techniques for one-stage reconstruction of the exstrophy-epispadias complex. In: Wein AJ, Kavoussi LR, Novick AC, Partin AW, Peters CA (eds). Campbell-Walsh Urology. Philadelphia: Saunders; 2007, p. 3497.‬
+Husmann DA. Surgery Insight: advantages and pitfalls of surgical techniques for the correction of bladder exstrophy. Nat Clin Prac Urol 2006:3:95.‬
+Kibur Y, Roth CC, Frimberger D, et al. Our initial experience with the technique of complete primary repair for bladder exstrophy. _J Pediatr Urol_ 2009; **5**: 186.‬
+Mitchell ME. Bladder exstrophy repair: complete primary repair of exstrophy. _Urology_ 2005; **65**: 5.‬
+Gargollo PC, Borer JG, Diamond DA, et al. Prospective followup in patients after complete primary repair of bladder exstrophy. _J Urol_ 2008; **180**: 1665.‬
+Kibur Y, Roth CC, Frimberger D, et al. Our initial experience with the technique of complete primary repair for bladder exstrophy. _J Pediatr Urol_ 2009; **5**: 186.‬
+Shnorhavorian M, Grady RW, Anderson A, et al. Long-term followup of complete primary repair of exstrophy: The Seattle Experience. _J Urol_ 2008; **180**: 1615.‬
+Hafez AT and El-Sherbiny MT. Complete repair of bladder exstrophy: management of resultant hypospadias. _J Urol_ 2005; **173**: 958-961.‬
+Gearhart JP,Baird AD. The failed complete repair of bladder exstrophy: insights and outcomes. _J Urol_ 2005; **174**: 1669-.‬
+Gargollo PC and Borer JG. Contemporary outcomes in bladder exstrophy. _Curr Opin Urol_ 2007; **17**: 272-280.‬
+Mathews RI, Gan, M, Gearhart JP. Urogynaecologic and obstetric issues in women with the exstrophy-epispadias complex. _BJU Int_ 2003; **91**: 845.‬
+Shapiro E, Jeffs RD, Gearhart JP, et al. Muscarinic cholinergic receptors in bladder exstrophy: Insights into surgical management. _J Urol_ 1985; **134**: 309.‬
+Lee BR, Perlman EJ, Partin AW, et al. Evaluation of smooth muscle and collagen subtypes in normal newborns and those with bladder exstrophy. _J Urol_ 1996; **156**: 203.‬
+Peppas DS, Blanche-Tijien M, Perlman E, et al: A quantitative histology of the bladder in various stages of reconstruction utilizing color morphometry. In Gearhart JP, Mathews RI (eds): Exstrophy-Epispadias Complex: Research Concepts and Clinical Applications. New York, Plenum, 1999:41.‬
+Lais A, Paolocci N, Ferro N, et al. Morphometric analysis of smooth muscle in the exstrophy-epispadias complex. _J Urol_ 1996; **156**: 819.‬
+Orsola A, Estrada CR, Nguyen HT, et al. Growth and stretch response of human exstrophy bladder smooth muscle cells: molecular evidence of normal intrinsic function. _BJU Int_ 2005; **95**: 144.‬
+Mathews RI, Wills M, Perlman E, et al. Neural innervation of the newborn exstrophy bladder: An immunohistological study. _J Urol_ 1999; **162**: 506.‬
+Rosch W, Christl A, Strauss B, et al. Comparison of preoperative innervation pattern and post reconstructive urodynamics in the exstrophy-epispadias complex. _Urol Int_ 1997; **59**: 6.‬
+Hipp J, Andersson KE, Kwon TG, et al. Micoarray analysis of exstrophic human bladder smooth muscle. _BJU Int_ 2008; **101**: 100.‬
+Novak TE, Lakshmanan Y, Frimberger D. et al. Polyps in the exstrophic bladder. A cause for concern? J Urol 2005; **174**: 1522.‬
+Toguri AG, Churchill BM, Schillinger JF, et al. Continence in cases of bladder exstrophy. _J Urol_ 1987; **119**: 538.‬
+Diamond DA, Bauer SB, Dinlenc C, et al. Normal urodynamics in patients with bladder exstrophy: Are they achievable? J Urol 1999; **162**: 841.‬
+Mathews R, Gosling JA, Gearhart JP. Ultrastructure of the bladder in classic exstrophy-Correlation with development of continence. _J Urol_ 2004; **172**: 1446.‬
+Wakim A, Barbet JP. Connections of the bladder plate and bladder neck with the bony pelvis in a fetus with classic bladder exstrophy. _Urology_ 2002; **60**: 142.‬
+Gearhart JP. Failed bladder exstrophy closure: evaluation and management. _Urol Clin North Am_ 1991; **18**: 687.‬
+Connolly JA, Peppas DS, Jeffs RD, et al. Prevalence in repair of inguinal hernia in children with bladder exstrophy. _J Urol_ 1995; **154**: 1900.‬
+Baker LA, Gearhart JP. Staged approach to bladder exstrophy and the role of osteotomy. _World J Urol_ 1998; **16**: 205.‬
+Silver RI, Partin AW, Epstein JI, et al. Penile length in adulthood after bladder exstrophy reconstruction. _J Urol_ 1997; **158**: 999.‬
+Gearhart JP, Yang A, Leonard MP, et al. Prostate size and configuration in adult patients with bladder exstrophy. _J Urol_ 1993; **149**: 308.‬
+Silver RI, Partin AW, Epstein JI, et al: Prostate specific antigen in men born with bladder exstrophy. _Urology_ 1997; **49**: 253.‬
+Berkowitz J, Carter HB, Gearhart JP. Prostate cancer in patients with the bladder exstrophy-epispadias complex: insights and outcomes. _Urology_ 2008; **71**: 1064.‬
+Schlegel PN, Gearhart JP. Neuroanatomy of the pelvis in an infant with cloacal exstrophy: A detailed microdissection with histology. _J Urol_ 1989; **141**: 583.‬
+D&#39;Hauwers KS, Feitz WF, Kremer JA. Bladder exstrophy and male infertility: pregnancies after ICSI with ejaculated or epididymal sperm. _ Fertil Steril_ 2008; **89**: 387.‬
+Sponseller PD, Bisson LJ, Gearhart JP, et al. The anatomy of the pelvis in the exstrophy complex. _J Bone Joint Surg Am_ 1995; **77**: 177.‬
+Cadeddu JA, Benson JE, Silver RI, et al. Spinal abnormalities in classic bladder exstrophy. Br J Urol 1997:79:975.‬
+Stec AA, Pannu HK, Tadros YE, et al. Pelvic floor evaluation in classic bladder exstrophy using 3-dimensional computerized tomography-Initial insights. _J Urol_ 2001; **166**: 1444.‬
+Halachmi S, Farhat W, Konen O, et al. Pelvic floor magnetic resonance imaging after neonatal single stage reconstruction in male patients with classic bladder exstrophy. _J Urol_ 2003; **170**: 1505.‬
+Gargollo PC, Borer JG, Retik AB, et al. Magnetic resonance imaging of pelvic musculoskeletal and genitourinary anatomy in patients before and after complete primary repair of bladder exstrophy. _J Urol_ 2005; **174**: 1559.‬
+Ebert AK, Falkert A, Brandl R, et al. Pelvic-floor imaging using three-dimensional ultrasonography and magnetic resonance imaging in the long term follow-up of the bladder-exstrophy-epispadias complex. _BJU Int_ 2010; **105**: 248.‬
+Ives E, Coffey R, Carter CO. A family study of bladder exstrophy. _J Med Genet_ 1980; **17**: 139.‬
+Reutter H, Qi L, Gearhart JP, et al. Concordance analyses of twins with bladder exstrophy-epispadias complex suggest genetic etiology. _Am J Med Genet Part A_ 2007;143A:2751.‬
+Boyadijiev SA, Dodson JL, Radford CL, et al. Clinical and molecular characterization of the bladder exstrophy-epispadias complex: analysis of 232 families. _BJU Int_ 2004; **94**: 1337.‬
+Wood HP, Trock BP, Gearhart JP. In vitro fertilization and the cloacal-bladder exstrophy-epispadias complex: Is there an association? J Urol 2003; **169**: 1512.‬
+Wood HM, Babineau D, Gearhart JP. In vitro fertilization and the cloacal/bladder exstrophy-epispadias complex: a continuing association. _J Pediatr Urol_ 2007; **3**: 305.‬
+Boyadijiev S, South S, Radford C, et al. Characterization of reciprocal translocation 46XY,t(8;9)(p11.2;13) in a patient with bladder exstrophy identifies CASPR3 as a candidate gene and shows duplication of the regions flanking the pericentric heterochromatin on chromosome 9 in normal population. Presented at American Society of Genetics, Oct. 29, 2004, Toronto, Canada.‬
+Reutter H, Thauvin-Robinet C, Boemers TM, et al. Bladder exstrophy-epispadias complex: Investigation of suppressor of variegation, enhancer of zeste and Trithorax (SET) as a candidate gene in a large cohort of patients. Scand J Urol Nephrol. 2006; **40**: 221.‬
+Boyadjiev SA, South ST, Radford CL, et al. A reciprocal translocation 46,XY,t(8;9)(p11.2;q13) in a bladder exstrophy patient disrupts CNTNAP3 and presents evidence of a pericentromeric duplication on chromosome 9. _Genomics_ 2005; **85**: 622.‬
+Ludwig M, Ruschenforf F, Saar K, Hubner N, Siekmann L, Boyadjiev SA, Reutter H. Genome-wide linkage scan for bladder exstrophy-epispadias complex. Birth Defects Res A Clin Mol Teratol. 2009 Feb;85(2):174-8.‬
+Gearhart JP, Ben Chaim J, Jeffs RD. Criteria for prenatal diagnosis of bladder exstrophy. _Obstet Gynecol_ 1995; **85**: 961.‬
+Gobbi D, Fascetti LF, Tregnaghi A, et al. Early prenatal diagnosis of cloacal exstrophy with fetal magnetic resonance imaging. _Fetal Diagn Ther_ 2008; **24**: 437.‬
+Lattimer JK, Smith MJK: Exstrophy closure: a follow-up on 70 cases. _J Urol_ 1966; **95**: 356.‬
+Lancaster PAL: Epidemiology of bladder exstrophy: A communication from the International Clearinghouse for Birth Defects monitoring System. Teratology 36:221, 1987.‬
+Nelson CP, Dunn RL, Wei JT. Contemporary epidemiology of bladder exstrophy in the United States. _J Urol_ 2005; **173**: 1728.‬
+Shapiro E, Lepor H, Jeffs RD. The inheritance of classic bladder exstrophy. _J Urol_ 1984; **132**: 308.‬
+Ives E, Coffey R, Carter CO. A family study of bladder exstrophy. _J Med Genet_ 1980; **17**: 139.‬
+Lancaster PA. Epidemiology of bladder exstrophy: A communication from the International Clearinghouse for Birth Defects monitoring System. _Teratology_ 1987; **36**: 221.‬
+Ambrose SS, O&#39;Brian DP. Surgical embryology of the exstrophy-epispadias complex. _Surg Clin North Am_ 1974; **54**: 1379.‬
+Marshall VF, Muecke C. Congenital abnormalities of the bladder. In Handbuch der Urologie. New York: Springer Verlag, 1968; p. 165.‬
+Mildenberger H, Lkuth D, Dziuba M. Embryology of bladder exstrophy. _J Pediatr Surg_ 1988; **23**: 116.‬
+Johnson JH, Kogan SJ. The exstrophic anomalies and their surgical reconstruction. Curr Prob Surg 1974 (August):1-39.‬

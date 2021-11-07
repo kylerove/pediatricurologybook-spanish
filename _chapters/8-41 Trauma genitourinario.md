@@ -5,6 +5,7 @@ chapter: 41
 title: Trauma genitourinario
 sort-key: 8-41
 permalink-en: https://www.pediatricurologybook.com/urinary_tract_trauma.html
+layout: default
 review-formatting-complete: KR-2021-11-05
 ---
 

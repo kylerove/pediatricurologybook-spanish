@@ -5,6 +5,7 @@ chapter: 19
 title: Valvulas uretrales posteriores
 sort-key: 4-19
 permalink-en: https://www.pediatricurologybook.com/urethral_valves.html
+layout: default
 ---
 
 # Valvulas uretrales posteriores

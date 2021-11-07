@@ -5,6 +5,7 @@ chapter: 5
 title: Fisiología renal
 sort-key: 1-5
 permalink-en: https://pediatricurologybook.com/renal_physiology.html
+layout: default
 review-formatting-complete: KR-2021-11-05
 ---
 

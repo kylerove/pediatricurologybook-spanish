@@ -5,6 +5,7 @@ chapter: 28
 title: Hipospadias
 sort-key: 7-28
 permalink-en: https://www.pediatricurologybook.com/hypospadias.html
+layout: default
 ---
 
 # Hipospadias

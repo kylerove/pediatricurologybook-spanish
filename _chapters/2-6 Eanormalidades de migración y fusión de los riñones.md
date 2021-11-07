@@ -5,6 +5,7 @@ chapter: 6
 title: Eanormalidades de migración y fusión de los riñones
 sort-key: 2-6
 permalink-en: https://pediatricurologybook.com/kidney_fusion.html
+layout: default
 ---
 
 # Eanormalidades de migración y fusión de los riñones

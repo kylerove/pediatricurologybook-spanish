@@ -5,6 +5,7 @@ chapter: 21
 title: Tumores renales
 sort-key: 5-21
 permalink-en: https://www.pediatricurologybook.com/renal%20tumor.html
+layout: default
 ---
 
 # Tumores renales

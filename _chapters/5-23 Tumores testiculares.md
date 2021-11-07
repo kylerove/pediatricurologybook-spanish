@@ -5,6 +5,7 @@ chapter: 23
 title: Tumores Testiculares
 sort-key: 5-23
 permalink-en: https://www.pediatricurologybook.com/tumors.html
+layout: default
 ---
 
 # Tumores Testiculares

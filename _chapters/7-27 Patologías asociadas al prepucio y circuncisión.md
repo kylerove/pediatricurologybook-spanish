@@ -5,6 +5,7 @@ chapter: 27
 title: Patologías asociadas al prepucio y circuncisión
 sort-key: 7-27
 permalink-en: https://www.pediatricurologybook.com/foreskinprob.html
+layout: default
 ---
 
 # Patologías asociadas al prepucio y circuncisión

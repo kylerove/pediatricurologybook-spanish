@@ -5,6 +5,7 @@ chapter: 30
 title: Faloplastia
 sort-key: 7-30
 permalink-en: https://www.pediatricurologybook.com/phalloplasty.html
+layout: default
 ---
 
 # Faloplastia

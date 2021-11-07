@@ -5,6 +5,7 @@ chapter: 32
 title: DSD-Aspectos Endocrinológicos
 sort-key: 7-32
 permalink-en: https://www.pediatricurologybook.com/endocrinology.html
+layout: default
 ---
 
 # Desordenes del Desarrollo Sexual (DSD) —Aspectos Endocrinológicos**‬

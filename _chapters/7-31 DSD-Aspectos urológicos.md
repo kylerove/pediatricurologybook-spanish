@@ -5,6 +5,7 @@ chapter: 31
 title: DSD-Aspectos Urológicos
 sort-key: 7-31
 permalink-en: https://www.pediatricurologybook.com/disorders.html
+layout: default
 ---
 
 # Desordenes del Desarrollo Sexual (DSD) — Aspectos Urológicos

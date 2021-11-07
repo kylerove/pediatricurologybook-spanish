@@ -5,6 +5,7 @@ chapter: 20
 title: Obstrucción prenatal del tracto urinario inferior
 sort-key: 4-20
 permalink-en: https://www.pediatricurologybook.com/utobstruction.html
+layout: default
 ---
 
 # Obstrucción prenatal del tracto urinario inferior

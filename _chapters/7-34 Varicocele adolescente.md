@@ -5,6 +5,7 @@ chapter: 34
 title: Varicocele adolescente
 sort-key: 7-34
 permalink-en: https://www.pediatricurologybook.com/Varicocele.html
+layout: default
 ---
 
 # Varicocele adolescente

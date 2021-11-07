@@ -5,6 +5,7 @@ chapter: 8
 title: Duplicación Renal, ureterocele y ureter ectópico
 sort-key: 2-8
 permalink-en: https://pediatricurologybook.com/duplex-kidney.html
+layout: default
 ---
 
 # Duplicación Renal, ureterocele y ureter ectópico

@@ -5,6 +5,7 @@ chapter: 15
 title: Enuresis
 sort-key: 3-15
 permalink-en: https://www.pediatricurologybook.com/Nocturnal_enuresis.html
+layout: default
 ---
 
 # Enuresis
