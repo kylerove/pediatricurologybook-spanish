@@ -102,6 +102,46 @@ Durante el primer procedimiento, la endoscopia es útil para identificar la pres
 
 Después de un intervalo de 6 meses, procederíamos a la uretroplastia y la corrección de la transposición penoscrotal, junto con la reparación del escroto bífido. Además, en algunos pacientes, la conexión entre el remanente vaginal y el seno urogenital es tan baja que se puede alcanzar fácilmente desde el perineo abriendo la parte anterior del cuerpo perineal. El remanente vaginal puede extirparse completamente o desconectarse y dejarse _in situ_, y en ocasiones es suficiente la extirpación de la mucosa. Este último es relativamente simple y disminuye el riesgo de daño involuntario en el recto.‬
 
+## Tablas
+
+**Tabla 1**
+
+| Regla No | Regla | Implicación |
+| --- | --- | --- |
+| 1 | Los testículos descienden, los ovarios no | Una gónada palpable es un testículo |
+| 2 | Descenso testicular + regresión del conducto de Muller vinculado | Una gónada palpable significa que el conducto de Müller ipsilateral ha retrocedido |
+| 3 | Útero presente = células de Sertoli deficientes / ausentes (PR o ecografía) | Los conductos de Müller persistentes solo ocurren cuando el testículo está ausente o es disgenético (o PMDS raro) |
+| 4 | Los conductos internos reflejan la gónada ipsilateral | MD / WD controlado por hormonas exocrinas ipsilaterales de un testículo |
+| 5 | Los andrógenos circulatorios (suprarrenales) no pueden masculinizar el conducto de Wolff | Niveles de andrógenos suprarrenales (en CAH) demasiado bajos a las 8 semanas y sin secreción exocrina por debajo de WD |
+| 6 | Los genitales externos se masculinizan proporcionalmente a la exposición a los andrógenos | Agrandamiento del clítoris (tejido eréctil, no solo prepucio) causado únicamente por andrógenos |
+| 7 | Desarrollo masculino externo inversamente proporcional a menor regresión vaginal | El remanente vaginal estará presente genitales ambiguos |
+| 8 | Masculinización externamente completa a las 12 semanas, pero el pene en crecimiento necesita andrógenos hasta 40 semanas | Los andrógenos ausentes después de esto (en defectos hipotalámicos) causan micropene y UDT |
+| 9 | "Hipospadias" asume el género masculino, por lo tanto, utilícelo solo si el escroto se fusiona y los testículos descienden | hipospadias ’= niño con hormonas normales y anomalía local del desarrollo uretral. Si se requiere UDT / escroto bífido diagnóstico completo DSD |
+| 10 | Anomalías genitales no hormonales fuera del espectro estrecho de hombre a mujer | Las anomalías anatómicas perineales incluyen los genitales y otras características (p. Ej., Defectos de la pared abdominal o anorrectales) |
+
+## Figuras
+
+![Figura 1](/assets/figures/figure-7-31-1.jpg)‬  
+**Figura 1.** A) Anatomía relativa de una mujer normal frente a una mujer virilizada en CAH, con masculinización de la uretra anterior que empuja la abertura del perineo hacia adelante, aunque la unión entre el seno urogenital y la vagina permanece bastante cerca de la superficie.
+
+![Figura 2](/assets/figures/figure-7-31-2.jpg)‬  
+**Figura 2.** B) Marcado de los colgajos de piel para vaginoplastia (V-Y) utilizando un sonido para marcar el límite posterior del seno urogenital masulinizado. Esto marca la base del colgajo de piel para que se alinee con la vagina y el límite posterior de los pliegues labio-escrotales.
+
+![Figura 3](/assets/figures/figure-7-31-3.jpg)‬  
+**Figura 3.** C) Incisiones cutáneas para clitoroplastia, vaginoplastia y labios redundantes.
+
+![Figura 4](/assets/figures/figure-7-31-4.jpg)‬  
+**Figura 4.** D) Mantén las suturas en el glande y el prepucio. Las líneas de incisión en la superficie ventral se muestran en detalle en relación con la tira mucosa ventral del seno urogenital y con la vaginoplastia (Y-V). 
+
+![Figura 5](/assets/figures/figure-7-31-5.jpg)‬  
+**Figura 5.** E) Movilización ventral del eje fálico para liberar la tira mucosa urogenital (X) y proteger la uretra subyacente por donde pasa entre los pilares (Y). Movilización dorsal de la piel del eje para exponer y dividir el ligamento suspensorio (Z). F) Tracción caudal sobre el falo para exponer la bifurcación de los pilares y el periostio de la sínfisis del pubis (W). Se empuja un divulgador en ángulo recto a través de la bifurcación, con cuidado de evitar la uretra, para aplicar torniquetes de catéter de goma en cada pilar. G) Torniquetes alrededor de cada pilar, mostrando la tira mucosa y la uretra retraída a un lugar seguro. H) Se reseca la porción anterior de la diáfisis y el glande con control de torniquete, evitando los nervios y vasos dorsales. El volumen adicional se puede eliminar "fileteando" el tejido eréctil de la superficie del corte.
+
+![Figura 6](/assets/figures/figure-7-31-6.jpg)‬  
+**Figura 6.** I) Sutura del falo en la curva de la horquilla aproximando las superficies en bruto (excluyendo el área frenular distal) y suturando los bordes cortados laterales opuestos de la túnica. J) Falo plegado suturado al periostio púbico. El pliegue anterior de la línea media de la piel del clítoris se sutura al eje. El borde de la piel (A1) se sutura al reborde de la piel subcoronal (A2). Los colgajos prepuciales se suturan a lo largo de cada lado de la tira de mucosa vestibular reinstalada para simular los labios menores (B1-B2, C1-C2).
+
+![Figura 7](/assets/figures/figure-7-31-7.jpg)‬  
+**Figura 7.** K) La eliminación del extremo posterior de los pliegues labioescrotales. L) Resultado final al final de la operación. También se muestran el colgajo de vaginoplastia Y-V y la escisión de la piel labial redundante.
+
 ## Referencias‬
 
 [^1]: Hutson, J .: Desarrollo del sistema urogenital. En: Grey&#39;s Anatomy (4ª ed.). Editado por S. Standring. Londres, vol. Capítulo 78, pp. 1305-1325, 2008‬
