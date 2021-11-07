@@ -8,7 +8,7 @@ permalink-en: /neuropathicbladder.html
 layout: default
 ---
 
-**Vejiga neurogénica secundaria a espina bífida**‬
+# Vejiga neurogénica secundaria a espina bífida
 
 **Peter D. Metcalfe<sup>1</sup>, Jeff Pugh<sup>2</sup>**  
 _<sup>1</sup>División de Urología, Stollery Children&#39;s Hospital, Universidad de Alberta, Edmonton, Alberta, Canadá_  
@@ -19,7 +19,7 @@ Dra Virginia Tuchbaum‬, Dr Juan Manuel Modes‬{: #translator-names}
 Hospital Italiano‬, Buenos Aires, Argentina‬{: .translator-location}
 {: #translator-p}
 
-**INTRODUCCIÓN**‬
+## INTRODUCCIÓN
 
 Laespina bífida es una amplia categoría de diagnóstico que se aplica a una variedad de defectos del tubo neural (disrafismos espinales) que pueden tener efectos devastadores en múltiples órganos de los diferentes sistemas . La médula espinal distal tiene un papel fundamental en el funcionamiento de la vejiga y una desregulación secundaria al disrafismo espinal da lugar a la vejiga neurogénica. El manejo de la vejiga neurogénica es complejo y tiene consecuencias significativas con respecto a la calidad de vida y la función renal. Sin embargo, cualquier profesional actuaría con negligencia al considerar el manejo de la vejiga de forma aislada, ya que las anomalías del sistema nervioso central (SNC), el sistema musculoesquelético y el sistema gastrointestinal requieren un enfoque integral de la atención al paciente.‬
 
@@ -35,15 +35,11 @@ La evaluación prenatal contemporánea de rutina generalmente permite un diagnó
 
 El diagnóstico prenatal ha dado lugar a varios cambios fundamentales en el tratamiento de los pacientes con espina bífida. En pricipio le da la opción a la madre si desea continuar o no con el embarazo. También ha dado lugar a la posibilidad de asesoramiento prenatal, por lo que los padres pueden prepararse para muchos aspectos de la condición de su hijo. En la institución del autor, los padres asistirán a la clínica de espina bífida antes del parto, ya que esto les brinda la oportunidad de conocer a muchos miembros del personal y otras familias de nuestros pacientes. Esto ha demostrado ser un recurso extremadamente valioso.‬
 
-|‬
- |‬
-| --- |‬
-
 Finalmente, el diagnóstico prenatal ha permitido el desarrollo de cirugía fetal realizándose en el año 1997, el primer cierre prenatal de un mielomeningocele.12 Los datos originales del cierre fetal del mielomeningocele demostraron una menor necesidad de derivación vetriculo-peritoneal (VP) secundaria a hidrocefalia . Esto se está estudiando actualmente con un ensayo aleatorio, que hasta la fecha ha acumulado aproximadamente 130 pacientes.13 Aunque los puntos finales primarios del ensayo están relacionados con el SNC (el requisito de derivaciones VP y el desarrollo), los resultados de la vejiga se agregaron como un objetivo secundario. 13 Los datos iniciales, fuera del ensayo, describen un aumento de la incidencia del patrón denervado en el esfínter externo, en comparación con los pacientes con cierre postnatal. 14 Se encuentran pendiente los resultados completos.‬
 
-**Patofisiología**‬
- El defecto neuroanatómico preciso en la espina bífida es extremadamente variable y, por lo tanto, no existe un efecto fenotípico único en el tracto urinario. El músculo detrusor, el cuello de la vejiga y el esfínter externo son todos independientemente susceptibles a la inervación patológica con respecto a sus nervios y vías aferentes y eferentes. Además, las interacciones complejas entre las interneuronas de la médula espinal están intrínsecamente interrumpidas, así como sus vías ascendentes y descendentes. Además, se ha observado que los pacientes con lesiones proximales (es decir, torácicas) pueden tener nervios espinales distales &quot;normales&quot; intactas. Por lo tanto, no se puede enfatizar lo suficiente que las predicciones generales no son posibles y que cada paciente debe ser investigado exhaustivamente y su atención debe ser individualizada.‬
+## Patofisiología
 
+El defecto neuroanatómico preciso en la espina bífida es extremadamente variable y, por lo tanto, no existe un efecto fenotípico único en el tracto urinario. El músculo detrusor, el cuello de la vejiga y el esfínter externo son todos independientemente susceptibles a la inervación patológica con respecto a sus nervios y vías aferentes y eferentes. Además, las interacciones complejas entre las interneuronas de la médula espinal están intrínsecamente interrumpidas, así como sus vías ascendentes y descendentes. Además, se ha observado que los pacientes con lesiones proximales (es decir, torácicas) pueden tener nervios espinales distales &quot;normales&quot; intactas. Por lo tanto, no se puede enfatizar lo suficiente que las predicciones generales no son posibles y que cada paciente debe ser investigado exhaustivamente y su atención debe ser individualizada.‬
 
 La inervación simpática de la vejiga es a través de las raíces nerviosas L2, L3 y L4 e induce la contracción del detrusor a través de las vías muscarínicas. El receptor predominante en el músculo detrusor es el subtipo M2. También hay una actividad B2 simpática, que puede ayudar a la relajación de la vejiga. La inervación aferente también es fundamental para su función, ya que los complejos arcos reflejos en la vejiga requieren la capacidad de detectar el estiramiento y la capacidad vesical. Estas interacciones en la médula espinal dan lugar a una ausencia de contracciones, con relajación activa, durante el llenado y una contracción coordinada sobre la señal para anular. Durante la infancia normal, esto ocurre sin ninguna regulación, pero durante los primeros años se desarrollan vías centrales para modular el ciclo de llenado y vaciado. Más comúnmente, la inervación anormal da como resultado la incapacidad de suprimir la contractilidad del detrusor y los resultados de una vejiga hiperactiva. Si los aferentes sensoriales también se ven afectados, se produce una disminución de la sensación y el paciente no puede detectar la &quot;plenitud vesical&quot;. El escenario menos común implica una vejiga &quot;fláccida&quot; que no puede contraerse y vaciarse.‬
 
@@ -53,6 +49,7 @@ Si la fisiología compleja de la vejiga se reduce a sus funciones más básicas,
 
 El tratamiento individualizado dirigido a la fisiopatología fundamental puede optimizarse para reducir el riesgo renal y lograr la continencia.‬
 
+**Tabla 2**‬  
 |   | **Vejiga** |‬
 | --- | --- |‬
 | **Poco activo** | **Normal** | **Hiperactiva** |‬
@@ -60,11 +57,9 @@ El tratamiento individualizado dirigido a la fisiopatología fundamental puede o
 | **Normal** | Retención urinaria | Normal | Incontinencia de urgencia |‬
 | **Hiperactiva** | Retención urinaria | Incontinencia de urgencia | DSD + vejiga de alta presión |‬
 
-  **Tabla 2**‬
-
 Las lesiones de la neurona motora superior e inferior se encuentran con la misma frecuencia. 15 Aproximadamente el 10% de los recién nacidos tienen hidronefrosis, lo que denota un riesgo renal inmediato secundario a altas presiones del detrusor. 15‬
 
-**EVALUACIÓN Y ASESORAMIENTO**‬
+## EVALUACIÓN Y ASESORAMIENTO
 
 La evaluación inicial se realiza tan pronto como sea posible después del nacimiento y el cierre del defecto neural, sin embargo, esto a menudo requiere que el niño pase varios días en la posición prona. La evaluación neonatal consiste en una ecografía de la vejiga y los riñones, así como un cateterismo intermitente cada 4 horas. Los volúmenes se registran para evaluar los residuos urinarios con más de 15 cc considerados anormales. La frecuencia del cateterismo se puede adaptar a los residuos postmiccionales, pero algunos creen que los resultados de CIL reglado genera mejores resultados a largo plazo.16 Incluso si se registran los residuos mínimos, consideramos en nuestra institución beneficioso continuar con el cateterismo para mantener a los padres y al niño acostumbrados a la rutina y mantener sus habilidades.‬
 
@@ -84,7 +79,7 @@ No se recomienda realizar cultivos de orina de rutina, ya que cualquier paciente
 
 Los pacientes que se han sometido a una cistoplastia de ampliación con intestino también tienen riesgo de acidosis metabólica y se han recomendado realizar exámenes periódicos anuales. Rosenbaum et al. demostraron una propensión a la hipercloremia sin un cambio en los niveles de CO221. En casos de la utilización del íleon terminal también aumenta el riesgo de deficiencia de vitamina B12, observada en el 20% de la serie de Indiana, con niveles séricos normales cuando se realiza reemplazo oral. 21‬
 
-**TRATAMIENTO**‬
+## TRATAMIENTO
 
 El tratamiento médico se centra en las dos funciones vesicales principales, el almacenamiento y el vaciado de orina . Las modalidades terapéuticas se pueden clasificar en conservadoras, médicas o quirúrgicas. Según cualquier algoritmo las medidas conservadoras se inician primero y cuando fallan las primeras, las alternativas médicas y quirúrgicas. Más del 80% de los niños con disrafismos espinales se tratan con éxito combinando cateterismo intermitente limpio y uso de anticolinérgicos. 22‬
 
@@ -104,8 +99,9 @@ Las dosis de tratamiento estándar a menudo son capaces de controlar de manera e
 
 Koff propuso como adyuvancia al CIL la colocación de una sonda vesical permanente nocturna . De esta manera, pudo demostrar una mejoría radiográfica en el 79% de los pacientes con hidronefrosis debido a la ausencia de distensión nocturna y presiones elevadas. 45‬
 
-**Quirúrgico**‬
- La cirugía puede ser necesaria si el tratamiento médico no controla alguno de los dos objetivos fundamentales del urólogo pediátrico: continencia o preservación de la función renal. El fracaso del tratamiento médico puede ser por falta de respuesta al mismo, secundario a la falta de cumplimiento por parte del paciente o a efectos secundarios severos que indican la interrupción del mismo.‬
+## Quirúrgico
+
+La cirugía puede ser necesaria si el tratamiento médico no controla alguno de los dos objetivos fundamentales del urólogo pediátrico: continencia o preservación de la función renal. El fracaso del tratamiento médico puede ser por falta de respuesta al mismo, secundario a la falta de cumplimiento por parte del paciente o a efectos secundarios severos que indican la interrupción del mismo.‬
 
 Existen múltiples opciones quirúrgicas efectivas que deben adaptarse a las necesidades, deseos y las habilidades de los pacientes. El objetivo fundamental es proporcionar un reservorio de almacenamiento de baja presión con un medio eficaz de vaciado. Los procedimientos quirúrgicos pueden clasificarse como continentes o incontinentes y derivaciones urinarias versus reservorios urinarios. Las derivaciones urinarias también puede referirse a un procedimiento para aumentar la capacidad de la vejiga nativa (aumento de la vejiga) y el reservorio urinario se refiere con frecuencia al reemplazo de la vejiga.‬
 
@@ -115,7 +111,7 @@ Se ha propuesto la dilatación uretral , la cual ha sido popularizada por la Uni
 
 Por lo tanto, la dilatación uretral agresiva y la inyección de Botox pueden proporcionar una mejoría clínica y urodinámica en el paciente después del fracaso de los anticolinérgicos y CIL , las cuales pueden prevenir o retrasar una cirugía reconstructiva mayor.‬
 
-_ **Vesicostomía cutánea:** _‬
+### Vesicostomía cutánea
 
 La vesicostomía cutánea es la forma más común de derivación urinaria incontinente en neonatos y niños pequeños. Sin embargo, esta técnica tiene un uso limitado para niños mayores y adultos, ya que la vejiga es mucho más difícil de movilizar y reparar fuera de la pelvis. Los bebés con vejiga neurogénica y altas presiones de almacenamiento pueden requerir una vesicostomía si los cuidadores del paciente no están dispuestos o no pueden realizar CIL, o a pesar del tratamiento médico no se puede mantener una presión segura en la vejiga. Varios estudios han confirmado la efectividad de una vesicostomía, con respecto a la reducción en la dilatación del tracto superior o mejoría en la función renal. 51-56 Aunque es esperable una colonización bacteriana del sistema abierto, la infección sintomática y la urosepsis son poco frecuentes. 52, 54‬
 
@@ -123,7 +119,7 @@ Aunque primero fue descrito por Lapides 57, la mayoría de los cirujanos contemp
 
 Las complicaciones de la vesicostomía cutánea incluyen estenosis del ostoma, prolapso, dermatitis peristomal y litiasis vesical. El riesgo de prolapso se minimiza con una movilización limitada de la vejiga y suturando de manera segura la cúpula de la vejiga a la fascia de la pared abdominal anterior. La dermatitis suele ser el resultado de una infección micótica superficial y se trata de manera efectiva con una crema protectora o un antimicótico tópico. Los cálculos de la vejiga pueden indicar un drenaje deficiente, probablemente secundario a estenosis del ostoma, y ​​esto debe corregirse en el momento de la cirugía de la litiasis.‬
 
-            _ **Ileovesicostomía incontinente:** _‬
+### Ileovesicostomía incontinente
 
 McGuire y colaboradores informaron la ileovesicostomía (chimenea ileal) de incontinencia en 1994 60, como una variación de la vesicostomía adaptada para adultos. Debido a que la vejiga adulta con frecuencia no llega a la pared abdominal, un segmento del íleon puede ser anastomosado a la vejiga in situ y abocado como un ostoma urinario. Esto permite un sistema de baja presión, la capacidad de usar un bolsa colectora, evitar el &quot;cambio de pañales&quot; y sin las complicaciones inherentes de la anastomosis uretero-intestinal. Otra ventaja de la ileovesicostomía incontinente es la adecuación con respecto al hábito corporal y la posición de la ostomía, ya que se puede usar una longitud significativa de íleon 61. Varias series reportan excelentes resultados con respecto a la preservación de la función renal, la incidencia de infección del tracto urinario, urolitiasis, y complicaciones del ostoma.‬
 
@@ -131,41 +127,38 @@ La preparación preoperatoria es idéntica al ostoma ileal, con la preparación 
 
 Las complicaciones postoperatorias secundarias a un conducto o chimenea ileal se pueden considerar de gravedad intermedia entre una vesicostomía / ureterostomía y un reservorio urinario continente. El uso de cualquier segmento intestinal predispone al niño a las complicaciones asociadas con una laparotomía (fuga anastomótica, obstrucción intestinal, etc.) y los efectos de la pérdida del segmento (malabsorción de vitaminas, diarrea, etc.) El moco intestinal promueve la colonización bacteriana y la formación de cálculos en la vejiga 65, 66. Es posible que se requiera una irrigación diaria de la vejiga para reducir las complicaciones del moco y la orina estancada, secundario a un eventual mal drenaje de la ileovesicostomía. Debido a que el intestino conserva sus propiedades de absorción, la acidosis metabólica es una posibilidad, pero es menos probable que en una derivación urinaria continente. Debido a la disminución de la presión y el tiempo de contacto con la mucosa intestinal , la degeneración maligna es una preocupación cuando el tracto gastrointestinal se utiliza en el tracto urinario y aunque no tenemos conocimiento de ningún cáncer reportado en asociación con una ileovesicostomía, existe el riesgo teórico 65, 67-69.‬
 
-            _ **Derivación urinaria continente:** _‬
+### Derivación urinaria continente
 
 Cuando es factible, la reconstrucción del tracto urinario inferior en niños se facilita al aumentar la vejiga nativa, sin necesidad de reimplante ureteral en la neovejiga. El tratamiento quirúrgico más frecuentemente utilizado y efectivo para reducir la presión intravesical y aumentar la capacidad de almacenamiento es a través de la cistoplastia de ampliación con intestino 70. Aunque se realiza habitualmente , presenta una morbilidad significativa y se debe tener mucho cuidado con respecto a la selección del paciente y la planificación preoperatoria 71.‬
 
 La gran mayoría de las ampliaciones se realizan con segmentos gastrointestinales, ya que los segmentos intestinales son accesibles y se reconfiguran fácilmente. El Ileon es actualmente el segmento más popular 72-74, pero también puede utilizarse el colon sigmoide. Se han utilizado segmentos gástricos e ileocecales, pero tienen un papel reducido en el tratamiento actual del paciente pediátrico 75-78. La longitud de íleon asegura la obtención de una capacidad adecuada, mientras que la destubularización y las propiedades viscoelásticas naturales permiten el depósito de baja presión 79, 80. Sin embargo, la naturaleza secretiva 81, 82 y absorbente 83 de este tejido también es responsable de la mayoría de las complicaciones que más frecuentemente se asocian con este procedimiento. Para lograr la capacidad de almacenamiento máxima, es necesario la reconfiguración del segmento hacia una forma esférica79. Una apertura amplia de la vejiga como bivalva permite esto, así como ayuda a prevenir que el segmento de ampliación se comporte como un divertículo. El volumen máximo de la esfera se logra al plegar el íleon para confeccionar una U o una S, lo que aumenta el radio potencial y el volumen 84. Esta reconfiguración, así como la destubularización a lo largo del borde antimesentérico es fundamental para interrumpir las contracciones intestinales, ya que el intestino intacto puede crear presiones de 40-100 cm H2O 85-87. El cirujano siempre deberá errar por un segmento de ampliación mayor , que por uno mas pequeño. 81‬
 
-            _ **Ileocistoplastia:** _ **   **‬
+### Ileocistoplastia
 
 El ileon se ha convertido en el segmento más utilizado debido a su baja contractilidad, longitud y facilidad para manipular 72-74. En niños se utiliza 20-30 cm con el margen distal ubicado a 15-20 cm de la válvula ileocecal para prevenir la malabsorción de sales biliares y vitamina B12 80, 88. Un publicación reciente realizada por la Universidad de Indiana informó una incidencia del 21% de bajos niveles de B12 (\&lt;200 pg / ml), con una incidencia mayor asociada al tiempo transcurrido de la ampliacion vesical 21. Sin embargo, respondieron muy bien a la suplementación oral, ya que se sabe que la absorción ocurre también en otras localizaciones del tracto intestinal. Dentro de las ventajas del Ileon es que produce menos moco que el colon y tiene una tasa menor de perforación en comparación con el Colon Sigmoide 89. Tiene una clara desventaja en la contrucción de túneles submucosos en caso de realizar un reimplante ureteral o la creación de un ostoma urinario continente .‬
 
-_ **            Cistoplastia sigmoidea:** _‬
+### Cistoplastia sigmoidea
 
 Las ventajas del colon sigmoide incluyen tanto su proximidad a la vejiga y su marcada dilatación en los pacientes nerogénicos . Se utilizan entre 15-20 cm y se realiza la asepsia del mismo con una solución antibiótica. Debido a la naturaleza de alta contráctibilidad del sigmoides, la detubularización completa es esencial 77. Se ha demostrado que las tasas de perforación espontánea son más altas cuando se utiliza colon sigmoide en comparación a los ileales 90, probablemente debido a su mayor presión contráctil 91.‬
 
-_ **Cistoplastia ileocecal:** _‬
+### Cistoplastia ileocecal
 
 La principal ventaja del segmento ileocecal es la irrigaciñon constante de sangre. Hay dos técnicas principales, cada una con múltiples variaciones. Tanto el segmento ileal como el ciego pueden ser destubularizados y reconfigurados juntos, o únicamente el ciego ser destubularizado y el íleon se usa para crear un ostoma continente 84 o como reemplazo ureteral . Esta técnica se usa con poca frecuencia los pacientes neurogénicos pediátricos , ya que la pérdida de la válvula ileocecal puede provocar una diarrea de díficil manejo 92.‬
 
-            _ **Gastrocistoplastia:** _‬
+### Gastrocistoplastia
 
 El estómago es mucho menos absorbente que otros segmentos intestinales y su secreción de iones de hidrógeno puede generar un beneficio en pacientes con insuficiencia renal crónica y acidosis metabólica 75, 93. Se confecciona una cuña de 10-15 cm a nivel de la curvatura mayor, se moviliza a lo largo los vasos gastroepiploicos derechos y se pasa a través del mesenterio del colon transverso hasta la vejiga. Originalmente se consideraba una opción para todos los los pacientes candidatos a ampliación , pero su indicación actual está limitada a aquellos pacientes con síndrome del intestino corto para minimizar el uso del intestino delgado. Esto se debe principalmente al fenómeno del síndrome de disuria por hematuria, que ocurre en hasta el 70% de los pacientes 94.‬
 
-**Complicaciones quirúrgicas**‬
+## Complicaciones quirúrgicas**‬
 
 A pesar de la popularidad del uso del tracto gastrointestinal como reservorio urinario, las complicaciones potenciales son numerosas y pueden llegar a ser significativas. Una adecuada categorización de estas complicaciones incluyen:‬
 
-1) complicaciones debidas a defectos estructurales‬
+1. complicaciones debidas a defectos estructurales‬
+2. complicaciones secundarias a la pérdida del segmento intestinal‬
+3. complicaciones debidas a las secreciones‬
+4. complicaciones por absorción.‬
 
-2) complicaciones secundarias a la pérdida del segmento intestinal‬
-
-3) complicaciones debidas a las secreciones‬
-
-4) complicaciones por absorción.‬
-
-            _ **Complicaciones estructurales** _‬
+### Complicaciones estructurales
 
 Las complicaciones estructurales incluyen tanto la necesidad de un nuevo aumento, como perforación espontánea y el potencial de maliginidad a largo plazo. En una serie de serie de 500 cistoplastias, se requirió una reampliación en el 9,4% de los pacientes 70. La indicación más frecuente para la nueva ampliación fue la persistencia presiones intravesicales altas por la contractilidad intestinal 95, 96. Los signos clínicos distintivos fueron la presencia de incontinencia o hidronefrosis en ecografías de control, y esto se confirmó mediante un estudio urodinámico. Esta complicación ocurrió con una media de 7 años después de la ampliación y fue menos frecuente cuando se utilizó íleon 70.‬
 
@@ -187,11 +180,13 @@ Cualquier vejiga neurogénica que requiera vaciamiento con catéterismo (ya sea 
 
 Buson et al. estudió 86 ratas que habían sido sometidas a ampliación y las siguió durante un año. Aproximadamente la mitad tenía evidencia de metaplasia en la autopsia, pero no malignidad, y en todas la citología urinaria fue negativa 116.  Shokier et al. publicaron su serie de 186 pacientes que se sometieron a derivaciones continentes, secundaria a una serie de enfermedades (incluidas 2 cistectomías por CCT ). De los cuatro pacientes que desarrollaron una neoplasia maligna secundaria, todos tenían citología anormal, pero no se reportaron datos con respecto a la especificidad de la prueba 104. Por lo tanto, creemos que existe una buena evidencia de que la malignidad puede detectarse con citología urinaria un una vejiga ampliada, pero su papel en la vigilancia y la prevención en la vejiga debe todavía determinarse 19.‬
 
-_ **Pérdida del segmento intestinal** _   La extirpación de un segmento gastrointestinal para la confección de un ostoma urinario continente o para utilizar como segmento de ampliación suele ser bien tolerada, sin embargo, la disfunción intestinal se ha reportado en el 10-54% de los pacientes 117, 118. La resección de la válvula ileocecal puede causar diarrea cronica de díficil manejo e incontinencia rectal, especialmente en pacientes neurogénicos 119, 120. Debido a que las sales biliares se absorben en el íleon distal, su mayor cantidad resulta en un aumento del gradiente osmótico y una diarrea crónica 121. Sin embargo, preservar los 15-20 cm distales del íleon distal puede prevenir esto. El tratamiento de los casos leves suele tener éxito con las resinas de intercambio aniónico 84.‬
+### Pérdida del segmento intestinal
+
+La extirpación de un segmento gastrointestinal para la confección de un ostoma urinario continente o para utilizar como segmento de ampliación suele ser bien tolerada, sin embargo, la disfunción intestinal se ha reportado en el 10-54% de los pacientes 117, 118. La resección de la válvula ileocecal puede causar diarrea cronica de díficil manejo e incontinencia rectal, especialmente en pacientes neurogénicos 119, 120. Debido a que las sales biliares se absorben en el íleon distal, su mayor cantidad resulta en un aumento del gradiente osmótico y una diarrea crónica 121. Sin embargo, preservar los 15-20 cm distales del íleon distal puede prevenir esto. El tratamiento de los casos leves suele tener éxito con las resinas de intercambio aniónico 84.‬
 
 La deficiencia de vitamina B12 puede desarrollarse en hasta el 35% de los pacientes después de una resección del intestino delgado de 80 cm para un reservorio de Koch 122, pero es mucho menos común después de la ileocistoplastia, quizás porque está limitada en los niños a una resección de 25 cm 21,123, 124. La serie sueca sobre reservorios de Koch demostró 2/20 pacientes con niveles séricos de vitamina B12 por debajo de lo normal y 5 pacientes con niveles bajos de folato en suero 125. La Universidad de Indiana informó una incidencia del 21% de un nivel &quot;bajo&quot; de B12, y esto se correlacionó con la duración de la cistoplastia de ampliación. Recientemente presentaron un resumen que demuestra una buena eficacia con reemplazo oral 126.‬
 
-       _ **Complicaciones por secreciones** _‬
+### Complicaciones por secreciones
 
 La mucosa gastrointestinal continúa secretando moco y esto predispone al paciente a infecciones del tracto urinario (ITU) y formación de cálculos en la vejiga 81. Los cálculos en la vejiga ocurren en aproximadamente 10-30% de las ampliaciones y ostomas urinarios continentes 127-129. La alta incidencia de la composición de litiasis de estruvita implica una etiología común con una bacteria productora de ureasa, aunque esto también puede deberse a los altos niveles de calcio y fosfato en el moco 130. La acidosis sistémica común en la población de pacientes ampliados , disminuirá los inhibidores de litos y también promoverá el crecimiento de cálculos131. La prevención está dirigida a CIL regulares y lavados vesicales diarios. El tratamiento de la litiasis es susceptible de ser realizado por un abordaje convencional o endoscópico 127, 131-133, y con cirugía abierta reservada para los litos más grandes.‬
 
@@ -199,23 +194,23 @@ La naturaleza ácida de las secreciones gástricas puede dar lugar a un síndrom
 
 La bacteriuria es casi universal en cualquier paciente que realiza CIL, especialmente cuando se combina con la presencia de moco de un segmento intestinal. Las infecciones urinarias con mayor frecuencia se presentan con orina maloliente, pero los síntomas también incluyen hematuria, incontinencia de novo, dolor suprapúbico o aumento de la producción de moco 81. Una infección sintomática del tracto urinario es reportada por Rink _et al._ en el 22,7% de los pacientes con aumento ileal, mientras que en solo el 8% de los pacientes con gastrocistoplastia 90. El tratamiento de la bacteriuria asintomática no está indicado a menos que el cultivo indique una ureasa o un organismo muy virulento. Sin embargo, el tratamiento puede disminuir el riesgo de formación de cálculos.‬
 
-_ **Complicaciones debido a la absorción** _‬
+### Complicaciones debido a la absorción
 
 La utilización de un segmento de intestino como reservorio urinario puede asociarse con cambios metabólicos profundos debido a su naturaleza en la absorción de diferentes sustancias . El colon y el íleon absorben fácilmente el amonio, el ión de hidrógeno y el cloruro, lo que puede resultar en una acidosis metabólica hiperclorémica. Esto se tolera en muchos pacientes con función renal normal 137, pero puede requerir algún tipo de tratamiento en otros . La extensión de la absorción de iones depende principalmente del área de contacto intestinal y del tiempo de contacto, por lo tanto, una acidosis significativa debe sugerir una investigación en cuanto a un vaciamiento incompleto 81. Aunque no todos los pacientes serán francamente acidóticos, muchos tendrán un aumento en sus niveles de cloruro sérico, aunque todavía en el rango normal 97, 138. La acidosis provoca la movilización de los buffers, y puede resultar en la desmineralización ósea. Mientras que algunos creen que se produce un deterioro en el crecimiento somático, este concepto sigue siendo controvertido para otros. Esto se ha demostrado en modelos animales 139-141, sin embargo en la población con mielodisplasia la correlación clínica ha sido más difícil de demostrar. La acidosis también dará lugar a hipocitraturia y aumentará el riesgo de formación de cálculos renales y de vejiga 131.‬
 
 Finalmente, los medicamentos como Dilantin y metotrexato se absorben fácilmente a través del intestino, y los niveles se deben monitorear de cerca 142. La glucosa también se absorbe, lo que hace que la monitorización urinaria de la hiperglucemia sea menos confiable 143.‬
 
-**INGENIERÍA DE TEJIDOS**‬
+## INGENIERÍA DE TEJIDOS
 
 Debido a la significativa morbilidad inherente al uso los diferentes segmentos gastrointestinales en el tracto urinario, la promesa de un reemplazo de la vejiga mediante bioingeniería ha generado un enorme interés 144. Los experimentos originales utilizaron matrices biocompatibles , por ejemplo SIS o una matriz de colágeno 145. Sin embargo, esto dio lugar a un exceso de fibrosis en el tejido detrusor adyacente al injerto 84. Anthony Atala , el cual ha sido un verdadero pionero en urología pediátrica, fue el primero en incorporar el músculo liso y las células uroteliales en la matriz, conocida como matriz &quot;sembrada&quot;; luego implantó estas matrices en pacientes humanos 144. Se promete un mayor progreso con el uso de células madre 146, 147 y la adición de factores de crecimiento para fomentar el desarrollo del tejido normal 148. Aunque la mayoría de los clínicos creen que este campo anuncia una gran promesa, su aplicación clínica generalizada , requerirá mas tiempo y estudio.‬
 
-**CIRUGIA ASOCIADA**‬
+## CIRUGIA ASOCIADA
 
-**Cuello vesical**‬
+### Cuello vesical
 
 Si la indicación primaria para la cirugía es lograr la continencia urinaria, el cirujano también deberá considerar el esfínter urinario. En casos en los cuales la competencia esfinteriana es leve a moderada, disminuir la presión de la vejiga con un segmento de ampliación vesical suele ser suficiente para producir continencia, ya que la presión de la vejiga ahora será menor que la presión del esfínter. Sin embargo, en pacientes con presiones de punto de fuga muy bajas, se requiere algún tipo de intervención quirúrgica sobre el cuello vesical . Hay una gran cantidad de opciones con las que el cirujano debe estar familiarizado, desde opciones mínimamente invasivas hasta aquellas con cierre total del cuello . La inyección endoscópica de sustancia de abultamiento (Deflux®) se puede realizar de forma retrógrada 149 o anterógrada mediante un acceso suprapúbico. Se ha informado de continencia a largo plazo (más de 7 años) en hasta el 40% de los pacientes150, pero muchas series reportan tasas de éxito más bajas 149, 151. Por lo tanto, aunque es una opción mínimamente invasiva, la selección adecuada del paciente es obligatoria y su eficacia debe ser evaluada antes del procedimiento. La confección de sling subureterales , popularizados para la incontinencia urinaria de esfuerzo, pueden ser una excelente alternativa para el cuello vesical con competencia moderada , ya que son relativamente simples, tienen tasas de continencia razonables y permiten un muy buen acceso para el cateterismo uretral. Su uso en la población neurogénica, sin embargo, generalmente requiere un sling más agresivo, incluso con una envoltura circunferencial completa alrededor de la uretra, siendo más oclusivo que el que se realiza en adultos con vejiga normal. Las tasas de éxito son más altas si serealizan concomitantemente con una cistoplastia de ampliación 152 153, 154, pudiendo los resultados variar según el sexo y el estado ambulatorio 153, 155. El desarrollo de slings protésicos perineales se ha popularizado en la literatura en pacientes adultos y se ha mostrado prometedor en pacientes pediátricos seleccionados correctamente con la vejiga neurogénica 156. Una reconstrucción del cuello vesical más definitiva implicará la adaptación o reconfiguración del mismo, con una variedad de procedimientos de alargamiento y estrechamiento descriptos con muy buenos índices de éxito 154, 157. Debido a los diferentes cambios y deterioro de la vejiga en estos pacientes , las reconstrucciones del cuello de la vejiga tienen una incidencia muy alta de una ampliación vesical asociada . Aunque originalmente se describió para la extrofia vesical, la reparación Young-Dees-Leadbetter sigue siendo popular entre la población con disrafismo espinal, junto con las reparaciones de cuello vesical Pippe Salle y Kropp 154. La cirugía de cuello vesical definitiva para lograr continencia implica la transección del cuello vesical, que es muy eficaz pero requiere realizar algun tipo de ostoma urinario asociado para asegurar el vacimiamiento vesical por cateterismo158.‬
 
-**Ostomas urinarios continentes**‬
+### Ostomas urinarios continentes
 
 Los ostomas urinarios continentes cateterizables se han vuelto muy populares en la última década, ya que una cirugía agresiva a nivel del cuello vesical puede dificultar mucho la micción espontánea, especialmente si se combina con una cistoplastia de ampliación. El cateterismo uretral es más difícil después de una reconstrucción del cuello de la vejiga o en el paciente confinado a una silla de ruedas. El hospital infantil de Seattle ha publicado datos que confirman que el cumplimiento del CIL en los pacientes mejoró posterior a la confección de un ostoma uirnario continente paciente con CIL 159.‬
 
@@ -223,7 +218,7 @@ Lo que actualmente se conoce como el &quot;Principio de Mitrofanoff&quot;, estab
 
 La continencia del ostoma es excelente y las tasas reportadas son del 90-99% en la serie más grande publicada 163, 177-179. Las complicaciones se relacionan principalmente con dificultades con el cateterismo, y se pueden clasificar en aquellas que ocurren al nivel de la piel y las más profundas, en la entrada de la vejiga. Esta es una diferenciación importante, ya que una revisión de la piel es un procedimiento ambulatorio simple, mientras que una revisión profunda requiere una disección mucho más extensa, generalmente a través de una laparotomía. Se reporta que la estenosis del ostoma ocurre en 5-25% 177, 180, con tasas casi idénticas comparando los ostomas con íleon y apéndice cecal 163, 181.‬
 
-**Continencia fecal**‬
+## Continencia fecal
 
 A menudo, el urólogo pediátrico se encarga del manejo del estreñimiento y la continencia fecal secundaria al intesitno neurogénico . El objetivo del tratamiento médico es el del &quot;estreñimiento controlado&quot; donde las heces son lo suficientemente duras para que el esfínter pueda retenerlo, pero lo suficientemente suave como para que se produzca un cierto grado de vaciado. Los laxantes intestinales como la lactulosa y el aceite mineral son muy efectivos, mientras que el PEG-3350 (Miralax®) tiene la ventaja adicional de ser inodoro e insípido, no contribuir a la formación de caries y que se puede mezclar con casi cualquier líquido. A menudo, se requiere la estimulación rectal a través de maniobras digitales o supositorios para crear una contracción para evacuar las heces.‬
 
@@ -231,8 +226,11 @@ Los enemas rectales son útiles en algunos pacientes para evacuar el contenido d
 
 Al igual que con la vejiga, el tratamiento médico puede ser muy eficaz, y las alternativas quirúrgicas son la última opción cuando fallan estas medidas . El concepto de un enema anterógrado a través del apéndice fue introducido por Malone183, ha alcanzado una popularidad extrema entre los cirujanos y pacientes debido a las grandes mejoras en la calidad de vida entre los pacientes y los cuidadores 184, 185. También se ha utilizado una alternativa mínimamente invasiva donde de manera percutánea mediante radiología intervencionista, se coloca un tubo de cecostomía en el colon proximal similar a una sonda de alimentación enteral con válvula de ingreso, realizando la irrigación intestinal anterógrada por medio de este dispositivo 186, 187. Las tasas de continencia y la satisfacción del paciente para ambos son excelentes, por lo tanto los factores más importantes para elegir entre los dos procedimientos son: pericia del cirujano, laparotomía concomitante para la reconstrucción vesical, tolerancia de un dispositivo externo y consideraciones a cerca de potenciales adherencias intrabdominales postoperatorias o contaminación de shunts.‬
 
-**Resumen**‬
- Los resultados actuales en pacientes con disrafismos espinales deben centrarse en maximizar la calidad de vida 188. Con el desarrollo de las clínicas multidisciplinarias de espina bífida, la norma para los pacientes pediátricos es que la gran mayoría llegue a la edad adulta. Muchos de nuestros pacientes pueden asistir a la escuela y la mayoría se gradúa de la escuela secundaria, logrando muchos de ellos una educación superior y un empleo remunerado. Por ello creemos que la continencia debe ser un objetivo importante, aunque el beneficio directo en la calidad de vida del paciente ha sido difícil de demostrar. Si bien la protección de las vías urinarias superiores y la preservación de la función renal tienen varias alternativas médicas y quirúrgicas muy eficaces y de bajo mantenimiento, la continencia puede implicar un grado mucho mayor de esfuerzo y complicación quirúrgica.‬
+## Resumen
+
+Los resultados actuales en pacientes con disrafismos espinales deben centrarse en maximizar la calidad de vida 188. Con el desarrollo de las clínicas multidisciplinarias de espina bífida, la norma para los pacientes pediátricos es que la gran mayoría llegue a la edad adulta. Muchos de nuestros pacientes pueden asistir a la escuela y la mayoría se gradúa de la escuela secundaria, logrando muchos de ellos una educación superior y un empleo remunerado. Por ello creemos que la continencia debe ser un objetivo importante, aunque el beneficio directo en la calidad de vida del paciente ha sido difícil de demostrar. Si bien la protección de las vías urinarias superiores y la preservación de la función renal tienen varias alternativas médicas y quirúrgicas muy eficaces y de bajo mantenimiento, la continencia puede implicar un grado mucho mayor de esfuerzo y complicación quirúrgica.‬
+
+## Referencias‬
 
 1.         Stein SC, Feldman JG, Friedlander M, et al. Is myelomeningocele a disappearing disease? Pediatrics 1982; **69**: 511-4.‬
 2.         Laurence KM. A declining incidence of neural tube defects in the U.K. Z Kinderchir 1989; 44(Suppl 1): 51.‬
