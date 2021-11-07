@@ -6,6 +6,7 @@ title: Síndrome de médula anclada
 sort-key: 6-26
 permalink-en: /tethered_cord.html
 layout: default
+review-formatting-complete: KR-2021-11-07
 ---
 
 # Síndrome de médula anclada
