@@ -49,7 +49,7 @@ collections:
     output: true
     sections: true
     sort_by: sort_key
-    permalink: /libro/capitulo/:title.html
+    permalink: /es/libro/capitulo/:title.html
     
 kramdown:
   auto_ids          : true
