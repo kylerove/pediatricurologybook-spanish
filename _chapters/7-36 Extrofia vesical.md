@@ -6,7 +6,7 @@ title: Extrofia Vesical
 sort-key: 7-36
 permalink-en: /bladder_exstrophy.html
 layout: default
-review-formatting-complete: KR-2021-11-05
+review-formatting-complete: KR-2021-11-07
 ---
 
 # Extrofia Vesical
