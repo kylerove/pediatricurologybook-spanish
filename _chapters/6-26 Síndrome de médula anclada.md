@@ -17,7 +17,7 @@ layout: default
 _Hospital Italiano‬, Buenos Aires, Argentina‬_{: .translator-location}
 {: #translator-p}
 
-**INTRODUCCIÓN:**‬
+## INTRODUCCIÓN
 
 El síndrome de Médula Anclada (SMA) es una afección que se caracteriza por una constelación de hallazgos neurológicos, urológicos y ortopédicos que se producen como resultado de una adherencia inadecuada del tejido de la médula espinal a los tejidos circundantes por causas congénitas o adquiridas. En un individuo normal, cuando la columna vertebral se flexiona o se extiende, la médula espinal se mueve libremente dentro de la columna vertebral. Si la médula espinal está unida a la columna, entonces, a medida que ésta se flexiona o se extiende, la médula se coloca en tensión lo que provoca un estiramiento anormal de la médula espinal que da como resultado un complejo de síntomas progresivos.‬
 
@@ -25,7 +25,7 @@ Este fenómeno fue descrito por primera vez hace casi un siglo por Fuchs en 1910
 
 Cualquier condición que fije la médula espinal puede causar SMA, es más frecuente como resultado de un disrafismo espinal y es más reconocible cuando el cono medular termina por debajo del nivel espinal del cuerpo medio de L2. El término SMA abarca los diversos síntomas progresivos que se producen como resultado de la tensión de la médula espinal.‬
 
-**EMBRIOLOGÍA:**‬
+## EMBRIOLOGÍA
 
 Es imperativo tener una comprensión básica del desarrollo de la médula espinal y la embriología para comprender las causas congénitas y los síntomas producidos por el síndrome de médula anclada. El sistema nervioso humano se deriva de una porción especializada de ectodermo en el feto en desarrollo conocido como la placa neural. El proceso de desarrollo de la médula espinal se inicia primero por la neurulación primaria, que ocurre entre los días 18 y 28 de desarrollo. Durante esta, la placa neural comienza a involucionar lo que lleva a un surco neural con pliegues laterales que lo acompañan. A medida que se crean los pliegues, estos comienzan a fusionarse sobre la línea media del surco dorsal. El cierre del tubo neural comienza en dirección cefálica, en el área que corresponde a la médula espinal cervical futura y continúa en dirección caudal (Nolte 2002). A medida que se cierra el tubo neural, el neuroporo proximal y distal permanece patente y el cierre se produce el día 25 para el extremo cefáilco y el día 27 para el extremo caudal.‬
 
@@ -35,9 +35,8 @@ El ventriculo terminal se encuentra inicialmente en el nivel coccígeo, sin emba
 
 La comprensión del desarrollo del tubo neural es la clave para comprender, diagnosticar y tratar el SMA. El cordón normal termina por encima del nivel medio del cuerpo de L2 con cierta variabilidad en la población. Los pacientes de más de 3 meses de edad y definitivamente más de 6 meses de edad, con un cono que se encuentra debajo de la mitad del cuerpo de L2, deben ser evaluados para el síndrome de médula anclada.‬
 
-![](RackMultipart20210723-4-12spd77_html_fca795ac81640f5.png)‬
-
-Figura 1: Representación del cono medular anclado debajo de la mitad del cuerpo de L2 de un lipoma (imagen de la derecha; columna vertebral normal y cordón medular en la imagen de la izquierda)‬
+![Figura 1](/assets/figures/figure-6-26-1.png)‬  
+**Figura 1:** Representación del cono medular anclado debajo de la mitad del cuerpo de L2 de un lipoma (imagen de la derecha; columna vertebral normal y cordón medular en la imagen de la izquierda)‬
 
 PATOLOGÍA:‬
 
@@ -47,7 +46,7 @@ Los primeros estudios realizados por Yamada y colaboradores, utilizaron espectro
 
 Los síntomas clínicos observados en individuos con SMA indican que las lesiones están localizadas en el cordón medular lumbosacro (Yamada 2004). Se ha demostrado a través del análisis de la tracción del cordón, que el área de la médula espinal más vulnerable al alargamiento es el cono medular, y que no se produce un alargamiento desde la parte superior al par de ligamentos dentados más inferiores, ya que actúa como un amortiguador para el estiramiento de la médula espinal (Tani 1987 , Yamada 2004, Lew 2007, Sarwar 1983).‬
 
-**CAUSAS:**‬
+## CAUSAS
 
 El síndrome de médula anclada puede ser causado por cualquier estado de enfermedad que resulte en la inmovilización de la médula espinal. Las etiologías van desde enfermedades congénitas hasta condiciones adquiridas. Las causas congénitas son las que se encuentran con mayor frecuencia y habitualmente se presentan de manera oculta.‬
 
@@ -69,7 +68,7 @@ Otras causas no congénitas de SMA incluyen infecciones como la aracnoiditis que
 
 La Médula Anclada Oculta(MAO) es un tema controvertido que requiere una breve mención. Primero descrito por Khoury et al. en 1990 quien observó que los niños tenían los síntomas del síndrome de médula anclada, principalmente en forma de incontinencia urinaria refractaria (Steinbok 2007) mas allá que el cono medular se hallaba en la ubicación normal, por lo que se consideró el cuadro consistente con la espina bífida oculta. Por lo tanto, el diagnóstico se basó únicamente en los síntomas, ya que las imágenes revelaron un cono normalmente ubicado.‬
 
-**DIAGNÓSTICO:**‬
+## DIAGNÓSTICO
 
 Las manifestaciones clínicas del síndrome de médula anclada son amplias y a menudo se clasifican según la edad. Los síntomas a menudo incorporan muchos sistemas corporales, incluyendo urológicos, neurológicos, musculoesqueléticos y cutáneos. El examen físico desempeña un papel importante en la evaluación de niños con posible síndrome de médula anclada y se debe prestar especial atención a la columna dorsal y las extremidades inferiores para evaluar las anomalías cutáneas y ortopédicas comunes.‬
 
@@ -82,32 +81,29 @@ En los años neonatales e infantiles, las anomalías urológicas pueden no ser f
 A medida que el niño comienza a crecer y luego comienza a caminar, las secuelas motoras y sensoriales pueden convertirse en los síntomas principales. Los síntomas neurológicos existen en hasta el 64% de los niños con SMA (Bui 2007, Warder 1994). Los síntomas motores son los más comunes, seguidos de la disfunción intestinal y vesical, el dolor y, finalmente las alteraciones sensoriales (Warder 2001). La disfunción motora se caracteriza por debilidad asimétrica y dificultad para caminar o deambulación retrasada (Bui 2007). El dolor a menudo no es dermatomal y se localiza en la espalda baja, el perineo y / o las piernas (Lew 2007). Los déficits sensoriales se localizan comúnmente en los pies y el perineo e involucran múltiples miotomas (Bui 2007).‬
  Una vez que el niño está en edad de ir al baño, la disfunción urológica asociada con SMA puede hacerse más evidente, especialmente a medida que el niño puede ayudar a describir los síntomas. Se debe realizar una historia clínica completa y un examen físico, prestando especial atención a las historias que describen la pérdida de hitos en la continencia (Agarwalla 2007) o problemas de nueva aparición con la función de la vejiga o el intestino. Las anomalías urológicas están presentes en aproximadamente el 18% de los niños con SMA (Bui 2007). La vejiga neurogénica es una anomalía característica del SMA con síntomas de incontinencia, urgencia, frecuencia aumentada / anormal e infecciones recurrentes del tracto urinario (Bui 2007, Palmer 1998). La vejiga neurogénica puede dar como resultado un aspecto engrosado y trabeculado en la pared de la vejiga, específicamente en el músculo detrusor, que puede detectarse en la ecografía vesical (Figuras 2, 3).‬
 
-![Figura 1](/assets/figures/figure-6-26-1.png)‬
+![Figura 2](/assets/figures/figure-6-26-2.png)‬  
+**Figura 2:** Comparación de una vejiga normal (izquierda) y una vejiga trabeculada y engrosada (derecha, con una flecha que indica la apariencia intravesical de las trabeculaciones)‬
 
-Figura 2: Comparación de una vejiga normal (izquierda) y una vejiga trabeculada y engrosada (derecha, con una flecha que indica la apariencia intravesical de las trabeculaciones)‬
-
-![Figura 2](/assets/figures/figure-6-26-2.png)‬
-
-Figura 3: Imágenes de ultrasonido transversales (izquierda) y sagitales (derecha) de la vejiga que revelan trabeculaciones (flechas)‬
+![Figura 3](/assets/figures/figure-6-26-3.png)‬  
+**Figura 3:** Imágenes de ultrasonido transversales (izquierda) y sagitales (derecha) de la vejiga que revelan trabeculaciones (flechas)‬
 
 Si no se maneja adecuadamente, esto puede resultar en fibrosis y pérdida de la compliance vesical, lo que puede llevar a presiones elevadas en la vejiga. En el peor de los casos, estas altas presiones pueden transmitirse a los riñones, dando lugar a reflujo vesicoureteral, nefropatía e insuficiencia renal que requiere trasplante renal (Figura 4).‬
 
-![Figura 3](/assets/figures/figure-6-26-3.png)‬
-
-Figura 4: Comparación de riñones normales (izquierdo) con riñones afectados por presiones vesicales intravesicales altas (derecha) con hidronefrosis observada con uréteres dilatados y adelgazamiento del parénquima.‬
+![Figura 4](/assets/figures/figure-6-26-4.png)‬  
+**Figura 4:** Comparación de riñones normales (izquierdo) con riñones afectados por presiones vesicales intravesicales altas (derecha) con hidronefrosis observada con uréteres dilatados y adelgazamiento del parénquima.‬
 
 También pueden aparecer manifestaciones de disfunción neurogénica del intestino. Estos incluyen la sensación alterada de heces en la bóveda anal y la contractilidad del esfínter anal externo disminuida. Esto puede presentarse en un continuo que va desde el estreñimiento y la encopresis hasta la diarrea (Palmer 1997). La ubicación de la lesión determina qué síntomas intestinales surgen. Las lesiones de la neurona motora inferior (NMI), resultantes de una lesión que afecta los cuerpos celulares parasimpáticos (por ejemplo, cono medular, cola de caballo o nervios pélvicos) disminuyen la peristalsis. Esto conduce a una propulsión lenta de las heces, pero también incontinencia fecal debido a la denervación del esfínter anal externo y los músculos elevadores del ano. A la inversa, una lesión de la neurona motora superior (NMS) sobre el cono medular hará que los intestinos sean hiperreflexivos.‬
 
-**PERFIL URODINÁMICO:**‬
+### PERFIL URODINÁMICO
 
 Para ayudar a delinear cualquier disfunción urológica en niños con SMA, los mismos deben someterse a pruebas urodinámicas formales. La detección de los cambios subclínicos permite la rápida intervención de desanclaje evitando así la aparición de los síntomas neurológicos más prominentes (Vernet 1996). Palmer y sus colegas hallaron que el 75% de los niños con SMA muestran hallazgos urodinámicos preoperatorios que cambian después del desanclaje medular (Palmer 1998). Vernet y sus colegas tuvieron un éxito similar con una sensibilidad del 83% para detectar trastornos urológicos en pacientes con SMA secundaria después de la reparación del mielomeningocele (Vernet 1996). Los estudios urodinámicos se realizan de forma estándar para estos niños con un enfoque en la cistouretrografía miccional, la presión intraabdominal e intravesical, la electromiografía de esfínter y el perfil de la presión uretral. Los hallazgos más comunes entre los niños con SMA incluyen la hiperactividad del detrusor, la disminución de la compliance vesical, la disinergia del esfínter del detrusor y la disminución de la sensibilidad (Hertzler 2010) (Figura 5). Otras fuentes han citado hiperreflexia del detrusor, disminución del cumplimiento, vejiga atónica y arreflexia del detrusor como los hallazgos más comunes en pacientes con SMA (Fone 1997). Se encontró que los pacientes con anclaje medular primario de menos de 3 años de edad tenían hipotonía como el hallazgo urodinámico más común (46,7%), seguido de disinergia del esfínter detrusor, altas presiones de vaciado, vejiga no compatible e hiperreflexia (Macejko 2007). El uso no uniforme de la terminología crea un problema al comparar los datos entre los estudios (Fone 1997). Los perfiles urodinámicos en bebés y niños pequeños a veces pueden ser difíciles de interpretar; bebés, especialmente varones,pueden tener altas presiones miccionales acompañadas de una descoordinación fisiológica del complejo del esfínter detrusor que suele madurar con la edad (Bachelard 1999).‬
 
 La mayoría de los pacientes con SMA tendrán un cambio en su perfil urodinámico; sin embargo, el cambio no suele ser lo suficientemente grave como para producir signos y síntomas clínicos (Palmer 1998). La preocupación por la disfunción vesical progresiva en esta población se encuentra en el grupo de pacientes con presiones intravesicales altas (presión del punto de fuga del detusor\&gt; 40 cm H2O) ya que se ha demostrado que promueve el reflujo vesicoureteral y el deterioro posterior del tracto superior (McGuire 1981) (Figura 5). El propósito de las pruebas urodinámicas es doble, ya que proporciona una medida de referencia donde se puede medir cualquier deterioro de la función y a la inversa, como referencia para medir cualquier mejora posterior al desanclaje medular. (Palmer 1998).‬
 
-![Figura 4](/assets/figures/figure-6-26-4.jpg)‬
- Figura 5: Perfil urodinámico: hiperactividad del detrusor y disinergia del esfínter‬
+![Figura 5](/assets/figures/figure-6-26-5.jpg)‬  
+**Figura 5:** Perfil urodinámico: hiperactividad del detrusor y disinergia del esfínter‬
 
-**ESTUDIOS RADIOGRÁFICOS:**‬
+### ESTUDIOS RADIOGRÁFICOS
 
 Se ha estudiado el uso de modalidades de imagenología, como la MRI, la ecografía y la TC en pacientes con SMA para confirmar el diagnóstico cuando la sospecha clínica es alta. Con frecuencia identificará el nivel del cono medular y el lugar donde se encuentra el anclaje.‬
 
@@ -119,7 +115,7 @@ El lipomielomeningocele, si está presente, puede demostrar una gran masa grasa 
 
 Los defectos del tubo neural abierto casi siempre se ven prenatalmente en la ecografía, y la malformación de Chiari 2 y la hidrocefalia asociada agregan certeza al diagnóstico (Sohaey 2009). El reconocimiento temprano de estos hallazgos permitirá un esfuerzo coordinado de atención en el momento del nacimiento.‬
 
-**RESONANCIA MAGNÉTICA (RM)**‬
+#### RESONANCIA MAGNÉTICA (RM)
 
 En el período postnatal, la resonancia magnética es la modalidad de elección de imágenes para la evaluación del síndrome de médula anclada. La RM permite la identificación de la causa y proporciona detalles anatómicos adecuados para permitir la planificación quirúrgica (Lew 2007).‬
 
@@ -127,35 +123,32 @@ La RM es capaz de identificar meningoceles, mielomeningoceles, malformaciones de
 
 Las imágenes sagitales ponderadas en T1 y T2 son las mejores para localizar el nivel del cono, mientras que las imágenes axiales ponderadas en T1 son las mejores para determinar el diámetro y si hay grasa en la zona del filum terminal (Bui 2007). Cabe destacar que los pacientes que se han sometido a una laminectomía siempre parecen tener una médula anclada en la RM, incluso en ausencia de patología subyacente.‬
 
-![](RackMultipart20210723-4-12spd77_html_2aadc157e9a4f4c.png)‬
+![Figura 6](/assets/figures/figure-6-26-6.png)‬  
+**Figura 6:** A) RM sagital T2 con saturación grasa. El cono medular es alargado y bajo, y termina en L3 (flecha grande). También se observa un lipoma del filum terminal (flecha pequeña). B) El cono medular se ve de nuevo en posición baja y termina en el nivel L3 (flecha).‬
 
-Figura 5: A) RM sagital T2 con saturación grasa. El cono medular es alargado y bajo, y termina en L3 (flecha grande). También se observa un lipoma del filum terminal (flecha pequeña). B) El cono medular se ve de nuevo en posición baja y termina en el nivel L3 (flecha).‬
+![Figura 7](/assets/figures/figure-6-26-7.png)‬  
+**Figura 7:** RM axial en T1 que muestra un lipoma del filum terminal.‬
 
-![Figura 5](/assets/figures/figure-6-26-5.png)‬
-
-Figura 6: RM axial en T1 que muestra un lipoma del filum terminal.‬
-
-**ULTRASONIDO**‬
+#### ULTRASONIDO
 
 La ecografía puede ser útil para la valoración de bebés con sindrome de medula anclada. Permite la evaluación del cordon medular sin someter al niño a radiación. Es más útil en niños de hasta 6 meses de edad, siendo más sensible antes de los 3 meses de vida ya que después hay una pérdida de la ventana acústica por la osificación de la columna vertebral (Singh 2012). En este grupo etario, el ultrasonido, con su vision dinámica, puede detectar mejor la disminución del movimiento de la médula espinal, la presencia de grasa y el nivel del cono medular. La ecografía también se usa para controlar las vías urinarias superiores e inferiores como parte del seguimiento de rutina. Esto permite detectar y controlar el grosor de la pared de la vejiga, la presencia de trabeculación vesical, hidronefrosis, grosor del parénquima renal y cálculos. Las pautas de la Asociación Europea de Urología de 2009 sugieren una ecografía del tracto urinario superior y la vejiga cada 6 meses en pacientes con disfunción neurogénica del tracto urinario inferior (Stohrer 2009). Otras recomendaciones han sugerido la ecografía renal y el examen urodinámico anual en todos los niños con mielomeningocele (Fone 1997).‬
 
 Como complemento de la ecografía, se puede considerar una exploración DMSA para una evaluación adicional del tracto urinario superior.‬
 
-**TOMOGRAFÍA AXIAL COMPUTADA (TC)**‬
+#### TOMOGRAFÍA AXIAL COMPUTADA (TC)
 
 Se puede utilizar la tomografía computarizada o la mielografía por TC si la RMN no está disponible, de hecho anteriormente era el estándar para el diagnóstico (Agarwalla 2007). Aunque son invasivas y quizás difíciles de realizar en niños pequeños, estas modalidades permiten detalles anatómicos adecuados de la columna vertebral y la posición del cono (Bui 2007). La TC debe considerarse solo como una opción secundaria si la RM no es adecuada o no está disponible, ya que expone al paciente a altas dosis de radiación y los niños tienen un riesgo aumentado de desarrollar cáncer inducido por radiación (Darge 2013). Esto es especialmente importante en estos niños, ya que serán sometidos a múltiples estudios de imágenes a lo largo de sus vidas.‬
 
-**RADIOGRAFÍA ABDOMINAL**‬
+#### RADIOGRAFÍA ABDOMINAL
 
 Las imágenes de rayos X también desempeñan un papel en la investigación radiológica de pacientes con síndrome de médula anclada. Las placas simples pueden evaluar malformaciones óseas asociadas, como anomalías vertebrales o espolones óseos (Caldarelli 2013). También son particularmente útiles para caracterizar la curvatura espinal y observarla a lo largo del tiempo (Agarwalla 2007, Bui 2007). También se pueden usar para detectar cálculos renales o vesicales (Strouse 2002).‬
 
 En pacientes con disfunción neurogénica del intestino, la radiografía simple del abdomen es útil para evaluar el grado y la distribución de las heces en el colon y ayuda a evaluar el éxito de los programas de manejo intestinal. También es barato y tiene una radiación significativamente menor en comparación con otras técnicas de imagen (Park 2013).‬
 
-![Figura 6](/assets/figures/figure-6-26-6.png)‬
+![Figura 8](/assets/figures/figure-6-26-8.png)‬  
+**Figura 8:** Radiografía abdominal en una niña de 20 meses que muestra materia fecal en todo el colon con una &quot;acúmulo de heces&quot; en el recto‬
 
-Figura 7: Radiografía abdominal en una niña de 20 meses que muestra materia fecal en todo el colon con una &quot;acúmulo de heces&quot; en el recto‬
-
-**Manejo:     **‬
+## Manejo
 
 La historia natural del síndrome de médula anclada no se conoce bien debido a la escasez de ensayos prospectivos que comparan el tratamiento conservador con el quirúrgico. Los niños con evidencia de la médula anclada encajan tanto en el grupo sintomático como en el asintomático. Los niños que presentan síntomas neurológicos o urológicos relacionados con su médula anclada deben someterse a un tratamiento quirúrgico, sin embargo la decisión de operar a un niño que permanece asintomático es menos clara. Se ha demostrado que en los niños que previamente se sometieron a una reparación quirúrgica y desarrollaron un nuevo anclaje, el 89% de ellos desarrollaron síntomas urológicos y ortopédicos que requirieron reintervención quirúrgica (ampliación de la vejiga, liberación de contracturas, fusión espinal) (Phuong, 2002).‬
 
@@ -182,93 +175,92 @@ El cierre del cuello de la vejiga elimina de manera efectiva el acceso a la veji
 
 La disfunción neurogénica del intestino se puede manejar de forma conservadora con modificación de la dieta, tratamiento farmacológico, biorretroalimentación, irrigación con enemas transanales, masajes y terapias de estimulación eléctrica. La intervención farmacológica depende de si el paciente está experimentando estreñimiento o incontinencia. El estreñimiento se puede tratar con agentes de abultamiento, ablandadores de heces, agentes osmóticos y proquinéticos. La irrigación se puede utilizar para el estreñimiento refractario a los tratamientos convencionales. Donde fallan las medidas conservadoras, existen alternativas quirúrgicas como los enemas de continencia anterógrada tipo Malone (MACE) o tubo de cecostomía, implantes de estimulación de la raíz sacra, graciloplastias y esfínteres intestinales (París 2011). El procedimiento MACE permite la irrigación anterógrada de todo el intestino y tiene una alta tasa de éxito de aproximadamente 80% (París 2011). Este procedimiento a menudo se realiza junto con la ampliación vesical y un osotma urinario. También la incontinencia fecal se puede tratar con la estimulación eléctrica externa de la médula espinal o estimulación sacra (París 2011). Palmer et al encontraron que el 68% de los pacientes notaron una mejoría significativa con una técnica de electroestimulación transrectal mínimamente invasiva. Más recientemente, los agentes de abultamiento se han utilizado con mayor éxito para ayudar con la continencia fecal donde existe incontinencia de origen medular (Leung 2011). Un ensayo aleatorio de Graf et al. mostró una reducción del 50% en los episodios de incontinencia en el 52% del grupo de tratamiento en comparación con el 31% del grupo simulado, con un seguimiento de 6 meses (Graf 2011). Este y otros estudios fueron el tema de una revisión Cochrane que destacó la escasez de ensayos aleatorios bien diseñados con respecto a la continencia fecal (Maeda 2013); además sigue habiendo una falta de consenso sobre el mejor material para usar como sustancia de abultamiento.‬
 
-**RESULTADOS DESPUÉS DEL DESANCLAJE:**‬
+## RESULTADOS DESPUÉS DEL DESANCLAJE
 
- Los resultados del desanclaje quirúrgico de la médula anclada sintomática han demostrado ser favorables. En una revisión de 114 niños seguidos después de la liberación del cordón medular mostró que los síntomas que más mejoraron fueron el dolor, la marcha, la fuerza muscular y la estabilidad de las extremidades inferiores (Bowman 2009). Estos mismos resultados han sido repetidos por varios otros estudios que evaluaron a niños después de la liberación del cordón medular anclado.‬
+Los resultados del desanclaje quirúrgico de la médula anclada sintomática han demostrado ser favorables. En una revisión de 114 niños seguidos después de la liberación del cordón medular mostró que los síntomas que más mejoraron fueron el dolor, la marcha, la fuerza muscular y la estabilidad de las extremidades inferiores (Bowman 2009). Estos mismos resultados han sido repetidos por varios otros estudios que evaluaron a niños después de la liberación del cordón medular anclado.‬
 
 La respuesta urológica a los procedimientos de desanclaje es bastante variable y depende de la edad y la función preoperatoria. En un estudio realizado por Hsieh y colaboradores que examinó los perfiles urodinámicos en niños antes y después de un procedimiento de desanclaje, se observó que el subgrupo de niños con un perfil urodinámico preoperatorio anormal mostró una mejoría o normalización del perfil y de aquellos con una urodinamia preoperatoria normaltodos tuvieron un perfil urodinámico sin cambios (Hsieh 2006). En otro estudio que examinó los perfiles urodinámicos antes y después de la operación, el 35% de los niños tuvo una mejoría en la disfunción de la vejiga, mientras que el 5% deterioró la misma (Abrahamsson 2007). Si bien estos resultados parecen prometedores, no todos los estudios han demostrado mejoras significativas en la función urinaria después de los procedimientos de desanclaje.  Un estudio de van der Meulen et al comparó los resultados de 4 grupos de pacientes; 1.) Desanclaje realizado en niños asintomáticos, 2.) Desanclaje realizado en niños con síntomas que empeoraron progresivamente, 3.) Desanclaje después de un período de tratamiento conservador y 4.) Manejo conservador. Si bien el primer grupo tuvo una función urológica estable durante el período de seguimiento, que apoya aún más el tratamiento quirúrgico temprano, los otros grupos mostraron una mejoría mixta con estabilidad y deterioro de la función (van der Meulen 2002). Una comparación del desanclaje en el disrafismo espinal oculto versus el anclaje secundario mostró que la cirugía mejoró los hallazgos urodinámicos en el 62.5% de pacientes en los grupos de disrafismo espinal oculto, mientras que el grupo de anclaje secundario solo mejoró en un 30% y empeoró en un 48% (Fone 1997). Debido al riesgo de volver a anclar el cordón medular, un estudio que evaluó los resultados urológicos después de múltiples procedimientos de desanclaje mostró beneficios independientemente del número de procedimientos quirúrgicos anteriores (Al-Holou 2009). Si bien la mejora en la función urológica es variable, es consistente que cuanto más temprano se libere el cordón, mejor será la función urológica a largo plazo del paciente.‬
 
-**CONCLUSIONES:**‬
+## CONCLUSIONES
 
 El síndrome de la médula anclada es un trastorno del movimiento de la médula espinal, que produce una gran cantidad de síntomas que afectan a muchos sistemas de órganos. Si bien existen normas vigentes para la evaluación y el manejo de estos pacientes, la atención de los pacientes debe administrarse mediante un enfoque de equipo multidisciplinario que incluya especialistas en urología, neurocirugía y cirugía ortopédica. El manejo temprano de la médula anclada ofrece la mejor oportunidad para preservar / mejorar la función urológica e intestinal a largo plazo.‬
 
-**AGRADECIMIENTOS**‬
+## AGRADECIMIENTOS
 
 Gran parte de la información sobre los aspectos neuroquirúrgicos de la médula anclada que se incluye en esta revisión proviene de revisiones realizadas por Neurocirugía en lugar de artículos primarios en un intento por simplificar el material relacionado con el desarrollo neuronal.‬
 
-Referencias‬
+## Referencias‬
 
 1.  Abrahamsson K, Olsson I, Sillen U. Urodynamic findings in children with myelomeningocele after untethering of the spinal cord. _J Urol_. 2007; **177**: 331-4.‬
- 2.  Adzick NS, Thom EA, Spong CY, et al. A randomized trial of prenatal versus postnatal repair of myelomeningocele. _N Engl J Med_. 2011; **364**: 993-1004.‬
- 3.  Agarwalla PK, Dunn IF, Scott RM, Smith ER. Tethered cord syndrome. _Neurosurg Clin N Am_. 2007; **18**: 531-547.‬
- 4.  Al-Holou WN, Muraszko KM, Garton HJ, Buchman SR, Maher CO. The outcome of tethered cord release in secondary and multiple repeat tethered cord syndrome. _J Neurosurg Pediatr_. 2009; **4**: 28-36.‬
- 5. Altaweel W, Jednack R, Bilodeau C, Corcos J. Repeated intradetrusor botulinum toxin type A in children with neurogenic bladder due to myelomeningocele. _J Urol_. 2006;175(3 Pt 1):1102-1105.‬
- 6.  Bachelard, M, Sillen, U, Hansson, S, et al.  Urodynamic pattern in asymptomatic infants: siblings of children with vesicoureteral reflux. _J Urol_.  1999; **162**: 1733-1777.‬
- 7.  Balasubramaniam C, Laurent JP, McCluggage C, Oshman D, Cheek WR. Tethered-cord syndrome after repair of meningomyelocele. _Childs Nerv Syst_. 1990; **6**: 208-211.‬
- 8.  Bao N, Chen ZH, Gu S, Chen QM, Jin HM, Shi CR. Tight filum terminale syndrome in children: Analysis based on positioning of the conus and absence or presence of lumbosacral lipoma. _Childs Nerv Syst_. 2007; **23**: 1129-1134.‬
- 9.  Barson AJ. The vertebral level of termination of the spinal cord during normal and abnormal development. _J Anat_. 1970;106(Pt 3):489-497.‬
- 10.  Blount JP, Elton S. Spinal lipomas. _Neurosurg Focus_. 2001; **10**: e3.‬
- 11.  Bowman RM, Mohan A, Ito J, Seibly JM, McLone DG. Tethered cord release: A long-term study in 114 patients. _J Neurosurg Pediatr_. 2009; **3**: 181-187.‬
- 12.  Bui CJ, Tubbs RS, Oakes WJ. Tethered cord syndrome in children: A review. _Neurosurg Focus_. 2007; **23**: E2.‬
- 13.  Caldarelli M, Boscarelli A, Massimi L. Recurrent tethered cord: radiological investigation and management. _Childs Nerv Syst._ 2013; **29**: 1601-1609.‬
- 14.  Clayton DB, Tanaka ST, Trusler L, et al. Long-term urological impact of fetal myelomeningocele closure. J Urol. 2011;186(4 Suppl):1581-1585.‬
- 15.  Darge K, Higgins M, Hwang TJ, Delgado J, Shukla A, Bellah R. Magnetic Resonance and Computed Tomography in Pediatri Urology. _Radiol Clin North Am._ 2013; **51**: 583-598.‬
- 16. Fabiano AJ, Khan MF, Rozzelle CJ, Li V. Preoperative predictors for improvement after surgical untethering in occult tight filum terminale syndrome. _Pediatr Neurosurg_. 2009; **45**: 256-261.‬
- 17.  Falci SP, Lammertse DP, Best L, et al. Surgical treatment of posttraumatic cystic and tethered spinal cords. _J Spinal Cord Med_. 1999; **22**: 173-181.‬
- 18. Figueroa V, Romao R, Pippi Salle JL, et al. Single-center experience with botulinum toxin endoscopic detrusor injection for the treatment of congenital neuropathic bladder in children: Effect of dose adjustment, multiple injections, and avoidance of reconstructive procedures. _J Pediatr Urol_. 2013.‬
- 19.  Fone PD, Vapnek JM, Litwiller SE, et al. Urodynamic findings in the tethered spinal cord syndrome: Does surgical release improve bladder function? _J Urol_. 1997; **157**: 604-609.‬
- 20.  Fuchs A. Ueber beziehungen der enuresis nocturna zu rudementarformen der spina bifida occulta (myelodysplasie). _Wien Med Wochenschr_. 1910(80):1569-1573.‬
- 21.  Garceau, GJ. The filum terminale syndrome (the cord-traction syndrome). _J Bone Joint Surg Am_. 1953;35-A(3):711-716.‬
- 22. Game X, Mouracade P, Chartier-Kastler E, et al. Botulinum toxin-A (botox) intradetrusor injections in children with neurogenic detrusor overactivity/neurogenic overactive bladder: A systematic literature review. _J Pediatr Urol_. 2009; **5**: 156-164.‬
- 23.  Graff, W, Mellgren, A, Matzel KE et al.  Efficacy of dextranomer in stabilised hyaluronic acid for treatment of faecal incontinence: a randomised, sham-controlled trial_.  Lancet_.  2011: 377(9770):997-1003.‬
- 24.  Guerra LA, Pike J, Milks J, Barrowman N, Leonard M. Outcome in patients who underwent tethered cord release for occult spinal dysraphism. _J Urol_. 2006;176(4 Pt 2):1729-1732.‬
- 25.  Henry A, Tunkel R, Arbit E, Ku A, Lachmann E. Tethered thoracic cord resulting from spinal cord herniation. _Arch Phys Med Rehabil_. 1997; **78**: 530-533.‬
- 26.  Hertzler DA,2nd, DePowell JJ, Stevenson CB, Mangano FT. Tethered cord syndrome: A review of the literature from embryology to adult presentation. _Neurosurg Focus_. 2010; **29**: E1.‬
- 27.  Hoffman HJ, Hendrick EB, Humphreys RP. The tethered spinal cord: Its protean manifestations, diagnosis and surgical correction. _Childs Brain_. 1976; **2**: 145-155.‬
- 28.  Hsieh MH, Perry V, Gupta N, Pearson C, Nguyen HT. The effects of detethering on the urodynamics profile in children with a tethered cord. _J Neurosurg_. 2006;105(5 Suppl):391-395.91.‬
- 29.  Khoury AE, Hendrick EB, McLorie GA, Kulkarni A, Churchill BM. Occult spinal dysraphism: Clinical and urodynamic outcome after division of the filum terminale. _J Urol_. 1990;144(2 Pt 2):426-8; discussion 428-9, 443-4.‬
- 30.  Lellouch-Tubiana A, Zerah M, Catala M, Brousse N, Kahn AP. Congenital intraspinal lipomas: Histological analysis of 234 cases and review of the literature. _Pediatr Dev Pathol_. 1999; **2**: 346-352.‬
- 31.  Leung FW. Treatment of fecal incontinence – review of observational studies (OS) and randomized controlled trials (RCT) related to injection of bulking agent into per-anal tissue. _J Interv Gastroenterol._ 2011;1.4:202-206.‬
- 32.  Lew SM, Kothbauer KF. Tethered cord syndrome: An updated review. _Pediatr Neurosurg_. 2007; **43**: 236-248.‬
- 33.  Macejko, AM, Cheng, EY, Yerkes, EB, Meyer, T, Bowman, RM, Kaplan, WE. Clinical Urological Outcomes Following Primary Tethered Cord Release in Children Younger Than 3 Years.  _J Urol_. 2007; **178**: 1738-43.‬
- 34.  Maeda, Y, Laurberg, S, Norton, C.  Perianal injectable bulking agents as treatment for faecal incontinence in adults.  _Cochrane Database Syst Rev_. 2013; 28;2.‬
- 35.  Martinez-Lage JF, Ferri Niguez B, Almagro MJ, Rodriguez MC, Perez-Espejo MA. Foreign body reactions causing spinal cord tethering: A case-based update. _Childs Nerv Syst_. 2010; **26**: 601-606.‬
- 36.  McGuire EJ, Woodside JR, Borden TA, Weiss RM. Prognostic value of urodynamic testing in myelodysplastic patients. _J Urol_. 1981; **126**: 205-209.‬
- 37.  Mehta VA, Bettegowda C, Ahmadi SA, et al. Spinal cord tethering following myelomeningocele repair. _J Neurosurg Pediatr_. 2010; **6**: 498-505.‬
- 38.  Metcalfe PD, Luerssen TG, King SJ, et al. Treatment of the occult tethered spinal cord for neuropathic bladder: Results of sectioning the filum terminale. _J Urol_. 2006;176(4 Pt 2):1826-9; discussion 1830.‬
- 39.  Muraszko K, Youkilis A. Intramedullary spinal tumors of disordered embryogenesis. _J Neurooncol_. 2000; **47**: 271-281.‬
- 40. Nazar GB, Casale AJ, Roberts JG, Linden RD. Occult filum terminale syndrome. _Pediatr Neurosurg_. 1995; **23**: 228-235.‬
- 41.  Nolte J. Development of the nervous system. _The Human Brain: An Introduction to its Functional Anatomy_. 2002; **5**: 37-52.‬
- 42. Ohe N, Futamura A, Kawada R, Minatsu H, Kohmura H, Hayashi K, Miwa K, Saka N. Secondary tethered cord syndrome in spinal dysraphism. _Child&#39;s Nerv Syst_. 2000; **16**: 457-61.‬
- 43.  Palmer LS, Richards I, Kaplan WE. Subclinical changes in bladder function in children presenting with nonurological symptoms of the tethered cord syndrome. _J Urol_. 1998; **159**: 231-234.‬
- 44.  Paris G, Gourcerol G, Leroi AM. Management of neurogenic bowel dysfunction. _Eur J Phys Rehabil Med. _2011; **47**: 661-675_._‬
- 45.  Park HJ, Noh SE, Kim GD, Joo MC. Plain Abdominal Radiograph as an Evaluation Method of Bowel Dysfunction in Patients with Spinal Cord Injury. _Ann Rehabil Med._ 2013; **37**: 547-555.‬
- 46.  Phuong LK, Schoeberl KA, Raffel C. Natural history of tethered cord in patients with meningomyelocele. _Neurosurgery_. 2002; **50**: 989-93; discussion 993-5.‬
- 47.  Ragnarsson TS, Durward QJ, Nordgren RE. Spinal cord tethering after traumatic paraplegia with late neurological deterioration. _J Neurosurg_. 1986; **64**: 397-401.‬
- 48.  Sarwar M, Crelin ES, Kier EL, Virapongse C. Experimental cord stretchability and the tethered cord syndrome. _AJNR Am J Neuroradiol_. 1983; **4**: 641-643.‬
- 49.  Satar N, Bauer SB, Shefner J, Kelly MD, Darbey MM. The effects of delayed diagnosis and treatment in patients with an occult spinal dysraphism. _J Urol_. 1995;154(2 Pt 2):754-758.‬
- 50.  Schneider SJ, Rosenthal AD, Greenberg BM, Danto J. A preliminary report on the use of laser-Doppler flowmetry during tethered spinal cord release. _Neurosurgery_. 1993; **32**: 214-7; discussion 217-8.‬
- 51.  Schulte-Baukloh H, Knispel HH, Stolze T, Weiss C, Michael T, Miller K. Repeated botulinum-A toxin injections in treatment of children with neurogenic detrusor overactivity. _Urology_. 2005; **66**: 865-70; discussion 870.‬
- 52.  Selcuki M, Unlu A, Ugur HC, Soygur T, Arikan N, Selcuki D. Patients with urinary incontinence often benefit from surgical detethering of tight filum terminale. _Childs Nerv Syst_. 2000; **16**: 150-4; discussion 155.‬
- 53. Selden NR, Nixon RR, Skoog SR, Lashley DB. Minimal tethered cord syndrome associated with thickening of the terminal filum. _J Neurosurg_. 2006;105(3 Suppl):214-218.‬
- 54.  Shurtleff DB, Duguay S, Duguay G, et al. Epidemiology of tethered cord with meningomyelocele. _Eur J Pediatr Surg_. 1997;7 Suppl 1:7-11.‬
- 55.  Singh S, Kline-Fath B, Bierbrauer K, et al. Comparison of standard, prone and cine MRI in the evaluation of tethered cord. _Pediatr Radiol_. 2012; **42**: 685-691.‬
- 56.  Snodgrass WT and Gargollo PC. Urologic Care of the Neurogenic Bladder in Children. _Uro Clin N Am_. 2010; **37**: 207-214.‬
- 57.  Sohaey R, Oh KY, Kennedy AM, Ameli JR, Selden NR. Prenatal Diagnosis of Tethered Spinal Cord. _Ultrasound Q._ 2009; **25**: 83-87.‬
- 58.  Solmaz I, Izci Y, Albayrak B, et al. Tethered cord syndrome in childhood: Special emphasis on the surgical technique and review of the literature with our experience. _Turk Neurosurg_. 2011; **21**: 516-521.‬
- 59.  Steinbok P, Kariyattil R, MacNeily AE. Comparison of section of filum terminale and non-neurosurgical management for urinary incontinence in patients with normal conus position and possible occult tethered cord syndrome. _Neurosurgery_. 2007; **61**: 550-5; discussion 555-6.‬
- 60.  Steinbok P, MacNeily AE. Section of the terminal filum for occult tethered cord syndrome: Toward a scientific answer. _Neurosurg Focus_. 2007; **23**: E5.‬
- 61.  Stohrer M, Blok B, Castro-Diaz D, Chartier-Kastler E, Del Popolo G, Kramer G, Pannek J, Radziszewski P, Wyndaele J. EAU Guidelines on Neurogenic Lower Urinary Tract Dysfunction. 2009; **56**: 81-88.‬
- 62.  Strouse PJ, Bates DG, Bloom DA, Goodsitt MM. Non-contrast thin-section helical CT of urinary tract calculi in children. _Pediatr Radiol._ 2002; **32**: 326-332.‬
- 63.  Tani S, Yamada S, Knighton RS. Extensibility of the lumbar and sacral cord. Pathophysiology of the tethered spinal cord in cats. _J Neurosurg_. 1987; **66**: 116-123.‬
- 64. Talamonti G, D&#39;Aliberti G, Collice M. Myelomeningocele: long-term neurosurgical treatment and follow-up in 202 patients. _J Neurosurg. _2007; 107(Suppl 5): 368-86.‬
- 65.  van der Meulen WD, Hoving EW, Staal-Schreinemacher A, Begeer JH. Analysis of different treatment modalities of tethered cord syndrome. _Childs Nerv Syst_. 2002;18(9-10):513-517.‬
- 66.  Varnet O, Farmer J-P, Houle A-M, Montes JL: Impact of urodynamic studies on the surgical management of spinal cord tethering. _J Neurosurg_. 1996; **85**: 555-9.65.  Venkataramana NK. Spinal dysraphism. _J Pediatr Neurosci_. 2011;6(Suppl 1):S31-40.‬
- 67.  Warder DE. Tethered cord syndrome and occult spinal dysraphism. _Neurosurg Focus_. 2001; **10**: e1.‬
- 68.  Warder DE, Oakes WJ. Tethered cord syndrome: The low-lying and normally positioned conus. _Neurosurgery_. 1994; **34**: 597-600; discussion 600.‬
- 69.  Warder DE, Oakes WJ. Tethered cord syndrome and the conus in a normal position. _Neurosurgery_. 1993; **33**: 374-378.‬
- 70.  Wehby MC, O&#39;Hollaren PS, Abtin K, Hume JL, Richards BJ. Occult tight filum terminale syndrome: Results of surgical untethering. _Pediatr Neurosurg_. 2004; **40**: 51-7; discussion 58.‬
- 71.  Yamada S, Won DJ, Yamada SM. Pathophysiology of tethered cord syndrome: Correlation with symptomatology. _Neurosurg Focus_. 2004; **16**: E6.‬
- 72.  Yamada S, Zinke DE, Sanders D. Pathophysiology of &quot;tethered cord syndrome&quot;. _J Neurosurg_. 1981; **54**: 494-503.‬
-
+2.  Adzick NS, Thom EA, Spong CY, et al. A randomized trial of prenatal versus postnatal repair of myelomeningocele. _N Engl J Med_. 2011; **364**: 993-1004.‬
+3.  Agarwalla PK, Dunn IF, Scott RM, Smith ER. Tethered cord syndrome. _Neurosurg Clin N Am_. 2007; **18**: 531-547.‬
+4.  Al-Holou WN, Muraszko KM, Garton HJ, Buchman SR, Maher CO. The outcome of tethered cord release in secondary and multiple repeat tethered cord syndrome. _J Neurosurg Pediatr_. 2009; **4**: 28-36.‬
+5. Altaweel W, Jednack R, Bilodeau C, Corcos J. Repeated intradetrusor botulinum toxin type A in children with neurogenic bladder due to myelomeningocele. _J Urol_. 2006;175(3 Pt 1):1102-1105.‬
+6.  Bachelard, M, Sillen, U, Hansson, S, et al.  Urodynamic pattern in asymptomatic infants: siblings of children with vesicoureteral reflux. _J Urol_.  1999; **162**: 1733-1777.‬
+7.  Balasubramaniam C, Laurent JP, McCluggage C, Oshman D, Cheek WR. Tethered-cord syndrome after repair of meningomyelocele. _Childs Nerv Syst_. 1990; **6**: 208-211.‬
+8.  Bao N, Chen ZH, Gu S, Chen QM, Jin HM, Shi CR. Tight filum terminale syndrome in children: Analysis based on positioning of the conus and absence or presence of lumbosacral lipoma. _Childs Nerv Syst_. 2007; **23**: 1129-1134.‬
+9.  Barson AJ. The vertebral level of termination of the spinal cord during normal and abnormal development. _J Anat_. 1970;106(Pt 3):489-497.‬
+10.  Blount JP, Elton S. Spinal lipomas. _Neurosurg Focus_. 2001; **10**: e3.‬
+11.  Bowman RM, Mohan A, Ito J, Seibly JM, McLone DG. Tethered cord release: A long-term study in 114 patients. _J Neurosurg Pediatr_. 2009; **3**: 181-187.‬
+12.  Bui CJ, Tubbs RS, Oakes WJ. Tethered cord syndrome in children: A review. _Neurosurg Focus_. 2007; **23**: E2.‬
+13.  Caldarelli M, Boscarelli A, Massimi L. Recurrent tethered cord: radiological investigation and management. _Childs Nerv Syst._ 2013; **29**: 1601-1609.‬
+14.  Clayton DB, Tanaka ST, Trusler L, et al. Long-term urological impact of fetal myelomeningocele closure. J Urol. 2011;186(4 Suppl):1581-1585.‬
+15.  Darge K, Higgins M, Hwang TJ, Delgado J, Shukla A, Bellah R. Magnetic Resonance and Computed Tomography in Pediatri Urology. _Radiol Clin North Am._ 2013; **51**: 583-598.‬
+16. Fabiano AJ, Khan MF, Rozzelle CJ, Li V. Preoperative predictors for improvement after surgical untethering in occult tight filum terminale syndrome. _Pediatr Neurosurg_. 2009; **45**: 256-261.‬
+17.  Falci SP, Lammertse DP, Best L, et al. Surgical treatment of posttraumatic cystic and tethered spinal cords. _J Spinal Cord Med_. 1999; **22**: 173-181.‬
+18. Figueroa V, Romao R, Pippi Salle JL, et al. Single-center experience with botulinum toxin endoscopic detrusor injection for the treatment of congenital neuropathic bladder in children: Effect of dose adjustment, multiple injections, and avoidance of reconstructive procedures. _J Pediatr Urol_. 2013.‬
+19.  Fone PD, Vapnek JM, Litwiller SE, et al. Urodynamic findings in the tethered spinal cord syndrome: Does surgical release improve bladder function? _J Urol_. 1997; **157**: 604-609.‬
+20.  Fuchs A. Ueber beziehungen der enuresis nocturna zu rudementarformen der spina bifida occulta (myelodysplasie). _Wien Med Wochenschr_. 1910(80):1569-1573.‬
+21.  Garceau, GJ. The filum terminale syndrome (the cord-traction syndrome). _J Bone Joint Surg Am_. 1953;35-A(3):711-716.‬
+22. Game X, Mouracade P, Chartier-Kastler E, et al. Botulinum toxin-A (botox) intradetrusor injections in children with neurogenic detrusor overactivity/neurogenic overactive bladder: A systematic literature review. _J Pediatr Urol_. 2009; **5**: 156-164.‬
+23.  Graff, W, Mellgren, A, Matzel KE et al.  Efficacy of dextranomer in stabilised hyaluronic acid for treatment of faecal incontinence: a randomised, sham-controlled trial_.  Lancet_.  2011: 377(9770):997-1003.‬
+24.  Guerra LA, Pike J, Milks J, Barrowman N, Leonard M. Outcome in patients who underwent tethered cord release for occult spinal dysraphism. _J Urol_. 2006;176(4 Pt 2):1729-1732.‬
+25.  Henry A, Tunkel R, Arbit E, Ku A, Lachmann E. Tethered thoracic cord resulting from spinal cord herniation. _Arch Phys Med Rehabil_. 1997; **78**: 530-533.‬
+26.  Hertzler DA,2nd, DePowell JJ, Stevenson CB, Mangano FT. Tethered cord syndrome: A review of the literature from embryology to adult presentation. _Neurosurg Focus_. 2010; **29**: E1.‬
+27.  Hoffman HJ, Hendrick EB, Humphreys RP. The tethered spinal cord: Its protean manifestations, diagnosis and surgical correction. _Childs Brain_. 1976; **2**: 145-155.‬
+28.  Hsieh MH, Perry V, Gupta N, Pearson C, Nguyen HT. The effects of detethering on the urodynamics profile in children with a tethered cord. _J Neurosurg_. 2006;105(5 Suppl):391-395.91.‬
+29.  Khoury AE, Hendrick EB, McLorie GA, Kulkarni A, Churchill BM. Occult spinal dysraphism: Clinical and urodynamic outcome after division of the filum terminale. _J Urol_. 1990;144(2 Pt 2):426-8; discussion 428-9, 443-4.‬
+30.  Lellouch-Tubiana A, Zerah M, Catala M, Brousse N, Kahn AP. Congenital intraspinal lipomas: Histological analysis of 234 cases and review of the literature. _Pediatr Dev Pathol_. 1999; **2**: 346-352.‬
+31.  Leung FW. Treatment of fecal incontinence – review of observational studies (OS) and randomized controlled trials (RCT) related to injection of bulking agent into per-anal tissue. _J Interv Gastroenterol._ 2011;1.4:202-206.‬
+32.  Lew SM, Kothbauer KF. Tethered cord syndrome: An updated review. _Pediatr Neurosurg_. 2007; **43**: 236-248.‬
+33.  Macejko, AM, Cheng, EY, Yerkes, EB, Meyer, T, Bowman, RM, Kaplan, WE. Clinical Urological Outcomes Following Primary Tethered Cord Release in Children Younger Than 3 Years.  _J Urol_. 2007; **178**: 1738-43.‬
+34.  Maeda, Y, Laurberg, S, Norton, C.  Perianal injectable bulking agents as treatment for faecal incontinence in adults.  _Cochrane Database Syst Rev_. 2013; 28;2.‬
+35.  Martinez-Lage JF, Ferri Niguez B, Almagro MJ, Rodriguez MC, Perez-Espejo MA. Foreign body reactions causing spinal cord tethering: A case-based update. _Childs Nerv Syst_. 2010; **26**: 601-606.‬
+36.  McGuire EJ, Woodside JR, Borden TA, Weiss RM. Prognostic value of urodynamic testing in myelodysplastic patients. _J Urol_. 1981; **126**: 205-209.‬
+37.  Mehta VA, Bettegowda C, Ahmadi SA, et al. Spinal cord tethering following myelomeningocele repair. _J Neurosurg Pediatr_. 2010; **6**: 498-505.‬
+38.  Metcalfe PD, Luerssen TG, King SJ, et al. Treatment of the occult tethered spinal cord for neuropathic bladder: Results of sectioning the filum terminale. _J Urol_. 2006;176(4 Pt 2):1826-9; discussion 1830.‬
+39.  Muraszko K, Youkilis A. Intramedullary spinal tumors of disordered embryogenesis. _J Neurooncol_. 2000; **47**: 271-281.‬
+40. Nazar GB, Casale AJ, Roberts JG, Linden RD. Occult filum terminale syndrome. _Pediatr Neurosurg_. 1995; **23**: 228-235.‬
+41.  Nolte J. Development of the nervous system. _The Human Brain: An Introduction to its Functional Anatomy_. 2002; **5**: 37-52.‬
+42. Ohe N, Futamura A, Kawada R, Minatsu H, Kohmura H, Hayashi K, Miwa K, Saka N. Secondary tethered cord syndrome in spinal dysraphism. _Child&#39;s Nerv Syst_. 2000; **16**: 457-61.‬
+43.  Palmer LS, Richards I, Kaplan WE. Subclinical changes in bladder function in children presenting with nonurological symptoms of the tethered cord syndrome. _J Urol_. 1998; **159**: 231-234.‬
+44.  Paris G, Gourcerol G, Leroi AM. Management of neurogenic bowel dysfunction. _Eur J Phys Rehabil Med. _2011; **47**: 661-675_._‬
+45.  Park HJ, Noh SE, Kim GD, Joo MC. Plain Abdominal Radiograph as an Evaluation Method of Bowel Dysfunction in Patients with Spinal Cord Injury. _Ann Rehabil Med._ 2013; **37**: 547-555.‬
+46.  Phuong LK, Schoeberl KA, Raffel C. Natural history of tethered cord in patients with meningomyelocele. _Neurosurgery_. 2002; **50**: 989-93; discussion 993-5.‬
+47.  Ragnarsson TS, Durward QJ, Nordgren RE. Spinal cord tethering after traumatic paraplegia with late neurological deterioration. _J Neurosurg_. 1986; **64**: 397-401.‬
+48.  Sarwar M, Crelin ES, Kier EL, Virapongse C. Experimental cord stretchability and the tethered cord syndrome. _AJNR Am J Neuroradiol_. 1983; **4**: 641-643.‬
+49.  Satar N, Bauer SB, Shefner J, Kelly MD, Darbey MM. The effects of delayed diagnosis and treatment in patients with an occult spinal dysraphism. _J Urol_. 1995;154(2 Pt 2):754-758.‬
+50.  Schneider SJ, Rosenthal AD, Greenberg BM, Danto J. A preliminary report on the use of laser-Doppler flowmetry during tethered spinal cord release. _Neurosurgery_. 1993; **32**: 214-7; discussion 217-8.‬
+51.  Schulte-Baukloh H, Knispel HH, Stolze T, Weiss C, Michael T, Miller K. Repeated botulinum-A toxin injections in treatment of children with neurogenic detrusor overactivity. _Urology_. 2005; **66**: 865-70; discussion 870.‬
+52.  Selcuki M, Unlu A, Ugur HC, Soygur T, Arikan N, Selcuki D. Patients with urinary incontinence often benefit from surgical detethering of tight filum terminale. _Childs Nerv Syst_. 2000; **16**: 150-4; discussion 155.‬
+53. Selden NR, Nixon RR, Skoog SR, Lashley DB. Minimal tethered cord syndrome associated with thickening of the terminal filum. _J Neurosurg_. 2006;105(3 Suppl):214-218.‬
+54.  Shurtleff DB, Duguay S, Duguay G, et al. Epidemiology of tethered cord with meningomyelocele. _Eur J Pediatr Surg_. 1997;7 Suppl 1:7-11.‬
+55.  Singh S, Kline-Fath B, Bierbrauer K, et al. Comparison of standard, prone and cine MRI in the evaluation of tethered cord. _Pediatr Radiol_. 2012; **42**: 685-691.‬
+56.  Snodgrass WT and Gargollo PC. Urologic Care of the Neurogenic Bladder in Children. _Uro Clin N Am_. 2010; **37**: 207-214.‬
+57.  Sohaey R, Oh KY, Kennedy AM, Ameli JR, Selden NR. Prenatal Diagnosis of Tethered Spinal Cord. _Ultrasound Q._ 2009; **25**: 83-87.‬
+58.  Solmaz I, Izci Y, Albayrak B, et al. Tethered cord syndrome in childhood: Special emphasis on the surgical technique and review of the literature with our experience. _Turk Neurosurg_. 2011; **21**: 516-521.‬
+59.  Steinbok P, Kariyattil R, MacNeily AE. Comparison of section of filum terminale and non-neurosurgical management for urinary incontinence in patients with normal conus position and possible occult tethered cord syndrome. _Neurosurgery_. 2007; **61**: 550-5; discussion 555-6.‬
+60.  Steinbok P, MacNeily AE. Section of the terminal filum for occult tethered cord syndrome: Toward a scientific answer. _Neurosurg Focus_. 2007; **23**: E5.‬
+61.  Stohrer M, Blok B, Castro-Diaz D, Chartier-Kastler E, Del Popolo G, Kramer G, Pannek J, Radziszewski P, Wyndaele J. EAU Guidelines on Neurogenic Lower Urinary Tract Dysfunction. 2009; **56**: 81-88.‬
+62.  Strouse PJ, Bates DG, Bloom DA, Goodsitt MM. Non-contrast thin-section helical CT of urinary tract calculi in children. _Pediatr Radiol._ 2002; **32**: 326-332.‬
+63.  Tani S, Yamada S, Knighton RS. Extensibility of the lumbar and sacral cord. Pathophysiology of the tethered spinal cord in cats. _J Neurosurg_. 1987; **66**: 116-123.‬
+64. Talamonti G, D&#39;Aliberti G, Collice M. Myelomeningocele: long-term neurosurgical treatment and follow-up in 202 patients. _J Neurosurg. _2007; 107(Suppl 5): 368-86.‬
+65.  van der Meulen WD, Hoving EW, Staal-Schreinemacher A, Begeer JH. Analysis of different treatment modalities of tethered cord syndrome. _Childs Nerv Syst_. 2002;18(9-10):513-517.‬
+66.  Varnet O, Farmer J-P, Houle A-M, Montes JL: Impact of urodynamic studies on the surgical management of spinal cord tethering. _J Neurosurg_. 1996; **85**: 555-9.65.  Venkataramana NK. Spinal dysraphism. _J Pediatr Neurosci_. 2011;6(Suppl 1):S31-40.‬
+67.  Warder DE. Tethered cord syndrome and occult spinal dysraphism. _Neurosurg Focus_. 2001; **10**: e1.‬
+68.  Warder DE, Oakes WJ. Tethered cord syndrome: The low-lying and normally positioned conus. _Neurosurgery_. 1994; **34**: 597-600; discussion 600.‬
+69.  Warder DE, Oakes WJ. Tethered cord syndrome and the conus in a normal position. _Neurosurgery_. 1993; **33**: 374-378.‬
+70.  Wehby MC, O&#39;Hollaren PS, Abtin K, Hume JL, Richards BJ. Occult tight filum terminale syndrome: Results of surgical untethering. _Pediatr Neurosurg_. 2004; **40**: 51-7; discussion 58.‬
+71.  Yamada S, Won DJ, Yamada SM. Pathophysiology of tethered cord syndrome: Correlation with symptomatology. _Neurosurg Focus_. 2004; **16**: E6.‬
+72.  Yamada S, Zinke DE, Sanders D. Pathophysiology of &quot;tethered cord syndrome&quot;. _J Neurosurg_. 1981; **54**: 494-503.‬
 73.  Zerche A, Kruger J, Gottschalk E. Tethered cord syndrome after spina bifida: Own experiences. _Eur J Pediatr Surg_. 1997;7 Suppl 1:54-55.‬
