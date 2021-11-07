@@ -49,13 +49,15 @@ Si la fisiología compleja de la vejiga se reduce a sus funciones más básicas,
 
 El tratamiento individualizado dirigido a la fisiopatología fundamental puede optimizarse para reducir el riesgo renal y lograr la continencia.‬
 
-**Tabla 2**‬  
-|   | **Vejiga** |‬
-| --- | --- |‬
-| **Poco activo** | **Normal** | **Hiperactiva** |‬
-| **Esfínter** | **Hipoactivo** | Incontinencia de estres | Incontinencia de estrés | Incontinencia por estrés y urgencia. |‬
-| **Normal** | Retención urinaria | Normal | Incontinencia de urgencia |‬
-| **Hiperactiva** | Retención urinaria | Incontinencia de urgencia | DSD + vejiga de alta presión |‬
+**Tabla 1**‬
+
+|               |                 |                     | Bladder             |                              |
+|---------------|-----------------|:-------------------:|:-------------------:|:----------------------------:|
+|               |                 | **Underactive**     | **Normal**          | **Overactive**               |
+| **Sphincter** | **Underactive** | Stress incontinence | Stress incontinence | Stress and urge incontinence |
+|               | **Normal**      | Urinary retention   | Normal              | Urge incontinence            |
+|               | **Overactive**  | Urinary retention   | Urge incontinence   | DSD + high pressure bladder  |
+
 
 Las lesiones de la neurona motora superior e inferior se encuentran con la misma frecuencia. 15 Aproximadamente el 10% de los recién nacidos tienen hidronefrosis, lo que denota un riesgo renal inmediato secundario a altas presiones del detrusor. 15‬
 
