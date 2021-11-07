@@ -58,9 +58,8 @@ La preocupación del grupo australiano es en relación con la apariencia del pen
 
 Tabla 1. Comparación de resultados en relación con el tipo de reconstrucción de extrofia.‬
 
-|‬
- Tipo de reparación | Tasa de Continencia (%) |‬
-| --- | --- |‬
+|‬ Tipo de reparación | Tasa de Continencia (%) |‬
+|---------------|-----------------|
 | Kelly (Cuckow comunicación personal) | 70 |‬
 | Reparación primaria completa [^14] | 37 |‬
 | Young Dees Leadbetter [^15] | 56 |‬

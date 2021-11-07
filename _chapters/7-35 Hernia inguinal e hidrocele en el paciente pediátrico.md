@@ -69,7 +69,7 @@ Factores de riesgo para la hernia:‬
 **Tabla 1:** Factores de riesgo para mayor incidencia de hernia en niños.‬
 
 |‬ Urogenital | Testículo no descendido |‬
-| --- | --- |‬
+|---------------|-----------------|
 |   | Extrofia vesical |‬
 |   |   |‬
 | Aumento del líquido peritoneal. | Ascitis |‬

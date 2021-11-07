@@ -107,7 +107,7 @@ Después de un intervalo de 6 meses, procederíamos a la uretroplastia y la corr
 **Tabla 1**
 
 | Regla No | Regla | Implicación |
-| --- | --- | --- |
+| --- |:---|:---|
 | 1 | Los testículos descienden, los ovarios no | Una gónada palpable es un testículo |
 | 2 | Descenso testicular + regresión del conducto de Muller vinculado | Una gónada palpable significa que el conducto de Müller ipsilateral ha retrocedido |
 | 3 | Útero presente = células de Sertoli deficientes / ausentes (PR o ecografía) | Los conductos de Müller persistentes solo ocurren cuando el testículo está ausente o es disgenético (o PMDS raro) |

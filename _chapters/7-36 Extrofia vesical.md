@@ -51,15 +51,11 @@ Se ha hecho muchos esfuerzos para entender las posibles etiologías del complejo
 
 Pese a la magnitud del defecto en la pared abdominal inferior y en el desarrollo de los órganos pélvicos, es todavía difícil hacer un diagnóstico certero mediante la ecografía prenatal. Esto es por su rara incidencia y frecuentemente esta malformación es confundida con onfalocele o gastrosquisis. Varios grupos han ilustrados los hallazgos ecográficos importantes en el diagnóstico prenatal de extrofia vesical. En una revisión de 25 ecografías de pacientes que resultaron nacer con extrofia vesical clásica, Gearhart y cols. describieron los principales criterios para el diagnóstico prenatal de extrofia:‬
 
-1.- Ausencia de llene vesical‬
-
-2.- Masa en abdomen inferior, que se hace más protuberante a medida que avanza el embarazo‬
-
-3.- Baja inserción del cordón umbilical‬
-
-4.- Separación de las ramas del pubis‬
-
-5.- Dificultad en determinar el sexo del feto‬
+1. Ausencia de llene vesical‬
+2. Masa en abdomen inferior, que se hace más protuberante a medida que avanza el embarazo‬
+3. Baja inserción del cordón umbilical‬
+4. Separación de las ramas del pubis‬
+5. Dificultad en determinar el sexo del feto‬
 
 Analizando estos datos, siempre que no se logre visualizar la vejiga, se debe sospechar extrofia vesical.Se cree que el ultrasonido 3D y el aumento del uso de resonancia magnética fetal, mejorará la posibilidad de diagnóstico prenatal de extrofia vesical y de extrofia cloacal. Esto permite el enfoque multidisciplinario por equipos que tengan experiencia en el manejo del complejo extrofia - epispadias. Esto incluye la disponibilidad de equipos de cirugía reconstructiva en el periodo de recién nacido y de apoyo psico social para los padres y la familia de estos pacientes.‬
 

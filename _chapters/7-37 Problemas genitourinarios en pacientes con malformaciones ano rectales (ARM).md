@@ -67,7 +67,7 @@ El término malformación ano rectal representa un amplio espectro de anomalías
 **Tabla 1**
 
 | **MASCULINO** | **FEMENINO** |‬
-| --- | --- |‬
+|---------------|-----------------|
 | Fístula rectovesical (cuello vesical) |  Cloaca canal común\&gt;3 cm   canal común\&lt;3 cm    |‬
 | Fístula recto uretral (prostática) |‬
 | Fístula recto uretral (bulbar) |   Fistula recto vestibular           |‬

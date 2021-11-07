@@ -34,15 +34,16 @@ _Fundacion Puigvert‬, Barcelona, España‬_{: .translator-location}
 
 El varón con afalia o por insuficiencia peneana severa sigue siendo un gran desafío. El fracaso del desarrollo del pene, el traumatismo, las amputaciones del pene médicamente indicadas y las reconstrucciones fallidas de anomalías congénitas son las principales causas de insuficiencia peneana (Tabla 1). La insuficiencia peneana severa y la afalia son condiciones devastadoras para los hombres, con un impacto psicológico y físico significativo. Aunque es poco común, es una condición difícil de tratar.‬
 
-**Tabla 1**  
-|‬ **Condiciones que conducen a insuficiencia peneana severa.** |‬
-| --- |‬
+**Tabla 1**
+
+|‬ Condiciones que conducen a insuficiencia peneana severa. |‬
+|---------------|
 | Afecciones congénitas (trastornos del desarrollo sexual) |‬
-| Afalia o agenesia del pene‬
- Micropene idiopático‬
- 46 XY DSD‬
- extrofia vesical‬
- extrofia cloacal |‬
+| Afalia o agenesia del pene‬ |
+| Micropene idiopático‬ |
+| 46 XY DSD‬ |
+| extrofia vesical‬ |
+| extrofia cloacal |‬
 | Traumatismo genital |‬
 | Lesiones‬ Cirugía |‬
 | Amputación del pene |‬
@@ -51,9 +52,10 @@ Las opciones de tratamiento para esta patología devastadora son la reasignació
 
 En el pasado, la reasignación de sexo al género femenino se había ofrecido sobre la base de los principios aplicados a los recién nacidos con trastornos de diferenciación sexual (DSD) y genitales ambiguos. No hay evidencia para demostrar que el resultado de esta política sea satisfactorio. De hecho, la evaluación a largo plazo de algunos pacientes muestra resultados contradictorios, que han provocado una gran controversia sobre esta terapia [^1]. Algunos informes recientes han alertado a los médicos sobre la alta incidencia del trastorno de identidad de género en niños reasignados por género. Especialmente en la extrofia de cloaca, los resultados han sido decepcionantes [^2]<sup>,</sup>[^3]. Hoy en día, la reasignación de sexo ya no se considera un tratamiento de elección. Se debe informar a los padres de niños que presentan estas afecciones que se puede realizar una faloplastia en la vida, evitando la decisión estresante de la reasignación de género.‬
 
- **Tabla 2**  
-|‬ **Opciones de tratamiento para insuficiencia severa del pene.** |‬
-| --- |‬
+ **Tabla 2**
+ 
+|‬ Opciones de tratamiento para insuficiencia severa del pene. |‬
+|---------------|
 | Tratamiento endocrinológico |
 | Reconstrucción del pene |
 | Reemplazo del pene (faloplastia) |
