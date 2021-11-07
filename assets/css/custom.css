@@ -1,1 +1,38 @@
 /* Add here all your CSS customizations */
+.break-avoid {
+    -webkit-column-break-inside:avoid;
+	break-inside:avoid;
+}
+
+#toc h2 {
+    font-size:1.8em;
+    line-height:30px;
+    margin-bottom:10px;
+}
+
+#toc h3 {
+    font-size:1.4em;
+    line-height:20px;
+    text-transform:inherit;
+    margin-bottom:10px;
+    font-style: italic;
+}
+
+#toc h2 span,#toc h3 span {
+    font-weight:bold;
+    font-style:normal;
+}
+
+#toc ul {
+    list-style:none;
+    border-left: 3px #eee solid;
+    padding-left:10px;
+    margin-bottom:10px;
+}
+
+#toc ul ul {
+    list-style:none;
+    border-left: 3px #f6f6f6 solid;
+    padding-left:10px;
+    margin-bottom:10px;
+}

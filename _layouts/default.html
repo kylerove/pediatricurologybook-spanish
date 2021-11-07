@@ -8,8 +8,44 @@
     <div class="body" aria-label="Content">
       
       {%- include header.html -%}
-
-      {{ content }}
+      
+      <div id="main" class="d-flex flex-row">
+        <div id="side-nav">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/knowledge-should-be-free.jpg" title="Knowledge should be free" style="margin:auto" class="p-3">
+          <br>
+          <ul style="list-style:none; margin:auto; padding:0;">
+            <li style="display:block; margin:0; padding:0;">
+              <a href="{{ site.url }}" style="display:block; margin:auto;"><img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/home.jpg" title="Página de inicio" style="display:block; margin:auto;"></a>
+            </li>
+            <li style="display:block; margin:0; padding:0;">
+              <a href="{{ site.url }}/about.htm" style="display:block; margin:auto;"><img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/about-us.jpg" title="Sobre nosotros" style="display:block; margin:auto;"></a>
+            </li>
+            <li style="display:block; margin:0; padding:0;">
+              <a href="{{ site.url }}/chiefeditors.htm" style="display:block; margin:auto;"><img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/chief-editors.jpg" title="Editores jefes" style="display:block; margin:auto;"></a>
+            </li>
+            <li style="display:block; margin:0; padding:0;">
+              <a href="{{ site.url }}/sectioneditors.htm" style="display:block; margin:auto;"><img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/section-editors.jpg" title="Editores de sección" style="display:block; margin:auto;"></a>
+            </li>
+            <li style="display:block; margin:0; padding:0;">
+              <a href="{{ site.url }}/contributors.htm" style="display:block; margin:auto;"><img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/collaborators.jpg" title="Colaboradores" style="display:block; margin:auto;"></a>
+            </li>
+            <li style="display:block; margin:0; padding:0;">
+              <a href="{{ site.url }}{{ site.baseurl }}" style="display:block; margin:auto;"><img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/table-of-contents.jpg" title="Tabla de contenido" style="display:block; margin:auto;"</a>
+            </li>
+            <li style="display:block; margin:0; padding:0;">
+              <a href="{{ site.url }}/links.htm" style="display:block; margin:auto;"><img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/sponsored-links.jpg" title="Enlaces patrocinados" style="display:block; margin:auto;"></a>
+            </li>
+            <li style="display:block; margin:0; padding:0;">
+              <a href="{{ site.url }}/contact.htm" style="display:block; margin:auto;"><img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/contact-us.jpg" title="Contacta con nosotros" style="display:block; margin:auto;"></a>
+            </li>
+          </ul>
+        </div>
+        <div id="content" class="flex-grow-1 p-5">
+      
+          {{ content }}
+          
+        </div>
+      </div>
 
       {%- include footer.html -%}
 
