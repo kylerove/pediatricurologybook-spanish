@@ -20,7 +20,7 @@ _<sup>a</sup>Hospital de Pediatria_{: .translator-location}
 _<sup>b</sup>Buenos Aires Argentina‬_{: .translator-location}
 {: #translator-p}
 
-**Introducción**‬
+## Introducción
 
 El término hipospadias se deriva de las palabras griegas _hypo_ (debajo, muy poco) y _spadone_ (grieta, conducto). La hipospadias es el defecto congénito más común del pene. Se caracteriza por la posición anormal del meato uretral en el eje peneano ventral. Las estructuras afectadas en diversos grados son la porción anterior de la uretra, el glande, el prepucio, el cuerpo esponjoso y los cuerpos cavernosos.‬
 
@@ -30,7 +30,7 @@ Se han publicado alrededor de 400 técnicas quirúrgicas, pero la búsqueda de l
 
 Dado que el tratamiento quirúrgico generalmente se lleva a cabo temprano en la infancia y los procedimientos puramente cosméticos tienen una tasa de complicaciones significativa, los padres deben recibir información muy completa con respecto a la razón de la cirugía (cosmética vs. funcional o ambos) para facilitar su decisión a favor o en contra de la corrección quirúrgica.‬
 
-**Definición**‬
+## Definición
 
 La hipospadias se define como la combinación de tres anormalidades anatómicas del pene:‬
 
@@ -38,17 +38,20 @@ La hipospadias se define como la combinación de tres anormalidades anatómicas 
 2. Una desviación ventral del eje peneano.‬
 3. Un prepucio alado dorsal típico, por falta de unión ventral circular del prepucio.‬
 
-![Figura 1](/assets/figures/figure-7-28-1.jpg) ![Figura 2](/assets/figures/figure-7-28-2.jpg)‬
+![Figura 1](/assets/figures/figure-7-28-1.gif)   
+**Figura 1:** Meato ectópico y prepucio alado dorsal‬
 
-Fig: Meato ectópico y prepucio alado dorsal‬
-
-Fig: Desviación ventral del eje peneano‬
+![Figura 2](/assets/figures/figure-7-28-2.gif)‬  
+**Figura 2:** Desviación ventral del eje peneano‬
 
 Las características segunda y tercera pueden no estar necesariamente presentes. Por el contrario, la primera característica es una parte incondicional de la definición.‬
 
 Casos especiales son las hipospadias &quot;Sinusoidal&quot; y el &quot;Megalomeato&quot;. La hipospadias sinusoidal se caracteriza por una curvatura ventral del eje del pene y una posición ortotópica del meato. El Megalomeato se caracteriza por un meato coronal adyacente a un glande no cerrado, con una fosa navicular abierta y un prepucio circular.‬
 
-**Clasificación**‬
+![Figura 3](/assets/figures/figure-7-28-3.gif)‬  
+**Figura 3:** Megalomeatus
+
+## Clasificación
 
 La clasificación más común fue publicada por Duckett en 1996. Dividió las hipospadias en anterior (50%), media (30%) y posterior (20%), que se subclasifican según la ubicación del meato.‬
 
@@ -58,29 +61,16 @@ La clasificación más común fue publicada por Duckett en 1996. Dividió las hi
 
 Otras clasificaciones se observan en la siguiente figura.‬
 
-![Figura 3](/assets/figures/figure-7-28-3.jpg)‬
+![Figura 4](/assets/figures/figure-7-28-4.jpg)‬  
+**Figura 4:** Clasificación de hipospadias (Hadidi AT, Azmy AF; Hypospadias Surgery: An Illustrated Guide, Heidelberg: Springer Verlag 2004.), Hipospadias Mediopeneana‬, Hipospadias Glandular‬, Hipospadias Coronal, Hipospadias Medioescrotal‬
 
-Fig: Clasificación de hipospadias (Hadidi AT, Azmy AF; Hypospadias Surgery: An Illustrated Guide, Heidelberg: Springer Verlag 2004.)‬
-
-Fig: Hipospadias Mediopeneana‬
-
-Fig: Hipospadias Glandular‬
-
- ![Figura 4](/assets/figures/figure-7-28-4.jpg) ![Figura 5](/assets/figures/figure-7-28-5.jpg)‬
-
-Fig: Hipospadias Coronal‬
-
-Fig: Hipospadias Medioescrotal‬
-
- ![Figura 6](/assets/figures/figure-7-28-6.jpg) ![Figura 7](/assets/figures/figure-7-28-7.jpg) ![Figura 8](/assets/figures/figure-7-28-8.jpg)‬
-
-**Frecuencia**‬
+## Frecuencia
 
 Se ha informado que la incidencia de hipospadias oscila entre 0,4 y 8,2 casos por cada 1.000 recién nacidos varones. Las grandes diferencias en la frecuencia tienen su origen en las influencias geográficas, genéticas y ambientales, así como en la variedad de recopilación de datos. De acuerdo con los &quot;Centros para el Control de Enfermedades&quot;, la probabilidad más alta de hipospadias está en la población caucásica seguida por los afroamericanos y luego por los hispanoamericanos.‬
 
 La incidencia de hipospadias está aumentando tanto en Europa como en América del Norte, empero las razones todavía no se comprenden claramente. Según el &quot;Programa de Monitoreo de Defectos de Nacimiento&quot;, los informes muestran un aumento en la incidencia de 20,2 por cada 10,000 en 1970 a 39,7 por cada 10,000 recién nacidos varones en los Estados Unidos. Este aumento es independiente de las mejoras en la atención médica y el diagnóstico mejorado. Para Borer y Retik (1999), ha habido un aumento de 5 veces en el número de hipospadias más severas en comparación con las formas más distales. Esto se puede explicar por el aumento en el número de nacimientos prematuros y el contacto del feto con progesterona u otras sustancias con efecto estrogénico o antiandrogénico. Por otro lado, no ha habido un aumento en la incidencia en los países en desarrollo.‬
 
-**Etiología**‬
+## Etiología
 
 La etiología de la hipospadias es multifactorial. En 66-75% de los casos, la causa permanece desconocida (Spindler y cols., 2001). El desarrollo sexual somático se asocia con andrógenos esenciales. Por lo tanto, parece probable que los defectos en la síntesis de andrógenos o su acción durante la embriogénesis conduzcan al desarrollo de hipospadias.‬
 
@@ -88,7 +78,7 @@ De acuerdo con Spindler y cols. (2001), la hipospadias también se encuentra en 
 
 Una predisposición genética se discute como posible causa de hipospadias. La probabilidad de tener un segundo hijo con hipospadias es del 14%. Si el padre tiene hipospadias, la probabilidad de que uno de sus hijos padezca la misma patología es del 8%. De manera similar, la hipospadias está presente en muchos síndromes, como el síndrome de Smith-Lemli-Opitz o el síndrome de Robinow. Sin embargo, en estos casos, se desconoce la causa exacta‬
 
-**Factores de riesgo**‬
+## Factores de riesgo
 
 Existe una mayor probabilidad de aparición de hipospadias, bajo ciertas condiciones‬
 
@@ -100,7 +90,7 @@ Existe una mayor probabilidad de aparición de hipospadias, bajo ciertas condici
 - Padres en contacto con pesticidas‬
 - Embarazo mediante inseminación artificial o asistencia médica‬
 
-**Embriología**‬
+## Embriología‬
 
 El sexo cromosómico se determina en la fertilización por espermatozoides haploides. Si hay un cromosoma Y presente, la gónada indiferente en la etapa 18 se diferencia en un testículo y determina el sexo gonadal. La formación del sexo somático está determinada por la gónada existente. Los andrógenos se forman en el testículo fetal. Las células de Sertoli producen la hormona anti mülleriana y las células de Leydig la testosterona. La distribución de estas 2 hormonas es responsable del desarrollo de los genitales masculinos (Drews 2006). Por ejemplo, inducen la extensión del tubérculo genital en el pene. El crecimiento de longitud se forma en ambos lados del llamado tubérculo genital uretral. Por lo tanto, los pliegues uretrales forman las paredes laterales del surco uretral profundo. Con la desaparición de la membrana urogenital se forma una columna que crece hasta el fondo del tubérculo genital, pero no alcanza el glande distal. Las células endodérmicas del revestimiento epitelial de la columna forman la placa uretral. Hacia el final del tercer mes, los pliegues uretrales se unen por encima de la placa uretral para formar la uretra peneana. El área de fusión de los pliegues uretrales migra desde la base hasta casi la punta del pene.‬
 
@@ -108,129 +98,99 @@ Al final del cuarto mes, se forma la porción distal de la uretra, a través de 
 
 Ergo, la uretra se forma por el crecimiento continuo de la placa uretral en el tubérculo genital, seguido de la fusión ventral de la uretra. Los bordes de la placa uretral crecen hacia adelante sobre el surco coronario y dan lugar al prepucio. Una placa epitelial circular se hunde entre los pliegues y el glande.‬
 
-![Figura 9](/assets/figures/figure-7-28-9.jpg)‬
-
-Fig: Desarrollo de los genitales externos en el feto masculino‬
-
+![Figura 5](/assets/figures/figure-7-28-5.gif)‬  
+**Figura 5.** Desarrollo de los genitales externos en el feto masculino‬  
 - A: feto de 10 semanas. Entre los pliegues uretrales se encuentra la placa uretral profunda.‬
 - B: Sección transversal del falo durante la formación de la uretra peneana. La columna uretral se divide por los pliegues uretrales.‬
 - C: Desarrollo de segmentos glandulares de la uretra.‬
 - D: Condiciones en el recién nacido.‬
 
-**Patogénesis**‬
+## Patogénesis
 
 La hipospadias es causada por la detención del desarrollo normal de la uretra, en diversas etapas del desarrollo embrionario (9 a 13 semanas de embarazo). Puede predecirse el momento en que se produjo la perturbación a partir de su aspecto final. Además de las alteraciones en el desarrollo de la uretra, el desarrollo del rafe y del prepucio también puede verse comprometido. Esto resulta en hipospadias con desviación del rafe, la formación de un prepucio dorsal redundante y otros defectos ventrales del prepucio.‬
 
 La desviación del eje peneano puede tener varias causas:‬
 
 - Curvatura peneana: resto fibroso del cuerpo esponjoso distal al meato. Se extiende en forma de V en ambos lados y actúa por la falta de elasticidad que produce una deformidad ventral.‬
-
 - Piel ventral distrófica del pene: con frecuencia la piel ventral del pene es distrófica e inelástica. Estos componentes de la piel están conectados por puentes fibrosos a la fascia profunda del pene (fascia de Buck) y al cuerpo esponjoso.‬
-
 - Transposición escrotal: este término se refiere al escroto altamente facetado (escroto bífido), que se acorta ventralmente, debido a un defecto en la migración caudal del escroto durante la vida fetal. Por lo general, no genera una desviación real del eje del pene, solo un efecto visual, lo que demuestra un eje recto del pene durante la palpación, incluso con una erección. Cuando se trata de un defecto más pronunciado, puede actuar como una barrera para la erección.‬
-
 - Crecimiento más rápido de las porciones posteriores del cuerpo cavernoso en comparación con las partes ventrales: probablemente este tipo de curvatura peneana es la que se presenta en la forma especial de hipospadias, la hipospadias sinusal.‬
 
-**Diagnóstico**‬
+## Diagnóstico
 
 Debería incluir:‬
 
 1. Clasificación‬
-1. Aclaración de anomalías asociadas:‬
+2. Aclaración de anomalías asociadas:‬
+  - Un proceso vaginal patente (9%)‬
+  - Testículos no descendidos (5% en formas leves, 31% para hipospadias proximales)‬
+  - Anomalías del tracto urinario superior‬
+3. La hipospadias penoescrotal en combinación con testículos no descendidos y la transposición escrotal requieren una evaluación genética y hormonal completa.‬
+4. Ante casos de hipospadias severas se deben incluir exámenes urológicos adicionales, como un cistouretrograma miccional, para detectar malformaciones nefrourológicas adicionales.‬
+5. Examen físico y ultrasonido abdominal, debido a una posible asociación con tumores renales en los tipos más severos de hipospadias.‬
 
-- Un proceso vaginal patente (9%)‬
-- Testículos no descendidos (5% en formas leves, 31% para hipospadias proximales)‬
-- Anomalías del tracto urinario superior‬
-
-c. La hipospadias penoescrotal en combinación con testículos no descendidos y la transposición escrotal requieren una evaluación genética y hormonal completa.‬
-d. Ante casos de hipospadias severas se deben incluir exámenes urológicos adicionales, como un cistouretrograma miccional, para detectar malformaciones nefrourológicas adicionales.‬
-e. Examen físico y ultrasonido abdominal, debido a una posible asociación con tumores renales en los tipos más severos de hipospadias.‬
-
-**Opciones de Tratamiento**‬
+## Opciones de Tratamiento
 
 - La cirugía es el tratamiento de elección para la mayoría de las hipospadias.‬
-
 - La gravedad de la malformación determina el procedimiento.‬
-
 - La funcionalidad del pene es el objetivo principal. Sin embargo, la corrección quirúrgica puede estar indicada solo con fines cosméticos. A su vez, al considerar posibles complicaciones, la indicación de cirugía es más restringida.‬
-
 - Además de los riesgos generales que pueden ocurrir prácticamente en todos los procedimientos quirúrgicos, que incluyen inflamación, trastornos de curación de heridas, pérdida de sangre durante y después de la cirugía, infección del tracto urinario y trastornos de la sensibilidad o cicatrización, también hay complicaciones específicas, como:‬
+  - Fístula uretral (5-15%)‬
+  - Estrechamiento de la cicatriz de la uretra (estenosis)‬
+  - Recurrencia de la curvatura peneana por el crecimiento del tamaño del pene con una cordectomía incompleta‬
+  - Estenosis uretral‬
+  - Divertículos uretrales‬
+  - Deformación de la cicatriz.‬
+- Objetivos del tratamiento
+  - Ubicación ortotópica del neomeato en el glande distal‬
+  - Corrección de la curvatura peneana‬
+  - Flujo urinario normal (flujo urinario dirigido hacia adelante)‬
+  - La reconstrucción estética más alta posible con o sin prepucioplastia‬
+- Tiempo de reparación: Desde el punto de vista psicológico, hay dos momentos óptimos para realizar la cirugía:‬
+  - El primero entre los 6 y 15 meses de vida‬
+    - Una ventaja del primer período es que el niño aún no identifica su género. La identificación de género no ocurre hasta aproximadamente los 24 meses de vida. A partir de ese momento, una cirugía en los genitales se experimenta como traumática.‬
+    - Otra ventaja es que puede lograrse el final de la terapia antes de que el niño ingrese a la escuela.‬
+    - Las complicaciones asociadas con el tamaño más pequeño del pene en este momento podrían compensarse con medicamentos (Andractim) o condiciones de funcionamiento mejoradas.‬
+    - La curación a esta edad es mucho más rápida y más efectiva.‬
+  - El segundo entre el tercer y sexto año de vida‬
+- Teniendo en cuenta que la corrección de la hipospadias dado el desarrollo psicosexual debe completarse dentro de los 30 meses de vida. Las razones para esto son:‬
+  - En este momento, el niño no es consciente de su malformación y las diferencias de sexo‬
+  - En las relaciones sociales a esta edad, los genitales no juegan ningún papel. Sin embargo, esto cambia al ingresar a la escuela, donde existe un alto riesgo de que el niño sea socialmente excluido debido a la diferente apariencia de su pene o debido a las diferentes características de micción a veces asociadas con hipospadias (orinar sentado).‬
+  - Desde los 30 meses hasta los 5 ½ años, los niños desarrollan una sensación consciente de temor al dolor físico, que puede verse influido negativamente por la cirugía. Los niños en este grupo de edad requieren apoyo psicológico, para asegurarse de que su género sexual no se verá alterado con la cirugía y que ya son niños (hombres).‬
+- Procedimientos quirúrgicos
+  - Hoy en día, se busca la corrección en una operación de una sola etapa‬
+  - Por lo tanto, un procedimiento de dos etapas está indicado solo para hipospadias severas o para malformaciones con una curvatura peneana severa, o en las que la uretra no se puede reparar con una sola cirugía.‬
 
-- Fístula uretral (5-15%)‬
-- Estrechamiento de la cicatriz de la uretra (estenosis)‬
-- Recurrencia de la curvatura peneana por el crecimiento del tamaño del pene con una cordectomía incompleta‬
-- Estenosis uretral‬
-- Divertículos uretrales‬
-- Deformación de la cicatriz.‬
-
-1. _Objetivos del tratamiento:_‬
-
-- Ubicación ortotópica del neomeato en el glande distal‬
-- Corrección de la curvatura peneana‬
-- Flujo urinario normal (flujo urinario dirigido hacia adelante)‬
-- La reconstrucción estética más alta posible con o sin prepucioplastia‬
-
-2. _Tiempo de reparación:_‬
-
-Desde el punto de vista psicológico, hay dos momentos óptimos para realizar la cirugía:‬
-
-2.1.-El primero entre los 6 y 15 meses de vida‬
-
-- Una ventaja del primer período es que el niño aún no identifica su género. La identificación de género no ocurre hasta aproximadamente los 24 meses de vida. A partir de ese momento, una cirugía en los genitales se experimenta como traumática.‬
-- Otra ventaja es que puede lograrse el final de la terapia antes de que el niño ingrese a la escuela.‬
-- Las complicaciones asociadas con el tamaño más pequeño del pene en este momento podrían compensarse con medicamentos (Andractim) o condiciones de funcionamiento mejoradas.‬
-- La curación a esta edad es mucho más rápida y más efectiva.‬
-
-2.2.-El segundo entre el tercer y sexto año de vida‬
-
-Teniendo en cuenta que la corrección de la hipospadias dado el desarrollo psicosexual debe completarse dentro de los 30 meses de vida. Las razones para esto son:‬
-
-- En este momento, el niño no es consciente de su malformación y las diferencias de sexo‬
-- En las relaciones sociales a esta edad, los genitales no juegan ningún papel. Sin embargo, esto cambia al ingresar a la escuela, donde existe un alto riesgo de que el niño sea socialmente excluido debido a la diferente apariencia de su pene o debido a las diferentes características de micción a veces asociadas con hipospadias (orinar sentado).‬
-
-2.3.-Desde los 30 meses hasta los 5 ½ años, los niños desarrollan una sensación consciente de temor al dolor físico, que puede verse influido negativamente por la cirugía. Los niños en este grupo de edad requieren apoyo psicológico, para asegurarse de que su género sexual no se verá alterado con la cirugía y que ya son niños (hombres).‬
-
-_3. Procedimientos quirúrgicos_‬
-
-- Hoy en día, se busca la corrección en una operación de una sola etapa‬
-
-- Por lo tanto, un procedimiento de dos etapas está indicado solo para hipospadias severas o para malformaciones con una curvatura peneana severa, o en las que la uretra no se puede reparar con una sola cirugía.‬
-
-**Derivación urinaria**‬
+## Derivación urinaria
 
 Para la mayoría de las técnicas, se realiza una derivación urinaria a fin de evitar la micción a través de la uretra neocreada, para ayudar a la cicatrización de la herida por un tiempo.‬
 
+![Figura 6](/assets/figures/figure-7-28-6.gif)‬
+**Figura 6**
+
 Básicamente, hay tres tipos diferentes de derivación urinaria disponibles:‬
 
-1.-Derivación urinaria suprapúbica con un catéter CistofixR‬
+1. Derivación urinaria suprapúbica con un catéter CistofixR‬
+2. Derivación urinaria transuretral con:‬
+  - Un catéter con balón que drena en una bolsa de orina.‬
+  - Un &quot;stent goteante&quot;, que drena la vejiga en un pañal.‬
+3. Sin catéter urinario‬
 
-![Figura 10](/assets/figures/figure-7-28-10.jpg)‬
-
-2.-Derivación urinaria transuretral con:‬
-
-- Un catéter con balón que drena en una bolsa de orina.‬
-
-![Figura 11](/assets/figures/figure-7-28-11.jpg)‬
-
-- Un &quot;stent goteante&quot;, que drena la vejiga en un pañal.‬
-
-![Figura 12](/assets/figures/figure-7-28-12.jpg) ![Figura 13](/assets/figures/figure-7-28-13.jpg)‬
-
-3.-Sin catéter urinario‬
+![Figura 7](/assets/figures/figure-7-28-7.jpg)‬
+**Figura 7**
 
 La importancia de la derivación urinaria para prevenir complicaciones postoperatorias no está clara. Una ventaja del drenaje transuretral, especialmente con &quot;stent goteante&quot; y pañal doble, es que es mucho más cómodo, ya que el niño puede movilizarse rápidamente, mientras que un sistema de drenaje suprapúbico lo obliga a quedarse en la cama.‬
 
-**Complicaciones**‬
+## Complicaciones
 
 La tasa de complicaciones de la corrección de hipospadias es considerable, del 30 al 50%.‬
 
 1. Complicaciones tempranas: infección (1-2%), hemorragia, hematomas, dehiscencia de la herida, colgajo o necrosis del injerto, infecciones del tracto urinario, obstrucción del tracto urinario.‬
-
-1. Complicaciones tardías: fístula uretral (5-10%), estenosis meatal (7 a 15%), estenosis recurrente de la uretra o persistencia de curvatura peneana residual (hasta 20%), balanitis xerótica obliterante, divertículos uretrales (4 a 7%).‬
+2. Complicaciones tardías: fístula uretral (5-10%), estenosis meatal (7 a 15%), estenosis recurrente de la uretra o persistencia de curvatura peneana residual (hasta 20%), balanitis xerótica obliterante, divertículos uretrales (4 a 7%).‬
 
 La tasa de complicaciones depende esencialmente de la gravedad de la hipospadias, la edad del paciente en el momento de la corrección quirúrgica, la técnica de reconstrucción utilizada, la calidad del tejido circundante para la reconstrucción, el equipo médico y las habilidades y experiencia del cirujano y el número de intervenciones previas.‬
 
-**Infancia e hipospadias**‬
+## Infancia e hipospadias
 
 El desarrollo psicológico del niño con hipospadias se ve afectado por las variables comunes que afectan a todos los niños, las pertenecientes a niños con un trastorno físico y el requisito de intervención médica y quirúrgica, y aquéllos muy específicos para los niños con una anomalía genital. Los principios generales para una buena gestión psicológica de cualquier niño con un trastorno implican la interrupción mínima de la vida familiar, escolar y social, así como la máxima oportunidad para su fortalecimiento psíquico mediante el acceso a la información, la capacitación y el apoyo práctico y emocional.‬
 
@@ -244,7 +204,7 @@ El número de madres solteras y el cambio de parejas de hombres y la ausencia de
 
 Existe evidencia de que los niños con mayor riesgo de desarrollar un trastorno psicológico secundario son aquellos con una desventaja y vulnerabilidad preexistente y familias disfuncionales.‬
 
-**Bibliografía**‬
+## Referencias‬
 
 1. Hadidi A.T., Azmy A. F., &quot;Hypospadias surgery: An Illustrated Guide&quot;; Library of Congress Cataloging-in-Publication. Springer-Verlag, Berlin – Heidelberg, Germany. 2004‬
 2. Duckett JW. &quot;Hypospadias. Campbell&#39;s Urology&quot;. Philadelphia, PA, USA: W.B. Saunders 1998: 2115.‬
@@ -253,7 +213,7 @@ Existe evidencia de que los niños con mayor riesgo de desarrollar un trastorno 
 5. Stehr M., &quot;Ergebnisse der Hypospadiekorrekturen in den Jahren 2003 – 2005 unter Berücksichtigung der Verwendung transurethraler Harnableitung mittels „dripping stent&quot;; Kinderchirurgischen Klinik und Poliklinik im Dr. Von Haunerschen Kinderspital der Ludwig-Maximilians-Universität München. Germany, 2009.‬
 6. Snodgrass W.; &quot;Surgical Atlas: Snodgrass technique for hypospadias repair&quot;; Department of Paediatric Urology, Children&#39;s Medical Center of Dallas and University of Texas, South-western Medical Center at Dallas, USA. 2009‬
 
-**Comentario Editorial**‬
+## Comentario Editorial
 
 La incidencia de hipospadias está aumentando en el mundo occidental. En mi experiencia personal, el aumento parece ser predominantemente de la variedad más distal o la hipospadia &quot;menor&quot;. El autor ha descrito muy claramente la embriopatogenia de hipospadias y los principios de corrección.‬
 
