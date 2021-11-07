@@ -4,7 +4,7 @@ subsection:
 chapter: 39
 title: Urolitiasis pediatrica
 sort-key: 8-39
-permalink-en: https://www.pediatricurologybook.com/paediatric_urolithiasis.html
+permalink-en: /paediatric_urolithiasis.html
 layout: default
 review-formatting-complete: KR-2021-11-05
 ---

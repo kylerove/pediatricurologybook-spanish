@@ -4,7 +4,7 @@ subsection: B
 chapter: 9
 title: Enfermedad renal crónica pediátrica
 sort-key: 2-9
-permalink-en: https://pediatricurologybook.com/chronic_kidney_disease.html
+permalink-en: /chronic_kidney_disease.html
 layout: default
 ---
 

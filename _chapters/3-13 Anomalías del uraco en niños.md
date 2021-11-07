@@ -4,7 +4,7 @@ subsection: A
 chapter: 13
 title: Anomalías del uraco en niños
 sort-key: 3-13
-permalink-en: https://pediatricurologybook.com/urachal_anomolies.html
+permalink-en: /urachal_anomolies.html
 layout: default
 ---
 

@@ -4,7 +4,7 @@ subsection: C
 chapter: 16
 title: Manejo del reflujo vesicoureteral
 sort-key: 3-16
-permalink-en: https://www.pediatricurologybook.com/vesicoureteral_reflux.html
+permalink-en: /vesicoureteral_reflux.html
 layout: default
 ---
 

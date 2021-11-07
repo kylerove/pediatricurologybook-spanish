@@ -4,7 +4,7 @@ subsection: C
 chapter: 33
 title: Criptorquidia
 sort-key: 7-33
-permalink-en: https://www.pediatricurologybook.com/undesendedtestes.html
+permalink-en: /undesendedtestes.html
 layout: default
 ---
 

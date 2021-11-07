@@ -4,7 +4,7 @@ subsection:
 chapter: 40
 title: Resultados a largo plazo y manejo de adolescentes con epispadias, extrofia y síndrome de Prune Belly
 sort-key: 8-40
-permalink-en: https://www.pediatricurologybook.com/long_term_outcomes.html
+permalink-en: /long_term_outcomes.html
 layout: default
 review-formatting-complete: KR-2021-11-05
 ---

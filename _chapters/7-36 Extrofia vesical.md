@@ -4,7 +4,7 @@ subsection: D
 chapter: 36
 title: Extrofia Vesical
 sort-key: 7-36
-permalink-en: https://www.pediatricurologybook.com/bladder_exstrophy.html
+permalink-en: /bladder_exstrophy.html
 layout: default
 review-formatting-complete: KR-2021-11-05
 ---

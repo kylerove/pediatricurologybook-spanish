@@ -4,7 +4,7 @@ subsection: A
 chapter: 18
 title: Otras anomalias uretrales
 sort-key: 4-18
-permalink-en: https://www.pediatricurologybook.com/OTHERURETHRALANOMALIES.html
+permalink-en: /OTHERURETHRALANOMALIES.html
 layout: default
 ---
 

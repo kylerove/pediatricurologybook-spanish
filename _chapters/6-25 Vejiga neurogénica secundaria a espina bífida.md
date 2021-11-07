@@ -4,7 +4,7 @@ subsection:
 chapter: 25
 title: Vejiga neurogénica secundaria a espina bífida
 sort-key: 6-25
-permalink-en: https://www.pediatricurologybook.com/neuropathicbladder.html
+permalink-en: /neuropathicbladder.html
 layout: default
 ---
 

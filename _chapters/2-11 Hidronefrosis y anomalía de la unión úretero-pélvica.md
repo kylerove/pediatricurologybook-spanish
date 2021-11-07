@@ -4,7 +4,7 @@ subsection: C
 chapter: 11
 title: Hidronefrosis y anomalía de la unión úretero-pélvica
 sort-key: 2-11
-permalink-en: https://pediatricurologybook.com/hydronephrosis_upja.html
+permalink-en: /hydronephrosis_upja.html
 layout: default
 ---
 

@@ -4,7 +4,7 @@ subsection: C
 chapter: 12
 title: Anomalías de la unión ureterovesical (UUV)
 sort-key: 2-12
-permalink-en: https://pediatricurologybook.com/Ureterovesical.html
+permalink-en: /Ureterovesical.html
 layout: default
 ---
 

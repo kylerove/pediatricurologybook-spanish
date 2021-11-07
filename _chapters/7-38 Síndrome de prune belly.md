@@ -4,7 +4,7 @@ subsection: D
 chapter: 38
 title: Síndrome de prune belly
 sort-key: 7-38
-permalink-en: https://www.pediatricurologybook.com/prune_belly.html
+permalink-en: /prune_belly.html
 layout: default
 review-formatting-complete: KR-2021-11-05
 ---

@@ -4,7 +4,7 @@ subsection: A
 chapter: 29
 title: Epispadias
 sort-key: 7-29
-permalink-en: https://www.pediatricurologybook.com/epispadias.html
+permalink-en: /epispadias.html
 layout: default
 ---
 

@@ -4,7 +4,7 @@ subsection:
 chapter: 22
 title: Rabdomiosarcoma genitourinario
 sort-key: 5-22
-permalink-en: https://www.pediatricurologybook.com/rhabdomyosarcoma.html
+permalink-en: /rhabdomyosarcoma.html
 layout: default
 ---
 

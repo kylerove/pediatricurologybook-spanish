@@ -4,7 +4,7 @@ subsection: B
 chapter: 10
 title: Enfermedad renal quística
 sort-key: 2-10
-permalink-en: https://pediatricurologybook.com/cystic_kidney_disease.html
+permalink-en: /cystic_kidney_disease.html
 layout: default
 ---
 

@@ -4,7 +4,7 @@ subsection: B
 chapter: 32
 title: DSD-Aspectos Endocrinológicos
 sort-key: 7-32
-permalink-en: https://www.pediatricurologybook.com/endocrinology.html
+permalink-en: /endocrinology.html
 layout: default
 ---
 

@@ -4,7 +4,7 @@ subsection:
 chapter: 26
 title: Síndrome de médula anclada
 sort-key: 6-26
-permalink-en: https://www.pediatricurologybook.com/tethered_cord.html
+permalink-en: /tethered_cord.html
 layout: default
 ---
 

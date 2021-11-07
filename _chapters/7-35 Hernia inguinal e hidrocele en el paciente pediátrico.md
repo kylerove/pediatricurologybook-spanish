@@ -4,7 +4,7 @@ subsection: C
 chapter: 35
 title: Hernia inguinal e hidrocele en el paciente pediátrico
 sort-key: 7-35
-permalink-en: https://www.pediatricurologybook.com/inguinal_hernia.html
+permalink-en: /inguinal_hernia.html
 layout: default
 ---
 

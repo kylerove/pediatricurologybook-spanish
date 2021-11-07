@@ -4,7 +4,7 @@ subsection: C
 chapter: 17
 title: Infección del tracto urinario en niños
 sort-key: 3-17
-permalink-en: https://www.pediatricurologybook.com/uti_children.html
+permalink-en: /uti_children.html
 layout: default
 ---
 
