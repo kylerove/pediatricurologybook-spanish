@@ -6,6 +6,7 @@ title: Vejiga neurogénica secundaria a espina bífida
 sort-key: 6-25
 permalink-en: /neuropathicbladder.html
 layout: default
+review-formatting-complete: KR-2021-11-07
 ---
 
 # Vejiga neurogénica secundaria a espina bífida
