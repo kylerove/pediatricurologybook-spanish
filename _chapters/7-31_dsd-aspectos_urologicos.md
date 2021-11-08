@@ -121,25 +121,25 @@ Después de un intervalo de 6 meses, procederíamos a la uretroplastia y la corr
 
 ## Figuras
 
-![Figura 1](/assets/figures/figure-7-31-1.jpg)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-31-1.jpg)‬  
 **Figura 1.** A) Anatomía relativa de una mujer normal frente a una mujer virilizada en CAH, con masculinización de la uretra anterior que empuja la abertura del perineo hacia adelante, aunque la unión entre el seno urogenital y la vagina permanece bastante cerca de la superficie.
 
-![Figura 2](/assets/figures/figure-7-31-2.jpg)‬  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-31-2.jpg)‬  
 **Figura 2.** B) Marcado de los colgajos de piel para vaginoplastia (V-Y) utilizando un sonido para marcar el límite posterior del seno urogenital masulinizado. Esto marca la base del colgajo de piel para que se alinee con la vagina y el límite posterior de los pliegues labio-escrotales.
 
-![Figura 3](/assets/figures/figure-7-31-3.jpg)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-31-3.jpg)‬  
 **Figura 3.** C) Incisiones cutáneas para clitoroplastia, vaginoplastia y labios redundantes.
 
-![Figura 4](/assets/figures/figure-7-31-4.jpg)‬  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-31-4.jpg)‬  
 **Figura 4.** D) Mantén las suturas en el glande y el prepucio. Las líneas de incisión en la superficie ventral se muestran en detalle en relación con la tira mucosa ventral del seno urogenital y con la vaginoplastia (Y-V). 
 
-![Figura 5](/assets/figures/figure-7-31-5.jpg)‬  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-31-5.jpg)‬  
 **Figura 5.** E) Movilización ventral del eje fálico para liberar la tira mucosa urogenital (X) y proteger la uretra subyacente por donde pasa entre los pilares (Y). Movilización dorsal de la piel del eje para exponer y dividir el ligamento suspensorio (Z). F) Tracción caudal sobre el falo para exponer la bifurcación de los pilares y el periostio de la sínfisis del pubis (W). Se empuja un divulgador en ángulo recto a través de la bifurcación, con cuidado de evitar la uretra, para aplicar torniquetes de catéter de goma en cada pilar. G) Torniquetes alrededor de cada pilar, mostrando la tira mucosa y la uretra retraída a un lugar seguro. H) Se reseca la porción anterior de la diáfisis y el glande con control de torniquete, evitando los nervios y vasos dorsales. El volumen adicional se puede eliminar "fileteando" el tejido eréctil de la superficie del corte.
 
-![Figura 6](/assets/figures/figure-7-31-6.jpg)‬  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-31-6.jpg)‬  
 **Figura 6.** I) Sutura del falo en la curva de la horquilla aproximando las superficies en bruto (excluyendo el área frenular distal) y suturando los bordes cortados laterales opuestos de la túnica. J) Falo plegado suturado al periostio púbico. El pliegue anterior de la línea media de la piel del clítoris se sutura al eje. El borde de la piel (A1) se sutura al reborde de la piel subcoronal (A2). Los colgajos prepuciales se suturan a lo largo de cada lado de la tira de mucosa vestibular reinstalada para simular los labios menores (B1-B2, C1-C2).
 
-![Figura 7](/assets/figures/figure-7-31-7.jpg)‬  
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-31-7.jpg)‬  
 **Figura 7.** K) La eliminación del extremo posterior de los pliegues labioescrotales. L) Resultado final al final de la operación. También se muestran el colgajo de vaginoplastia Y-V y la escisión de la piel labial redundante.
 
 ## Referencias‬

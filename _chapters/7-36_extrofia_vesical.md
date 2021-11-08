@@ -308,70 +308,70 @@ El manejo de la extrofia cloacal ha mejorado para brindar una mejor calidad de v
 
 ## Figuras 
 
-![Figura 1](/assets/figures/figure-7-36-1.jpg)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-1.jpg)‬  
 **Figura 1:** Recién nacido con extrofia vesical clásica.‬
 
-![Figura 2](/assets/figures/figure-7-36-2.jpg)  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-2.jpg)  
 **Figura 2:** ultrasonido de gestación de 30 semanas que muestra ausencia de vejiga y una masa abdominal inferior.‬
 
-![Figura 3](/assets/figures/figure-7-36-3.jpg)  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-3.jpg)  
 **Figura 3:** Vista sagital de la extrofia vesical (masa) debajo de la inserción abdominal del cordón umbilical (AIC) en la RM prenatal T2.‬
 
-![Figura 4](/assets/figures/figure-7-36-4.jpg)  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-4.jpg)  
 **Figura 4:** Desplazamiento del elevador del ano a una posición más posterior. En el paciente con extrofia.‬
 
-![Figura 5](/assets/figures/figure-7-36-5.jpg)  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-5.jpg)  
 **Figura 5:** Mediciones del pene y la pelvis en hombres normales y pacientes con extrofia.‬
 
-![Figura 6](/assets/figures/figure-7-36-6.jpg)  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-6.jpg)  
 **Figura 6:** Recién nacido con extrofia vesical clásica. Tenga en cuenta múltiples pólipos en la placa vesical.‬
 
-![Figura 7](/assets/figures/figure-7-36-7.jpg)  
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-7.jpg)  
 **Figura 7:** Intubación de orificios ureterales bilaterales en preparación para la disección.‬
 
-![Figura 8](/assets/figures/figure-7-36-8.jpg)  
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-8.jpg)  
 **Figura 8:** Marcaje de placa uretral. Observe dos suturas de tracción en cada hemi glande.‬
 
-![Figura 9](/assets/figures/figure-7-36-9.jpg)  
+![Figura 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-9.jpg)  
 **Figura 9:** Movilización agresiva de la vejiga, incluido el ombligo.‬
 
-![Figura 10](/assets/figures/figure-7-36-10.jpg)  
+![Figura 10]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-10.jpg)  
 **Figura 10:** Identificación de cuerpos cavernosos bilaterales después del desprendimiento del falo.‬
 
-![Figura 11](/assets/figures/figure-7-36-11.jpg)  
+![Figura 11]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-11.jpg)  
 **Figura 11:**: Después de la separación de los cuerpos cavernosos y la movilización de la placa uretral.‬
 
-![Figura 12](/assets/figures/figure-7-36-12.jpg)  
+![Figura 12]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-12.jpg)  
 **Figura 12:**: Después de la separación completa de los cuerpos cavernosos y el glande.‬
 
-![Figura 13](/assets/figures/figure-7-36-13.jpg)  
+![Figura 13]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-13.jpg)  
 **Figura 13:**: Colocación del tubo suprapúbico antes del cierre de la vejiga. Esto saldrá del abdomen por el ombligo.‬
 
-![Figura 14](/assets/figures/figure-7-36-14.jpg)  
+![Figura 14]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-14.jpg)  
 **Figura 14:**: vejiga y uretra cerradas en 2 capas como una sola unidad. Obsérvense los catéteres ureterales bilaterales que salen a través del meato uretral.‬
 
-![Figura 15](/assets/figures/figure-7-36-15.jpg)  
+![Figura 15]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-15.jpg)  
 **Figura 15:**: Se puede lograr la rotación interna de la pelvis para volver a aproximarse al pubis cuando se reconstruye en las primeras 72 horas de vida.‬
 
-![Figura 16](/assets/figures/figure-7-36-16.jpg)  
+![Figura 16]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-16.jpg)  
 **Figura 16:**: Reconstrucción del falo.‬
 
-![Figura 17](/assets/figures/figure-7-36-17.jpg)  
+![Figura 17]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-17.jpg)  
 **Figura 17:**: Cierre fascial.‬
 
-![Figura 18](/assets/figures/figure-7-36-18.jpg)  
+![Figura 18]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-18.jpg)  
 **Figura 18:**: Cierre de la pared abdominal.‬
 
-![Figura 19](/assets/figures/figure-7-36-19.jpg)  
+![Figura 19]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-19.jpg)  
 **Figura 19:**: Tracción modificada de Bryant.‬
 
-![Figura 20](/assets/figures/figure-7-36-20.jpg)  
+![Figura 20]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-20.jpg)  
 **Figura 20:**: Postoperatorio.‬
 
-![Figura 21](/assets/figures/figure-7-36-21.jpg)  
+![Figura 21]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-21.jpg)  
 **Figura 21:**: Recién nacido con extrofia cloacal.‬
 
-![Figura 22](/assets/figures/figure-7-36-22.jpg)  
+![Figura 22]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-36-22.jpg)  
 **Figura 22:**: Ecografía prenatal de mujer con extrofia cloacal. Obsérvese la masa compleja de la pared abdominal anterior inferior a la inserción del cordón umbilical. No se visualiza vejiga.‬
 
 ## Referencias

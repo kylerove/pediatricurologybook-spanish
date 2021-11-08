@@ -36,7 +36,7 @@ En el útero, la hidronefrosis se define como el diámetro pélvico renal fetal 
 
 La dilatación del tracto urinario diagnosticada prenatalmente puede deberse a la alteración del flujo urinario o al reflujo retrógrado de la orina. El deterioro del flujo de orina puede ocurrir a cualquier nivel en el tracto urinario y puede afectar a uno o ambos a lados. La dilatación de la pelvis renal y los cálices es la primera respuesta anatómica al deterioro del flujo urinario y puede provocar daño histológico del parénquima renal y cambios en la función renal. El daño histológico está relacionado con el grado y el nivel de deterioro del flujo urinario y su duración. La atrofia renal, como se observa en pacientes con riñón displásico multiquístico, es la última respuesta a la disfunción del flujo urinario relacionado con el inicio de la apoptosis (9) **(Figura 1)**. Cuando el deterioro del flujo urinario está presente al principio del embarazo, el parénquima renal desarrolla displasia (10) y, en casos graves, hay una reducción de la tasa de filtración glomerular ipsilateral (TFG). Cuando la salida de orina de ambos riñones se deteriora notablemente, esto dará lugar a oliguria o anuria fetal. Si bien la orina fetal no es un contribuyente importante al volumen de líquido amniótico en el primer trimestre, la oliguria o anuria a continuación conduce a oligo o anhidramnios (7). Cuando el deterioro del flujo urinario se vuelve significativo más tarde en la gestación o es parcial, genera dilatación del sistema excretor sin afectar la estructura parenquimatosa (11,12).‬
 
-![Figura 1](/assets/figures/figure-2-11-1.jpg)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-1.jpg)‬
 
 _ **Figura 1:** _ _Imagen de ultrasonido prenatal de un riñón displásico multiquístico en un feto de mitad de gestación. Los marcadores indican la longitud renal (71 mm). Nótese los múltiples quistes de gran tamaño entre el parénquima ecogénico, que parecen no comunicante en un examen de ultrasonido meticuloso._‬
 
@@ -181,7 +181,7 @@ La información que ha de obtenerse de la ecografía renal debe incluir:‬
 
 6. vistas de los uréteres y la vejiga, incluida la medición del volumen de la vejiga. En aquellos pacientes capaces de vaciar la vejiga, se debe registrar el volumen vesical antes y después de la micción **(Figura 3).**‬
 
-![Figura 2](/assets/figures/figure-2-11-2.png)‬
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-2.png)‬
 
 _Figura 2: Imagen de ultrasonido longitudinal de un riñón izquierdo extremadamente hidronefrótico. La distancia medida (8,79 cm) es la longitud renal. Tenga en cuenta el parénquima renal extendido sobre los cálices muy dilatados._‬
 
@@ -189,7 +189,7 @@ _ **Ultrasonido Doppler** _‬
 
 En manos experimentadas, el escaneo Doppler puede permitir la demostración del cruce de vasos en el polo inferior en un niño cooperativo.‬
 
-![Figura 3](/assets/figures/figure-2-11-3.png) ![Figura 4](/assets/figures/figure-2-11-4.png)‬
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-3.png) ![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-4.png)‬
 
 _Figura 3: Ultrasonido de un riñón hidronefrótico con diagnóstico prenatal derecho que muestra una pelvis renal dilatada (imagen de la izquierda), en combinación con un uréter dilatado (imagen de la derecha) que se puede localizar hasta detrás de la vejiga._‬
 
@@ -197,7 +197,7 @@ _ **Cintigrafía Renal** _‬
 
 Históricamente, el pielograma intravenoso (IVP) se utilizó para evaluar a los pacientes con posible UPJA. Hoy en día, la renografía con diurético ha tomado el lugar de la IVP en la evaluación de un niño con riñón hidronefrótico **(Figura 4)**. Los beneficios de la renografía con diuréticos son que no se necesita contraste intravenoso a base de yodo, la exposición a la radiación es mínima y la función renal diferencial se puede cuantificar mejor. La desventaja del examen de medicina nuclear es que no proporciona un conocimiento acabado de la anatomía renal.‬
 
-![Figura 5](/assets/figures/figure-2-11-5.png) ![Figura 6](/assets/figures/figure-2-11-6.png)‬
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-5.png) ![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-6.png)‬
 
 _Figura 4: Mercaptotriglicilglicina (MAG-3) en un lactante con hidronefrosis prenatal derecha. Después de 12 meses de observación, la hidronefrosis previamente estable aumentó, lo que provocó una repetición de Mag3 y pieloplastia. El Mag3 demostró la función diferencial igual, pero mientras que el drenaje completo se observó a la izquierda después del cambio en la postura y la micción, en el trazador derecho persistió en la pelvis renal dilatada._‬
 
@@ -241,7 +241,7 @@ _ **Pielografía Anterógrada** _‬
 
 En casos difíciles, la punción del sistema colector renal permite la observación del flujo de contraste a través de la UPJ. Whitaker intentó refinar el estudio anterógrado midiendo la presión durante la instalación de solución salina en la pelvis renal a un ritmo constante. Desafortunadamente, los resultados obtenidos se correlacionan pobremente con la &quot;obstrucción&quot; definida por otros medios, y por lo tanto, el estudio de Whitaker se usa raramente hoy en día **(Figura 5)**.‬
 
-![Figura 7](/assets/figures/figure-2-11-7.jpg)‬
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-7.jpg)‬
 
 _ **Figura 5:** _ _Pielografía anterógrada de un riñón izquierdo que muestra una pelvis renal dilatada con cálices con compartimentos deformados. Tenga en cuenta el marcado cambio en la UPJ, con pequeñas cantidades de contraste que pasan a un uréter no dilatado a continuación, lo que confirma el diagnóstico de UPJA._‬
 
@@ -307,7 +307,7 @@ La obstrucción persistente o recurrente puede ser el resultado de la formación
 
 La pérdida de la función renal puede suceder tras las complicaciones. Sin embargo, los autores también han observado un deterioro de la función diferencial después de la pieloplastia con una anastomosis amplia en la evaluación, principalmente en lactantes con hidronefrosis prenatal creciente y función renal reducida (74,75).‬
 
-![Figura 8](/assets/figures/figure-2-11-8.png)‬
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-8.png)‬
 
 Figura 6: Nefro-ureterograma post-pieloplastia a través del nefro-stent trans-anastomótico que muestra un uréter dilatado que termina distalmente en un &quot;pico&quot; debido a una UPJA coexistente, que no había sido aparente preoperatoriamente.‬
 

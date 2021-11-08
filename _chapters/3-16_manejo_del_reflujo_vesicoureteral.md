@@ -32,20 +32,20 @@ Las infecciones del tracto urinario son comunes en los niños, y afectan aproxim
 
 El Estudio Internacional de Reflujo clasificó el RVU en una escala de 5 puntos definida por el grado de flujo de orina retrógrado y la distorsión que acompaña al sistema pielocial (Figura 1) [14]:‬
 
-![Figura 1](/assets/figures/figure-3-16-1.jpg)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-16-1.jpg)‬
 
 - Grado I: reflujo solo en el uréter‬
 - Grado II: reflujo en un sistema pielocalicial no dilatado‬
 - Grado III: dilatación del sistema colector (Figura 2)‬
 - Grado IV: dilatación más extensa con embotamiento de los cálices y tortuosidad del uréter (Figura 3)‬
 - Grado V: dilatación masiva del sistema colector y severa tortuosidad del uréter (Figura 4).‬
- ![Figura 2](/assets/figures/figure-3-16-2.jpg)‬
+ ![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-16-2.jpg)‬
 fig2‬
 
- ![Figura 3](/assets/figures/figure-3-16-3.jpg)‬
+ ![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-16-3.jpg)‬
 fig3‬
 
- ![Figura 4](/assets/figures/figure-3-16-4.jpg)‬
+ ![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-16-4.jpg)‬
 fig4‬
 
 La gravedad o el grado de RVU ha sido reconocido como el factor principal que determina la probabilidad de resolución de reflujo espontáneo y el riesgo de lesión renal. Los grados más altos de reflujo están asociados con una disminución en las tasas de resolución espontánea y una mayor prevalencia de cicatrices renales [10,15]. Recientemente, se han identificado factores adicionales que influyen en la resolución del reflujo, lo que permite a los médicos refinar la probabilidad estimada de resolución espontánea del reflujo en pacientes con radiografía RVU similar. Las variables que pueden predecir la resolución del reflujo y / o el riesgo de lesión renal incluyen edad, sexo, lateralidad, volumen de la vejiga al inicio del reflujo, presión de la vejiga al inicio del reflujo, si el reflujo se produce en la fase de llenado o vaciado, presencia de cicatrices renales, presencia de disfunción miccional, y un historial de infecciones del tracto urinario [16-23].‬
@@ -87,10 +87,10 @@ Las únicas pruebas que habitualmente detectan el reflujo de manera confiable so
 
 La cistografía nuclear detecta de manera confiable todos los grados de reflujo vesicoureteral y puede ser más sensible para la detección de RVU intermitente [60] .48 En la institución del autor, las presiones de la vejiga se monitorean de forma rutinaria a través de un catéter de doble lumen durante la fase de llenado de un cistograma nuclear que proporciona una cistometrograma nuclear [22]. Esta técnica permite la medición de la presión intravesical en el inicio del reflujo, así como otros cambios que sugieren una disfunción de la vejiga o vejiga no compatible (Figura 5A, B).‬
 
-![Figura 5](/assets/figures/figure-3-16-5.jpg)‬
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-16-5.jpg)‬
 Fig 5A‬
 
-![Figura 6](/assets/figures/figure-3-16-6.jpg)‬
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-16-6.jpg)‬
 Fig 5B‬
 
 La presión de la vejiga al inicio del reflujo se ha demostrado como un factor predictivo de la resolución de RVU espontánea independientemente del grado [21]. Además de una mayor presión vesical, los predictores independientes de la resolución del RVU en el cistometrograma nuclear incluyeron el inicio del reflujo que se produce a mayores volúmenes de vejiga instilada [20].‬
@@ -100,7 +100,7 @@ La cateterización puede ser una experiencia traumática para un niño pequeño.
 _ **Valoración de las cicatrices renales** _‬
 
 Se cree que la cicatrización renal ocurre cuando la orina infectada entra en contacto con el parénquima renal; se ha asociado con un mayor riesgo de hipertensión, proteinuria e insuficiencia renal [3,66]. En un metaanálisis que examinó la presencia de daño renal en niños hospitalizados con infección del tracto urinario, un estudio encontró que aproximadamente el 34% de los niños con pielonefritis tenían RVU, y de los que tenían RVU y pielonefritis, el 72% tenía una exploración anormal con DMSA [67]. Se ha encontrado que la gammagrafía con DMSA, en la que el agente radioactivo se une a los túbulos proximales, es un estudio más sensible que la orografía excretora (UE) para la detección de nefropatía por reflujo [68]. La exploración también puede detectar cambios en la pielonefritis aguda con mayor sensibilidad y especificidad que la exploración por TC, la resonancia magnética, o ultrasonido [69] (Figura 6).‬
- ![Figura 7](/assets/figures/figure-3-16-7.jpg)‬
+ ![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-16-7.jpg)‬
 La mercaptoacetiltriglicina **(** MAG3) tiene una capacidad mejorada para detectar cicatrices renales en comparación con la UE. Las exploraciones renales permiten la determinación de la función renal relativa y los informes múltiples demuestran un alto grado de correlación con respecto a la función renal relativa determinada con diferentes tipos de exploraciones renales [70]. Muchos consideran que la exploración DMSA es la prueba más sensible para la detección de cicatrices renales; sin embargo, la tasa de sensibilidad informada del MAG3 en comparación con el DMSA varía de 88% a igual o ligeramente mejor que una exploración DMSA [70-72]. Las ventajas de MAG3 incluyen una menor exposición a la radiación, costo y requisitos de tiempo, así como la visualización del sistema de recolección que puede mejorar la especificidad en comparación con el DMSA en aquellos con dilatación significativa del sistema de recolección [70].‬
 
 _ **Nefropat** __**ía por reflujo / cicatrizació**__ **n renal** _‬
@@ -131,7 +131,7 @@ _ **Reimplante ureteral** _‬
 
 El tratamiento quirúrgico del reflujo vesicoureteral ha evolucionado durante las últimas cinco décadas. Generalmente se usa una incisión transversal del abdomen inferior, dejando una pequeña cicatriz en el pliegue de la piel que con frecuencia se vuelve discreta. Se han realizado múltiples técnicas diferentes para la reimplantación ureteral, siendo la diferencia primaria la cirugía intravesical, donde se abre la vejiga y se disecan los uréteres por vía intravesical, en lugar del reimplante extravesical, donde se disecan los uréteres de la pared de la vejiga sin abrir la vejiga. pegada a la mucosa de la vejiga y reimplantada debajo de los colgajos del músculo de la vejiga(Figura 7).‬
 
-![Figura 8](/assets/figures/figure-3-16-8.jpg)‬
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-16-8.jpg)‬
 
 No existe una documentación clara de que alguna técnica particular sea superior [10], y la selección de una técnica determinada suele ser individualizada para el niño a discreción del médico cirujano.‬
 
@@ -148,7 +148,7 @@ Se han definido múltiples factores pronósticos relativos a la probabilidad de 
 Intentar determinar la probabilidad y el momento de la resolución espontánea del RVU en un niño en particular, teniendo en cuenta múltiples variables pronósticas como la edad, el sexo, el grado del RVU, el volumen de la vejiga al inicio del reflujo, la presencia de evacuación disfuncional, la historia de las ITU, la lateralidad y La duplicación es extremadamente compleja. Para este fin, una red neuronal fácil de usar que incorpora todos estos factores predictivos está disponible para su uso en [http://godot.urol.uic.edu/urocomp/svm\_vur.html](http://godot.urol.uic.edu/urocomp/svm_vur.html)‬
 (Figura 8) [19].‬
 
-![Figura 9](/assets/figures/figure-3-16-9.jpg)‬
+![Figura 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-16-9.jpg)‬
 El uso y la precisión de este modelo se validaron a nivel internacional en un grupo de niños japoneses [65]. Para los niños que se han realizado una gammagrafía renal, se generó un segundo modelo de computadora que incorpora datos adicionales de la gammagrafía renal para mejorar la precisión del pronóstico y está disponible en el mismo sitio web [20].‬
 
 **DIRECCI**** ÓN FUTURA**‬

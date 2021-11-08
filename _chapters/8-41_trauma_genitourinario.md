@@ -84,7 +84,7 @@ El desarrollo de una cápsula fibrosa alrededor del riñón lesionado es el meca
 
 La preservación del parénquima renal funcional es uno de los principales objetivos del tratamiento del trauma renal. Esto puede ser menos exitoso en niños con trauma renovascular o con lesiones de alto grado. Si bien el manejo conservador del trauma de bajo grado (grados I-III) generalmente conduce a una curación completa, los grados IV y V muestran cierta pérdida de volumen (22% y 50% respectivamente). 44 Sorprendentemente, incluso los segmentos de un riñón destrozado retienen frecuentemente el suministro de sangre y siguen siendo viables. Con el tiempo, estos riñones pueden reconstituirse bien, aunque pueden tener cambios morfológicos que persisten, incluidas las cicatrices, quistes o hidronefrosis segmentaria. **(Figura 1)** .‬
 
-![Figura 1](/assets/figures/figure-8-41-1.jpg)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-41-1.jpg)‬  
 **Figuras 1**: una cicatriz lineal en el riñón izquierdo que persiste 3 meses después de una lesión de grado III.‬
 
 Se pueden realizar estudios de medicina nuclear como MAG3 o DMSA para documentar la recuperación a lo largo del tiempo. Es difícil determinar el verdadero resultado funcional poco después del evento traumático, ya que algunos segmentos con contusiones pueden no tener contraste durante la tomografía computarizada inicial. Si se le da tiempo para recuperarse, estos segmentos pueden eventualmente demostrar su función. Mientras exista un riñón contralateral sano, el riesgo de insuficiencia renal postraumática es bajo.44‬
@@ -99,7 +99,7 @@ La incidencia de lesión ureteral es infrecuente, representa menos del 3% de tra
 
 Se debe mantener un alto índice de sospecha de lesión ureteral y el urólogo debe ser consciente del riesgo de necrosis tardía. La hematuria puede estar presente en solo el 23-45% de los casos y las tomografías computarizadas pueden pasar por alto hasta el 75% de los casos. Las imágenes tardías son imprescindibles para visualizar el contraste en todo el sistema recolector **(Figura 2)** .‬
 
-![Figura 2](/assets/figures/figure-8-41-2.jpg)  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-41-2.jpg)  
 **Figura 2:** extravasación extensa de contraste de una lesion ureteral proximal.‬
 
 La evaluación intraoperatoria no siempre identifica una lesión clara. Si existe preocupación por una lesión ureteral oculta, la identificación de los uréteres al pasar un catéter uretérico puede ser útil, particularmente en una disección o reoperación difíciles. Otra alternativa es la administración de indigo-carmín o azul de metileno y la inspección endoscópica de los orificios ureterales pueden confirmar un sistema intacto.‬
@@ -126,12 +126,12 @@ La lesión clásica de la uretra membranosa es la lesión ahorcajadas. Pueden oc
 
 Los signos distintivos de lesión vesical y uretral son dolor suprapúbico, sensibilidad, incapacidad para orinar, hematuria macroscópica y sangre en el meato uretral. Las indicaciones para obtener imágenes de la vejiga incluyen la presencia de hematuria macroscópica y / o retención urinaria junto con fractura pélvica. En particular, la mera presencia de hematuria macroscópica o una fractura pélvica aislada no es una indicación absoluta para imágenes específicas de vejiga. La mayoría de las lesiones que se presentan únicamente con hematuria probablemente sean contusiones de vejiga simples, que no requieren ningún tratamiento específico. La mayoría de las lesiones uretrales causadas por un mecanismo a horcajadas no causan una extravasación significativa de orina porque la uretra está aplastada en lugar de lacerada. Sin embargo, el sangrado hacia el perineo puede ser sustancial y conduce al &quot;patrón de mariposa&quot; patognomónico al extenderse dentro de los límites de la fascia de Colles. Aunque el examen rectal digital se ha realizado históricamente para evaluar la presencia de lesión rectal o prostática concurrente, estudios recientes han demostrado que el examen rectal digital tiene \&lt;15% de exactitud para diagnosticar una lesión de próstata desplazada o una lesión rectal. En consecuencia, en la urgencia ya no se utiliza como medio diagnostico. En cambio, el diagnóstico debe hacerse mediante visualización endoscópica o imagen radiográfica adecuada. Estas estudios deben ser indicados cuando hayan signos o síntomas sugestivos (hematoma perineal / peneano, sangre en el meato o introito vaginal, incapacidad para vaciar), en el contexto de una fractura pélvica, diástasis sinfisarias o cuando las imágenes previas sugieran lesión de uretra o cuello de vejiga. La tomografía computarizada en trauma inicial puede no ser adecuada para caracterizar completamente la lesión del tracto urinario inferior. La uretra no contrastará y la imagen de fase retardada debe demostrar una vejiga adecuadamente llena. Otras modalidades para evaluar lesiones vesicales incluyen la cistografía o pielografía intravenosa. Deben incluirse tambien proyecciones oblicuas y posteriores al drenaje. UroTC es quizás la prueba más sensible y específica, pero implica una exposición significativa a la radiación y debe usarse con prudencia (**Figura 3**).‬
 
-![Figura 3](/assets/figures/figure-8-41-3.jpg)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-41-3.jpg)‬  
 **Figura 3**: lesión vesical exraperitoneal en un uroTC.‬
 
 Independientemente de la modalidad elegida, la vejiga debe llenarse hasta al menos el 50% de su capacidad y debe detenerse al máximo de la capacidad estimada de la vejiga. Las ecuaciones comunes para estimar la capacidad de la vejiga pediátrica son (Edad + 2) x30mls y Kg x 7mls en pacientes menores de 1 año. La apariencia clásica de una lesión vesical intraperitoneal en el cistograma es un patrón de estallido estelar de contraste donde se destacan las asas de intestino. **(Figura 4)**‬
 
-![Figura 4](/assets/figures/figure-8-41-4.jpg)‬  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-41-4.jpg)‬  
 **Figura 4**: lesión vesical intraperitoneal por cistograma‬
 
 El uretrograma retrógrado ha sido durante mucho tiempo el mejor estudio de imágenes para investigar la uretra. Se requieren proyecciones oblicuas para descartar la extravasación posterior y la continuidad completa de la uretra. Se puede colocar una Foley bajo guía radiográfica en los casos de una uretra intacta con un pequeño desgarro. Si se colocó un catéter anteriormente, no debe retirarse. Se puede colocar una sonda de alimentación en el meato junto con el catéter para realizar el estudio y evaluar la lesión. Alternativamente, si el paciente ya orinó y el examen no es sugerente de lesión uretral, se puede colocar un catéter uretral inmediatamente sin un estudio retrógrado.‬
@@ -186,10 +186,10 @@ Las lesiones por torniquete son generalmente superficiales, pero pueden extender
 
 Las lesiones por amputación se pueden tratar con reanastamosis primaria hasta 8 horas después de la lesión. **(Figuras 5 y 6)**
 
-![Figura 5](/assets/figures/figure-8-41-5.jpg)‬  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-41-5.jpg)‬  
 **Figura 5**: Lesión por amputación que muestra la sonda en la uretra proximal y el catéter a través de la uretra glanular amputada.‬
 
-![Figura 6](/assets/figures/figure-8-41-6.jpg)‬  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-41-6.jpg)‬  
 **Figura 6**: Aspecto de la reparación postoperatoria.‬
 
 Se ha sugerido que el injerto de la mucosa bucal reaproxima el surco coronal y proporciona un mejor resultado cosmético en los casos de amputación del glande. Las lesiones de amputación parcial pueden tratarse de forma no quirurgica con la aplicación intermitente de gasas empapadas en epinefrina para controlar la hemorragia en ausencia de lesión uretral asociada. Si hay compromiso uretral, puede ser necesaria la reparación formal.85 Al igual que con cualquier otra parte del cuerpo, el pene amputado debe enfriarse lo más rápido posible para reducir la lesión isquémica.‬
@@ -239,10 +239,10 @@ El manejo operatorio rara vez se requiere para el trauma genital en las niñas p
 
 Para laceraciones vaginales más extensas, si es posible se debe realizar una reparación primaria, para reducir la tasa de estenosis vaginal y fístulas uretrovaginales.105 Las laceraciones vaginales se pueden reparar en capas con suturas absorbibles **(Figuras 7 y 8)** .‬
 
-![Figura 7](/assets/figures/figure-8-41-7.jpg)‬  
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-41-7.jpg)‬  
 **Figura 7**: Desgarro vaginal después de una lesión a horcajadas.‬
 
-![Figura 8](/assets/figures/figure-8-41-8.jpg)‬  
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-41-8.jpg)‬  
 **Figura 8**: Aspecto postoperatorio de la lesión después del cierre primario.‬
 
 El uso perioperatorio de antibióticos puede ayudar a reducir el riesgo de infección secundaria y dehiscencia de la herida. El cuidado postoperatorio incluye evitar la abducción de extremidades, el baño de asientoy el uso de pomadas antibióticas tópicas. Para las lesiones que se extienden hacia el introito, se recomienda el uso de suturas permanentes de monofilamento en forma interrumpida para reducir el riesgo de dehiscencia posterior a la reparación.‬

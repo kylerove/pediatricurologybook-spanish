@@ -47,12 +47,12 @@ se refiere a un riñón que comúnmente se localiza en el espacio retroperitonea
 
 Un riñón ectópico se puede diagnosticar antes del parto, especialmente si hay hidronefrosis. El riñón pélvico es el hallazgo más común en un feto con una fosa renal vacía y un volumen normal de líquido amniótico (ver **Figura 1**).
 
-![Figura 1](/assets/figures/figure-2-6-1.jpg)  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-6-1.jpg)  
 **Figura 1‬**
 
 Si no se diagnostica por vía prenatal, la mayoría de los casos se diagnostican mediante ecografías realizadas por síntomas secundarios a una obstrucción de la unión pelvi-ureteral (UPU), cálculos renales o reflujo vesicoureteral (RVU). También se puede diagnosticar al encontrar una masa abdominal, aunque esto es menos común. Las imágenes de radionúclidos están indicadas cuando se identifica una fosa renal vacía en una ecografía (ver **Figura 2**).‬
 
-![Figura 2](/assets/figures/figure-2-6-2.jpg)  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-6-2.jpg)  
 **Figura 2‬**
 
 Se recomienda la cistografía miccional en aquellos con infección urinaria para excluir el RVU. Si se sospecha una obstrucción en la ecografía, el drenaje puede evaluarse mediante una exploración renal MAG-3, pero las áreas de interés deben seleccionarse de manera adecuada. La urografía por TC o RM puede ser útil, especialmente en los riñones que no funcionan.‬
@@ -87,12 +87,12 @@ El suministro de sangre a los riñones en herradura es extremadamente variable. 
 
 El riñón en herradura se puede sospechar en una ecografía prenatal o diagnosticarse en investigaciones de rutina del tracto renal. El ultrasonido puede demostrar la posición anormal del itsmo, así como de su conexión o, con mayor frecuencia, una mala visualización de los bordes inferiores de los riñones (ver la **Figuras 3 y 4**).‬
 
-![Figura 3](/assets/figures/figure-2-6-3.jpg) ![Figura 4](/assets/figures/figure-2-6-4.jpg)  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-6-3.jpg) ![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-6-4.jpg)  
 **Figs. 3 y 4‬**
 
 El diagnóstico se puede sospechar en una radiografía abdominal simple, si los contornos renales son visibles. Las imágenes de radionúclidos pueden revelar un istmo en funcionamiento (consulte la **Figura 5**).‬
 
-![Figura 5](/assets/figures/figure-2-6-5.jpg)  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-6-5.jpg)  
 **Figura 5**
 
 La urografía intravenosa, aunque rara vez se realiza en niños, a menudo muestra apariencias clásicas con malrotación renal y medialmente apuntando los cálices del polo inferior. Los uréteres superiores a menudo son desplazados lateralmente por el istmo. VUR se puede demostrar en MCUG. Se pueden obtener excelentes detalles anatómicos utilizando la TC, o la urografía con RM con gadolinio.‬
@@ -107,7 +107,7 @@ El riñón en herradura está presente en el 21% de los pacientes con trisomía 
 
 Los resultados dependen de los problemas urológicos asociados, ya que los riñones en herradura suelen ser asintomáticos. La obstrucción PUJ ocurre en un 30% y es más frecuente en el lado izquierdo (consulte la **Figuras 6 y 7**).‬
 
-![Figura 6](/assets/figures/figure-2-6-6.jpg) ![Figura 7](/assets/figures/figure-2-6-7.jpg)  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-6-6.jpg) ![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-6-7.jpg)  
 **Figuras 6 y 7**
 
 Esto puede deberse a una obstrucción PUJ intrínseca, un drenaje deficiente debido a la posición del istmo, una inserción alta del uréter o, ocasionalmente, el cruce de vasos22. Es la indicación más común para la intervención quirúrgica en pacientes con riñón en herradura. El acceso quirúrgico a la PUJ depende de la posición y puede abordarse por vía retroperitoneal ya sea anterior o por el flanco. Ocasionalmente es necesario un abordaje transperitoneal, y ahora esto se ha informado mediante técnicas laparoscópicas y también con asistencia robótica. La división del istmo se recomendó previamente para evitar que el uréter se cruce sobre él, pero esto ya no se considera necesario. La ureterocalicostomía para la reconstrucción, en lugar de una pieloplastia de rutina permite el drenaje dependiente y, según se informa, tiene buenos resultados. Los cálculos renales se producen en hasta el 20% de los riñones en herradura. Esto puede atribuirse a la estasis secundaria a la obstrucción, pero deben excluirse las causas metabólicas. La ESWL tiene tasas de éxito similares a las de los riñones normales. PCNL puede ser más difícil debido al acceso y con frecuencia se requieren ámbitos flexibles. Sin embargo, se han reportado excelentes tasas de remoción de piedras para piedras grandes y resistentes a ESWL. Se ha notificado pielonefritis xantogranulomatosa, pero es poco frecuente. Existe un mayor riesgo de malignidad en los riñones en herradura en la infancia. Wilms tumor se produce con un aumento del riesgo de 1,5 a 8 veces y el manejo quirúrgico puede ser un reto.  El diagnóstico del riñón en herradura con frecuencia se ha omitido antes de la operación a pesar de la tomografía computarizada. El riesgo de malignidad en adultos con riñones en herradura parece ser similar al de la población normal, con \&lt;200 casos de malignidad reportados para el riñón en herradura. El carcinoma de células renales, el carcinoma de células de transición, el oncocitoma y el carcinoide se han descrito y parecen presentarse relativamente tarde.‬

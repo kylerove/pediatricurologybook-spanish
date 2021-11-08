@@ -108,46 +108,46 @@ El manejo del varicocele para el paciente adolescente puede ser un desafío. Ayu
 
 ## Figuras
 
-![Figura 1](/assets/figures/figure-7-34-1.jpg)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-1.jpg)‬  
 **Figura 1.** Varicocele grado 3 en un varón de 17 años. (Aseem: esto necesita una flecha dibujada para apuntar al varicocele).‬
 
-![Figura 2](/assets/figures/figure-7-34-2.jpg)‬  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-2.jpg)‬  
 **Figura 2.** Orquiómetro de Rochester.‬
 ‬
-![Figura 3](/assets/figures/figure-7-34-3.jpg)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-3.jpg)‬  
 **Figura 3.** Sitios de incisión quirúrgica para Palomo, Ivanissevich y abordajes subinguinales.
 
-![Figura 4](/assets/figures/figure-7-34-4.jpg)‬  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-4.jpg)‬  
 **Figura 4.** Sitios de incisión quirúrgica en correlación con el drenaje venoso.‬
 
-![Figura 5](/assets/figures/figure-7-34-5.jpg)‬  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-5.jpg)‬  
 **Figura 5.** Enfoque de Ivanissevich. A la izquierda, se abre la fascia oblicua externa, se aísla el cordón espermático con drenaje de Penrose. A la derecha, el conducto deferente y la arteria deferente se aíslan de la arteria y venas espermáticas.‬
 
-![Figura 6](/assets/figures/figure-7-34-6.jpg)‬  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-6.jpg)‬  
 **Figura 6.** Enfoque de Palomo. La línea discontinua representa la incisión sugerida, muy cerca de la arteria y vena espermáticas, muy por encima del anillo inguinal interno.‬
 
-![Figura 7](/assets/figures/figure-7-34-7.jpg)‬  
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-7.jpg)‬  
 **Figura 7.** Enfoque de Palomo. El retroperitoneo se ingresa a través de una técnica de división de músculos. Busque los vasos debajo del pliegue peritoneal.‬
 
-![Figura 8](/assets/figures/figure-7-34-8.jpg)‬  
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-8.jpg)‬  
 **Figura 8.** Abordaje laparoscópico. A) Vena espermática izquierda expuesta bajo el pliegue peritoneal.‬
 
-![Figura 9](/assets/figures/figure-7-34-9.jpg)‬  
+![Figura 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-9.jpg)‬  
 **Figura 9.** Vena espermática movilizada.‬
 
-![Figura 10](/assets/figures/figure-7-34-10.jpg)‬  
+![Figura 10]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-10.jpg)‬  
 **Figura 10.** Vena espermática dividida con clips quirúrgicos.‬
 
-![Figura 11](/assets/figures/figure-7-34-11.jpg)‬  
+![Figura 11]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-11.jpg)‬  
 **Figura 11.** Imagen de escala de grises transversal que muestra ambos testículos y ambos‬ varicoceles.‬
 
-![Figura 12](/assets/figures/figure-7-34-12.jpg)‬  
+![Figura 12]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-12.jpg)‬  
 **Figura 12.** Imagen en una escala de grises sagital de un varicocele izquierdo.‬
 
-![Figura 13](/assets/figures/figure-7-34-13.jpg)‬  
+![Figura 13]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-13.jpg)‬  
 **Figura 13.** Imagen sagital en color Doppler de un varicocele izquierdo con el‬ paciente en reposo.‬
 
-![Figura 14](/assets/figures/figure-7-34-14.jpg)‬  
+![Figura 14]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-34-14.jpg)‬  
 **Figura 14.** Imagen sagital en color Doppler del varicocele izquierdo con el paciente realizando una maniobra de Valsalva, con un aumento notable del flujo a través del varicocele.‬
 
 ## Referencias‬

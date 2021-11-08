@@ -71,7 +71,7 @@ El trabajo experimental con animales en la PKD ha descubierto una serie de nuevo
 **Figura**‬
  Hematoxilina y secciones teñidas con eosina de riñones quísticos pediátricos. Las vistas de la corteza se muestran en la columna izquierda y la médula en la derecha. A y B) PKD autosómica dominante con algunos quistes en la corteza y la médula que surgen de todos los segmentos de nefrona. Esto fue desde una etapa temprana, de ahí la arquitectura bien conservada de los glomérulos, túbulos y conductos colectores que rodean normalmente. C y D) PKD autosómica recesiva con numerosos quistes alargados que atraviesan la corteza y la médula; tenga en cuenta que todos los glomérulos parecen tener un espacio de Bowman normal, no dilatado, ya que los quistes solo surgen de los conductos colectores en esta condición. E y F) Enfermedades renales glomerulocísticas con displasia marcada; note la interrupción significativa de la diferenciación renal y los mechones glomerulares visibles en prácticamente todos los quistes.‬
 
-![Figura 1](/assets/figures/figure-2-10-1.jpg)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-10-1.jpg)‬
 
 **Referencias**‬
 

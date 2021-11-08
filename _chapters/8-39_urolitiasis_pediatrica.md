@@ -31,7 +31,7 @@ La incidencia de cálculos del tracto urinario ha aumentando, afectando a niños
 
 La fisiopatología de la litiasis es multifactorial y está determinada por una combinación de factores como son el flujo y volumen de orina, saturación de cristales en orina y pH urinario. Cualquier factor que afecte a estos componentes puede dar lugar a cálculos en el tracto urinario (consulte la **Figura 1** a continuación)
 
-![Figura 1](/assets/figures/figure-8-39-1.jpg)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-39-1.jpg)‬
 **Figura 1.** Modelo de factores de riesgo para la producción de calcio y ácido úrico en orina.‬
 
 El primer prerequisito para la formación de cálculos es la sobresaturación de orina. La cristalización se produce debido a una sobresaturación asociada a un desequilibrio entre los promotores (aumento) y los inhibidores (disminución) Los promotores son principalmente calcio, oxalato, fosfato y urato. Los inhibidores son citrato, pirofosfato, glicosaminoglicanos y glicoproteínas. Tras la sobresaturación, se forman cristales en el lumen de los túbulos, los cuales pueden agregarse. Si hay trastornos metabólicos subyacentes o causas dietéticas, también pueden causar sobresaturación. La diuresis deficiente puede agravar la sobresaturación. La infección urinaria, particularmente debida a organismos productores de ureasa, causa alcalinización de la orina y cristalización / sobresaturación de varios compuestos como la estruvita o carbapatita y urato de amonio.‬
@@ -77,8 +77,8 @@ En los niños con urolitiasis, el objetivo principal es el manejo quirúrgico, c
 
 _Ultrasonografia y Radiografía convencional_: esto permite la localización precisa de cálculos renales y puede ayudar a planificar la intervención. (**Figuras 2 y 3**)‬
 
-![Figura 2](/assets/figures/figure-8-39-2.jpg)‬  
-![Figura 3](/assets/figures/figure-8-39-3.jpg)‬  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-39-2.jpg)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-39-3.jpg)‬  
 **Figuras 2 y 3.** Radiografía simple que muestra múltiples cálculos en el riñón derecho en un niño con cistinuria. Ultrasonido que muestra múltiples cálculos en el riñón susceptibles a NLPC‬
 
 _Pielografia Endovenosa (IVU)_: esto demuestra la anatomía calicilar y la ubicación de los cálculos dentro del sistema colector. Las variaciones anatómicas, como los sistemas dúplex o los sistemas bífidos, también se pueden detectar antes de la operación.‬
@@ -95,10 +95,10 @@ _DMSA_: puede realizarse a través del mismo sitio de inyección de la IVU y nos
 8. Se coloca una nefrostomía 8F y se retira la vaina de Amplatz.‬
 9. La nefrostomía se clampea 24 horas después del procedimiento y se retira a las 36 horas.‬
 
-![Figura 5](/assets/figures/figure-8-39-5.jpg)‬  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-39-5.jpg)‬  
 **Figura 5.** Imagen que muestra la guía hacia abajo en el uréter derecho, la vaina de amplatz en posición y los dilatadores de metal que se están retirando.‬
 
-![Figura 4](/assets/figures/figure-8-39-4.jpg)‬  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-8-39-4.jpg)‬  
 **Figura 4.** Pielografía retrógradas que demuestra cálculos predominantemente en el polo inferior que permiten la punción del cáliz apropiado.‬
 
 ### LEC (litotricia extracorpórea por ondas de choque)

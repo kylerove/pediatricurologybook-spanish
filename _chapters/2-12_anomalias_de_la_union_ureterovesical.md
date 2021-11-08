@@ -157,14 +157,14 @@ Ref Type: Report‬
     46.   Lee SD, Akbal C, Kaefer M. Refluxing ureteral reimplant as temporary treatment of obstructive megaureter in neonate and infant. J Urol 2005; **173**: 1357-1360.‬
     47.   Gearhart JP. Primary obstructive ureter in neonates. Treatment by temporary uretero-cutaneostomy. Br J Urol 1994; **74**: 133-134.‬
 
-![Figura 1](/assets/figures/figure-2-12-1.jpg)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-1.jpg)‬
 
 **Figura 1.**  Vista intraoperatoria de un megauréter y un segmento yuxta-vesical (AS) estrecho y angosto.‬
 
-![Figura 2](/assets/figures/figure-2-12-2.jpg) ![Figura 3](/assets/figures/figure-2-12-3.jpg)‬
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-2.jpg) ![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-3.jpg)‬
 
 **Figuras 2a y b. ** Aparición ecográfica de un uréter dilatado proximal (a) y distal detrás de la vejiga (b)‬
 
-![Figura 4](/assets/figures/figure-2-12-4.jpg)‬
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-4.jpg)‬
 
 **Figura 3a y b. ** Imágenes MAG-3 que muestran el drenaje retardado del marcador (curva roja) a los 20 minutos (a) y el uréter izquierdo visible (L) en la imagen tardía (b), lo que sugiere un bloqueo en el UUV‬

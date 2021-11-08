@@ -27,7 +27,7 @@ La Sociedad Internacional de Incontinencia (ICS) ha definido los Estudios Urodin
 
 Para evitar esta confusión, utilizaremos el término cistometría para referirnos al estudio del tracto urinario inferior, incluida la función de llenado, vaciado y coordinación de la vejiga con el esfínter urinario externo.[^2] El estudio urodinámico del tracto urinario inferior se puede realizar de forma invasiva o no invasivo.[^2]<sup>,</sup>[^3] (**Figura 1**)
 
-![Figura 1](/assets/figures/figure-1-4-1.jpg)  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-4-1.jpg)  
 **Figura 1**. Flujometría con un WC
 
 La tendencia moderna entre los urólogos pediátricos es obtener un enfoque clínico para el diagnóstico con una historia clínica y un examen físico precisos, y un cuadro de evacuación, lo que reduce la cantidad de niños que necesitan exámenes más complejos e invasivos.
@@ -99,7 +99,7 @@ Una cistometría requiere (**Figura 2**).
 5. Transductores de presión (cm H<sub>2</sub>0)
 6. Parches de electrodos para electromiografía (mVolt)
 
-![Figura 2](/assets/figures/figure-1-4-2.jpg)  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-4-2.jpg)  
 **Figura 2**. Equipo urodinamico
 
 Software para transformar la información de estos dispositivos en curvas que se graban en diferentes canales que se exponen simultáneamente en la pantalla.

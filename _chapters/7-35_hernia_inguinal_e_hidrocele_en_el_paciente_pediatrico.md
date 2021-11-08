@@ -32,16 +32,16 @@ Ferguson propusó la reparación de la hernia con solo la exposición, disecció
 
 La hernia inguinal y varios tipos de hidrocele en niños son el resultado de la persistencia del CPV, que no se ha podido cerrar después del descenso del testículo a través de él (Figura 1).‬
 
-![Figura 1](/assets/figures/figure-7-35-1.jpg)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-1.jpg)‬  
 **Figura 1.** Representación esquemática de la anatomía normal del cordón espermático y del canal inguinal.‬
 
-![Figura 2](/assets/figures/figure-7-35-2.jpg)‬  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-2.jpg)‬  
 **Figura 2.** la acumulación de líquido alrededor de los testículos en la túnica vaginal constituye un hidrocele escrotal‬
 
-![Figura 3](/assets/figures/figure-7-35-3.jpg)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-3.jpg)‬  
 **Figura 3.** El hidrocele comunicante se produce cuando el conducto peritoneo-vaginal está aún abierto a través del canal inguinal.‬
 
-![Figura 4](/assets/figures/figure-7-35-4.jpg)‬  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-4.jpg)‬  
 **Figura 4.** herniación de asas intestinales hacia escroto en una hernia inguinal.‬ (Ilustraciones del Dr. Paul Gleich, MD)‬
 
 En contraste con la debilidad muscular adquirida que conduce a las hernias en adultos, las hernias inguinales indirectas en niños resultan de una detención del desarrollo embriológico y esto también explica el aumento de la incidencia en los niños prematuros. La formación de hernias inguinales en niños está directamente relacionada con el descenso de las gónadas en desarrollo. En el feto en desarrollo, el conducto peritoneo-vaginal es visto por primera vez como una extensión de la cavidad peritoneal en el tercer mes de gestación. Los testículos se desarrollan en el retroperitoneo embrionario cerca del riñón y llegan al nivel del anillo interno en el séptimo mes. El _processus vaginalis peritonei_ se extiende a través del canal inguinal hacia el escroto y proporciona la vía necesaria para que el testículo llegue al escroto. Una vez que se establece este camino, una secuencia de eventos bien orquestada permite que los testículos desciendan al escroto [^12]. Poco después del descenso de los testículos, en algún momento de los primeros meses de vida, la mayoría del conducto desaparece gradualmente, excepto la parte terminal alrededor de los testículos, que persiste como la túnica vaginal. La túnica normalmente contiene una pequeña cantidad de líquido y elvuelve el testículo en casi toda su superficie, formando una capa importante y protectora para el testículo. El hidrocele y la hernia ocurren como una variación de este tema en sí mismo, por lo que una parte del _processus vaginalis peritonei_ queda atrás. El calibre de la persistencia del CPV determinará si se presenta una hernia o un hidrocele. Un canal de pequeño calibre permite que solo el fluido peritoneal se filtre, produciendo un hidrocele comunicante, mientras que un defecto de mayor tamaño permite que el intestino migre hacia el escroto, manifestandose como una hernia inguinal.‬
@@ -339,58 +339,58 @@ La hernia y el hidrocele en pacientes pediatricos comprenden un espectro de tras
 
 ## Figuras
 
-![Figura 5](/assets/figures/figure-7-35-5.jpg)‬  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-5.jpg)‬  
 **Figura 5.** Fotografía clínica de un niño de 5 años que muestra un aumento en el volúmen escrotal izquierdo.‬
 
-![Figura 6](/assets/figures/figure-7-35-6.jpg)‬  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-6.jpg)‬  
 **Figura 6.** Fotografía clínica de una niña de 6 años con hernia inguinal derecha. Tenga en cuenta el bulbo cefalo-lateral al tubérculo púbico‬
 
-![Figura 7](/assets/figures/figure-7-35-7.jpg)‬  
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-7.jpg)‬  
 **Figura 7.** Fotografía clínica de una niña de 1 año con una hernia inguinal y un nódulo palpable en la tumefacción de la hernia.‬
 
-![Figura 8](/assets/figures/figure-7-35-8.jpg)‬  
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-8.jpg)‬  
 **Figura 8.** Imagen de ultrasonido de un niño en la Figura 4 muestra un ovario con folículos que se encuentra en el saco herniario.‬
 
-![Figura 9](/assets/figures/figure-7-35-9.jpg)‬  
+![Figura 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-9.jpg)‬  
 **Figura 9.** Incisión estándar para la herniotomía en el pliegue inguinal inferior de la piel.‬
 
-![Figura 10](/assets/figures/figure-7-35-10.jpg)‬  
+![Figura 10]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-10.jpg)‬  
 **Figura 10.** Saco y estructuras del cordón se muestran sobre el dedo índice de la mano izquierda y luego el cordón espermático se extrae suavemente.‬
 
-![Figura 11](/assets/figures/figure-7-35-11.jpg)‬  
+![Figura 11]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-11.jpg)‬  
 **Figura 11.** Saco separado de las estructuras del cordón que han caído.‬
 
-![Figura 12](/assets/figures/figure-7-35-12.jpg)‬  
+![Figura 12]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-12.jpg)‬  
 **Figura 12.** Diisión del saco permite completar la disección proximal hacia el anillo interno.‬
 
-![Figura 13](/assets/figures/figure-7-35-13.jpg)‬  
+![Figura 13]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-13.jpg)‬  
 **Figura 13.** Saco abierto en una niña con hernia inguinal derecha muestra un ligamento redondo.‬
 
-![Figura 14](/assets/figures/figure-7-35-14.jpg)‬  
+![Figura 14]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-14.jpg)‬  
 **Figura 14.** Trompa de Falopio prolapsada en el cuello del saco herniario en una niña. El saco siempre debe abrirse y el contenido debe examinarse y recolocarse antes de cerrar el saco en el anillo inguinal interno.‬
 
-![Figura 15](/assets/figures/figure-7-35-15.jpg)‬  
+![Figura 15]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-15.jpg)‬  
 **Figura 15.** Torsión del saco antes de colocar la sutura de transfixión. La visualización de la grasa pre-peritoneal, como en esta imagen, significa una disección proximal adecuada.‬
 
-![Figura 16](/assets/figures/figure-7-35-16.jpg)‬  
+![Figura 16]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-16.jpg)‬  
 **Figura 17.** Fotografía clínica de un niño de 3 años con hernia inguinal izquierda obstruida. Obsérvese la aparición de eritema.‬
 
-![Figura 17](/assets/figures/figure-7-35-17.jpg)‬  
+![Figura 17]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-17.jpg)‬  
 **Figura 18.** Vista laparoscópica de la hernia inguinal indirecta izquierda que muestra un anillo interno muy abierto (Cortesía: Dr. Felix Schier, Alemania)‬
 
-![Figura 18](/assets/figures/figure-7-35-18.jpg)‬  
+![Figura 18]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-18.jpg)‬  
 **Figura 18.** Imagen esquemática que muestra la configuración del quirófano para la reparación de la hernia inguinal laparoscópica pediátrica y los pasos a seguir. Se debe tener cuidado de evitar los vasos gonadales y el conducto durante el paso de la sutura (Cortesía del Dr. Felix Shier, Alemania)‬
 
-![Figura 19](/assets/figures/figure-7-35-19.jpg)‬  
+![Figura 19]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-19.jpg)‬  
 **Figura 19.** Vista laparoscópica de una hernia encarcelada que se ha reducido parcialmente con anestesia. (Cortesía del Dr. Félix Schier, Alemania)‬
 
-![Figura 20](/assets/figures/figure-7-35-20.jpg)‬  
+![Figura 20]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-20.jpg)‬  
 **Figura 20.** Vista laparoscópica de una hernia inguinal directa: observe el defecto medial a los vasos epigástricos inferiores (Cortesía del Dr. Felix Schier, Alemania)‬
 
-![Figura 21](/assets/figures/figure-7-35-21.jpg)‬  
+![Figura 21]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-21.jpg)‬  
 **Figura 21.** Hernia de pantaloon con defecto directo e indirecto como se observa en la laparoscopia (Cortesía del Dr. Felix Schier, Alemania)‬
 
-![Figura 22](/assets/figures/figure-7-35-22.jpg)‬  
+![Figura 22]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-35-22.jpg)‬  
 **Figura 22.** Hernias directas, indirectas y femorales, todas coexisten en un paciente. (Cortesía del Dr. Félix Schier, Alemania)‬
  
 ## Referencias‬

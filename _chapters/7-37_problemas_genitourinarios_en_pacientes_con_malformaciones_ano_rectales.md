@@ -31,7 +31,7 @@ Independientemente del mecanismo, está claro que la separación de la cloaca y 
 
 En la malformación cloacal hay una abertura perineal única para los tractos genital, urinario y gastrointestinal14-15. Embriológicamente, esta confluencia normalmente persiste hasta aproximadamente las 5 semanas de gestación. La cloaca es normalmente una estructura transitoria durante el desarrollo embrionario que se forma a partir del pliegue de la cola en desarrollo por la confluencia del alantoides y el intestino posterior16-18. En el pasado, se pensaba que la partición de la cloaca se producía por el crecimiento craneocaudal de una estructura mesenquimal llamada tabique urorectal y la migración simultánea de indentaciones laterales cerca de la membrana cloacal (4-5 semanas de gestación)17-21‬
 
-![Figura 1](/assets/figures/figure-7-37-1.jpg)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-1.jpg)‬  
 **Figura 1**
 
 Sin embargo, ahora se sabe que el mesénquima entre el intestino posterior y la vejiga en desarrollo parece aproximarse a la placa cloacal, pero lo que anteriormente se pensaba que era el tabique urorrectal, se crea por los cambios en el tamaño relativo y la posición de las estructuras mesenquimales que rodean la cloaca mientras crece 20-22.Para la sexta semana, la cloaca se divide en un seno urogenital anterior y un intestino posterior separado. Los conductos mesonéfricos se unen lateralmente a la cloaca y dan lugar al desarrollo del brote ureteral, que a su vez induce el desarrollo renal desde el blastema metanéfrico16. La uretra se desarrolla posteriormente desde el extremo caudal del seno urogenital después de su separación de la cloaca 23.‬
@@ -83,8 +83,8 @@ Las fístulas perineales se han llamado tradicionalmente defectos bajos en niño
 
 La fístula recto vestibular es el defecto más común que se observa en las niñas donde el recto se abre en el vestíbulo, que es el espacio entre el himen y la piel perineal. La mayoría tienen un buen sacro y un mecanismo esfínter anal. Figura 3‬
 
-![Figura 2](/assets/figures/figure-7-37-2.jpg)  
-![Figura 3](/assets/figures/figure-7-37-3.jpg)‬
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-2.jpg)  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-3.jpg)‬
 
 ### La fístula recto uretral
 
@@ -94,9 +94,9 @@ La fístula recto uretral es el defecto más frecuente en los varones. Existen 2
 
 La fístula recto vesical es el defecto más alto o grave en los hombres donde la mayoría de los pacientes tienen displasia sacra, musculatura anormal del piso pélvico y esfínteres anales. La reparación quirúrgica generalmente implica abordaje sagital abdominal y posterior. Figura 6‬
 
-![Figura 4](/assets/figures/figure-7-37-4.jpg)  
-![Figura 5](/assets/figures/figure-7-37-5.jpg)  
-![Figura 6](/assets/figures/figure-7-37-6.jpg)‬
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-4.jpg)  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-5.jpg)  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-6.jpg)‬
 
 ### El ano imperforado sin fístula
 
@@ -106,8 +106,8 @@ El ano imperforado sin fístula es raro, ya que el recto se encuentra generalmen
 
 La cloaca es el extremo más grave del espectro de malformaciones ano rectales en las mujeres en las que la orina, genitales y el recto drenan a través de un canal común y una sola abertura perineal. Existe una alta incidencia de defectos sacros y urinarios asociados. Aquellos con un canal común corto \&lt;3 cm se pueden reparar con un abordaje sagital posterior. Sin embargo, aquellos con un canal cloacal común largo representan un defecto más complejo que generalmente requerirá una combinación de abdomen y sagital posterior. Figuras 7 y 8‬
 
-![Figura 7](/assets/figures/figure-7-37-7.jpg)  
-![Figura 8](/assets/figures/figure-7-37-8.jpg)‬
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-7.jpg)  
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-8.jpg)‬
 
 ## ANOMALÍAS CONGÉNITAS ASOCIADAS
 
@@ -189,7 +189,7 @@ En lactantes con fístula perineal es frecuente realizar una anoplastia en las p
 
 En niñas con cloaca persistente, es útil realizar una endoscopia, en el momento de la formación de la colostomía, para evaluar la anatomía interna y determinar la longitud del canal cloacal común. En algunos pacientes con cloaca también puede ser necesario crear un drenaje más efectivo del tracto urinario 73.‬
 
-![Figura 9](/assets/figures/figure-7-37-9.jpg)‬  
+![Figura 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-9.jpg)‬  
 **Figura 9.** Resume el plan de tratamiento para un recién nacido ARM‬
 
 ### REPARACIÓN QUIRÚRGICA DEFINITIVA

@@ -23,7 +23,7 @@ _Hospital Padre Hurtado, Santiago Chile_{: .translator-location}
 
 los riñones desempeñan un papel fundamental en la salud y el desarrollo de los niños. El nefron es la unidad funcional del riñón, ya que cada riñón contiene aproximadamente 500,000-1,000,000 nefrones. Acumulativamente, los procesos básicos del nefron son 1) filtración, 2) reabsorción y 3) secreción.
 
-![Figura 1](/assets/figures/figure-1-5-1.jpg)  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-5-1.jpg)  
 **Figura 1**
 
 Cada nefron se divide en: 1) el glomérulo, 2) el túbulo proximal, 3) el asa de Henle, 4) el túbulo contorneado distal y 5) los conductos colectores (**Figura 1**). Los glomérulos (&#39;filtros&#39;) tienen selectividad de carga y tamaño y filtran el plasma a través de la capa basal endotelial (capilar), glomerular y epitelial (podocito). El túbulo proximal es donde se produce aproximadamente el 85% de la reabsorción, que incluye sodio, agua, aminoácidos y glucosa. El asa de Henle permite la dilución y posterior concentración de orina a través del multiplicador de contracorriente. El túbulo contorneado distal contiene la mácula densa, que es fundamental para la retroalimentación yuxtaglomerular con la posterior autorregulación del flujo sanguíneo renal. La autorregulación permite una tasa de filtración glomerular (TFG) bastante constante en circunstancias fisiológicas normales. Finalmente, los conductos colectores responden a la hormona antidiurética (ADH), que permite la concentración de la orina como también de la aldosterona que regula la secreción de potasio.
@@ -47,7 +47,7 @@ A pesar de la complejidad de la filtración, la reabsorción y la secreción a l
 
 La tasa de filtración glomerular (TFG) es la velocidad a la que el plasma se filtra de forma acumulativa a través de los nefrones. Después de la filtración, la mayor parte de la carga filtrada se reabsorbe a lo largo del nefron. En pediatría, la ecuación de Schwartz se usa más comúnmente para estimar la TFG en niños.[^1] La ecuación de Schwartz (**Figura 2**) se basa en la creatinina sérica y en la altura del niño. Mientras que un TFG normal en adultos es de ~ 120 mL / min / 1.73m<sup>2</sup>, en pediatría un TFG normal varía según la edad del niño. Por lo general, la TFG inicial de un recién nacido de término es de ~ 30 mL / min / 1.73m<sup>2</sup>, mientras que el TFG inicial de un neonato prematuro puede ser incluso menor de 15 mL / min / 1.73m<sup>2</sup>. Independientemente de la edad gestacional, la TFG se duplica dentro de las 2 semanas de edad debido a la disminución de la resistencia vascular con un aumento resultante en el flujo sanguíneo renal y la perfusión. Luego, la TFG continúa aumentando (corregida por el área de la superficie corporal) y alcanza las normas de los adultos aproximadamente a los 19 meses de edad.
 
-![Figura 2](/assets/figures/figure-1-5-2.jpg)  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-5-2.jpg)  
 **Figura 2**
 
 ### 2. Función tubular
@@ -83,7 +83,7 @@ Para determinar la etiología de la IRA se deben evaluar los procesos prerrenale
 
 Las microangiopatías trombóticas (MAT), como el síndrome urémico hemolítico (SHU) también se pueden clasificar como una causa vascular de IRA. En la MAT, se forman trombos ricos en plaquetas en los capilares de los glomérulos, lo que conduce a una disminución de la FVG.
 
-![Figura 3](/assets/figures/figure-1-5-3.jpg)  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-5-3.jpg)  
 **Figura 3**
 
 ### Las glomerulonefritis
@@ -104,7 +104,7 @@ El tratamiento de las GN agudas depende de la causa subyacente, la mayoría requ
 
 La necrosis tubular aguda (NTA) es la causa más común de IRA. La NTA generalmente es causada una lesión isquémica o por la exposición a medicamentos nefrotóxicos. Los pacientes con NTA son típicamente oligúricos y el sedimento de orina puede mostrar cilindros granulosos o pardos fangosos. En contraste con la azotemia prerrenal, los pacientes con NTA tienen un FENa\&gt; 1% (**Tabla 1**).
 
-![Tabla 1](/assets/figures/tabla-1-5-1.jpg)
+![Tabla 1]({{ site.url }}{{ site.baseurl }}/assets/figures/tabla-1-5-1.jpg)
 
 El tratamiento de la NTA incluye: reposo renal, mantener la euvolemia y evitar los medicamentos nefrotóxicos. En pacientes oligúricos, es necesario un estricto control de aporte de líquidos para mantener la euvolemia. La recuperación de la NTA puede llevar de días a semanas, y con frecuencia la oliguria hace la transición a poliuria con un aumento constante de la creatinina sérica. Cuando el paciente se vuelve poliúrico, es fundamental mantener una hidratación adecuada. Hasta que los túbulos renales se recuperen, es poco probable que el paciente pueda concentrar su orina y, como tal, corren el riesgo de desarrollar una azotemia prerrenal con posible falla renal secundaria si no se aumenta la ingesta para mantener el rendimiento.
 
@@ -124,7 +124,7 @@ No existe un tratamiento específico para la IRA a parte de las medidas de sopor
 
 La enfermedad renal crónica (ERC) se refiere a la evidencia radiográfica o de laboratorio de una enfermedad renal que progresa más allá de los 3 meses. Hay cinco etapas en ERC, basadas en la tasa de filtración glomerular estimada (**Figura 4**). En niños con ERC, se usa una versión modificada de la ecuación de Schwartz para estimar la VFG.[^1]<sup>,</sup>[^2] A diferencia de los pacientes adultos que a menudo son seguidos por su proveedor de atención primaria durante las primeras etapas de la ERC, todos los niños con ERC deben ser seguidos por un nefrólogo pediátrico para la atención de subespecialidad.[^11] Se presta especial atención al crecimiento y desarrollo de los niños con ERC. La frecuencia del seguimiento nefrológico se correlaciona con la etapa de la ERC. Cabe destacar que la VFG alcanza su valor máximo alrededor de los 2 años de edad, lo que hace imposible clasificar a los niños menores 2 años con precisión.
 
-![Figura 4](/assets/figures/figure-1-5-4.jpg)  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-5-4.jpg)  
 **Figura 4**
 
 ### Manejo de la enfermedad renal crónica

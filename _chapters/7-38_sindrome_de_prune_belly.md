@@ -270,38 +270,38 @@ Debido a la rareza del SPB, la mayoría de la literatura descrita se basa en ser
 
 ## Figuras
 
-![Figura 1](/assets/figures/figure-7-38-1.jpg)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-1.jpg)‬  
 **Figura 1**: Pared abdominal laxa en paciente con Síndrome de Prune Belly‬
 
-![Figura 2](/assets/figures/figure-7-38-2.jpg)‬  
-![Figura 3](/assets/figures/figure-7-38-3.jpg)‬  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-2.jpg)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-3.jpg)‬  
 **Figuras 2 y 3**: Ecografía renal de recién nacido con PBS con hidroureteronefrosis marcada (Fig. 2 A: riñón izquierdo; Fig. 2B: riñón derecho)‬
 
-![Figura 4](/assets/figures/figure-7-38-4.jpg)‬  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-4.jpg)‬  
 **Figura 4**: VCUG que muestra un reflujo vesicoureteral bilateral con uréteres dilatados‬
 
-![Figura 5](/assets/figures/figure-7-38-5.jpg)‬  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-5.jpg)‬  
 **Figura 5**: Ecografía de la vejiga que muestra engrosamiento de la pared de la vejiga‬
 
-![Figura 6](/assets/figures/figure-7-38-6.jpg)‬  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-6.jpg)‬  
 **Figura 6**: próstata hipoplásica con uretra prostática dilatada‬
 
-![Figura 7](/assets/figures/figure-7-38-7.jpg)‬  
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-7.jpg)‬  
 **Figura 7**: cistograma que muestra la vejiga grande en una niña con PBS‬
 
-![Figura 8](/assets/figures/figure-7-38-8.jpg)‬  
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-8.jpg)‬  
 **Figura 8**: renograma de MAG 2 en un niño con PBS, riñón derecho que funciona mal y dilatación a izquierda con estasis del trazador.‬
 
-![Figura 9](/assets/figures/figure-7-38-9.jpg)‬  
+![Figura 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-9.jpg)‬  
 **Figura 9**: Incisión marcada para abdominoplastía de Montfort. La isla de la piel para neoumbilicus también está marcada.‬
 
-![Figura 10](/assets/figures/figure-7-38-10.jpg)‬  
+![Figura 10]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-10.jpg)‬  
 **Figura 10**: Se ha levantado el colgajo de piel preservando la vascularización de las islas de la piel para el neo ombligo.‬
 
-![Figura 11](/assets/figures/figure-7-38-11.jpg)‬  
+![Figura 11]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-11.jpg)‬  
 **Figura 11**: Abdominoplastía, colgajos en isla centrales‬
 
-![Figura 12](/assets/figures/figure-7-38-12.jpg)‬  
+![Figura 12]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-38-12.jpg)‬  
 **Figura 12**: Fijación del colgajo muscular de la isla central al peritoneo parietal posterior‬
 
 1. Platt, W.: Rare Cause of Deficiency of the Abdominal Muscles. Philadelphia Medical Journal,  **1:**  738, 1898‬

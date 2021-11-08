@@ -72,7 +72,7 @@ Si bien el uréter del polo inferior es más comúnmente afectado por el reflujo
 
 El parénquima de una duplicación renal no se distribuye equitativamente entre los dos polos (Figura 1).‬
 
-![Figura 1](/assets/figures/figure-2-8-1.jpg)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-1.jpg)‬
 
 **Figura 1: Urograma intravenoso de un riñón de sistema colector doblederecho no complicado. L**** a mayoría de los cálices pertenecen al polo inferior y se desplazan hacia abajo y lateralmente dando la apariencia de un &quot;lirio caído&quot;**‬
 
@@ -88,13 +88,13 @@ El RVU en el polo inferior en las duplicaciones renales se presenta con mayor fr
 
 La investigación por ultrasonido puede mostrar un polo inferior dilatado o un uréter dilatado (ver la Figura 2).‬
 
-![Figura 2](/assets/figures/figure-2-8-2.jpg)‬
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-2.jpg)‬
 
 **Figura 2: Ecografía que muestra un polo inferior dilatado de un riñón duplicado**‬
 
 En los bebés, un cistograma miccional proporciona información precisa sobre la anatomía del reflujo. Una exploración con radionucleótidos con ácido dimercaptosuccínico (DMSA) brinda información sobre la función del polo afectado e información sobre cicatrices focales (consulte la Figura 3).‬
 
-![Figura 3](/assets/figures/figure-2-8-3.jpg)‬
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-3.jpg)‬
 
 **Figura 3: DMSA que demuestra poca función en el polo renal inferior izquierdo de un riñón duplicado**‬
 
@@ -182,7 +182,7 @@ La investigación de un ureterocele tiene como objetivo confirmar su presencia, 
 
 El ureterocele y su uréter dilatado asociado y el polo superior generalmente se identifican en la ecografía (ver Figura 4).‬
 
-![Figura 4](/assets/figures/figure-2-8-4.jpg)‬
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-4.jpg)‬
 
   **Figura 4: Ecografía que muestra un ureterocele en la vejiga.**  **Tenga en cuenta que en este caso la orina en la vejiga es más ecogénica que en el ureterocele, lo que implica un vaciamiento deficiente de la vejiga.**‬
 
@@ -190,7 +190,7 @@ Se debe tener cuidado de que un uréter distal dilatado adyacente a una vejiga n
 
 El cistograma miccional es una investigación invaluable en el paciente con un ureterocele (ver Figura 5).‬
 
-![Figura 5](/assets/figures/figure-2-8-5.jpg)‬
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-5.jpg)‬
 
   **Figura 5: Cistograma miccional que muestra un ureterocele ectópico. E**** l ureterocele se extiende hacia la uretra y presenta reflujo asociado hacia el uréter dilatado del polo inferior**‬
 

@@ -166,16 +166,16 @@ En los recién nacidos, la corteza renal es isoecoica o hiperecoica en relación
 - Se deben incluir la evaluación de la vejiga (tanto pre como postmiccional).‬
 - Pobre en la búsqueda de cicatrices renales.‬
 
-![Figura 1](/assets/figures/figure-1-3-1.jpg)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-1.jpg)‬  
 **Fig. 1:** El riñón derecho muestra la diferenciación corticomedular.‬
 
-![Figura 2](/assets/figures/figure-1-3-2.jpg)‬  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-2.jpg)‬  
 **Fig. 2:** sistema de recolección dúplex con dilatación del polo superior e inferior.‬
 
-![Figura 3](/assets/figures/figure-1-3-3.jpg)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-3.jpg)‬  
 **Fig. 3:** Sistema de recolección izquierdo dilatado con el aspecto característico de Mickey Mouse que sugiere una obstrucción de la unión PU.‬
  
-![Figura 4](/assets/figures/figure-1-3-4.jpg)‬  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-4.jpg)‬  
 **Fig. 4:** Masa renal izquierda.‬
 
 ### Técnica‬
@@ -219,10 +219,10 @@ Grado III - dilatación leve / moderada del uréter, pelvis renal y cálices con
 Grado IV: dilatación de la pelvis renal y cálices con tortuosidad ureteral moderada‬
 Grado V: dilatación general del uréter, pelvis y cálices; tortuosidad ureteral; pérdida de impresiones papilares‬
 
-![Figura 5](/assets/figures/figure-1-3-5.jpg)‬  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-5.jpg)‬  
 **Figura 5.** Grado radiológico del RVU.‬
 
-![Figura 6](/assets/figures/figure-1-3-6.png)‬  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-6.png)‬  
 **Figura 6.** reflujo de grado 3.
 
 ## Medicina nuclear
@@ -255,7 +255,7 @@ El DMSA se utiliza para evaluar la función renal relativa y la cicatrización.�
 - Función renal relativa‬
 - Captación absoluta‬
 
-![Figura 7](/assets/figures/figure-1-3-7.jpg)‬  
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-7.jpg)‬  
 **Fig. 7:** DMSA en un paciente con doble sistema recolector derecho. Se observa cicatrización significativa y función reducida en el polo inferior y un polo superior no funcional.‬
 
 ### Gammagrafía MAG-3 / Gammagrafía renal dinámica
@@ -285,7 +285,7 @@ La gammagrafía dinámica con MAG3 da una idea de la función renal y la morfolo
 - Índice de perfusión‬
 - Tiempos de tránsito del parénquima y del riñón completo.‬
 
-![Figura 8](/assets/figures/figure-1-3-8.png)‬  
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-8.png)‬  
 **Fig. 8:** Obstrucción de la unión de la PU izquierda, con aumento de la acumulación del isótopo radioactivo a lo largo del tiempo, lo que sugiere un sistema obstruido.‬
 
 Según las guías NICE el uso de ecografía, VCGU y medicina nuclear son utilizados para el estudio de las infecciones del tracto urinario en niños.‬
@@ -298,8 +298,8 @@ La IVU (por sus siglas en ingles) es un estudio funcional que depende de la capt
 - Evaluación de uréter ectópico o megauréteres que se dilaten a nivel de la vejiga‬
 - Evaluación de la anatomía del sistema caliceal para la planificación de LPC (**Fig. 9 y 10**)‬
 
-![Figura 9](/assets/figures/figure-1-3-9.jpg)‬  
-![Figura 10](/assets/figures/figure-1-3-10.jpg)  
+![Figura 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-9.jpg)‬  
+![Figura 10]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-10.jpg)  
 **Fig. 9 y 10:** Radiografía simple que muestra múltiples cálculos en el riñón derecho. IVU ayuda como una hoja de ruta para identificar el cáliz afectado y así planificar el mejor enfoque terapéutico.‬‬
 
 ### Contraindicaciones‬
@@ -384,8 +384,8 @@ Las desventajas de la TC son la exposición a la radiación, el costo y la dispo
   - Caracterizar la anatomía vascular para planificación preoperatoria.‬
   - Trombosis de vena renal o tumor de VCI‬
 
-![Figura 11](/assets/figures/figure-1-3-11.png)‬  
-![Figura 12](/assets/figures/figure-1-3-12.png)‬  
+![Figura 11]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-11.png)‬  
+![Figura 12]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-3-12.png)‬  
 **Fig. 11 y 12:** Gran masa que compromete riñón derecho con múltiples depósitos metastásicos pulmonares.‬
  
 ## Resonancia magnética

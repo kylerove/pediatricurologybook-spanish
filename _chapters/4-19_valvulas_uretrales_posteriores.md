@@ -63,7 +63,7 @@ El cistouretrograma miccional (CUGM) confirmará el diagnóstico y debe incluir 
 
 CUGM que muestra uretra posterior dilatada, cuello de vejiga abierta, vejiga irregular y reflujo vesicoureteral bilateral.‬
 
-![Figura 1](/assets/figures/figure-4-19-1.jpg)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-4-19-1.jpg)‬
 
 La información adicional obtenida del CUGM incluye el tamaño de la vejiga, la irregularidad de la vejiga debido al engrosamiento, la trabeculación y la formación de divertículos, el reflujo vesicoureteral (RVU) y la configuración del cuello de la vejiga. Aproximadamente el 50% de los neonatos con VUP tendrán RVU. Si el VUR ha sido de alto grado y unilateral, un &quot;desprendimiento&quot; puede haber permitido la disipación selectiva de la presión de retorno, como resultado de una obstrucción uretral.‬
 
@@ -74,7 +74,7 @@ El síndrome de VURD (displasia de reflujo unilateral de las válvulas) descrito
 El procedimiento de elección para las VUP es la ablación de la válvula primaria, que se realiza una vez que el bebé está estable desde un punto de vista médico. En la inducción de la anestesia se administra una dosis de antibiótico intravenoso, por ejemplo, amoxicilina/clavulanato 30 mg / kg. El bebé se coloca en la posición de litotomía y una cistoscopia de diagnóstico utilizando 0 ° 6/8 Fr cistoscopio neonatal realizado. La uretra posterior se debe inspeccionar cuidadosamente y se debe observar la configuración de la válvula. También debe tenerse en cuenta la configuración del cuello vesical y las apariencias de la vejiga y los orificios ureterales. El resectoscopio 11 Fr se ensambla con el electrodo de la cuchilla fría / hoz o con el insecto y la resección de la válvula se realiza normalmente en las posiciones de las 5, las 7 y las 12 en punto (Figura 2).‬
 
 Vista endoscópica de VUP con los sitios marcados para la incisión de la válvula.‬
- ![Figura 2](/assets/figures/figure-4-19-2.jpg)‬
+ ![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-4-19-2.jpg)‬
 
 Se coloca un catéter uretral al final del procedimiento y se retira 24-48 horas después. La creatinina debe verificarse después de retirar el catéter y pesar los pañales para documentar la producción de orina. La profilaxis antibiótica y los suplementos renales deben continuar hasta una revisión adicional.‬
 

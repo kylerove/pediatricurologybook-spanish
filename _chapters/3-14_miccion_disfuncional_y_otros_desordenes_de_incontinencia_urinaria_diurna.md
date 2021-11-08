@@ -398,7 +398,7 @@ En conclusión, el tratamiento ideal de los pacientes con disfunción miccional 
 
 **Algoritmo de Disfunción Miccional**‬
 
-![Figura 1](/assets/figures/figure-3-14-1.gif)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-14-1.gif)‬
 
 **Bibliografía**‬
 

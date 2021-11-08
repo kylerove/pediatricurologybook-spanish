@@ -87,31 +87,31 @@ En el ámbito hospitalario, la tasa de complicación perioperatoria de la circun
 Las actitudes hacia la analgesia y la anestesia durante la circuncisión han cambiado dramáticamente en las últimas décadas. Antes de este cambio, existían varias razones para evitar esta intervención, desde la poca familiaridad con las técnicas anestésicas en este grupo de edad hasta la idea de que la intervención sería más dolorosa que el resultado de un procedimiento menor. La comprensión adicional de las respuestas fisiológicas atribuibles al dolor ha demostrado que el procedimiento es en realidad doloroso y también ha permitido la medición de varias intervenciones para determinar la eficacia relativa para minimizar el dolor. En los pacientes neonatales, un enfoque multimodal podría incluir un chupete de sacarosa, iluminación de la habitación baja y una intervención anestésica farmacológica para minimizar la incomodidad del paciente. Los métodos farmacológicos incluyen preparaciones tópicas de lidocaína / prilocaína, bloqueo del nervio del pene dorsal (DPNB) y bloqueo del anillo, así como también paracetamol para el control del dolor postoperatorio. DPNB se administra mediante dos inyecciones en las posiciones de las 10 y las 2 en punto en el eje del pene para anestesiar el nervio dorsal. El bloqueo del anillo implica inyecciones subcutáneas circunferenciales alrededor del eje medio. Independientemente del método, debe prestarse la atención adecuada a la anestesia y analgesia como tratamiento estándar para todos los pacientes sometidos a circuncisión. El bloqueo del anillo implica inyecciones subcutáneas circunferenciales alrededor del eje medio. Independientemente del método, debe prestarse la atención adecuada a la anestesia y analgesia como tratamiento estándar para todos los pacientes sometidos a circuncisión. El bloqueo del anillo implica inyecciones subcutáneas circunferenciales alrededor del eje medio. Independientemente del método, debe prestarse la atención adecuada a la anestesia y analgesia como tratamiento estándar para todos los pacientes sometidos a circuncisión.‬
 
 ## Figuras
-![Figura 1](/assets/figures/figure-7-27-1.jpg)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-27-1.jpg)‬  
 **Figura 1:** Torsión del pene, aproximadamente 30 grados en el sentido contrario a las agujas del reloj.‬
 
-![Figura 2](/assets/figures/figure-7-27-2.jpg)‬  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-27-2.jpg)‬  
 **Figura 2:** Pene enterrado en un chico sin circo.‬
 
-![Figura 3](/assets/figures/figure-7-27-3.jpg)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-27-3.jpg)‬  
 **Figura 3:** Al empujar hacia abajo en el eje, se expone el falo enterrado.‬
 
-![Figura 4](/assets/figures/figure-7-27-4.jpg)‬  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-27-4.jpg)‬  
 **Figura 4:** Tras el desengrase del pene, la base del eje se fija a la fascia prepúbica.‬
 
-![Figura 5](/assets/figures/figure-7-27-5.jpg)‬  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-27-5.jpg)‬  
 **Figura 5:** Vista lateral del proceso mencionado.‬
 
-![Figura 6](/assets/figures/figure-7-27-6.jpg)‬  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-27-6.jpg)‬  
 **Figura 6:** Aspecto estético después de la cirugía (vista lateral).‬
 
-![Figura 7](/assets/figures/figure-7-27-7.jpg)‬  
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-27-7.jpg)‬  
 **Figura 7:** Vista anterior.‬
 
-![Figura 8](/assets/figures/figure-7-27-8.jpg)‬  
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-27-8.jpg)‬  
 **Figura 8:** Vista inferior.‬
 
-![Figura 9](/assets/figures/figure-7-27-9.jpg)‬  
+![Figura 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-27-9.jpg)‬  
 **Figura 9:** Circuncisión, técnica de la manga. Se ha eliminado el prepucio, dejando un cuello mucoso proximal al glande.‬
 
 ## Referencias

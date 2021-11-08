@@ -22,7 +22,7 @@ _<sup>b</sup>Hospital Shriners para Niños Ciudad de México, México_{: .transl
 **E**** mbriolog ****ía y anatomía**‬
 
 El uraco es una estructura tubular que se encuentra permeable durante la gestación. Conecta el alantoides en el ombligo a la cúpula de la vejiga durante el desarrollo fetal [1]. La luz normalmente se cierra alrededor de la duodécima semana de gestación y queda obliterado por completo. Después de esta obliteración, todo lo que típicamente queda es un cordón fibroso que se extiende desde la parte inferior del ombligo hasta el domo de la vejiga. El uraco es extraperitoneal y se observa fácilmente durante la visualización laparoscópica de la pelvis (Figura 1).‬
- ![Figura 1](/assets/figures/figure-3-13-1.jpg)‬
+ ![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-1.jpg)‬
 
 Figura 1- _Vista laparosc __ó__ pica intraperitoneal del uraco. __ El cordó__ n fibroso del uraco (ligamento umbilical medi__o) se muestra en la línea media que se extiende hasta el domo de la vejiga. El recto es inferior. El conducto deferente se puede ver extendiéndose lateralmente justo por encima del recto._‬
 
@@ -35,7 +35,7 @@ Las manifestaciones clínicas más comunes en niños con anomalías del uraco so
 
 Las anomalías del uraco se deben a una falla en la obliteración completa de la luz durante la gestación [5]. Su clasificación anatómica se basa en el grado en que la permeabilidad del uraco ha persistido. Las anomalías típicas del uraco se muestran en la Figura 2. Las posibilidades varían desde un uraco completamente permeable que permite que la orina drene libremente a través de la piel del ombligo hasta un pequeño tracto o seno con terminación ciega. Un quiste de uraco puede estar presente en cualquier lugar a lo largo del trayecto del mismo, pero se encuentra más comúnmente cerca del domo vesical. Un divertículo de uraco es una permeabilidad parcial del uraco que drena hacia el domo de la vejiga. Las anomalías mostradas en la figura 2 no son exclusivas, ya que puede haber combinaciones de los ejemplos mostrados.Por ejemplo, puede haber un seno uracal asociado con un quiste de uraco.‬
 
-![Figura 2](/assets/figures/figure-3-13-2.jpg)‬
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-2.jpg)‬
 
 Figura 2- _Diagrama que ilustra diferentes tipos de anomal __í__ as uracales. __ A- Obliteración normal de la luz del uraco. __ B- Quiste de_ _uraco.  __C-_ _uraco permeable. D- Seno de uraco. E- Divertí__ culo de_ _uraco._‬
 
@@ -74,14 +74,14 @@ Tabla 2- Presentación de síntomas en niños con anomalías de uraco.‬
 | _ **Total** _ | _ **181** _ | _**86 (48%)**_ | _**22 (12%)**_ | _**53 (29%)**_ | _**9 (5%)**_ | _**11 (6%)**_ |‬
 
 El examen físico también puede ser útil. Un uraco permeable o un seno uracal puede aparecer como un hoyuelo o hendidura en la base del ombligo (Figura 3).‬
- ![Figura 3](/assets/figures/figure-3-13-3.jpg)‬
+ ![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-3.jpg)‬
 
-![Figura 4](/assets/figures/figure-3-13-4.jpg)‬
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-4.jpg)‬
 
 Figura 3- U_raco_ _permeable en un recién nacido. 3a: Demuestra la apariencia roja y carnosa del extremo umbilical de un uraco permeable. 3b- La piel del ombligo se ha evertido y se ha pasado una pequeña sonda de alimentació __n a trav__ é __s de__ l uraco permeable hacia la vejiga._‬
 
 Algunas anomalías del uraco se descubren de manera incidental durante la evaluación radiográfica de rutina en otros trastornos, como infecciones del tracto urinario o hidronefrosis prenatal. Es probable que se observen quistes de uraco durante la ecografía de la vejiga (Figura 4).‬
- ![Figura 5](/assets/figures/figure-3-13-5.jpg)‬
+ ![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-5.jpg)‬
 
 Figura 4- _Vista sagital de__l domo de la vejiga en la línea media. Hay un gran quiste de uraco anecoico anterior a la pared de la vejiga._‬
 
@@ -101,18 +101,18 @@ Aunque la posibilidad de encontrar otras anomalías asociadas del tracto genitou
 Un quiste de uraco con un tamaño superior a unos pocos milímetros se puede visualizar fácilmente mediante ultrasonido. Pueden detectarse incidentalmente en niños asintomáticos cuando se examina la vejiga durante la evaluación ecográfica de rutina, como después de una infección del tracto urinario. Si hay una distancia significativa desde la vejiga, es posible que el quiste no se vea fácilmente y, por lo tanto, es importante notificar al ultrasonografista las sospechas clínicas al seguir o evaluar una posible anomalía de uraco, para que la pared abdominal de la línea media pueda examinarse detenidamente, además del domo de la vejiga. Los quistes de uraco infectados aparecen como grandes masas heterogéneas con colecciones líquidas complejas (Figura 6).‬
 
 
- ![Figura 6](/assets/figures/figure-3-13-6.jpg)‬
+ ![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-6.jpg)‬
 
-![Figura 7](/assets/figures/figure-3-13-7.jpg)‬
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-7.jpg)‬
 
 Figura 6- _Quiste de uraco infectado. __ __ 6a Vista transversal de __l domo vesical en la línea media que demuestra una masa ecogé__ nica heterog __énea sobre la vejiga. 6b- Tomografía computarizada que muestra la masa de la línea media con una densidad del líquido central consistente con un absceso y estriación_ _inflamatori__ a de la pared abdominal anterior adyacente._‬
 
 Las lesiones pueden ser de varios centímetros de diámetro y, en ocasiones, pueden extenderse más allá del espacio preperitoneal y perforar la cavidad peritoneal [14, 15]. En los casos en los que el diagnóstico es incierto, una tomografía computarizada (TC) puede proporcionar excelentes detalles anatómicos (Figura 7).‬
- ![Figura 8](/assets/figures/figure-3-13-8.jpg)‬
+ ![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-8.jpg)‬
 
 ![](RackMultipart20210723-4-12u4cf4_html_6f1106853334e94.jpg)‬
 
-![Figura 9](/assets/figures/figure-3-13-9.jpg)‬
+![Figura 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-9.jpg)‬
 
 Figura 7- _Tomografía computarizada__en un paciente con secreción_ _umbilical_ _sanguinolenta recurrente. 3a La imagen justo inferior al ombligo muestra un uraco de apariencia normal (cordón fibroso) justo por debajo a los músculos rectos en la línea media. 3b- Se muestra un quiste de uraco má__s inferior.__ 3c- Se demuestra la proximidad de la extensión inferior del quiste y el domo vesical. _‬
 
@@ -120,9 +120,9 @@ Dada la práctica actual para minimizar la exposición a la radiación en los ni
 
 **Tratamiento**‬
 En general, los remanentes de uraco que causan síntomas deben tratarse con escisión quirúrgica. Esto debe incluir la extirpación completa del uraco desde el ombligo hasta el domo vesical (Figura 8).‬
- ![Figura 10](/assets/figures/figure-3-13-10.jpg)‬
+ ![Figura 10]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-10.jpg)‬
 
-![Figura 11](/assets/figures/figure-3-13-11.jpg)‬
+![Figura 11]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-13-11.jpg)‬
 
 Figura 8- - _Escisi__ón abierta de quiste de uraco. 8a Vista intraoperatoria de la escisión de un quiste de uraco mediante una incisión infraumbilical en la línea media. El quiste está en el centro con la unión de la vejiga a la derecha y el cordón fibroso que se extiende hacia el ombligo hacia la izquierda. 8b- El espécimen (quiste) después de la escisión con el pequeño ribete de vejiga (extremo derecho del espé__cimen).__   _‬
 

@@ -61,7 +61,7 @@ El paciente o su familia suelen observar el PT-RMS como una masa escrotal indolo
 
 _Imágenes de TC pélvica axial de tumor primario en un niño con RMS paratesticular_‬
 
-![Figura 1](/assets/figures/figure-5-22-1.png)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-5-22-1.png)‬
 
 **Figura 1**‬
 
@@ -69,7 +69,7 @@ _Imágenes de TC abdominal sagital de linfadenopatía masiva en un niño con RMS
 
 Las exploraciones óseas han sido tradicionalmente parte de la estadificación en el momento del diagnóstico según los protocolos del grupo de estudio cooperativo. Sin embargo, una investigación reciente sugiere que las exploraciones con FDG-PET pueden ser más beneficiosas en la estadificación y para futuras comparaciones durante y después del tratamiento para evaluar la efectividad terapéutica (  **Figura 2**  ). [28](http://www.pediatricurologybook.com/rhabdomyosarcoma.html#_ENREF_28) , [29](http://www.pediatricurologybook.com/rhabdomyosarcoma.html#_ENREF_29)‬
 
-![Figura 2](/assets/figures/figure-5-22-2.png)‬
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-5-22-2.png)‬
 
 **Figura 2**‬
 
@@ -107,11 +107,11 @@ El VP-RMS generalmente se presenta con hematuria, polaquiuria,y/o retención uri
 
 _Resultados del examen físico en dos niñas con sarcoma variante de bot__rioides_ _de RMS_‬
 
-![Figura 3](/assets/figures/figure-5-22-3.png)‬
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-5-22-3.png)‬
 
 **Figura 3**‬
 
-![Figura 4](/assets/figures/figure-5-22-4.png)‬
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-5-22-4.png)‬
 
 **Figura 4**‬
 

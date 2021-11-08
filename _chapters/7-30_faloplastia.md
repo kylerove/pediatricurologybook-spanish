@@ -69,8 +69,8 @@ Cuando falta la piel del pene para la reconstrucción, se puede utilizar un inje
 
 En algunos casos, se pueden obtener buenos resultados combinando técnicas (**Figura 1**).‬
 
-![Figura 1](/assets/figures/figure-7-30-1.jpg)‬  
-![Figura 2](/assets/figures/figure-7-30-2.jpg)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-30-1.jpg)‬  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-30-2.jpg)‬  
 **Figuras 1 y 2:** Ejemplo de una reconstrucción de pene donde se soltó el muñón y se cubrió con un injerto de malla invertido‬
 
 Se puede intentar la reinserción del pene en la fase aguda después de una amputación traumática del pene. La supervivencia del pene reinsertado depende de la viabilidad del segmento amputado y del estado del lecho del injerto o del muñón del pene. La reinserción debe realizarse dentro de las 24 horas. Las técnicas de reinserción actuales se basan en la aproximación microquirúrgica de las estructuras dorsales y las arterias cavernosas con resultados uniformemente buenos. En la amputación traumática, el tratamiento primario [^9] es la recuperación del segmento amputado con reinserción . Sin embargo, el resultado de la función eréctil después del reajuste no está claro.‬
@@ -136,7 +136,7 @@ Desafortunadamente, se reportan altas tasas de erosión (20–50%) [^16]<sup>,</
 
 A pesar de las complicaciones y dificultades, la tasa de satisfacción después de la faloplastia es alta y los resultados son estéticamente agradables (Figura 3). Ninguno de nuestros pacientes lamenta la cirugía. En cada paciente se observa un aumento importante con respecto al nivel de autoestima, que es un factor de resultado muy importante después de la operación.‬
 
-![Figura 3](/assets/figures/figure-7-30-3.jpg)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-30-3.jpg)‬  
 **Figura 3.** Resultados de las faloplastias en varones (XY). (a) y (a) Extrofia vesical. (c) Sarcoma epitelial del pene. (d) Hipospadias. (a) - (d) Antes de la cirugía; (e) - (h) después de la cirugía.‬
 
 ## Complicaciones‬

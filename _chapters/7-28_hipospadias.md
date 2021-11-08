@@ -39,17 +39,17 @@ La hipospadias se define como la combinación de tres anormalidades anatómicas 
 2. Una desviación ventral del eje peneano.‬
 3. Un prepucio alado dorsal típico, por falta de unión ventral circular del prepucio.‬
 
-![Figura 1](/assets/figures/figure-7-28-1.gif)   
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-28-1.gif)   
 **Figura 1:** Meato ectópico y prepucio alado dorsal‬
 
-![Figura 2](/assets/figures/figure-7-28-2.gif)‬  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-28-2.gif)‬  
 **Figura 2:** Desviación ventral del eje peneano‬
 
 Las características segunda y tercera pueden no estar necesariamente presentes. Por el contrario, la primera característica es una parte incondicional de la definición.‬
 
 Casos especiales son las hipospadias &quot;Sinusoidal&quot; y el &quot;Megalomeato&quot;. La hipospadias sinusoidal se caracteriza por una curvatura ventral del eje del pene y una posición ortotópica del meato. El Megalomeato se caracteriza por un meato coronal adyacente a un glande no cerrado, con una fosa navicular abierta y un prepucio circular.‬
 
-![Figura 3](/assets/figures/figure-7-28-3.gif)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-28-3.gif)‬  
 **Figura 3:** Megalomeatus
 
 ## Clasificación
@@ -62,7 +62,7 @@ La clasificación más común fue publicada por Duckett en 1996. Dividió las hi
 
 Otras clasificaciones se observan en la siguiente figura.‬
 
-![Figura 4](/assets/figures/figure-7-28-4.jpg)‬  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-28-4.jpg)‬  
 **Figura 4:** Clasificación de hipospadias (Hadidi AT, Azmy AF; Hypospadias Surgery: An Illustrated Guide, Heidelberg: Springer Verlag 2004.), Hipospadias Mediopeneana‬, Hipospadias Glandular‬, Hipospadias Coronal, Hipospadias Medioescrotal‬
 
 ## Frecuencia
@@ -99,7 +99,7 @@ Al final del cuarto mes, se forma la porción distal de la uretra, a través de 
 
 Ergo, la uretra se forma por el crecimiento continuo de la placa uretral en el tubérculo genital, seguido de la fusión ventral de la uretra. Los bordes de la placa uretral crecen hacia adelante sobre el surco coronario y dan lugar al prepucio. Una placa epitelial circular se hunde entre los pliegues y el glande.‬
 
-![Figura 5](/assets/figures/figure-7-28-5.gif)‬  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-28-5.gif)‬  
 **Figura 5.** Desarrollo de los genitales externos en el feto masculino‬  
 - A: feto de 10 semanas. Entre los pliegues uretrales se encuentra la placa uretral profunda.‬
 - B: Sección transversal del falo durante la formación de la uretra peneana. La columna uretral se divide por los pliegues uretrales.‬
@@ -166,7 +166,7 @@ Debería incluir:‬
 
 Para la mayoría de las técnicas, se realiza una derivación urinaria a fin de evitar la micción a través de la uretra neocreada, para ayudar a la cicatrización de la herida por un tiempo.‬
 
-![Figura 6](/assets/figures/figure-7-28-6.gif)‬
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-28-6.gif)‬
 **Figura 6**
 
 Básicamente, hay tres tipos diferentes de derivación urinaria disponibles:‬
@@ -177,7 +177,7 @@ Básicamente, hay tres tipos diferentes de derivación urinaria disponibles:‬
   - Un &quot;stent goteante&quot;, que drena la vejiga en un pañal.‬
 3. Sin catéter urinario‬
 
-![Figura 7](/assets/figures/figure-7-28-7.jpg)‬
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-28-7.jpg)‬
 **Figura 7**
 
 La importancia de la derivación urinaria para prevenir complicaciones postoperatorias no está clara. Una ventaja del drenaje transuretral, especialmente con &quot;stent goteante&quot; y pañal doble, es que es mucho más cómodo, ya que el niño puede movilizarse rápidamente, mientras que un sistema de drenaje suprapúbico lo obliga a quedarse en la cama.‬

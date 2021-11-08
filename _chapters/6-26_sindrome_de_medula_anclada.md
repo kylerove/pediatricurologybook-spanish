@@ -36,7 +36,7 @@ El ventriculo terminal se encuentra inicialmente en el nivel coccígeo, sin emba
 
 La comprensión del desarrollo del tubo neural es la clave para comprender, diagnosticar y tratar el SMA. El cordón normal termina por encima del nivel medio del cuerpo de L2 con cierta variabilidad en la población. Los pacientes de más de 3 meses de edad y definitivamente más de 6 meses de edad, con un cono que se encuentra debajo de la mitad del cuerpo de L2, deben ser evaluados para el síndrome de médula anclada.‬
 
-![Figura 1](/assets/figures/figure-6-26-1.png)‬  
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-6-26-1.png)‬  
 **Figura 1:** Representación del cono medular anclado debajo de la mitad del cuerpo de L2 de un lipoma (imagen de la derecha; columna vertebral normal y cordón medular en la imagen de la izquierda)‬
 
 PATOLOGÍA:‬
@@ -82,15 +82,15 @@ En los años neonatales e infantiles, las anomalías urológicas pueden no ser f
 A medida que el niño comienza a crecer y luego comienza a caminar, las secuelas motoras y sensoriales pueden convertirse en los síntomas principales. Los síntomas neurológicos existen en hasta el 64% de los niños con SMA (Bui 2007, Warder 1994). Los síntomas motores son los más comunes, seguidos de la disfunción intestinal y vesical, el dolor y, finalmente las alteraciones sensoriales (Warder 2001). La disfunción motora se caracteriza por debilidad asimétrica y dificultad para caminar o deambulación retrasada (Bui 2007). El dolor a menudo no es dermatomal y se localiza en la espalda baja, el perineo y / o las piernas (Lew 2007). Los déficits sensoriales se localizan comúnmente en los pies y el perineo e involucran múltiples miotomas (Bui 2007).‬
  Una vez que el niño está en edad de ir al baño, la disfunción urológica asociada con SMA puede hacerse más evidente, especialmente a medida que el niño puede ayudar a describir los síntomas. Se debe realizar una historia clínica completa y un examen físico, prestando especial atención a las historias que describen la pérdida de hitos en la continencia (Agarwalla 2007) o problemas de nueva aparición con la función de la vejiga o el intestino. Las anomalías urológicas están presentes en aproximadamente el 18% de los niños con SMA (Bui 2007). La vejiga neurogénica es una anomalía característica del SMA con síntomas de incontinencia, urgencia, frecuencia aumentada / anormal e infecciones recurrentes del tracto urinario (Bui 2007, Palmer 1998). La vejiga neurogénica puede dar como resultado un aspecto engrosado y trabeculado en la pared de la vejiga, específicamente en el músculo detrusor, que puede detectarse en la ecografía vesical (**Figuras 2 y 3**).‬
 
-![Figura 2](/assets/figures/figure-6-26-2.png)‬  
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-6-26-2.png)‬  
 **Figura 2:** Comparación de una vejiga normal (izquierda) y una vejiga trabeculada y engrosada (derecha, con una flecha que indica la apariencia intravesical de las trabeculaciones)‬
 
-![Figura 3](/assets/figures/figure-6-26-3.png)‬  
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-6-26-3.png)‬  
 **Figura 3:** Imágenes de ultrasonido transversales (izquierda) y sagitales (derecha) de la vejiga que revelan trabeculaciones (flechas)‬
 
 Si no se maneja adecuadamente, esto puede resultar en fibrosis y pérdida de la compliance vesical, lo que puede llevar a presiones elevadas en la vejiga. En el peor de los casos, estas altas presiones pueden transmitirse a los riñones, dando lugar a reflujo vesicoureteral, nefropatía e insuficiencia renal que requiere trasplante renal (Figura 4).‬
 
-![Figura 4](/assets/figures/figure-6-26-4.png)‬  
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-6-26-4.png)‬  
 **Figura 4:** Comparación de riñones normales (izquierdo) con riñones afectados por presiones vesicales intravesicales altas (derecha) con hidronefrosis observada con uréteres dilatados y adelgazamiento del parénquima.‬
 
 También pueden aparecer manifestaciones de disfunción neurogénica del intestino. Estos incluyen la sensación alterada de heces en la bóveda anal y la contractilidad del esfínter anal externo disminuida. Esto puede presentarse en un continuo que va desde el estreñimiento y la encopresis hasta la diarrea (Palmer 1997). La ubicación de la lesión determina qué síntomas intestinales surgen. Las lesiones de la neurona motora inferior (NMI), resultantes de una lesión que afecta los cuerpos celulares parasimpáticos (por ejemplo, cono medular, cola de caballo o nervios pélvicos) disminuyen la peristalsis. Esto conduce a una propulsión lenta de las heces, pero también incontinencia fecal debido a la denervación del esfínter anal externo y los músculos elevadores del ano. A la inversa, una lesión de la neurona motora superior (NMS) sobre el cono medular hará que los intestinos sean hiperreflexivos.‬
@@ -101,7 +101,7 @@ Para ayudar a delinear cualquier disfunción urológica en niños con SMA, los m
 
 La mayoría de los pacientes con SMA tendrán un cambio en su perfil urodinámico; sin embargo, el cambio no suele ser lo suficientemente grave como para producir signos y síntomas clínicos (Palmer 1998). La preocupación por la disfunción vesical progresiva en esta población se encuentra en el grupo de pacientes con presiones intravesicales altas (presión del punto de fuga del detusor\&gt; 40 cm H2O) ya que se ha demostrado que promueve el reflujo vesicoureteral y el deterioro posterior del tracto superior (McGuire 1981) (**Figura 5**). El propósito de las pruebas urodinámicas es doble, ya que proporciona una medida de referencia donde se puede medir cualquier deterioro de la función y a la inversa, como referencia para medir cualquier mejora posterior al desanclaje medular. (Palmer 1998).‬
 
-![Figura 5](/assets/figures/figure-6-26-5.jpg)‬  
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-6-26-5.jpg)‬  
 **Figura 5:** Perfil urodinámico: hiperactividad del detrusor y disinergia del esfínter‬
 
 ### ESTUDIOS RADIOGRÁFICOS
@@ -124,10 +124,10 @@ La RM es capaz de identificar meningoceles, mielomeningoceles, malformaciones de
 
 Las imágenes sagitales ponderadas en T1 y T2 son las mejores para localizar el nivel del cono, mientras que las imágenes axiales ponderadas en T1 son las mejores para determinar el diámetro y si hay grasa en la zona del filum terminal (Bui 2007). Cabe destacar que los pacientes que se han sometido a una laminectomía siempre parecen tener una médula anclada en la RM, incluso en ausencia de patología subyacente.‬
 
-![Figura 6](/assets/figures/figure-6-26-6.png)‬  
+![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-6-26-6.png)‬  
 **Figura 6:** A) RM sagital T2 con saturación grasa. El cono medular es alargado y bajo, y termina en L3 (flecha grande). También se observa un lipoma del filum terminal (flecha pequeña). B) El cono medular se ve de nuevo en posición baja y termina en el nivel L3 (flecha).‬
 
-![Figura 7](/assets/figures/figure-6-26-7.png)‬  
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-6-26-7.png)‬  
 **Figura 7:** RM axial en T1 que muestra un lipoma del filum terminal.‬
 
 #### ULTRASONIDO
@@ -146,7 +146,7 @@ Las imágenes de rayos X también desempeñan un papel en la investigación radi
 
 En pacientes con disfunción neurogénica del intestino, la radiografía simple del abdomen es útil para evaluar el grado y la distribución de las heces en el colon y ayuda a evaluar el éxito de los programas de manejo intestinal. También es barato y tiene una radiación significativamente menor en comparación con otras técnicas de imagen (Park 2013).‬
 
-![Figura 8](/assets/figures/figure-6-26-8.png)‬  
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-6-26-8.png)‬  
 **Figura 8:** Radiografía abdominal en una niña de 20 meses que muestra materia fecal en todo el colon con una &quot;acúmulo de heces&quot; en el recto‬
 
 ## Manejo
