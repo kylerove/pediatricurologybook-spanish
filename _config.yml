@@ -31,7 +31,7 @@ github_username:  kylerove
 # polyglot settings
 languages: ["es"]
 default_lang: "es"
-exclude_from_localization: ["_config.yml", "assets", "_layouts", "_includes", "vendor", "Gemfile", "Gemfile.lock", "node_modules", "gemfiles"]
+exclude_from_localization: ["_config.yml", "assets", "_layouts", "_includes", "vendor", "Gemfile", "Gemfile.lock", "node_modules", "gemfiles", ".jekyll-cache/"]
 parallel_localization: true
 version: 1.0.0
 encoding: utf-8
