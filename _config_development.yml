@@ -51,7 +51,14 @@ collections:
     sections: true
     sort_by: sort_key
     permalink: /libro/capitulo/:title.html
-    
+
+# Table of contents settings
+toc:
+  min_level: 2
+  max_level: 5
+  list_class: "nav nav-list flex-column mb-5"
+  item_class: "nav-item"
+
 kramdown:
   auto_ids          : true
   entity_output     : as_char
