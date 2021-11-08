@@ -4,10 +4,10 @@
   {% if section.subsections == nil %}
     {% assign section_chapters = site.chapters | where: "section", i | sort: "sort-key" %}
     {% for chapter in section_chapters %}
-  - {{ chapter.section }}.{{ chapter.chapter }} [{{ chapter.title }}]({{ site.url }}{{ site.subdir }}{{ chapter.url }}){% endfor %}
+  - {{ chapter.section }}.{{ chapter.chapter }} [{{ chapter.title }}]({{ site.url }}{{ site.baseurl }}{{ chapter.url }}){% endfor %}
   {% else %}
     {% for subsection in section.subsections %}
 - ### <span>{{ subsection.index }}</span> {{ subsection.title }}
       {% assign subsection_chapters = site.chapters | where: "section", section.index | where: "subsection", subsection.index | sort: "sort-key" %}
       {% for chapter in subsection_chapters  %}
-  - {{ chapter.section }}.{{ chapter.subsection }}.{{ chapter.chapter }} [{{ chapter.title }}]({{ site.url }}{{ site.subdir }}{{ chapter.url }}){% endfor %}{% endfor %}{% endif %}
+  - {{ chapter.section }}.{{ chapter.subsection }}.{{ chapter.chapter }} [{{ chapter.title }}]({{ site.url }}{{ site.baseurl }}{{ chapter.url }}){% endfor %}{% endfor %}{% endif %}
