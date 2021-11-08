@@ -25,15 +25,15 @@ Es fundamental entender la embriología de los genitales y del sistema urinario 
 
 El desarrollo de los riñones se divide en tres etapas: los pronefros, los mesonefros y los metanefros. El pronefros se desarrolla en la tercera semana de gestación como una condensación del mesodermo intermedio en las regiones cervical inferior y torácica superior extendiéndose hasta la cloaca.[^1] Involuciona casi por completo en la cuarta semana de gestación (**Figura 1**).
 
-![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-1-1.jpg)  
+![Figura 1]({{ site.url }}{{ site.subdir }}/assets/figures/figure-1-1-1.jpg)  
 **Figura 1**
 
 El conducto pronéfrico, que surge de las evaginaciones dorsal y caudal de los pronefros, se conserva y dará lugar al conducto mesonéfrico. El mesonefros se desarrolla más caudalmente, a partir del mesodermo intermedio; Aunque la mayoría de estos túbulos se degeneran, el conducto mesonéfrico persiste bilateralmente. En ambos sexos, los uréteres, la pelvis renal y el trígono vesical se derivan del conducto mesonéfrico; en el varón, el conducto mesonéfrico también da lugar a los vasos deferentes, epidídimos y vesículas seminales; el primero es parte del propio conducto, mientras que las dos últimas estructuras surgen como resultado de la dilatación o evaginación del conducto (**Figuras 2, 3**).
 
-![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-1-2.jpg)  
+![Figura 2]({{ site.url }}{{ site.subdir }}/assets/figures/figure-1-1-2.jpg)  
 **Figura 2**
 
-![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-1-3.jpg)  
+![Figura 3]({{ site.url }}{{ site.subdir }}/assets/figures/figure-1-1-3.jpg)  
 **Figura 3**
 
 Una vez que el conducto mesonéfrico entra en contacto con la cloaca en el aspecto caudal del embrión, crece cranealmente como el brote uretérico hasta que entra en contacto con el mesénquima metanéfrico, formando el metanefros.
@@ -42,14 +42,14 @@ La yema ureteral y el mesénquima metanéfrico inducen recíprocamente el crecim
 
 Con el crecimiento longitudinal diferencial del embrión, el riñón &quot;asciende&quot; desde su ubicación inicial en la pelvis hasta su ubicación final en el retroperitoneo superior. Durante el ascenso, los vasos sanguíneos transitorios ascienden y luego se degeneran; estas arterias persisten en los riñones ectópicos, así como en algunas unidades renales ortotópicas. Al mismo tiempo, los riñones giran alrededor de sus ejes vertical y horizontal, de modo que su orientación final los polos superiores son ligeramente más mediales y anteriores que los polos inferiores (**Figura 4**).[^8]
 
-![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-1-4.jpg)  
+![Figura 4]({{ site.url }}{{ site.subdir }}/assets/figures/figure-1-1-4.jpg)  
 **Figura 4**
 
 ## Vejiga
 
 Hasta la semana 7 de gestación, el embrión tiene una cloaca y un orificio único hacia caudal. Durante la semana 7 de gestación, la membrana urogenital crece de forma caudal, dividiendo la cloaca en componentes ventral (seno urogenital) y dorsal (recto) (**Figura 5**).
 
-![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-1-5.jpg)  
+![Figura 5]({{ site.url }}{{ site.subdir }}/assets/figures/figure-1-1-5.jpg)  
 **Figura 5**
 
 El seno urogenital puede subdividirse en porciones craneales (vejiga futura) y caudales (próstata futura, uretra y genitales externos). El epitelio vesical deriva de la capa endodérmica del seno urogenital. Como se señaló anteriormente, el conducto mesonéfrico da lugar al uréter. Con el crecimiento caudal continuo del embrión, el extremo proximal (vejiga) del conducto mesonéfrico es atraído progresivamente en sentido caudal, de manera que la porción común del conducto mesonéfrico se transforma en el trígono vesical y el seno urogenital. Las ramas del conducto mesonéfrico se convierten en los conductos genitales masculinos y los uréteres, que ahora son entidades distintas unidas al seno urogenital. Aunque generalmente se acepta que el trígono deriva de los conductos mesonéfricos, la forma en que se logra no esta del todo comprendida. Un estudio reciente sugiere que el trígono puede formarse a través de la apoptosis mediada por la vitamina A del conducto néfrico común en lugar de la incorporación de los conductos mesonéfricos.[^9]<sup>,</sup>[^10] También se ha postulado un origen endodérmico del trígono.[^11]
@@ -62,7 +62,7 @@ Las capas no epiteliales de la porción del detrusor (no trígono) de la vejiga 
 
 La glándula prostática deriva del seno urogenital y el endodermo se invagina en el mesénquima circundante en las semanas 9-11 de gestación (**Figura 6**).[^14]
 
-![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-1-6.jpg)  
+![Figura 6]({{ site.url }}{{ site.subdir }}/assets/figures/figure-1-1-6.jpg)  
 **Figura 6**
 
 La glándula se agranda y madura gracias al efecto inductor que tiene el mesénquima y el endodermo sobre el otro.[^15] El desarrollo de la próstata es un proceso dependiente de andrógenos; el mesénquima, en lugar del endodermo, requiere de andrógenos para el adecuado desarrollo prostático.[^16] Al igual que con el desarrollo renal, las investigaciones en curso continúan identificando genes y proteínas esenciales para el desarrollo prostático, incluyendo _Shh, Sox-9 , FGF, Wnt, Hox_ y _Fox_.[^17]
@@ -75,7 +75,7 @@ La uretra es derivada del seno urogenital, con endodermo que da lugar al epiteli
 
 En la quinta semana de gestación, las condensaciones del epitelio mesodérmico y el mesénquima subyacente forman las crestas gonadales laterales al mesonefros. Las células germinales primordiales cerca del alantoides en el lado ventral del embrión se mueven dorsalmente a medida que el embrión se pliega. Estas células germinales se recogen en grupos de epitelio llamados cordones sexuales, que invaginan el tejido mesenquimatoso local y migran a las crestas gonadales. Hasta la séptima semana, las gónadas de los embriones masculinos y femeninos son idénticas. La diferenciación de las gónadas en un testículo u ovario se determina por el sexo cromosómico del embrión (46XY o 46XX; **Figura 7**).
 
-![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-1-7.jpg)  
+![Figura 7]({{ site.url }}{{ site.subdir }}/assets/figures/figure-1-1-7.jpg)  
 **Figura 7**
 
 El factor determinante de los testículos (TDF, también conocido como el gen Sry) encontrado en Yp (el brazo corto del cromosoma Y) es crucial para el desarrollo de la gónada indiferenciada en un testículo;[^20] Cuando hay TDF, los cordones sexuales gonadales se organizan en futuros túbulos seminíferos con una cápsula engrosada (túnica albugínea). Los genes Sox-9 y DAX-1 también están involucrados en la diferenciación gonadal.[^21]<sup>,</sup>[^22] El tejido mesenquimático que se encuentra entre los túbulos seminíferos se diferencia en las células de Leydig, que sintetizan la testosterona en respuesta a la estimulación de hCG entre las semanas 8 y 12 de gestación. Los conductos mesonéfricos (wolffianos) y los genitales externos son masculinizados en respuesta a la testosterona. Las células de Sertoli de los testículos, que se originan del epitelio de la superficie bajo el control de DAX-1 se incorporan a las paredes de los túbulos seminíferos secretando hormona antimülleriana (influenciada por SF-1 y WT-1) lo que lleva a la desintegración de los conductos paramesonefricos (Müllerian).[^23]<sup>,</sup>[^24] Es importante destacar que los túbulos seminíferos no desarrollan su lumen hasta la pubertad.
@@ -84,7 +84,7 @@ En lo contrario, los embriones con un genotipo 46, XX o en quienes TDF no está 
 
 El desarrollo de los conductos mesonéfricos ya ha sido discutido. Los conductos paramesonéfricos, laterales a los conductos mesonéfricos, se extienden desde el peritoneo hasta la futura pelvis del embrión. Los conductos paramesonéfricos se fusionan en la pelvis, formando el útero y los dos tercios superiores de la vagina en las mujeres (**Figura 8**).
 
-![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-1-8.jpg)  
+![Figura 8]({{ site.url }}{{ site.subdir }}/assets/figures/figure-1-1-8.jpg)  
 **Figura 8**
 
 Las porciones no fusionadas de los conductos se convierten en las trompas de Falopio. El mesénquima esplácnico da lugar al estroma uterino y al revestimiento, mientras que el epitelio de la vagina surge del endodermo y del seno urogenital. Un tabique transversal divide las porciones de la vagina derivadas del seno urogenital y los sistemas de Müller, y típicamente se rompe (dejando el himen) poco antes del nacimiento.[^29]<sup>,</sup>[^30]<sup>,</sup>[^31]
