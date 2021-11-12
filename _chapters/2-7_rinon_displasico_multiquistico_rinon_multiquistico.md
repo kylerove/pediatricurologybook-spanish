@@ -6,6 +6,7 @@ title: Riñón displásico multiquístico (MCDK) / Riñón multiquístico (MCK)
 sort-key: 2-7
 permalink-en: /muticystic_.html
 layout: default
+review-formatting-complete: **incomplete**
 ---
 
 # Riñón displásico multiquístico (MCDK) / Riñón multiquístico (MCK)
