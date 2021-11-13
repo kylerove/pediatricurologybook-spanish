@@ -6,6 +6,7 @@ title: Infección del tracto urinario en niños
 sort-key: 3-17
 permalink-en: /uti_children.html
 layout: default
+review-formatting-complete: AM-2021-11-13
 ---
 
 # Infección del tracto urinario en niños
@@ -23,7 +24,7 @@ _<sup>b</sup>Hospital Shriners para Niños Ciudad de México, México_{: .transl
 
 Las infecciones del tracto urinario (ITU) son una condición común de la infancia. En este capítulo se analiza el diagnóstico y el tratamiento de las infecciones urinarias en niños, así como la posible necesidad de investigaciones adicionales para diagnosticar anomalías estructurales subyacentes, reflujo vesicoureteral o micción disfuncional en un niño que presenta una ITU.‬
 
-**Gen**** é ****tica / Etiolog**** ía**‬
+## Genética / Etiología
 
 En general, las niñas prepúberes tienen un mayor riesgo de infección urinaria que los niños, pero a los menores de un año, la incidencia de esta enfermedad es mayor en los niños.‬
 
@@ -33,7 +34,7 @@ El riesgo de ITU también varía entre los diferentes grupos de edad. En varones
 
 Se observa que la incidencia de ITU es más alta en las niñas caucásicas y más baja en los niños afroamericanos [ [1](http://www.pediatricurologybook.com/uti_children.html#ENREF_1) ].‬
 
-**Fisiolog**** í ****a / fisiopatolog**** ía**‬
+## Fisiología / fisiopatología
 
 La patogenia de la IU implica una interacción entre los factores del huésped y las propiedades virulentas de los patógenos causantes. La ITU suele deberse al ascenso de bacterias del periné al tracto urinario, pero la siembra del tracto urinario también puede ocurrir de forma hematógena [ [3](http://www.pediatricurologybook.com/uti_children.html#ENREF_3) ]. Las bacterias pueden introducirse iatrogénicamente con instrumentación del tracto urinario en cirugía; o con catéteres y stents dentro del sistema urinario.‬
 
@@ -52,7 +53,7 @@ Los organismos causantes exhiben una variedad de factores de virulencia que pred
 
 Los patógenos menos comunes que causan una ITU incluyen Pseudomonas y _Staphylococcus aureus_ , y se consideran UTI atípicas [ [6](http://www.pediatricurologybook.com/uti_children.html#ENREF_6) ]. Los recién nacidos tienen tasas relativamente más altas de ITU de estreptococos del grupo B [ [7](http://www.pediatricurologybook.com/uti_children.html#ENREF_7) ].‬
 
-**Diagn**** ó ****stico**‬
+## Diagnóstico
 
 La presentación de los niños con ITU varía mucho con la edad. Los niños preverbales generalmente presentan malestar general con signos inespecíficos como letargo, fiebre, vómitos e irritabilidad. Hasta el 5-13% de los niños febriles que acuden al departamento de emergencias tendrán una ITU, por lo que siempre se debe considerar una ITU en el niño febril [ [8](http://www.pediatricurologybook.com/uti_children.html#ENREF_8) ].‬
 
@@ -60,37 +61,37 @@ Los niños mayores pueden localizar los síntomas en el tracto urinario y presen
 
 Como siempre, la historia de la queja presentada es una guía para diagnosticar una UTI potencial. Se deben buscar otros puntos específicos en la historia para evaluar las posibles condiciones predisponentes subyacentes.‬
 
-_ **Historia prenatal** _‬
+### _Historia prenatal_‬
 
 Por numerosas razones, los registros prenatales a menudo no están disponibles. Si es posible, es útil saber si hay antecedentes de hidroureteronefrosis fetal o anormalidad de la vejiga. ya que esto puede sugerir una anomalía estructural o reflujo vesicoureteral severo subyacente.‬
 
-_ **Historia de las infecciones urinarias anteriores** _‬
+### _Historia de las infecciones urinarias anteriores_‬
 
 ¿Fueron estos cultivos positivos o tratados solo bajo sospecha clínica? ¿Cuáles fueron los organismos cultivados? ¿El niño requirió ingreso en el hospital? ¿Se sometió el niño a investigaciones después de que se diagnosticó y trató la ITU y qué mostraron las investigaciones?‬
 
-_ **Historial de condiciones de predisposición tales como cálculos renales, espina bí** __**fida o anomal**__ **í** __**as cong**__ **é** __ **nitas** _‬
+### _Historial de condiciones de predisposición tales como cálculos renales, espina bífida o anomalías congénitas_‬
 
 Los niños con vejigas neurogénicas de espina bífida a menudo se auto cateterizan y, por lo tanto, pueden estar predispuestos a las infecciones urinarias. Los niños con antecedentes de cálculos renales o vesicales también pueden presentar una ITU.‬
 
-_ **Flujo urinario, patrón de evacuación** _‬
+### _Flujo urinario, patrón de evacuación_‬
 
 Los niños con disfunción de la vejiga tienen un mayor riesgo de ITU [ [9](http://www.pediatricurologybook.com/uti_children.html#ENREF_9) ]. Los niños con hiperactividad de la vejiga, disinergia del esfínter detrusor, micción poco frecuente o micción incompleta tienen un mayor riesgo de IU [ [10](http://www.pediatricurologybook.com/uti_children.html#ENREF_10) ]. Las válvulas uretrales posteriores deben sospecharse en niños varones con mala corriente.‬
 
-_ **Estre** __ **ñimiento** _‬
+### _Estreñimiento_‬
 
 El estreñimiento a menudo se presenta en niños con IU recurrentes. Existe una asociación entre estreñimiento, micción disfuncional, IU recurrentes y RVU en niños [ [11](http://www.pediatricurologybook.com/uti_children.html#ENREF_11) ]. Uno o todos estos componentes pueden estar presentes. A menudo se describen bajo el título de &#39;eliminación disfuncional&#39; o &#39;síndromes de eliminación disfuncional&#39;.‬
 
-_ **Antecedentes familiares de reflujo vesicoureteral** _ _**(RVU)**_‬
+### _Antecedentes familiares de reflujo vesicoureteral (RVU)_‬
 
 Puede haber reflujo vesicoureteral primario puro y puede ser un factor subyacente en el niño con ITU. Si está presente, y en presencia de IU febriles, existe evidencia de que la intervención quirúrgica para corregir el RVU reducirá el riesgo de pielonefritis [ [12](http://www.pediatricurologybook.com/uti_children.html#ENREF_12) ].‬
 
-_ **Examen f** __**í**__ **sico** _‬
+### _Examen físico_‬
 
 Además del examen físico estándar, el examen debe incluir la detección de sensibilidad en la lumbar, la vejiga o los riñones palpables y la aparición de los genitales externos. Las adherencias labiales en las hembras y el megaprepucio congénito en los machos pueden ser factores predisponentes. Se debe inspeccionar la parte posterior para detectar evidencia de espina bífida oculta. Las extremidades inferiores y el área peri-anal examinadas para detectar signos sutiles de neuropatía, como el desgaste de los músculos de la pantorrilla o la ausencia de reflejo cutáneo.‬
 
-**Investigaciones**‬
+## Investigaciones
 
-_ **Investigaciones para confirmar el diagnó** __ **stico de ITU.** _‬
+### _Investigaciones para confirmar el diagnóstico de ITU_‬
 
 El diagnóstico de ITU se confirma generalmente en una muestra de orina enviada para microscopía, cultivo y sensibilidades (MCS). El bebé o el bebé con fiebre que se encuentra muy enfermo se remite al departamento de emergencias de un centro de pediatría secundario o terciario, donde se realiza un examen séptico completo. En un bebé demasiado joven como para anularlo, el espécimen estándar de oro es un aspirado suprapúbico de orina. Si no es posible obtener una muestra suprapúbica, se puede tomar una muestra de catéter. La orina debe enviarse para microscopía y cultura de urgencia en el infante enfermo. Las bacterias que se observan en la microscopía son sensibles al 93% y específicas al 95% para una ITU [ [13](http://www.pediatricurologybook.com/uti_children.html#ENREF_13) ].‬
 
@@ -102,7 +103,7 @@ Los análisis de orina de la sala no son muy sensibles o específicos para confi
 
 Un cultivo con un crecimiento puro de más de 100,000 unidades formadoras de colonias por ml generalmente se considera una ITU, especialmente si se apoya en la presencia de glóbulos blancos en la orina en el microscopio [ [14](http://www.pediatricurologybook.com/uti_children.html#ENREF_14) ].‬
 
-_ **Investigaciones recomendadas en un niño con IU inicial probada** _‬
+### _Investigaciones recomendadas en un niño con IU inicial probada_‬
 
 Los estudios sugieren que entre el 21 y el 50% de los niños con una ITU tienen una anomalía subyacente. Alrededor del 10% de los niños que se presentan con una IU tendrán un hallazgo ecográfico anormal que puede o no afectar el manejo [ [15](http://www.pediatricurologybook.com/uti_children.html#ENREF_15) , [16](http://www.pediatricurologybook.com/uti_children.html#ENREF_16) ]. Esto incluye anomalías como la obstrucción de la unión ureteropiélica, la obstrucción de la unión vesicoureteral y las válvulas de la uretra posterior en los niños. Por este motivo, recomendamos que todos los niños que se presenten con una IU inicial se sometan a un ultrasonido renal.‬
 
@@ -133,11 +134,11 @@ Nuestra recomendación actualmente es obtener siempre una ecografía renal despu
 
 Se realiza una exploración DMSA en niños que han documentado RVU en CUGM o la aparición de cicatrización renal sugerida en la ecografía renal. La exploración DMSA dará una idea clara de la función renal diferencial y la distribución de las cicatrices renales. El tiempo de la DMSA es crucial. Si se hace cuando el niño no se encuentra bien, el DMSA puede ayudar a diagnosticar la pielonefritis y más tarde detectar la cicatrización renal.‬
 
-**Tratamiento no invasivo**‬
+## Tratamiento no invasivo
 
 Los antibióticos son el pilar de la gestión de las infecciones urinarias. En la mayoría de los niños, los antibióticos de amplio espectro pueden iniciarse una vez que se han recolectado los cultivos, y luego adaptarse a las sensibilidades una vez que se obtienen los resultados. Los niños febriles enfermos con sospecha clínica de infecciones del tracto superior a menudo necesitan ingreso en el hospital para recibir tratamiento con antibióticos intravenosos. Los niños con sospecha de cistitis a menudo se pueden tratar con antibióticos orales. Una prueba del tratamiento del cultivo de orina obtenido una o dos semanas después del tratamiento no tiene un beneficio comprobado en el paciente asintomático.‬
 
-**Tratamiento por Radiologí**** a Intervencionista o **** Tratamiento Quirúrgico.**‬
+## Tratamiento por Radiología Intervencionista o Tratamiento Quirúrgico
 
 La infección en el contexto de uropatías obstructivas (como las válvulas uretrales posteriores, PUJO o el polo superior obstruido y el uréter secundario a un ureterocele) a menudo requiere un buen drenaje del sistema obstruido además del tratamiento con antibióticos. Esto es especialmente importante en el contexto de la pionefrosis, donde el comportamiento clínico del niño es similar a uno que tiene un absceso con altas temperaturas cambiantes.‬
 
@@ -150,7 +151,7 @@ El drenaje del tracto urinario puede ser facilitado por:‬
 
 La decisión sobre la mejor manera de drenar el sistema obstruido infectado depende de las circunstancias clínicas del niño, y generalmente la toma el urólogo después de examinar al paciente y revisar las imágenes relevantes.‬
 
-**Tratamiento de RVU e ITUs**‬
+## Tratamiento de RVU e ITUs
 
 El RVU de bajo grado tiene una alta probabilidad de resolución espontánea. Para el RVU de mayor grado, a los padres generalmente se les ofrece la opción de observar y esperar una posible resolución espontánea, con o sin antibióticos profilácticos, frente a la intervención quirúrgica inicial.‬
 
@@ -159,7 +160,7 @@ Los datos de la Revisión Cochrane muestran una reducción del 50% en el riesgo 
 - Inyección endoscópica de orificio ureteral con sustancias como Deflux o Vantris gel. Esto tiene una tasa de éxito del 80% en la corrección de RVU con una inyección. Se realiza como una cirugía ambulatoria bajo anestesia general y la inyección se puede repetir si el RVU persiste o se repite.‬
 - Cirugía abierta mediante reimplante vesicoureteral. Esto tiene una tasa de éxito del 98% + en la corrección de RVU. Se trata de una pequeña incisión suprapúbica y de 1 a 3 días de recuperación hospitalaria.‬
 
-**Pronóstico, resultados, complicaciones**‬
+## Pronóstico, resultados, complicaciones
 
 En general, el pronóstico después de una ITU en la infancia es bueno. Un 30-50% de los niños después de una IU inicial tendrán una IU adicional. La mayoría de estas recurrencias ocurren dentro de los 3 a 6 meses de la ITU original [ [21](http://www.pediatricurologybook.com/uti_children.html#ENREF_21) ]. Deben buscarse factores estructurales y funcionales predisponentes subyacentes y ser tratados en consecuencia.‬
 
@@ -171,7 +172,7 @@ Como la cicatriz renal adquirida parece correlacionarse más con el diagnóstico
 
 Existe cierta evidencia de que las mujeres embarazadas que tienen cicatrices renales secundarias a una ITU en la infancia tienen más riesgo de complicaciones como bacteriuria, pielonefritis aguda, hipertensión y preeclampsia [ [25](http://www.pediatricurologybook.com/uti_children.html#ENREF_25) ].‬
 
-**Prevenció**** n de UTI**‬
+## Prevención de UTI
 
 Las prácticas comúnmente recomendadas para minimizar el riesgo de UTI incluyen:‬
 
@@ -203,7 +204,7 @@ Esto es para mantener la evacuación regular y el lavado del tracto urinario.‬
 
 Estos incluyen vacíos regulares (cada 3 horas), postura relajada para las niñas con pies apoyados y caderas abducidas y limpiando el área perianal del área urogenital.‬
 
-**Referencias**‬
+## Referencias
 
 1. Foxman, B., Epidemiología de las infecciones del tracto urinario: incidencia, morbilidad y costos económicos. Dis Mon, 2003. 49 (2): p. 53-70.   PMID: 12601337 - [http://ncbi.nlm.nih.gov/pubmed/12601337 ](http://ncbi.nlm.nih.gov/pubmed/12601337)‬
 2. Marild, S. y U. Jodal, tasa de incidencia de la primera infección sintomática del tracto urinario en niños menores de 6 años. Acta Paediatr, 1998. 87 (5): p. 549-52. PMID: 9641738 - [http://www.ncbi.nlm.nih.gov/pubmed/9641738 ](http://livepage.apple.com/)‬

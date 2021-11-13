@@ -28,7 +28,7 @@ Continence Society en 1973 a establecer un comité para la estandarización de l
 
 Los enuréticos todavía componen una población muy heterogénea de pacientes. Los enuréticos primarios se definen como aquellos que nunca han tenido un período prolongado de sequedad nocturna de 6 meses o más de duración. Se considera que aquellos que tienen enuresis secundaria sí han logrado estar secos este periodo ya descrito. Esta distinción es probablemente de poca relevancia clínica en pacientes con enuresis nocturna monosintomática (9). La enuresis nocturna monosintomática describe a aquellos pacientes con enuresis nocturna en ausencia de CUALQUIER otro síntoma del tracto urinario inferior, es decir, aumento o disminución de la frecuencia de la micción, incontinencia urinaria diurna, urgencia, pujo, chorro urinario débil, intermitencia, maniobras de posponer la micción, una sensación de micción incompleta, goteo postmiccional y dolor genital o del tracto urinario inferior. La combinación de cualquiera de estos síntomas y la enuresis define la enuresis como no sintomática. El resto de este capítulo tratará sobre la enuresis monosintomática.‬
 
-**Gen**** é ****tica / Etiolog**** ía**‬
+## Genética / Etiología
 
 El proyecto ALSPC informó que la razón de probabilidades para un niño que desarrolla una enuresis nocturna grave (definida como 2 o más episodios por semana) fue 3.63 veces mayor si existía un historial materno de enuresis y 1.85 veces mayor con un historial paterno (10). Cuando ambos padres tienen un historial de enuresis nocturna, hay un 77% de probabilidades de que la descendencia desarrolle enuresis (11). Se sugiere que los niños con enuresis &quot;familiar&quot; pueden tener una variante más refractaria con más síntomas / signos de enuresis mixta en lugar de enuresis monosintomática (12). La enuresis se ha relacionado a través de estudios de segregación y enlace con varios cromosomas, incluidos 8q, 12q, 13q y 22q. En un gran estudio realizado por Loeys et al, que examinó a 32 familias con 2 a 4 generaciones de enuréticos, encontraron vínculos con los cromosomas 22q11, 13q13-14 (ENUR1) y 12q con heterogeneidad genética y sintomática / fenotípica marcada (13). Varias familias tenían vínculos con más de un locus, lo que sugiere un modo de herencia poligénico. El análisis de segregación sugiere que el modo de herencia más común es autosómico dominante con alta penetrancia (14). Es importante comprender que ENUR1 o el &#39;gen de enuresis&#39; no se han identificado, sino que se ha demostrado que algunos pacientes con enuresis familiar heredaron dos marcadores específicos de microsatélites 13q13 y 13q14.2 y el gen ENUR1 está codificado en algún lugar de los 5,000,000 nucleótidos entre estos dos marcadores. Sin embargo, incluso en familias numerosas con enuresis hereditaria existe una marcada heterogeneidad dentro y entre las familias con respecto al patrón fenotípico de enuresis, es decir, primaria / secundaria, monosintomática / no monosintomática (15). Sin embargo, sí encontraron una correlación más fuerte dentro de las familias en términos de poliuria nocturna y volúmenes anulados durante el día.‬
 
@@ -38,7 +38,7 @@ Los estudios de gemelos brindan un fuerte apoyo para la modificación ambiental 
 
 En 2000, Butler y Holland propusieron &quot;El modelo de los tres sistemas&quot; para facilitar nuestra comprensión de la patogenia de la enuresis y para alentar intervenciones terapéuticas más dirigidas y enfocadas (17). Propusieron que la enuresis era el resultado final de la disfunción en uno o más de los siguientes tres &quot;sistemas&quot;: i) la variación diurna normal en la liberación de vasopresina durante el sueño, ii) hiperactividad del detrusor, iii) mecanismos normales de sueño / activación. Este modelo sigue teniendo una gran validez en la actualidad, aunque al leer la literatura es evidente que las subespecialidades individuales ponen mayor énfasis en los diferentes elementos. Aunque con nuestra mejor comprensión, los tres sistemas han evolucionado hacia: i) poliuria nocturna relativa, ii) disfunción vesical nocturna, iii) retraso del desarrollo neurológico.‬
 
-**Poliuria nocturna**‬
+### Poliuria nocturna
 
 Una comprensión de la fisiología renal, que se ha incrementado enormemente en los últimos veinte años, es fundamental para comprender la fisiopatología de la enuresis y las posibles opciones terapéuticas disponibles.‬
 
@@ -58,7 +58,7 @@ Otras hormonas que se han investigado incluyen el péptido natriurético auricul
 
 Es evidente que una gran proporción de enuréticos tienen poliuria nocturna. Sin embargo, no todos estos se deben a una deficiencia de vasopresina. Además, todas las personas con poliuria nocturna tendrán enuresis, pueden tener nocturia, es decir, de despertar para orinar.‬
 
-**Disfunci**** ón vesical nocturna**‬
+### Disfunción vesical nocturna
 
 Ya en 1878, Ruddock sintió que la causa de la enuresis puede estar en una vejiga hipertrófica con mayor contractilidad (32). Existe una asociación bien establecida entre la enuresis y la disfunción vesical diurna con aproximadamente el 20% de los enuréticos que también presentan síntomas diurnos, es decir, enuresis no monosintomática. Para estos pacientes, parece lógico que al menos en parte la disfunción de la vejiga contribuya a su enuresis. En los enuréticos monosintomáticos, sin embargo, se ha entendido tradicionalmente que su función subyacente de vejiga era normal. La videourodinámica llevada a cabo en pacientes enuréticos confirmó esta suposición al no mostrar una mayor tasa de hiperactividad de detrusor en comparación con controles sanos, cuando los pacientes estaban despiertos. En 1989, Watanabe informó sus resultados con EEG combinado durante la noche y cistometría en 204 enuréticos y 3 controles sanos (33). Según su trabajo, pudieron dividir a los pacientes enuréticos en tres grupos.‬
 
@@ -74,7 +74,7 @@ Yeung et al en Hong Kong utilizaron una combinación de cistometría de llenado 
 
 Otra evidencia de la interacción entre los tres sistemas de Butler y el modelo de Hollands proviene del hallazgo de que el uso del sistema de alarma y del timbre, pensado para abordar las anomalías de la excitación o la vigilia, de hecho, también altera la capacidad de la vejiga nocturna. Oredesson demostró un aumento en la capacidad de la vejiga nocturna de una media de 270 ml de tratamiento de pre-alarma a 370 ml después de 6 semanas de terapia de alarma, en 10 de los 18 pacientes que lograron estar secos (38). Incluso en los 8/18 que no se secaron, demostraron un aumento de la capacidad de la vejiga nocturna de 235 a 294 ml después de 6 semanas de tratamiento. Ambos grupos tenían capacidades diurnas aceptables de 345 ml y 315 ml, respectivamente, antes del inicio del tratamiento, lo que sugiere una enuresis monosintomática. Norgaard et demostraron contracciones del detrusor en el 50% de los enuréticos durante la cistometría del sueño, que podrían incrementarse hasta el 100% mediante diuresis forzada (39). Esto apoya el papel de la interacción entre los factores que pueden causar poliuria nocturna y la hiperactividad del detrusor nocturno.‬
 
-## Retraso del desarrollo neurológico
+### Retraso del desarrollo neurológico
 
 En 1879, Powers describió los experimentos llevados a cabo por Goltz, quien mientras limpiaba perros con médulas espinales seccionadas notó que tocar el perineo con una esponja húmeda inducía la micción y lo atribuía a una liberación de &quot;influencias mentales superiores&quot; similar a cuando dormía (32).‬
 
@@ -102,11 +102,11 @@ El historial realizado debe ser extenso y exhaustivo y abarcar todas las áreas 
 
 Como estos pacientes a menudo son retraídos e introvertidos, el examen físico (al menos en la consulta inicial) se puede mantener con seguridad en un mínimo de mediciones antropométricas (para excluir parcialmente el retraso del desarrollo), presión arterial y análisis de orina (para excluir patología renal), palpación abdominal ( para evidencia de carga fecal si la historia lo sugiere). En ausencia de características sugestivas en la historia, el examen genital / perineal rara vez está indicado, ni un examen neurológico detallado (más allá de ver al paciente entrar a la sala de exploración) (54).‬
 
-**Investigaciones**‬
+## Investigaciones‬
 
 Pocas investigaciones, si las hay, son necesarias en la enuresis monosintomática más allá del análisis de orina. Si bien no es estrictamente una investigación, la herramienta de investigación más útil es un diario detallado de frecuencia / evacuación o eliminación. Puede ayudar a dirigir la terapia documentando la poliuria nocturna o desenmascarando la sintomatología diurna.‬
 
-**Tratamiento**‬
+## Tratamiento
 
 Un estudio encontró que entre el 23 y el 36 por ciento de los padres habían usado el castigo como su principal medio para lidiar con orinarse en la cama (55).‬
 
@@ -126,7 +126,7 @@ Con estas medidas simples e intuitivas bien establecidas, debe considerarse la t
 
 Para una revisión exhaustiva del manejo de la enuresis nocturna en niños y adolescentes, el lector debe consultar las directrices del Instituto Nacional de Salud y Excelencia Clínica (NICE) para la gestión de la enuresis nocturna, publicadas en octubre de 2010 por el NHS en el Reino Unido ( [http: //www.nice.org.uk/nicemedia/live/13246/51367/51367.pdf](http://www.nice.org.uk/nicemedia/live/13246/51367/51367.pdf) ). Nos referiremos aquí a las diversas opciones de tratamiento disponibles que intentan lógicamente abordar las anomalías patológicas subyacentes en los tres sistemas descritos anteriormente. Algunos autores han sugerido subdividir la enuresis nocturna en subcategorías dependientes de desmopresina y depender de detrusor.‬
 
-**Desmopresina**‬
+### Desmopresina
 
 El tratamiento con desmopresina tiene sus orígenes en el uso de polvo pituitario, y posteriormente de pituitaria posterior, para reducir el volumen urinario. El primer reporte de polvo pituitario para tratar diabetes insípida fue en 1924; y 1925 se utilizó por primera para tratar enuresis nocturna en niños. No fue sino hasta 1955 que un estudio cruzado doble ciego de Di-sipidin (polvo de pituitaria posterior) versus placebo fue llevado a cabo por Marson en Leeds (59). Él encontró una importante reducción en la incidencia de enuresis durante el tratamiento con el polvo en 4 adolescentes seleccionados.‬
 
@@ -140,7 +140,7 @@ Parece que hay una mayor probabilidad de éxito con una mayor duración del trat
 
 Por lo tanto, las recomendaciones actuales para el uso de desmopresina son que se puede ofrecer a niños mayores de 7 años y se puede considerar para aquellos entre 5 y 7 años. Es apropiado cuando se necesita un tratamiento de inicio rápido o de corta duración o en aquellos en los que la terapia de alarma no es apropiada (se moja \&lt;2 noches / semana) o que han fallado a la terapia de alarma. No tiene ningún papel en el manejo de la incontinencia diurna aislada, pero la enuresis no monosintomática no es una contraindicación para su uso (junto con el manejo de los síntomas diurnos). Se debe comenzar con una dosis baja de 120 mcgs para Melt o de 200 mcgs para tableta y considerar duplicar la dosis después de 2 semanas en pacientes que no respondieron. Para aquellos que no respondieron después de 4 semanas (en dosis más altas), considere la posibilidad de interrumpir, reevaluar y una terapia alternativa o combinada (67).‬
 
-Terapia de alarma‬
+### Terapia de alarma‬
 
 El precursor de la almohadilla y la campana de hoy en día fue descrito por Nye en 1881, quien colocó una esponja seca sobre el meato uretral y una esponja húmeda entre los omóplatos que conectan los dos por una batería. Mientras que la esponja uretral estaba seca, el circuito no conduciría, pero cuando se humedece con la orina &quot;despertará&quot; al paciente en el acto. Una repetición de una experiencia similar durante un número suficiente de veces, me inclino a pensar, debería curar al paciente. (32) La idea en ese momento era que la enuresis surgía de la excitación indebida y la disposición a contraerse de las vejigas (69). Fue para sofocar esta excitabilidad que se recetaba Belladonna. Sin embargo, se reconoció la naturaleza conductiva del sueño profundo y, por ende, de la electricidad, ser un estimulante (para tratar la profundidad del sueño), así como un sedante (para tratar la excitabilidad de la vejiga) parece ser adecuado para ambos &quot;. Debe recordarse que aunque el término fue acuñado en el siglo XVII por William Gilbert, la electricidad realmente despegó a fines del siglo XVIII y principios del XIX, por lo que hubo muchas aplicaciones en medicina, incluida la publicación por Erb en 1882 de un _Manual de Electro-Terapé__utica_ que recomienda la aplicación de electricidad externa e internamente a la uretra.‬
 
@@ -158,29 +158,29 @@ Lo que aún no está claro es por qué funciona la terapia de alarma. El enfoque
 
 Las recomendaciones actuales de tratamiento para la alarma son que debe ofrecerse como una terapia de primera línea para los enuréticos motivados que no han respondido a la modificación de la conducta o la uroterapia, que se mojan más de dos veces por semana y tienen padres o tutores que los apoyan. Si no hay signos de mejoría después de 4 semanas, el tratamiento debe interrumpirse. El tratamiento exitoso debe continuar hasta un mínimo de 14 noches secas consecutivas (67). La terapia de alarma requiere un mínimo de 6-8 semanas de uso continuo para alcanzar su efecto. Los pacientes y las familias deben revisarse quincenalmente para mantener la motivación y el cumplimiento. Es recomendable, para algunos niños, que un padre duerma en la habitación del niño al comienzo del tratamiento para ayudarlo a despertarse inmediatamente cuando suena la alarma (54).[http://www.youtube.com/watch?v=cst7jPCzAs4](http://www.youtube.com/watch?v=cst7jPCzAs4)‬
 
-Medicación anticolinérgica‬
+### Medicación anticolinérgica‬
 
 La medicación anticolinérgica (oxibutinina o tolterodina, por ejemplo) tiene un beneficio comprobado en pacientes con incontinencia urinaria diurna secundaria a hiperactividad del detrusor. Tiene un beneficio potencial similar en el tratamiento de niños con enuresis no monosintomática y, por lo tanto, se puede considerar de manera temprana en el tratamiento de aquellos pacientes que no responden a la uroterapia. Sin embargo, como se muestra más arriba, el 28% de los enuréticos tendrá una hiperactividad del detrusor demostrable urodinámicamente solo por la noche y, por lo tanto, el tratamiento con un medicamento anticolinérgico por la noche tiene buenos méritos. En lugar de realizar la urodinamia del sueño en todos los tratamientos con enuréticos con un anticolinérgico, se sugiere en aquellos que han fracasado o solo han respondido parcialmente a la terapia con desmopresina (57). Se recomienda que los anticolinérgicos se usen en combinación con desmopresina en vez de utilizarlos solos (67). Antes de iniciar el tratamiento anticolinérgico, se debe excluir / controlar el estreñimiento y se debe evaluar el vaciado de la vejiga para excluir los residuos postmiccionales significativos existentes, ya que éstos pueden empeorar (54). Una revisión Cochrane de 2009 no encontró pruebas del beneficio del tratamiento con oxibutinina sobre la administración de placebo (74). Sin embargo, el grupo de Watanabe en Japón ha reportado resultados exitosos en dos tercios de los enuréticos seleccionados sobre la base de la hiperactividad demostrable del detrusor nocturno. Un factor limitante significativo con la terapia con oxibutinina es la alta incidencia de efectos secundarios. Teóricamente, con una vida media de 8 a 13 horas, el alivio inmediato de la oxibutinina no debe causar efectos secundarios significativos cuando se administra por la noche. Sin embargo, Lovering et al. en 1988 no encontraron beneficios en 30 niños y encontraron efectos secundarios menores (malestar estomacal, fatiga, mareos, cefalea, sequedad de boca) en 17% (75). Una discusión más detallada de los efectos secundarios y la farmacología de la oxibutinina se proporciona en el capítulo sobre la micción disfuncional.‬
 
 Dado el perfil de efectos secundarios de la oxibutinina, se probaron más agentes específicos del receptor muscarínico M3, como la tolterodina, y se determinó que tienen un papel. La tolterodina inicialmente a una dosis de 2 mg por la noche y aumentada a 4 mg después de 1-2 meses en ausencia de efectos secundarios o beneficios puede ayudar. Se ha demostrado que la tolterodina de liberación lenta a una dosis de 4 mg es significativamente mejor que el placebo cuando se usa en combinación con desmopresina, lo que resulta en una reducción del 66% en la propensión a las noches húmedas (76).‬
 
-Antidepresivos tricíclicos‬
+### Antidepresivos tricíclicos‬
 
 El uso de imipramina (Tofranil) para tratar la enuresis se describió por primera vez en 1960 (77). Tras observar la dificultad para iniciar la micción en adultos tratados por enfermedades depresivas, los psiquiatras en Melbourne, Australia probaron una dosis más baja en niños enuréticos. Desde entonces, se han utilizado muchos tricíclicos diferentes, pero la imipramina es la más común. Actúan inhibiendo la recaptura neuronal de noradrenalina y serotonina, prolongando así su efecto. También se ha demostrado que tienen propiedades anticolinérgicas, aunque es improbable que ejerzan su efecto de esta manera, ya que a menudo tienen éxito en pacientes que previamente no tuvieron tratamiento anticolinérgico. Se desconoce su mecanismo de acción exacto con múltiples posibilidades, posiblemente un efecto anticolinérgico mediado periféricamente y un relajante muscular liso, debido a un efecto simpaticomimético mediado centralmente, un efecto central o mecanismos de estimulación o estimulación de la liberación de vasopresina (57). Cualquiera que sea el mecanismo, se ha demostrado en una revisión sistemática para reducir la enuresis en aproximadaemte una noche por semana y ser curativo en el 20% de los niños (78). Sin embargo, la recaída es común al suspender el medicamento y los efectos secundarios más preocupantes pueden ser graves. Los tricíclicos además de tener efectos secundarios anticolinérgicos son cardio y hepatotóxicos y potencialmente letales. Antes de comenzar el tratamiento, debe obtenerse un ECG para excluir un intervalo QT anormal (57). Dicho esto, la gran mayoría de los efectos secundarios informados por los ensayos de imipramina fueron menores sin muertes. es extremadamente importante que el medicamento se resguarde de manera segura en el hogar y que no se exceda la dosis recomendada para evitar una sobredosis. También se recomiendan las vacaciones regulares de drogas (54). Beneficio si se ve se verá dentro de los primeros 1-2 meses. El tratamiento debe ser retirado gradualmente (67).‬
 
 Se ha usado un inhibidor selectivo de la recaptación de noradrenalina, reboxetina, que mostró una respuesta en 11 de 61 niños con enuresis (79). Otros 21 (total 32 o 52%) respondieron a la combinación de reboxetina y desmopresina.‬
 
-Terapia combinada‬
+### Terapia combinada‬
 
 En un esfuerzo por mejorar la eficacia, la terapia combinada se está probando cada vez más. Las combinaciones incluyen desmopresina con anticolinérgico (tolterodina), desmopresina con tricíclico (reboxetina), desmopresina con terapia de alarma. Todas estas combinaciones han demostrado ser superiores a la terapia individual. El orden de la terapia adicional, es decir, la desmopresina o la alarma primero con alarma o la desmopresina agregada, no tiene impacto en el beneficio de la terapia combinada (80).‬
 
-Otras terapias farmacológicas‬
+### Otras terapias farmacológicas‬
 
 Dada la posible implicación de la prostaglandina 2, un conocido antagonista de la vasopresina, discutido anteriormente en la patogenia de la enuresis, se han probado los inhibidores de la síntesis de prostaglandina (indometacina y diclofenaco) en niños enuréticos con un éxito limitado (81, 82). Sin embargo, una revisión Cochrane no encontró beneficios (74).‬
 
 La asociación de la enuresis con una alta carga de orina en solutos ha inspirado a los ensayos de terapia diurética para la enuresis refractaria nuevamente con un cierto nivel de éxito aislado (83, 84), pero ninguno de ellos se enfrentó a los rigores de una revisión Cochrane.‬
 
-Terapias alternativas‬
+### Terapias alternativas‬
 
 La medicina tradicional china ha afirmado tasas de éxito del 76-98% para la reducción de los episodios enuréticos después del tratamiento con acupuntura (85). En esta revisión sistemática, Bower et al identificaron 84 estudios que investigaron el uso de la acupuntura en niños para el tratamiento de la enuresis. Encontraron tasas de curación reportadas que oscilan entre 30 y 93%. Sin embargo, la mayoría de los ensayos fueron de baja calidad con una asignación al azar mínima y un pequeño intento de minimizar el sesgo. Cuando consideraron solo los 4 &#39;mejores&#39; estudios, encontraron que la acupuntura era superior a la medicina herbolaria china pero no a la medicina occidental antienurética estándar). Informan sobre la aplicación de IRM funcional, la cual demostró un efecto central a nivel de hipotálamo y materia gris periacueductal en respuesta a estimulación periférica y por lo tanto hipotetizar en el mecanismo de acción potencial.‬
 
@@ -188,11 +188,11 @@ Una Revisión Cochrane en 2009 que analiza terapias complementarias encontró un
 
 Algunos investigadores han informado una asociación entre los trastornos del sueño secundarios a la apnea obstructiva del sueño y los ronquidos en adultos y niños (87). La fisiopatología teóricamente implicas un aumento del péptido natriurético. Si bien ese artículo realizó estudios de referencia que informaron la resolución de la enuresis después de una adenoamigdalectomía, muchos de ellos fueron estudios no aleatorios y retrospectivos (52). Sin embargo, un ensayo controlado prospectivo recientemente realizado en Nueva York no encontró tasas de resolución de enuresis mejoradas significativamente en niños sometidos a amigdalectomía en comparación con niños enuréticos sometidos a otras operaciones (88).‬
 
-**Pronó**** stico**‬
+## Pronóstico
 
 Según Fergusson et al., El predictor más fuerte del resultado fue una enuresis con antecedentes familiares (89). Tener dos o más familiares de primer grado con enuresis se asoció con un retraso de 1.5 años para secarse por la noche. De manera similar y probablemente por las razones descritas anteriormente, los niños con retraso en el desarrollo son más lentos para lograr el control nocturno de la vejiga.‬
 
-**Resultado**** s y complicaciones**‬
+## Resultados y complicaciones
 
 Durante bastante tiempo, ningún tratamiento se creyó necesario o indicado, ya que la enuresis se consideró un fenómeno normal, lo que refleja diferentes tasas de logro de la continencia (90). La cifra citada a menudo de 15% de resolución espontánea o 1 posibilidad en 6 de alcanzar la sequedad nocturna por año se atribuye a Forsythe y Redmond (91). Su artículo en 1974 informó su propia serie de 1129 que habían asistido a una Clínica de Enuresis en Belfast desde 1952 a 1959 y que no habían sido tratados con una alarma eléctrica. A partir de estos pacientes y una revisión de la literatura en el momento en que publicaron tasas de &#39;curación espontánea&#39; de 14% entre 5 y 9 años, 16% entre 10 y 14 años y 16% durante 15-19 años. El 3% de los pacientes seguían mojándose después de los 20 años. Cabe señalar que este estudio no se limitó a los enuréticos nocturnos monosintomáticos. La enuresis primaria sola ocurrió en 629 o el 56% de su población. Sus conclusiones se ven aún más debilitadas por el hecho de que estos 1129 pacientes &quot;no se curaron con medicamentos ni con la operación&quot;; todos los pacientes habían recibido tratamiento con al menos 2 fármacos con diferentes mecanismos de acción de la actividad similar a la atropina (belladona, fenobarbitona, atropina, etc.), actividad anticolinérgica (propantelina), efedrina y actividad similar a la anfetamina, sedantes (hidrocloruro de hidroxicina), diuréticos ![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-15-4.jpg) (ciclopentiazida), así como psicoterapia, modificación del comportamiento (despertarse en las noches, etc.). Sin embargo, sus tasas de resolución fueron proporcionales a otras publicadas hasta ese momento.‬
 
@@ -212,7 +212,7 @@ Adaptado de Yeung et al, BJU International 2006, 97: 1069-1073‬
 También demostraron que los enuréticos adolescentes tienen una mayor prevalencia de enuresis nocturna no monosintomática que los menores de 10 años.‬
 
 
-**Resultados a largo plazo / Gestión de adolescentes**‬
+## Resultados a largo plazo / Gestión de adolescentes
 
 Ha habido una serie de publicaciones que analizan el impacto psicológico y académico de la enuresis y la capacidad del tratamiento para mejorarlo. Informes anteriores han sugerido que los enuréticos no alcanzaron su potencial académico completo, pero eso se invierte después de la resolución de la enuresis. Sin embargo, un reciente estudio de gran población en el Reino Unido no encontró esto (92). Encontraron una asociación entre el orinarse en la cama y el aumento de la información sobre preocupaciones de los padres sobre tristeza / depresión, trastornos de la atención / actividad, trastornos de conducta, comportamiento de oposición y ansiedad general. A diferencia de los informes anteriores, no encontraron ninguna evidencia de un aumento en los problemas de comportamiento informados por los niños, como el acoso escolar / victimización, el rendimiento académico, la autoestima o las amistades.‬
 
@@ -220,7 +220,7 @@ Ha habido una serie de publicaciones que analizan el impacto psicológico y acad
 
 &quot;El manejo de la enuresis nocturna es un arte gratificante que requiere un médico entusiasta que esté dispuesto a usar una variedad de diferentes estratagemas con confianza según las necesidades particulares del niño y la familia&quot; Roy Meadow, Arch Dis Child, 1974, 49: 257- 258‬
 
-**Referencias**‬
+## Referencias
 
   - [http://www.kidney.org/patients/bw/index.cfm](http://www.kidney.org/patients/bw/index.cfm)‬
   -‬
