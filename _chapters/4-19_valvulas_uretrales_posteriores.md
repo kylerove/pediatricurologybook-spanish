@@ -6,6 +6,7 @@ title: Valvulas uretrales posteriores
 sort-key: 4-19
 permalink-en: /urethral_valves.html
 layout: default
+review-formatting-complete: AM-2021-11-13
 ---
 
 # Valvulas uretrales posteriores
@@ -18,24 +19,25 @@ _<sup>a</sup>Methodist Children&#39;s Hospital, San Antonio, Texas; Children&#39
 _<sup>b</sup>Hospital Shriners para Niños Ciudad de México, México_{: .translator-location}
 {: #translator-p}
 
-**Introducción**‬
+## Introducción
+
 Las válvulas uretrales posteriores (VUP) siguen siendo la causa congénita más común de obstrucción del flujo de la vejiga en los recién nacidos masculinos. La mayoría de los casos se sospecha prenatalmente y se remiten a centros especializados al nacer. Simultáneamente, el umbral para investigar a los bebés varones con infecciones del tracto urinario se ha reducido y, por lo tanto, el diagnóstico precoz suele ser la norma. El espectro de disfunción renal y los resultados funcionales subsiguientes varían ampliamente en los niños con esta afección. El VUP y sus consecuencias, que incluyen displasia renal, dilatación del tracto superior, reflujo vesicoureteral, infección del tracto urinario y disfunción de la vejiga, representan el 25-30% de los trasplantes renales pediátricos en el Reino Unido (Registro de trasplantes del Reino Unido).‬
 
 Este capítulo tiene como objetivo proporcionar una visión general de las válvulas uretrales posteriores.‬
 
-**Embriolog**** ía**‬
+## Embriología
 
 Se cree que la anomalía embriológica que da lugar a las válvulas uretrales posteriores representa una inserción anómala del conducto mesonéfrico en el seno urogenital, evitando la migración normal de estos conductos y su fusión anterior o una consecuencia de una anomalía de la membrana cloacal. Hugh Hampton Young realizó la clasificación temprana de VUP en 1919, que describía los tipos I-III basados ​​en estudios de disección post mortem. Estudios posteriores sugirieron una apariencia más uniforme de la membrana uretral posterior obstructiva y la evaluación prospectiva de uretras no instrumentadas por Dewan et al1, encontró aspectos similares en todos los casos estudiados. Su evaluación endoscópica reveló que la membrana se adhiere posteriormente, distal al colículo seminal. La membrana se extendió anterior y oblicuamente detrás del esfínter externo con una apertura de tamaño variable ubicada dentro de ella a nivel de colículo seminal y describieron la membrana como una membrana uretral posterior obstructiva congénita.‬
 
-**Incidencia y aspectos gené**** ticos**‬
+## Incidencia y aspectos genéticos
 
 La incidencia de las válvulas uretrales posteriores se mantiene relativamente constante, en 1 de cada 5000 nacidos varones vivos. No ha habido bases genéticas establecidas, ni factores ambientales o maternos potenciales identificados para esta anomalía. Los neonatos afectados no tienden a tener ningún otro trastorno del sistema que no sea la disfunción renal asociada; sin embargo, se ha notado una mayor incidencia de criptorquidia en comparación con la población normal.2 Las VUP no se incluyen dentro del rango de anomalías del tracto urinario asociadas con los grupos de niños con VATER o VACTERL, aunque algunos casos de VUP en asociación con malformación anorrectal ha sido reportado.‬
 
-**Diagn**** ó ****stico prenatal**‬
+## Diagnóstico prenatal
 
 El número de casos de VUP diagnosticados prenatalmente ha aumentado con el aumento de la utilización y la sensibilidad de la exploración de anomalías prenatales. En el Reino Unido, las mujeres embarazadas son examinadas en al menos dos ocasiones durante el embarazo. El escaneo inicial se realiza entre las 10 y 12 semanas de gestación y sirve como un escaneo fechado. Una segunda exploración se organiza alrededor de las 20 semanas de gestación y esta es una exploración detallada de anomalías. Aproximadamente ½-2/3 de los niños con PUV serán objeto de sospecha prenatalmente. Los hallazgos prenatales en la ecografía en casos sospechosos pueden incluir una vejiga de paredes gruesas, el signo de &quot;ojo de cerradura&quot; con una vejiga dilatada y uretra posterior, hidroureteronefrosis unilateral o bilateral, riñones de hiperecogénicos y oligohidramnios. El diagnóstico diferencial incluye el síndrome de abdomen en ciruela, atresia uretral, reflujo vesicoureteral bilateral y, con menor frecuencia, el trastorno de hipoperistalsis intestinal megacistis-microcolon. El diagnóstico prenatal temprano (antes de las 24 semanas de gestación), la evidencia ecográfica de parénquima renal eco-brillante y la reducción del volumen de líquido amniótico se han identificado como factores predictivos de un mal pronóstico.‬
 
-**Intervención**** prenatal**‬
+## Intervención prenatal
 
 La intervención prenatal para la obstrucción del tracto urinario inferior se ha practicado durante muchos años, siendo las opciones actuales la vesicocentesis en serie o la derivación vesicoamniótica. El fundamento es que la descompresión temprana del tracto renal fetal permitirá una mejor supervivencia con la preservación de la función renal, una reducción del compromiso respiratorio y anomalías en las extremidades que se observan en asociación con oligohidramnios graves. Sin embargo, no existe un consenso clínico sobre la eficacia y el uso de la intervención prenatal.‬
 
@@ -47,7 +49,7 @@ Se ha encontrado que la edad gestacional en el momento del diagnóstico (\&lt;24
 
 Más recientemente, se intentó abordar la cuestión del beneficio de la intervención prenatal en forma de derivación vesico-amniótica en la sospecha de obstrucción de la salida de la vejiga. El ensayo PLUTO se configuró como un ensayo multicéntrico paneuropeo.8 La entrada en este ensayo se basó en el principio de incertidumbre. En caso de duda sobre el beneficio de la intervención, los pacientes se asignaron al azar a derivación vesico-amniótica o ningún tratamiento. Las medidas de resultado incluyeron la mortalidad postnatal, la función renal evaluada por la creatinina sérica a la edad de 1 año y cualquier morbilidad o complicación asociada del procedimiento. El ensayo duró 5 años, pero no pudo reclutar el número requerido de pacientes y ahora está cerrado. Desafortunadamente, debido al pequeño numero de pacientes reclutados no responde a la pregunta continua sobre el beneficio de la intervención prenatal en sospecha de obstrucción del flujo de salida de la vejiga.‬
 
-**Manejo neonatal**‬
+## Manejo neonatal
 
 Para los recién nacidos sospechosos de tener VUP prenatalmente, sin preocupaciones sobre el volumen de líquido amniótico, el parto puede realizarse fuera de los centros especializados en urología pediátrica. La prioridad es drenar la vejiga y se debe colocar un catéter uretral de tamaño 6 Fr y comenzar la profilaxis con antibióticos, por ejemplo, trimetoprim 2 mg / kg. En los recién nacidos en los que no es posible realizar una cateterización uretral, generalmente debido a la falta de disponibilidad de un catéter de 6 Fr o un cuello vesical muy alto que impida una cateterización exitosa, se hace necesario un catéter supra-púbico. Después de un drenaje exitoso de la vejiga, se debe prestar mucha atención a la producción de orina y las mediciones de electrolitos, ya que estos pacientes pueden desarrollar poliuria y / o anomalías de sodio, potasio y bicarbonato como resultado de pérdidas renales excesivas secundarias a diuresis post-obstructiva. La creatinina debe controlarse diariamente hasta que se alcance un nivel de creatinina nadir. Para los pacientes con disfunción renal significativa y trastornos electrolíticos, un colega nefrólogo debe participar desde una etapa temprana para optimizar la función renal y la homeostasis.‬
 
@@ -55,7 +57,7 @@ En niños nacidos con antecedentes de oligohidramnios e hipoplasia pulmonar sign
 
 Los recién nacidos y los bebés de los que no se sospechaba que habían contraído VUP prenatalmente pueden presentar urosepsis, síntomas obstructivos de evacuación, vejiga distendida o riñones palpables, y los principios de manejo son los mismos. Si bien el flujo urinario deficiente sugiere una obstrucción del flujo de la vejiga, la observación de un flujo urinario normal no excluye el diagnóstico.‬
 
-**Diagn**** óstico en el perí ****odo neonatal**‬
+## Diagnóstico en el período neonatal
 
 Una vez que el neonato se ha estabilizado, se debe confirmar el diagnóstico. La ecografía renal (USS) proporcionará información sobre el tamaño y la calidad del parénquima renal, el grado de hidroureteronefrosis y la evaluación del grosor de la pared de la vejiga. También puede mostrar una uretra posterior dilatada.‬
 
@@ -63,18 +65,18 @@ El cistouretrograma miccional (CUGM) confirmará el diagnóstico y debe incluir 
 
 CUGM que muestra uretra posterior dilatada, cuello de vejiga abierta, vejiga irregular y reflujo vesicoureteral bilateral.‬
 
-![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-4-19-1.jpg)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-4-19-1.jpg)‬  
 
 La información adicional obtenida del CUGM incluye el tamaño de la vejiga, la irregularidad de la vejiga debido al engrosamiento, la trabeculación y la formación de divertículos, el reflujo vesicoureteral (RVU) y la configuración del cuello de la vejiga. Aproximadamente el 50% de los neonatos con VUP tendrán RVU. Si el VUR ha sido de alto grado y unilateral, un &quot;desprendimiento&quot; puede haber permitido la disipación selectiva de la presión de retorno, como resultado de una obstrucción uretral.‬
 
 El síndrome de VURD (displasia de reflujo unilateral de las válvulas) descrito por Hoover y Duckett9 da como resultado una función deficiente o no del riñón en el lado de reflujo, con un ahorro relativo de la función renal en el lado contralateral, sin reflujo. Estos autores también postularon que este mecanismo de &quot;desprendimiento&quot; da como resultado una función renal normal a largo plazo, ya que el riñón contralateral se libra y es normal. Esta hipótesis fue cuestionada posteriormente por Cuckow et al., Quienes demostraron con las mediciones de creatinina sérica y GFR que la función renal estaba alterada en los casos de VURVD, lo que implicaba que la protección ofrecida por el mecanismo de &quot;desconexión&quot; no era completa10.‬
 
-**Resecci**** ó ****n de la v**** á ****lvula primaria**‬
+## Resección de la válvula primaria
 
 El procedimiento de elección para las VUP es la ablación de la válvula primaria, que se realiza una vez que el bebé está estable desde un punto de vista médico. En la inducción de la anestesia se administra una dosis de antibiótico intravenoso, por ejemplo, amoxicilina/clavulanato 30 mg / kg. El bebé se coloca en la posición de litotomía y una cistoscopia de diagnóstico utilizando 0 ° 6/8 Fr cistoscopio neonatal realizado. La uretra posterior se debe inspeccionar cuidadosamente y se debe observar la configuración de la válvula. También debe tenerse en cuenta la configuración del cuello vesical y las apariencias de la vejiga y los orificios ureterales. El resectoscopio 11 Fr se ensambla con el electrodo de la cuchilla fría / hoz o con el insecto y la resección de la válvula se realiza normalmente en las posiciones de las 5, las 7 y las 12 en punto (Figura 2).‬
 
 Vista endoscópica de VUP con los sitios marcados para la incisión de la válvula.‬
- ![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-4-19-2.jpg)‬
+ ![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-4-19-2.jpg)‬  
 
 Se coloca un catéter uretral al final del procedimiento y se retira 24-48 horas después. La creatinina debe verificarse después de retirar el catéter y pesar los pañales para documentar la producción de orina. La profilaxis antibiótica y los suplementos renales deben continuar hasta una revisión adicional.‬
 
@@ -86,13 +88,12 @@ Para algunos recién nacidos pequeños puede haber problemas repetidos con caté
 
 Nuestra recomendación es que todos los niños se sometan a una cistoscopia de seguimiento dentro de los 3 meses posteriores al procedimiento primario para asegurar la integridad de la ablación valvular. Esto se debe a la mala correlación de la repetición de CUGM en el diagnóstico de las valvas residuales de la válvula y la evaluación cistoscópica de las valvas residuales de la válvula que requieren una resección adicional; válvula predictiva positiva 56% .11 Sin embargo, algunos centros elegirían realizar una CUGM repetida en esta etapa y procederían a realizar una cistoscopia solo si la CUGM sugiere una obstrucción uretral persistente. Otra ventaja de proceder directamente a verificar la cistoscopia es que brinda la oportunidad de realizar la circuncisión, que se ha demostrado que reduce la tasa de infección del tracto urinario en al menos un 83% en niños con válvulas uretrales posteriores12.‬
 
-**Presentació**** n, diagn ****óstico y manejo en el niño mayor.**‬
+## Presentación, diagnóstico y manejo en el niño mayor
 
 Un número menor de pacientes con VUP no se presentarán como neonatos o bebés, sino que asistirán a clínicas en la infancia o en la adolescencia temprana con síntomas de enuresis diurna, goteo o flujo deficiente de orina, infección o, con menos frecuencia, hematuria. Un historial de evacuación cuidadoso puede sugerir que el diagnóstico y los estudios no invasivos, como las tasas de flujo y la medición de los volúmenes residuales posteriores a la evacuación, también pueden indicar la anomalía. El cateterismo uretral en el niño mayor es invasivo y está plagado de dificultades; por lo tanto, nuestra preferencia es omitir el CUGM y, en cambio, proceder directamente a una cistoscopia de diagnóstico y a la ablación de la válvula primaria si se confirma el diagnóstico. El seguimiento después de una ablación valvular completa exitosa es como se describe a continuación, con una mayor sospecha de disfunción vesical persistente en aquellos que se presentan tarde.‬
 
-**S**‬
+## Seguimiento
 
-**eguimiento**‬
 Cada institución tendrá un régimen de seguimiento diferente para los niños con válvulas uretrales posteriores. Sin embargo, los principios del seguimiento son universales y los objetivos son maximizar la función renal, minimizar las infecciones urinarias y las cicatrices renales, evaluar y manejar la disfunción miccional con el objetivo de lograr la continencia urinaria total y eventualmente organizar la transición a servicios para adolescentes y adultos. La participación de la nefrología pediátrica es imprescindible para maximizar los resultados y garantizar el correcto manejo médico de estos niños (Tabla 1).‬
 
 |   | Creat y‬
@@ -130,7 +131,7 @@ BFA evaluación de la función de la vejiga.‬
 Relacionado con la edad; en bebés, las alarmas de pañales y las mediciones residuales después de la evacuación; en niños mayores cuadros de frecuencia-volumen, estudios de flujo y mediciones residuales post vacías‬
 SPC catéter suprapúbico‬
 
-**Desviación urinaria temprana**‬
+## Desviación urinaria temprana
 
 Hay un pequeño grupo de niños en los que las medidas estándar descritas anteriormente no producen el resultado deseado y su función renal sigue siendo frágil o se deteriora, sufren infecciones recurrentes del tracto urinario o hay un deterioro significativo en la apariencia de las vías superiores o el vaciado de la vejiga está incompleto en los ultrasonidos en serie. El objetivo en estos niños es maximizar su potencial renal y retrasar o evitar el reemplazo renal. La derivación urinaria temprana, ya sea por vesicostomía o ureterostomía bilateral o pielostomía, tiene como objetivo proteger las vías superiores y minimizar los riesgos de infección.‬
 
@@ -146,7 +147,7 @@ Se han demostrado resultados de vejiga más favorables, capacidad mejorada, meno
 
 Por lo tanto, el lugar de la derivación urinaria temprana en el tratamiento de los niños con VUP es limitado. Tiene el potencial de mejorar la función renal a corto plazo, lo que es muy importante en los niños con función renal frágil y puede diferir el reemplazo renal a una etapa posterior. No hay pruebas convincentes que respalden su papel como una forma de mejorar la función renal a largo plazo y el jurado está deliberando sobre su efecto en la función de la vejiga a largo plazo. Por lo tanto, la desviación urinaria debe considerarse en casos seleccionados con objetivos claros y puntos finales en mente, y tiene un lugar importante en el manejo de niños con VUP.‬
 
-**Resultados a largo plazo: el tracto urinario superior**‬
+## Resultados a largo plazo: el tracto urinario superior
 
 La producción de orina comienza a las 8-9 semanas de gestación y el sistema de recolección se forma al final del primer trimestre. La vejiga fetal se puede ver poco después de esto en la ecografía prenatal. La presencia de obstrucción del flujo de salida de la vejiga transmite una presión intraluminal elevada al parénquima renal en desarrollo y, una vez que se alcanza un nivel crítico, causa apoptosis, diferenciación celular anormal y cambios glomerulares que ocurren dentro del riñón. Estos cambios tempranos dictan el potencial renal funcional en la vida posterior. En los casos en que la obstrucción es menos grave o se declara más adelante en el embarazo, los efectos de la obstrucción tienden a ser más en la vejiga y los efectos renales se limitan a la dilatación del sistema colector con una alteración mínima de la nefrogénesis normal. Una teoría alternativa o quizás complementaria para explicar la displasia renal vista en conjunto con las válvulas uretrales posteriores se relaciona con la posición anormal de la yema ureteral y la implantación en el blastema metanéfrico19. La disfunción renal parece ser el resultado de diversos grados de displasia inherente y Efectos de la obstrucción del flujo de la vejiga. En la vida postnatal, estos efectos se pueden exagerar aún más por infecciones del tracto urinario, RVU y disfunción de la vejiga.‬
 
@@ -162,11 +163,15 @@ El grupo más grande de DeFoor con 119 pacientes con VUP seguidos durante un per
 
 Heikkila y otros han evaluado una cohorte más grande de pacientes (n = 193) con válvulas uretrales posteriores durante un período de tiempo mucho más largo (rango 6-69 años; seguimiento medio de 31 años) .23 La tasa de progresión a la etapa final renal el fracaso fue del 22,8%, con un 68% de desarrollar ESRF antes de los 17 años y el resto después de los 17 años. El deterioro de la función renal en el momento de la pubertad en niños con riñones displásicos está bien reconocido24 y una explicación probable es que representa cambios dentro del riñón en respuesta al crecimiento, aumento de la masa corporal y aumento de la presión arterial. Sin embargo, este deterioro tardío de la función renal después de la pubertad que se destaca en este documento destaca la necesidad de un seguimiento de estos pacientes en la edad adulta y más allá.‬
 
-**Reflujo vesicoureteral:  ** En la presentación, aproximadamente el 50% de los pacientes tienen reflujo vesicoureteral (RVU) en el CUGM inicial. Se cree que esto es secundario a la obstrucción del flujo de salida de la vejiga y la disfunción coexistente de la vejiga. Aproximadamente el 15% de los pacientes presentarán RVU unilateral de alto grado sin función del riñón ipsilateral. Después de la ablación valvular, la gravedad del RVU puede disminuir o resolverse por completo en el 25-50% de los casos, y esta mejoría es más probable en aquellos que se presentan como neonatos o durante la infancia. El RVU persistente, especialmente de alto grado y bilateral, después de una ablación valvular exitosa se asocia con un mal resultado renal a largo plazo y es uno de los indicadores de mal pronóstico identificados por Parkhouse et al.20 Ya no existe la tendencia a realizar procedimientos antirreflujo en muchachos con VUP, Como las tasas de fracaso asociadas con este enfoque son altas. En los casos en que el grado de reflujo es alto y está asociado con una función deficiente en el riñón ipsilateral, se ha utilizado el uréter de gran capacidad para aumentar la vejiga en asociación con la extracción del riñón que no funciona. Otras estrategias innovadoras incluyen la creación de una ureterostomía de reflujo como se explicó anteriormente y, ocasionalmente, el uréter distal se ha utilizado como un canal de Mitrofanoff con o sin un procedimiento antirreflujo asociado. Los grados más altos persistentes de reflujo son un factor de riesgo potencial de infección urinaria recurrente y pueden tener un impacto negativo en los riñones trasplantados y, por lo tanto, generalmente se tratan quirúrgicamente antes del trasplante renal.‬
+## Reflujo vesicoureteral
 
-**Hidroureteronefrosis** La mayoría de los neonatos que se presentan con válvulas uretrales posteriores demostrarán hidroureteronefrosis bilateral. A menudo se observa que esto mejora con el cateterismo inicial, pero puede empeorar temporalmente debido a la obstrucción funcional a nivel del VUJ por la pared de la vejiga engrosada que colapsa, pellizcando los orificios ureterales después de la cateterización y descompresión. Es importante reconocer este fenómeno y, en ocasiones, esto puede provocar una anuria que dura entre 24 y 48 horas. La obstrucción se resuelve espontáneamente dentro de las 48-72 horas y generalmente es seguida por diuresis post-obstructiva. Es importante mantener un nervio firme y resistir la tentación de tratar de descomprimir los tractos superiores con colocación de stent JJ ​​interno o colocación de nefrostomías. Después de la ablación de la válvula primaria, se debe anticipar el grado de dilatación del tracto superior para mejorar gradualmente o resolverse por completo25. Esta mejora se verá afectada por el RVU en curso, la disfunción de la vejiga, la poliuria y la motilidad ureteral anormal, y todos estos factores deben tenerse en cuenta al evaluar los resultados después de la ablación valvular. La reimplantación ureteral con o sin disminución ya no se realiza en el contexto de empeoramiento de la hidroureteronefrosis en los casos de VUP pues el papel de la vejiga y su disfunción asociada y la disfunción tubular renal con la poliuria resultante se han reconocido cada vez más con un mejor entendimiento de la fisiopatología de la obstrucción de flujo saliente de la vejiga.‬
+En la presentación, aproximadamente el 50% de los pacientes tienen reflujo vesicoureteral (RVU) en el CUGM inicial. Se cree que esto es secundario a la obstrucción del flujo de salida de la vejiga y la disfunción coexistente de la vejiga. Aproximadamente el 15% de los pacientes presentarán RVU unilateral de alto grado sin función del riñón ipsilateral. Después de la ablación valvular, la gravedad del RVU puede disminuir o resolverse por completo en el 25-50% de los casos, y esta mejoría es más probable en aquellos que se presentan como neonatos o durante la infancia. El RVU persistente, especialmente de alto grado y bilateral, después de una ablación valvular exitosa se asocia con un mal resultado renal a largo plazo y es uno de los indicadores de mal pronóstico identificados por Parkhouse et al.20 Ya no existe la tendencia a realizar procedimientos antirreflujo en muchachos con VUP, Como las tasas de fracaso asociadas con este enfoque son altas. En los casos en que el grado de reflujo es alto y está asociado con una función deficiente en el riñón ipsilateral, se ha utilizado el uréter de gran capacidad para aumentar la vejiga en asociación con la extracción del riñón que no funciona. Otras estrategias innovadoras incluyen la creación de una ureterostomía de reflujo como se explicó anteriormente y, ocasionalmente, el uréter distal se ha utilizado como un canal de Mitrofanoff con o sin un procedimiento antirreflujo asociado. Los grados más altos persistentes de reflujo son un factor de riesgo potencial de infección urinaria recurrente y pueden tener un impacto negativo en los riñones trasplantados y, por lo tanto, generalmente se tratan quirúrgicamente antes del trasplante renal.‬
 
-**Resultados a largo plazo: el tracto urinario inferior**‬
+## Hidroureteronefrosis
+
+La mayoría de los neonatos que se presentan con válvulas uretrales posteriores demostrarán hidroureteronefrosis bilateral. A menudo se observa que esto mejora con el cateterismo inicial, pero puede empeorar temporalmente debido a la obstrucción funcional a nivel del VUJ por la pared de la vejiga engrosada que colapsa, pellizcando los orificios ureterales después de la cateterización y descompresión. Es importante reconocer este fenómeno y, en ocasiones, esto puede provocar una anuria que dura entre 24 y 48 horas. La obstrucción se resuelve espontáneamente dentro de las 48-72 horas y generalmente es seguida por diuresis post-obstructiva. Es importante mantener un nervio firme y resistir la tentación de tratar de descomprimir los tractos superiores con colocación de stent JJ ​​interno o colocación de nefrostomías. Después de la ablación de la válvula primaria, se debe anticipar el grado de dilatación del tracto superior para mejorar gradualmente o resolverse por completo25. Esta mejora se verá afectada por el RVU en curso, la disfunción de la vejiga, la poliuria y la motilidad ureteral anormal, y todos estos factores deben tenerse en cuenta al evaluar los resultados después de la ablación valvular. La reimplantación ureteral con o sin disminución ya no se realiza en el contexto de empeoramiento de la hidroureteronefrosis en los casos de VUP pues el papel de la vejiga y su disfunción asociada y la disfunción tubular renal con la poliuria resultante se han reconocido cada vez más con un mejor entendimiento de la fisiopatología de la obstrucción de flujo saliente de la vejiga.‬
+
+## Resultados a largo plazo: el tracto urinario inferior
 
 La etiología subyacente del comportamiento de la vejiga en las válvulas uretrales posteriores sigue siendo un tema de mucho debate. Los dos principales culpables implicados en la etiología son que la vejiga anormal es el resultado de cambios en el útero en respuesta a la obstrucción del flujo de salida y / o que la disfunción de la vejiga es el resultado de la desviación urinaria. El jurado está a favor de la segunda teoría, ya que actualmente, la mayoría de los casos no se desvían, aunque la incidencia de disfunción de la vejiga sigue siendo alta. Además, Godbole et al16 han demostrado que la desviación no es necesariamente perjudicial para el resultado de la función de la vejiga y puede incluso mejorarla.‬
 
@@ -181,16 +186,16 @@ La disfunción de la vejiga es clave para los resultados de la función renal a 
 
 La función de la vejiga continúa evolucionando durante la adolescencia, y el manejo efectivo de la vejiga debe continuar hasta la edad adulta. El crecimiento prostático altera las dinámicas de la salida de la vejiga y el patrón en cambio de la dinámica de la vejiga visto en la primera infancia continúa cambiando a lo largo de la adolescencia con capacidad de vejiga aumentada y grandes volúmenes residuales post vaciado prevalente. Algunos hombres jóvenes tal vez deban iniciar cateterización intermitente de limpieza para encargarse de este deterioro irreversible de la función de la vejiga.‬
 
-**Trasplante renal**‬
+## Trasplante renal
 
 Con un número significativo de niños con VUP que progresan a insuficiencia renal en etapa terminal, la importancia de una evaluación completa de la vejiga como parte del estudio previo al trasplante no se puede enfatizar en exceso. Una vejiga de alta capacidad, poco compatible y de baja capacidad puede poner en riesgo el trasplante de riñón y la pérdida del injerto se convierte en una posibilidad real. Las tasas de supervivencia del injerto a cinco años en la población de personas que nacieron con la VUP han mejorado en las últimas 2 décadas, de 40% en los años 80 a casi 70% en los 90.‬
 
 Para aquellos pacientes que requieren intervención quirúrgica para lograr una vejiga que se considera un receptáculo &quot;seguro&quot; para el trasplante, hay opiniones divididas sobre si esta cirugía debe realizarse antes o después del trasplante. La realización de un aumento de la vejiga con / sin un conducto cateterizable antes del trasplante renal permite la curación postoperatoria sin inmunosupresión, pero corre el riesgo de una &quot;cistoplastía seca&quot; que debe ser manejada por ciclos de vejiga y lavados, especialmente si no hay o hay una producción mínima de orina nativa. El riesgo adicional con este enfoque es que esta cirugía mayor puede inclinar la función renal frágil sobre el borde y acelerar la necesidad de terapia de reemplazo y diálisis temporal en el escenario de trasplante preventivo. Con el aumento de la vejiga antes del trasplante, cualquier procedimiento adicional, incluyendo el trasplante en sí, no debe dañar el pedículo vascular al aumento, especialmente cuando hay un corto intervalo de tiempo entre los procedimientos y se debe tener mucho cuidado para garantizar la seguridad de la vejiga reconstruida. Para aquellos pacientes en los que se realiza una cistoplastía de aumento después del trasplante renal, es importante que los requisitos de inmunosupresión se hayan estabilizado y que la función renal mejorada ofrezca claras ventajas. En este caso, el uréter de trasplante puede reimplantarse en la vejiga nativa o sacarse como una ureterostomía cutánea. En el contexto de las válvulas uretrales posteriores y el trasplante renal, es crucial que la vigilancia continua de la función de la vejiga continúe después del trasplante.33‬
 
-**Fertilidad**‬
+## Fertilidad
 Hay pocos estudios que informen sobre los resultados de fertilidad y paternidad en hombres con antecedentes de válvulas uretrales posteriores. La dilatación persistente de la uretra posterior, el daño a los tejidos alrededor del verumontanum o las estenosis uretrales secundarias resultantes de la cirugía previa influirán en la eficacia de la eyaculación. La disfunción eréctil se observa con más frecuencia en pacientes con enfermedad renal crónica y en aquellos en diálisis. En 9 pacientes con antecedentes de VUP estudiados por Woodhouse34, el análisis de semen se consideró dentro del rango normal, mientras que en 6 hombres que presentaron semen para análisis a López Pereira35 2 pacientes tenían formas anormales o un alto porcentaje de espermatozoides inmóviles.‬
 
-**Conclusi**** ón**‬
+## Conclusión
 
 - Las válvulas uretrales posteriores siguen siendo la causa más común de obstrucción del flujo de vejiga neonatal en los hombres.‬
 - Un número creciente de casos se diagnostica en forma prenatal, pero la intervención prenatal no parece conferir un beneficio en el resultado a largo plazo de la función renal.‬
@@ -198,7 +203,7 @@ Hay pocos estudios que informen sobre los resultados de fertilidad y paternidad 
 - Un número significativo de niños con VUP desarrollará enfermedad renal crónica e insuficiencia renal terminal.‬
 - El seguimiento estructurado tiene como objetivo prevenir el deterioro del tracto superior, prevenir la infección del tracto urinario, maximizar el crecimiento y permitir la vigilancia de la disfunción de la vejiga.‬
 
-**Referencias de válvulas uretrales posteriores**‬
+## Referencias de válvulas uretrales posteriores
 
 1. Dewan PA, Zappala SM, Ransley PG, Duffy PG. Reevaluación endoscópica de la morfología de la obstrucción congénita de la uretra posterior. J Urol 1992; **70**: 439-444‬
 

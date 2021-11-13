@@ -6,6 +6,7 @@ title: Tumores adrenales
 sort-key: 5-24
 permalink-en: /adrenaltumours.html
 layout: default
+review-formatting-complete: AM-2021-11-13
 ---
 
 # Tumores adrenales
@@ -18,19 +19,19 @@ _<sup>a</sup>Hospital de Pediatria_{: .translator-location}
 _<sup>b</sup>Buenos Aires Argentina‬_{: .translator-location}
 {: #translator-p}
 
-**Introducción**‬
+## Introducción
 
 Los tumores adrenales o suprarrenales ocurren raramente en la infancia. No obstante, el neuroblastoma representa más del 90% de estos tumores. En los Estados Unidos, la incidencia de neuroblastoma fue reportada recientemente como 1 : 1 / 100,000 personas / año (1). La corteza suprarrenal representa el 6% de los cánceres suprarrenales en niños, y el carcinoma adrenocortical constituye el 0,2% de los neoplasmas malignos en niños caucásicos menores de 15 años (2,3). Además, las células cromafines suprarrenales contribuyen a los procesos neoplásicos pediátricos en forma de feocromocitoma (tumor de la médula suprarrenal). En este capítulo, la discusión se limita al tumor de la corteza suprarrenal y al feocromocitoma.‬
 
-**TUMOR ADRENOCORTICAL**‬
+## TUMOR ADRENOCORTICAL
 
-**Epidemiología**‬
+### Epidemiología
 
 Los tumores adrenocorticales pediátricos más comunes son el carcinoma corticosuprarrenal y el adenoma corticosuprarrenal. Debido a la infrecuencia relativa de ocurrencia y la dificultad para distinguir carcinoma corticosuprarrenal de adenoma corticosuprarrenal, los 2 a menudo se informan bajo el término más amplio de tumores adrenocorticales en la literatura. Lack y cols. estudiaron exhaustivamente los adenomas corticosuprarrenales en 1992 y estimaron un total de 19 nuevos casos de carcinoma corticosuprarrenal y 6 nuevos casos de adenoma corticosuprarrenal, cada año, para personas menores de 20 años en los Estados Unidos (3) La incidencia anual se estima, a partir de los mismos datos, en 3 por 1 millón de personas menores de 20 años (3). La incidencia mundial está entre el 0,3 y el 0,38 por millón de niños menores de 15 años (4). En el sur de Brasil, la incidencia es de hasta 4,2 por millón de niños menores de 15 años (5), habiendo un informe que sugiere una incidencia igual a la del tumor de Wilms, el neuroblastoma y el linfoma no Hodgkin (6).‬
 
 Una revisión de varias series de casos sugiere que la edad promedio de presentación es a los 6 años (3,4,6-14) con una proporción de mujeres a hombres de 1,6 a 1 (35,6,8-14). También se ha estudiado al carcinoma y adenoma corticosuprarrenal con diagnóstico prenatal (15,16).‬
 
-**Embriología y Genética**‬
+### Embriología y Genética
 
 La glándula suprarrenal adulta se compone de una corteza externa y la médula interna. La corteza suprarrenal se origina en el mesodermo intermedio y la médula del neuroectodermo. La corteza de lo externo a lo interno se divide en tres zonas biológicamente distintas:‬
 
@@ -42,7 +43,7 @@ En la glándula suprarrenal fetal, se encuentra una gran zona interna (zona feta
 
 Dentro del feto en desarrollo, la formación de los primordios adrenogonadales marca el primero de varios eventos distintos que resultan en la formación de la glándula suprarrenal fetal (17). Las células de la corteza suprarrenal están presentes en los primordios adrenogonadales a lo largo de la cresta urogenital y pueden ser identificadas desde la semana 4 gestacional mediante tinción para el factor esteroidogénico 1 (Sf1) (17). Los primordios adrenogonadales bilaterales se dividen para formar los primordios suprarrenales y gonadales, un proceso dependiente de la expresión de Sf1. La expresión de Sf1 es alentada, en parte, por WT-1 y Pbx1. Se produce una mayor definición de los primordios suprarrenales con la encapsulación mesenquimal, después de lo cual la zona definitiva se hace evidente entre la cápsula y la zona fetal. Se propone que la formación capsular crea un entorno que recluta y dirige el desarrollo de células madre hacia un potencial esteroidogénico zonal único. Kim y cols. presentaron una revisión exhaustiva de sus datos y la literatura disponible con respecto a la biología de células madre adrenocorticales (17). Estos autores comentaron sobre la posibilidad de que las células madre cancerosas y la desregulación glandular posiblemente se asocien con mutaciones de los genes IGF-II, p53 y APC en Beckwith- Wiedemann, Li-Fraumeni y poliposis adenomatosa familiar del colon, respectivamente. Estos ejemplos específicos podrían servir como modelos para el desarrollo de neoplasmas de la corteza suprarrenal. A las 28 semanas de gestación, la glándula suprarrenal, de externa a interna, está compuesta por la cápsula, la zona definitiva, (posiblemente) pequeña zona de &quot;transición&quot;, la gran zona fetal y la médula (18). Es alrededor de la novena semana de gestación que las células neuroectodérmicas migran para convertirse en el centro de los primordios suprarrenales al mismo tiempo que se produce la encapsulación. En el momento del nacimiento, las glándulas suprarrenales son aproximadamente 2 veces más grandes que una glándula adrenal adulta. Con la involución de la zona fetal a los 6 meses de edad, disminuyen de tamaño, mientras que la zona definitiva se agranda para convertirse en las zonas glomerulosa y fascicular (18). El desarrollo suprarrenal humano sigue siendo comprendido de forma marginal. Kempna y Fluck describieron la diferenciación de los primordios suprarrenales como &quot;codificados por una secuencia específica de genes que se expresan de manera espacio-temporal exacta y por factores parácrinos&quot; (18). La zona esteroidogénica única puede estar regulada por un efecto parácrino de las hormonas y sus reguladores de expresión. Kim y cols. aluden a este &quot;nicho capsular&quot; como un entorno de autorregulación y desarrollo en el que las mutaciones a nivel molecular pueden conducir a trastornos de la función y / o procesos neoplásicos.‬
 
-**Etiología y Fisiopatología**‬
+### Etiología y Fisiopatología
 
 Desde los informes iniciales de tumores adrenocorticales en hermanos y su asociación con los síndromes de Beckwith-Weidemann y Li-Fraumeni, se sospecha que hay una explicación genética para los tumores adrenocorticales. Como en el caso de muchos procesos neoplásicos, los oncogenes y las mutaciones del gen supresor tumoral han sido investigados como posibles responsables. Aunque se desconoce su etiología específica, hay varias áreas genómicas que merecen consideración **(Tabla 1)** (20,21).‬
 
@@ -64,7 +65,7 @@ El establecimiento de la clonalidad en una población de células tumorales tien
 
 La comprensión completa de la etiología de los tumores adrenocorticales puede ser posible en el futuro con hibridación genómica comparativa, marcadores de microsatélites e ingeniería genética. Por ejemplo, la hibridación genómica comparativa ha demostrado que el 28% de los adenomas corticosuprarrenales conlleva una alteración cromosómica y los marcadores de microsatélites han mostrado pérdida de heterocigosidad en 11q13, 17p13 y 2p16 en los carcinomas corticosuprarrenales (29-33). La hibridación genómica comparativa y los marcadores de microsatélites han sugerido la presencia de genes y / u oncogenes supresores de tumores actualmente no asignados. Con el desarrollo de cultivos de líneas celulares y modelos animales _knockout_, es posible dirigir la terapia hacia áreas específicas dentro del genoma para suprimir la tumorogénesis. Por lo que existe una esperanza para un diagnóstico más temprano y terapias dirigidas con el desarrollo continuo de registros, biobancos de tejidos y estudios colaborativos.‬
 
-**Presentación y Diagnóstico**‬
+### Presentación y Diagnóstico
 
 La mayoría de los tumores adrenales detectados prenatalmente se atribuyen al neuroblastoma. Es importante señalar que la hemorragia suprarrenal fetal carece de flujo arterial, distinguiendo la entidad de los tumores sólidos (34). Sauvat y cols. llevaron a cabo una investigación multicéntrica en la que 30 lesiones suprarrenales prenatales se atribuyeron al neuroblastoma, fueron regresivas o benignas (35); sin embargo, ha habido informes de ecografías maternas en las que se han detectado tumores adrenocorticales (15). En 2008, Sherer y cols. informaron el primer caso de adenoma corticosuprarrenal prenatal (15). Los autores describieron la apariencia ecográfica de la masa suprarrenal de 3 x 3 x 3 cm como heterogénea, conteniendo elementos quísticos y sólidos.‬
 
@@ -74,7 +75,7 @@ El tumor adrenocortical se presenta con mayor frecuencia con signos de virilizac
 
 En el niño con signos o síntomas, es fundamental establecer un diagnóstico temprano. El carcinoma corticosuprarrenal es, de hecho, raro, pero en sus etapas avanzadas es incurable. El diagnóstico precoz aumenta la posibilidad de tratamiento curativo. Como la mayoría de los tumores adrenocorticales en niños, son hormonalmente activos, el carcinoma corticosuprarrenal debe considerarse en la evaluación de todo paciente que presente crecimiento anormal de vello, agrandamiento del pene o del clítoris, acné, hipertensión y, rara vez, síntomas constitucionales inexplicables. Los datos objetivos que se pueden obtener incluyen investigaciones de laboratorio y radiológicas.‬
 
-_ **Laboratorio** _‬
+#### _Laboratorio_‬
 
 Con informes más antiguos que indican hasta un 95% de tumores adrenocorticales como hormonalmente activos (39), es útil recordar las distintas zonas esteroidogénicas de la corteza adrenal. Más comúnmente, el clínico encontrará signos de virilización con o sin características del síndrome de Cushing. La medición de andrógenos y metabolitos es necesaria para establecer o descartar un tumor adrenocortical. La medición de testosterona en suero, la dihidroepiandrosterona sérica (DHEA), el sulfato de DHEA específico adrenal (DHEA-S) y los 17-cetosteroides urinarios a menudo arrojará valores elevados. El hipercortisolismo puede sospecharse en presencia de características clásicas como obesidad central, &quot;cara de luna&quot;, atrofia muscular, estrías e hirsutismo; sin embargo, los niños más pequeños pueden presentar obesidad generalizada (7). Una variedad de pruebas de laboratorio están disponibles en el diagnóstico de hipercortisolismo, incluyendo niveles diarios de cortisol en orina, ACTH basal, cortisol basal, pruebas de supresión de17-hidroxicorticosteroides y dexametasona. El hipercortisolismo suprarrenal dependiente también puede diagnosticarse mediante el registro de cortisol elevado a medianoche con supresión de dexametasona a dosis alta (40). En casos infrecuentes de feminización y tumores corticoadrenales sintetizadores de mineralocorticoides, puede medirse el estradiol y la proporción plasmática entre aldosterona / renina. Los valores de laboratorio también pueden utilizarse en el seguimiento, ya que la extirpación completa de un tumor corticoadrenal debería dar como resultado la normalización de estos valores en 7 días. Si se evalúa una pequeña masa suprarrenal que secreta andrógenos, la supresión con dexametasona de DHEA-S, androstenediona y testosterona sugiere la ausencia de un tumor corticoadrenal (41) La tabla 2 enumera mediciones útiles en diferentes contextos clínicos.‬
 
@@ -101,7 +102,7 @@ Con informes más antiguos que indican hasta un 95% de tumores adrenocorticales 
  |‬
 | Feminización (desarrollo mamario, edad ósea avanzada, pubertad isosexual precoz) | Estradiol |‬
 
-_ **Radiología** _‬
+#### _Radiología_‬
 
 Las modalidades de imágenes disponibles incluyen radiografía, ultrasonografía (US), pielografía intravenosa (PIV), tomografía axial computada (TC), resonancia magnética nuclear (RM), tomografía por emisión de positrones (PET) y gammagrafía con meta-yodobencilguanadina (MIBG) (41). Según Ozturk y cols. junto al apoyo de otros autores, la TAC es el estudio más útil para evaluar la glándula adrenal (41). Estos autores recomiendan un protocolo detallado de TAC con el objeto de detectar lesiones, consistente en colimación de 2,5 - 3 mm, contraste oral e intravenoso y reconstrucción de 1,5 - 3 mm a través de la región adrenal. Se puede esperar que la evaluación por TAC de los adenomas corticosuprarrenales muestre una lesión redonda o nodular de menos de 4 cm de diámetro con una apariencia de baja densidad (\&lt; 10 unidades Hounsfield). En el adenoma corticosuprarrenal en adultos, hasta un 30% carece de suficientes lípidos como para visualizarse como lesiones de baja densidad (42,43). Considerando un solapamiento significativo entre las características histopatológicas del carcinoma corticosuprarrenal y adenoma corticosuprarrenal en la población pediátrica, parece improbable que la TAC pueda distinguir confiablemente entre ambos. Además, la dificultad para distinguir los 2 tumores virtualmente resulta en que todos los detectados en niños sean extirpados después de un examen apropiado para establecer el diagnóstico (es decir, tumor adrenocortical, feocromocitoma, neuroblastoma). No obstante, informes más recientes sobre masas suprarrenales no funcionales en adultos (&quot;incidentalomas&quot;) confirman virtualmente la presencia de adenomas corticosuprarrenales si el tumor magnificado es de \&lt; 10 unidades de Hounsfield (44).‬
 
@@ -109,7 +110,7 @@ La RMN y la PET son potencialmente útiles y se han utilizado en el estudio, una
 
 Parece apropiado y necesario emplear actualmente US, TAC y posiblemente RMN para la evaluación preoperatoria del paciente a fin de determinar la estadificación del tumor y el abordaje quirúrgico. En el caso de una invasión local cuestionable, puede ser preferible utilizar una modalidad de colimación más fina, como la RMN.‬
 
-**Tratamiento y Estadificación**‬
+### Tratamiento y Estadificación
 
 Como se indicó anteriormente, la extirpación quirúrgica completa es el único tratamiento curativo de los tumores adrenocorticales pediátricos. La estadificación preoperatoria depende de si la invasión es local o la enfermedad a distancia es radiológicamente demostrable. Se debe evitar la biopsia, aunque sólo sea para evitar la ruptura del tumor (41). En el candidato quirúrgico apropiado, el abordaje dependerá en gran medida del tamaño del tumor, la presencia de invasión local, la experiencia del cirujano y la disponibilidad tecnológica. Parece lógico que si la resección quirúrgica completa es la mejor posibilidad de curación, se debe utilizar un abordaje que permita una disección amplia, la manipulación delicada del tumor y la posibilidad de resección en bloque de las estructuras adyacentes si es necesario. En ese sentido, Ribeiro y Figueiredo abogan por un abordaje subcostal ipsilateral que puede extenderse fácilmente a una incisión en _chevron_ de ser necesario (41). También enfatizan la naturaleza friable y necrótica de los tumores adrenocorticales y recomiendan un abordaje laparoscópico para la extirpación de éstos en la población pediátrica. Aunque la cirugía laparoscópica ha demostrado ser segura y efectiva para los tumores suprarrenales benignosen adultos, otros investigadores también han propuesto la adrenalectomía abierta sobre un abordaje laparoscópico para minimizar el riesgo de diseminación de células tumorales al peritoneo. Varias publicaciones recientes enfatizan la necesidad de extrema precaución y un umbral muy bajo para la conversión si el procedimiento laparoscópico requiere manipulación del tumor para la exposición o eliminación (46-48). Hasta que se desarrollen mejores herramientas preoperatorias para detectar y diferenciar un carcinoma corticosuprarrenal de un adenoma corticosuprarrenal, es prudente abordar todos los tumores adrenocorticales pediátricos con adrenalectomía abierta.‬
 
@@ -125,15 +126,15 @@ Algunos autores han modificado la estadificación de los tumores adrenocorticale
 
 • Etapa IV: metástasis hematógena en la presentación‬
 
-_ **Quimioterapia** _‬
+#### _Quimioterapia_‬
 
 Un informe retrospectivo reciente en adultos con carcinoma corticosuprarrenal sugirió una mejor supervivencia en pacientes que recibieron terapia adyuvante con mitotano (52). La mayoría de los informes anteriores habían publicado tasas de respuesta parcial entre 15% y 60% en la población adulta. Ribeiro y cols. trataron a 32 pacientes pediátricos entre 1990 y 1995 con mitotano como terapia adyuvante (41). Alrededor del 50% de los niños recayeron después del tratamiento quirúrgico. Los autores notaron una toxicidad significativa con el agente y enfatizaron la necesidad del control de la insuficiencia suprarrenal iatrogénica creada con la terapia con mitotano. En 2006, Zancanella y cols. informaron el uso de mitotano con cisplatino, etopósido y doxorrubicina (53). Hubo 5 respuestas parciales y 2 casos de remisión en 11 pacientes con sólo 3 pacientes vivos al momento del informe. Existe un ensayo internacional en curso (FIRM-ACT) (www.firm-act.org) para determinar la eficacia del mitotano, el etopósido, la doxorrubicina y el cisplatino frente a la estreptozotocina y el mitotano en adultos con carcinoma corticosuprarrenal. Una revisión de la literatura actual no reveló ensayos formales de agentes quimioterapéuticos para tratar los tumores adrenocorticales pediátricos. El uso de mitotano con o sin agentes citotóxicos se ha reservado para la enfermedad irresecable o terminal en niños con tasas de respuesta que van del 11% al 30% (54). En gran parte, no se ha informado de un efecto significativo sobre el tamaño del tumor o la supervivencia en la población pediátrica.‬
 
-_ **Radioterapia** _‬
+#### _Radioterapia_‬
 
 La radioterapia se ha utilizado eficazmente para la paliación, especialmente de metástasis óseas, pero no se ha demostrado que controle la enfermedad de manera confiable ni afecte la supervivencia. Se ha sugerido en la literatura pediátrica y de adultos que la radioterapia en el sitio de la resección en pacientes de alto riesgo (resección incompleta, enfermedad residual microscópica) puede mejorar la supervivencia (55,56). Aunque es ciertamente factible, la evidencia de que la radioterapia afecta la supervivencia, no existe en números sustanciales. Es poco probable que los ensayos clínicos diseñados adecuadamente iluminen más el papel de la radioterapia, como consecuencia del reducido número de casos y las indicaciones para su uso en tumores adrenocorticales pediátricos.‬
 
-**Pronóstico y Discusión**‬
+### Pronóstico y Discusión
 
 En general, existe una tasa de supervivencia del 49 - 73% a 5 años en el carcinoma corticosuprarrenal pediátrico (9,38,57). Cuando se consideran todos los tumores adrenocorticales que cumplen con los criterios patológicos de malignidad, la supervivencia aumenta. Se ha informado en varias series que algunos tumores adrenocorticales que cumplen con los criterios patológicos de malignidad no se comportan clínicamente como malignos. Esto cuestiona el valor de la estadificación tumoral histopatológica en los tumores adrenocorticales pediátricos por completo. Cuando se considera la estadificación tumoral preoperatoria en relación con el tamaño del tumor y las metástasis locales o distantes, los tumores adrenocorticales en estadio IV tienen un mal pronóstico, con algunas series denotando tasas de supervivencia del 0%. Tucci y cols. utilizaron una clasificación de estadificación preoperatoria donde los tumores menores de 5 cm sin evidencia de metástasis, fueron considerados estadio I; tumores \&gt; 5 cm y ninguna metástasis, estadio II; evidencia de extensión local pero ninguna invasión o ganglios regionales, estadio III y cualquier tumor con metástasis a distancia o invasión local, estadio IV. Usando esta clasificación, el estadio tumoral fue el factor individual más importante en el pronóstico, con una tasa de supervivencia general a 5 años del 59% (20/34), oscilando entre el 100 % para los paciente con estadios I (5 / 5; n = 5) y el 0% para aquéllos con estadio IV (n = 10) (58).‬
 
@@ -151,17 +152,17 @@ Sabbaga y cols. no detectaron una asociación significativa entre el tamaño y e
 
 Weineke y cols. concluyeron que ambos el tamaño y peso tumoral se correlacionaron con el resultado del paciente y sugirieron que los criterios malignos incluyen un tamaño de tumor de más de 10,5 cm y un peso tumoral de más de 400 gramos (9). Además, en la serie presentada por Ahmed, el peso promedio de la muestra fue de 30,8 gramos (10 - 59 gramos) (59). Ninguna muestra exhibió extensión periadrenal y todos los pacientes estaban vivos sin evidencia de enfermedad con un seguimiento que varió de 5 meses a 9,5 años. La edad, el tamaño del tumor y el peso parecen contribuir, de forma independiente, al pronóstico. Hanna y cols. notaron un importante beneficio pronóstico con el tamaño tumoral y los márgenes negativos (12).‬
 
-**Resumen**‬
+### Resumen
 
 El análisis molecular postoperatorio puede ser útil para el pronóstico, ya que el genoma se dilucida mejor, pero actualmente parece prudente tratar el tumor adrenocortical pediátrico como poseedor de un espectro completo de potencial maligno con un seguimiento postoperatorio cercano que incluya una evaluación mensual de laboratorio en el primer año. Hasta que se descubran y confirmen clínicamente factores predictivos más confiables, cada tumor adrenocortical pediátrico debiera tratarse como maligno.‬
 
-**FEOCROMOCITOMA**‬
+## FEOCROMOCITOMA
 
 El término feocromocitoma (PCC) se usa generalmente para clasificar los tumores intra-adrenales y extra-adrenales que surgen de las células cromafines que se pueden ubicar en cualquier lugar a lo largo del sistema simpático-adrenal, incluyendo la médula suprarrenal, el cuerpo de Zuckerkandl, la cadena paravertebral, el hilio del riñón y el hígado, la bifurcación aórtica, la vejiga y elmediastino (60-62). El paraganglioma (PGL) ha sido utilizado por algunos investigadores como un término que designa a los PCC extra-adrenales (61,62). En este capítulo, PCC designará el tumor que surge de las células cromafines dentro de la médula suprarrenal y PGL designará el tumor originado a partir de células cromafines en un sitio extra-suprarrenal. La discusión procederá principalmente dentro del alcance del PCC.‬
 
 La incidencia de PCC se estima en 0,8 por 100.000 (63), ocurriendo en el 10-20% de los niños (64,65). Esto haría que la incidencia pediátrica estimada sea de 0,8 a 1,6 por millón, lo que incluye el PGL y el PCC, y lo que resulta en que el PCC pediátrico sea un tumor hallado muy infrecuentemente. Hay una ligera preponderancia masculina de casi 2:1 (61,62,65,66). Alrededor del 80% surgen de la médula suprarrenal (PCC) y tanto el PCC como los PGL (PCC extra-suprarrenal) producen catecolaminas que representan una alta tasa (60-90 %) con hipertensión sostenida (HTA) y PCC o PGL (62). Se informa que aproximadamente el 40% de los PCC y PGL en niños se asocian con mutaciones genéticas conocidas y el 19-38% son tumores adrenales bilaterales (62).‬
 
-**Genética**‬
+### Genética
 
 Se sabe que el PCC ocurre con mayor frecuencia en los síndromes de neoplasia endócrina múltiple tipo 2 (MEN-2), Von Hippel Lindau (VHL) y puede ocurrir en 0,1 - 5,7% de pacientes con neurofibromatosis tipo 1 (NF-1) (60). Los estudios continúan implicando y dilucidando las mutaciones de la línea germinal en genes que codifican subunidades de succinato deshidrogenasa como precursores del aumento de la malignidad, la aparición pediátrica y las agregaciones familiares de PCC y PGL (60). Aunque no son específicos de pediatría, Erlic y Neumann presentaron una revisión exhaustiva sobre feocromocitoma familiar (67). Es una adaptación de los datos presentados en esta revisión, que ilustra la ubicación genética (locus), la aparición de tumores y la probabilidad de malignidad con cada síndrome (Tabla 4).‬
 
@@ -178,7 +179,7 @@ Se sabe que el PCC ocurre con mayor frecuencia en los síndromes de neoplasia en
 
 Las características de PCC y PGL pueden ser diferentes, dependiendo de qué alteraciones genéticas estén presentes; por lo tanto, parece prudente que todos los casos de PCC y PGL se sometan a consultas genéticas, pruebas y exámenes familiares. Hasta un 40% de PCC puede tener una base hereditaria, incluidos los síndromes de PGL, que, como se ilustra en la tabla, están asociados con una mayor frecuencia de PGL (61,62,67). La caracterización genética puede ser más útil para predecir el comportamiento del tumor, como lesiones síncrónicas o metacrónicas bilaterales, probabilidad de malignidad y recurrencia. Como tal, la investigación continua con bases de datos y biobancos colaborativos y multi-institucionales, permitirá la estratificación de los pacientes en diferentes grupos de riesgo.‬
 
-**Presentación, Diagnóstico y Resultados de Tratamientos**‬
+### Presentación, Diagnóstico y Resultados de Tratamientos
 
 En un niño con un síndrome conocido (Tabla 4) o con niños en los que existe una predisposición familiar conocida, se debe realizar un examen bioquímico. Aproximadamente el 1% de los pacientes pediátricos hipertensos tendrán PCC o PGL (62). La edad promedio de presentación es de 11 años y el 60 - 90% de los PCC y PGL infantiles pueden presentar HTA (62). Los signos y síntomas clínicos reconocidos incluyen una gran variabilidad en el monitoreo de la presión arterial durante 24 horas, palpitaciones, dolor de cabeza, sudoración, náuseas, vómitos, pérdida de peso, poliuria, alteraciones visuales y ansiedad. Una publicación reciente enumeró presentaciones comunes en niños: HTA, 64%; palpitaciones, 53%; dolor de cabeza, 47%; efectos relacionados con la masa tumoral, 30% (68).‬
 
@@ -200,11 +201,11 @@ La terapia sistémica se puede realizar con MIBG o con quimioterapia convenciona
 
 Aunque existe una tasa de supervivencia favorable a largo plazo, las series de casos presentadas por Ciftci y cols. enfatizan la importancia de la resección total (65). Dos de cada tres pacientes con PCC o PGL maligno pudieron someterse a una biopsia incisional, pero finalmente sucumbieron a la enfermedad, mientras que los pacientes restantes tenían una tasa de mortalidad a 16 años del 19%. Ludwig y cols. informaron una supervivencia global del 100% con 93% de supervivencia libre de enfermedad a 5 años, atribuyendo el resultado positivo a una tasa baja (7%) de malignidad y márgenes de resección negativos en todos los pacientes (n = 15) (61). El seguimiento a largo plazo es obligatorio según los reportes sobre recidiva hasta 14 años después de un tratamiento exitoso.‬
 
-**Resumen**‬
+### Resumen
 
 El PCC o PGL en el paciente pediátrico rara vez se diagnostica y casi siempre se asocia con signos y síntomas característicos o una predisposición familiar. La preparación preoperatoria consiste en la localización del tumor y la reversión o control de los efectos fisiológicos del exceso de catecolaminas. La caracterización genética y las clasificaciones adicionales pueden permitir la estratificación del paciente en categorías de bajo y alto riesgo de malignidad y recidiva. La resección quirúrgica con márgenes negativos es la piedra angular del tratamiento curativo y debe ser realizada por cirujanos experimentados que empleen abordajes tanto laparoscópicos como convencionales.‬
 
-**Referencias**‬
+## Referencias
 
 1. Hsieh MH, Meng MV, Walsh TJ, et al. Increasing incidence of neuroblastoma and potentially higher associated mortality of children From nonmetropolitan areas: analysis of the Surveillance, Epidemiology, and End Results database. J Pediatr Hematol Oncol 2009; **31**: 942-6.‬
 2. Young JL Jr., Miller RW. Incidence of malignant tumors in U.S. children. J Pediatr 1975; **86**: 254-8.‬

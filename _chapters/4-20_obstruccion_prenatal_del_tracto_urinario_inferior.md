@@ -6,6 +6,7 @@ title: Obstrucción prenatal del tracto urinario inferior
 sort-key: 4-20
 permalink-en: /utobstruction.html
 layout: default
+review-formatting-complete: AM-2021-11-13
 ---
 
 # Obstrucción prenatal del tracto urinario inferior
@@ -20,11 +21,11 @@ _<sup>a</sup>Methodist Children&#39;s Hospital, San Antonio, Texas; Children&#39
 _<sup>b</sup>Hospital Shriners para Niños Ciudad de México, México_{: .translator-location}
 {: #translator-p}
 
-**Introducción**‬
+## Introducción
 
 La obstrucción del tracto urinario inferior (LUTO) se debe a las válvulas uretrales posteriores (VUP) en la mitad de los casos, siendo la atresia uretral la segunda afección más común. Ocurre con mayor frecuencia en los fetos masculinos. Cuando afecta a las mujeres, el diagnóstico siempre debe considerarse dudoso y probablemente atribuido a megacolon, anomalías vaginales u otros diagnósticos diferenciales. La enfermedad es relativamente infrecuente, con una incidencia reportada de 2 por cada 10.000 nacimientos en Inglaterra. El principal interés de esta enfermedad es que se ha desarrollado una terapia prenatal para derivar la orina fetal a la cavidad amniótica y preservar la función renal. Sin embargo, los criterios de selección son rigurosos y no todos los hombres con LUTO son adecuados para la intervención prenatal.‬
 
-**Diagn**** ó ****stico**‬
+## Diagnóstico
 
 Eldiagnóstico se puede realizar desde el primer trimestre mediante ecografía, que suele llevarse a cabo entre las 11 a 14 semanas se gestación. La vejiga se visualiza normalmente en un corte sagital, midiendo no más de 1 cm en la mayoría de los casos. Cuando se asocia con otras anomalías, como aumento de la translucidez nucal o malformaciones, se refuerza la sospecha de una aneuploidía asociada.‬
 
@@ -34,10 +35,11 @@ La LUTO se diagnostica de forma prenatal mediante la detección de una vejiga di
 
 La amnioinfusión se ha utilizado para aumentar el diagnóstico ecográfico. Con frecuencia, la presencia de oligohidramnios debido a LUTO dificulta el diagnóstico de otras anomalías.‬
 
-**Cariotipo**‬
+## Cariotipo
+
 Esto se recomienda de forma rutinaria en todas las instituciones, ya que el sexo fetal se puede confirmar y el cariotipo normal podría seleccionar más los casos que podrían beneficiarse del tratamiento prenatal. Esto se puede realizar por amniocentesis.‬
 
-**Historia natural y pronó**** stico. **** **‬
+## Historia natural y pronóstico
 
 Varios estudios demuestran consistentemente que la mortalidad es alta, alrededor del 60%. Esta mortalidad elevada podría aumentar hasta en un 90% cuando se asocia a oligohidramnios persistente, con enfermedad renal e hipoplasia pulmonar. 30% de los casos desarrollaron insuficiencia renal terminal. Otros factores pronósticos adversos son la edad gestacional temprana en la presentación.‬
 
@@ -45,7 +47,7 @@ En LUTO, la insuficiencia renal postnatal es importante, ya que la terapia prena
 
 La creatinina en sangre fetal no es un buen predictor, ya que normalmente aumenta durante el embarazo. La concentración de sodio en la sangre fetal está regulada en la placenta y es similar a la de la madre.‬
 
-**Tratamiento prenatal**‬
+## Tratamiento prenatal
 
 Se han propuesto vesicocentesis seriada, derivaciones vesicoamnióticas y cistoscopia percutánea intrauterina como terapias alternativas para LUTO en fetos masculino con cariotipo normal y función renal conservada. Algunos centros sostienen que el oligohidramnios no es un criterio de selección, sino una contraindicación, ya que estos casos podrían tener una función renal deteriorada. Se debe ofrecer terapia prenatal cuando la viabilidad neonatal es baja y, por lo tanto, el parto no es una opción.‬
 
@@ -57,15 +59,15 @@ El procedimiento tuvo complicaciones importantes que explicaron la baja superviv
 
 La cistocopia fetal se realiza por vía percutánea, bajo anestesia local como fetoscopia. El cistoscopio se inserta en la vejiga distendida y se pretende realizar ablación mecánica o con láser de las VUP. El problema es que, con frecuencia, la ablación produce una fístula perineal, la cual permite drenaje de la vejiga, pero con lesiones perineales importantes, o una estenosis de la uretra, especialmente si se realiza con láser. Por lo tanto, hasta que la tecnología mejore aún no se considera como opción.‬
 
-**Resultados:**‬
+## Resultados
 Hasta 2003, después de 25 años de historia y casos tratados, con más de 300 fetos intervenidos, una revisión demostró que no había estudios aleatorizados. La supervivencia perinatal pareció mejorar en comparación con el grupo sin drenaje (OR 2.5, IC del 95% 1-5.9, p \&lt;0.03). Esto fue aún más notorio en los casos definidos como de mal pronóstico (OR 8,9; IC del 95%: 1,2-52,9 p \&lt;0,03).‬
 
-**Conclusi**** ó ****n:**‬
+## Conclusión
 la obstrucción del tracto urinario inferior es variable en gravedad y en ocasiones se asocia con una alta mortalidad. Los factores pronósticos adversos deben identificarse mejor para seleccionar aquellos casos que no siempre morirán y que pueden beneficiarse de la descompresión de la vejiga. Se necesitan ensayos aleatorios para apoyar la indicación de intervención.‬
 
 
 
-**Referencias**‬
+## Referencias
 
 1. Johnson MP, Corsi P, Bradfield W et al: El análisis de orina secuencial‬ mejora la evaluación de la función renal fetal en la uropatía obstructiva.‬ Am J Obstet Gynecol 173: 59, 1995‬
 2. Johnson MP, Bukowski TP, Reitleman C, et al.:‬ Tratamiento quirúrgico intrauterino de la uropatía fetal obstructiva: un nuevo enfoque integral‬ para identificar candidatos apropiados para la terapia de derivación vesicoamniótica.‬ Am J Obstet Gynecol 170: 1770, 1994.‬
