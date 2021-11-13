@@ -59,9 +59,9 @@ En el lado contralateral, el RVU es la anomalía más común, que se presenta ha
 
 ## Investigaciones
 
-El diagnóstico se realiza mediante hallazgos ecográficos que demuestran quistes no comunicantes (Figura 1.1) con muy poco parénquima intermedio. Puede confirmarse por la ausencia de captación en el escaneo de radioisótopos, como el Tc99m-DMSA o el Tc99m-MAG3.‬
+El diagnóstico se realiza mediante hallazgos ecográficos que demuestran quistes no comunicantes (**Figura 1.1**) con muy poco parénquima intermedio. Puede confirmarse por la ausencia de captación en el escaneo de radioisótopos, como el Tc99m-DMSA o el Tc99m-MAG3.‬
 
-Las condiciones que imitan a MCDK incluyen hidronefrosis intrarrenal severa debido a una obstrucción de la unión pielo-uretérica (Figuras 1.2, 1.3). La última condición generalmente tiene algo de parénquima intermedio y circundante, que comunica los quistes en la ecografía con cierta captación en la exploración con radioisótopos. Otros incluyen un nefroma quístico (Figura 2.1), aunque esto es raro y difícil de distinguir del MCDK segmentario, y puede ser útil una RM para la identificación. (Figura 2.2). En algunos casos puede ser necesaria una biopsia percutánea o excisional.‬
+Las condiciones que imitan a MCDK incluyen hidronefrosis intrarrenal severa debido a una obstrucción de la unión pielo-uretérica (**Figuras 1.2, 1.3**). La última condición generalmente tiene algo de parénquima intermedio y circundante, que comunica los quistes en la ecografía con cierta captación en la exploración con radioisótopos. Otros incluyen un nefroma quístico (**Figura 2.1**), aunque esto es raro y difícil de distinguir del MCDK segmentario, y puede ser útil una RM para la identificación. (**Figura 2.2**). En algunos casos puede ser necesaria una biopsia percutánea o excisional.‬
 
 Los cistogramas son innecesarios en el MCDK aislado con un riñón contralateral normal. La obtención de una tasa de filtración glomerular se recomienda como una línea de base y para confirmar la función del riñón contralateral.‬
 
@@ -84,7 +84,7 @@ Hubo 10 casos reportados de tumor de Wilms en la revisión y todos fueron antes 
 3. Hipertensión.‬
 4. La falta de regresión es considerada por algunos como una indicación relativa para la cirugía.‬
 
-No hay factores predictivos para determinar la resolución espontánea. Hay algunos informes anecdóticos que sugieren que es improbable que un diámetro de más de 6 centímetros, en un infante de un año de edad se resuelva de manera espontánea. Hasta el 40% de los MCDK se seguían controlando más alla de los 10 años (Figura 1.0).‬
+No hay factores predictivos para determinar la resolución espontánea. Hay algunos informes anecdóticos que sugieren que es improbable que un diámetro de más de 6 centímetros, en un infante de un año de edad se resuelva de manera espontánea. Hasta el 40% de los MCDK se seguían controlando más alla de los 10 años (**Figura 1.0**).‬
 
 Se debe tener una discusión clara con la familia en casos seleccionados de manejo quirúrgico , ya que esto es curativo, con baja morbilidad y costo-efectiva sin la necesidad de la vigilancia continua. Un tamaño que disminuye progresivamente se puede manejar claramente de forma no operativa.‬
 
@@ -132,14 +132,14 @@ La extirpación quirúrgica de MCDK se puede lograr mediante técnicas tanto abi
 
 13. Godbole PP, Wilcox DT, Mushtaq I. Follow-up after unilateral nephrectomy in children: is an estimate of glomerular filtration rate necessary? _BJU Int_ 2005; *95*: 635-637.‬
 
-![](figure-2-7-1.jpg)‬
+![](figure-2-7-1.jpg)‬  
 
-![](figure-2-7-1.jpg)‬
+![](figure-2-7-1.jpg)‬  
 
-![](figure-2-7-1.jpg)‬
+![](figure-2-7-1.jpg)‬  
 
-![](figure-2-7-1.jpg)‬
+![](figure-2-7-1.jpg)‬  
 
-![](figure-2-7-1.jpg)‬
+![](figure-2-7-1.jpg)‬  
 
-![](figure-2-7-1.jpg)‬
+![](figure-2-7-1.jpg)‬  

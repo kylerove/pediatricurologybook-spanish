@@ -61,7 +61,7 @@ Los recién nacidos y los bebés de los que no se sospechaba que habían contra�
 
 Una vez que el neonato se ha estabilizado, se debe confirmar el diagnóstico. La ecografía renal (USS) proporcionará información sobre el tamaño y la calidad del parénquima renal, el grado de hidroureteronefrosis y la evaluación del grosor de la pared de la vejiga. También puede mostrar una uretra posterior dilatada.‬
 
-El cistouretrograma miccional (CUGM) confirmará el diagnóstico y debe incluir vistas con un catéter para demostrar el calibre de la uretra posterior (Figura 1)‬
+El cistouretrograma miccional (CUGM) confirmará el diagnóstico y debe incluir vistas con un catéter para demostrar el calibre de la uretra posterior (**Figura 1**)‬
 
 CUGM que muestra uretra posterior dilatada, cuello de vejiga abierta, vejiga irregular y reflujo vesicoureteral bilateral.‬
 
@@ -73,7 +73,7 @@ El síndrome de VURD (displasia de reflujo unilateral de las válvulas) descrito
 
 ## Resección de la válvula primaria
 
-El procedimiento de elección para las VUP es la ablación de la válvula primaria, que se realiza una vez que el bebé está estable desde un punto de vista médico. En la inducción de la anestesia se administra una dosis de antibiótico intravenoso, por ejemplo, amoxicilina/clavulanato 30 mg / kg. El bebé se coloca en la posición de litotomía y una cistoscopia de diagnóstico utilizando 0 ° 6/8 Fr cistoscopio neonatal realizado. La uretra posterior se debe inspeccionar cuidadosamente y se debe observar la configuración de la válvula. También debe tenerse en cuenta la configuración del cuello vesical y las apariencias de la vejiga y los orificios ureterales. El resectoscopio 11 Fr se ensambla con el electrodo de la cuchilla fría / hoz o con el insecto y la resección de la válvula se realiza normalmente en las posiciones de las 5, las 7 y las 12 en punto (Figura 2).‬
+El procedimiento de elección para las VUP es la ablación de la válvula primaria, que se realiza una vez que el bebé está estable desde un punto de vista médico. En la inducción de la anestesia se administra una dosis de antibiótico intravenoso, por ejemplo, amoxicilina/clavulanato 30 mg / kg. El bebé se coloca en la posición de litotomía y una cistoscopia de diagnóstico utilizando 0 ° 6/8 Fr cistoscopio neonatal realizado. La uretra posterior se debe inspeccionar cuidadosamente y se debe observar la configuración de la válvula. También debe tenerse en cuenta la configuración del cuello vesical y las apariencias de la vejiga y los orificios ureterales. El resectoscopio 11 Fr se ensambla con el electrodo de la cuchilla fría / hoz o con el insecto y la resección de la válvula se realiza normalmente en las posiciones de las 5, las 7 y las 12 en punto (**Figura 2**).‬
 
 Vista endoscópica de VUP con los sitios marcados para la incisión de la válvula.‬
  ![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-4-19-2.jpg)‬  

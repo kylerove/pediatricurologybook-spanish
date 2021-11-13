@@ -88,12 +88,12 @@ El reflujo es un hallazgo común en las personas con duplicación renal. En una 
 
 El RVU en el polo inferior en las duplicaciones renales se presenta con mayor frecuencia con IU, y solo una minoría se presenta en los exámenes prenatales (23). Si el riñón del polo inferior está displásico o tiene cicatrices, la hipertensión es otra forma en que el reflujo del polo inferior puede llegar a la atención urológica. El dolor es una presentación inusual y se deben buscar otras causas de dolor en el flanco.‬
 
-La investigación por ultrasonido puede mostrar un polo inferior dilatado o un uréter dilatado (ver la Figura 2).‬
+La investigación por ultrasonido puede mostrar un polo inferior dilatado o un uréter dilatado (**ver la Figura 2**).‬
 
 ![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-2.jpg)‬  
 **Figura 2:** Ecografía que muestra un polo inferior dilatado de un riñón duplicado
 
-En los bebés, un cistograma miccional proporciona información precisa sobre la anatomía del reflujo. Una exploración con radionucleótidos con ácido dimercaptosuccínico (DMSA) brinda información sobre la función del polo afectado e información sobre cicatrices focales (consulte la Figura 3).‬
+En los bebés, un cistograma miccional proporciona información precisa sobre la anatomía del reflujo. Una exploración con radionucleótidos con ácido dimercaptosuccínico (DMSA) brinda información sobre la función del polo afectado e información sobre cicatrices focales (**consulte la Figura 3**).‬
 
 ![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-3.jpg)‬  
 **Figura 3:** DMSA que demuestra poca función en el polo renal inferior izquierdo de un riñón duplicado‬
@@ -126,7 +126,7 @@ El examen clínico de una niña con un uréter ectópico puede identificar el go
 
 La ecografía renal y la exploración prenatal pueden proporcionar una pista sobre la presencia de un uréter ectópico si hay dilatación del uréter ectópico o su riñón del polo superior.‬
 
-En el pasado, los urogramas intravenosos ayudaron a diagnosticar los uréteres ectópicos. El polo superior no excreta efectivamente el contraste durante el estudio, por lo que su presencia se alude a la ausencia de los cálices del polo superior. Se ve un patrón pielocaliceal descrito como el &quot;lirio caído&quot;, con los cálculos del uréter, la pelvis y el polo inferior opacificante (Figura 1). Se proporcionan pistas adicionales mediante un número menor de cálices de lo esperado y el eje anormal del sistema pielocaliceal visualizado. Hoy en día, los urogramas intravenosos se realizan tan raramente en niños que las habilidades necesarias para identificar estos cambios sutiles probablemente no se practican adecuadamente en la mayoría de los departamentos de radiología.‬
+En el pasado, los urogramas intravenosos ayudaron a diagnosticar los uréteres ectópicos. El polo superior no excreta efectivamente el contraste durante el estudio, por lo que su presencia se alude a la ausencia de los cálices del polo superior. Se ve un patrón pielocaliceal descrito como el &quot;lirio caído&quot;, con los cálculos del uréter, la pelvis y el polo inferior opacificante (**Figura 1**). Se proporcionan pistas adicionales mediante un número menor de cálices de lo esperado y el eje anormal del sistema pielocaliceal visualizado. Hoy en día, los urogramas intravenosos se realizan tan raramente en niños que las habilidades necesarias para identificar estos cambios sutiles probablemente no se practican adecuadamente en la mayoría de los departamentos de radiología.‬
 
 Se ha sugerido una tomografía computarizada con contraste como una posible investigación para identificar con éxito los riñones con doble sistema colector con uréteres ectópicos (55). La resonancia magnética (RM) es probablemente una prueba más útil en la que resulta difícil identificar un posible polo superior de un posible riñón con sistema colector doble. Puede recoger un 10% más de duplicación renal que la ecografía (56-58). Aun así, se requiere una cuidadosa adquisición e interpretación de la imagen para maximizar la sensibilidad. Permitir un retraso para que el polo superior tome el contraste puede mejorar la sensibilidad de la exploración de MRI.‬
 
@@ -187,7 +187,7 @@ El ureterocele y su uréter dilatado asociado y el polo superior generalmente se
 
 Se debe tener cuidado de que un uréter distal dilatado adyacente a una vejiga no se confunda con un ureterocele. Se puede pasar por alto un ureterocele que está colapsado en el momento de la ecografía. Un ultrasonido cuidadoso puede proporcionar información útil sobre la extensión del ureterocele y el grosor de su pared posterior.‬
 
-El cistograma miccional es una investigación invaluable en el paciente con un ureterocele (ver Figura 5).‬
+El cistograma miccional es una investigación invaluable en el paciente con un ureterocele (**ver Figura 5**).‬
 
 ![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-5.jpg)‬  
 **Figura 5:** Cistograma miccional que muestra un ureterocele ectópico.
