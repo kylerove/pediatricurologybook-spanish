@@ -61,37 +61,37 @@ Los niños mayores pueden localizar los síntomas en el tracto urinario y presen
 
 Como siempre, la historia de la queja presentada es una guía para diagnosticar una UTI potencial. Se deben buscar otros puntos específicos en la historia para evaluar las posibles condiciones predisponentes subyacentes.‬
 
-### _Historia prenatal_‬
+### Historia prenatal
 
 Por numerosas razones, los registros prenatales a menudo no están disponibles. Si es posible, es útil saber si hay antecedentes de hidroureteronefrosis fetal o anormalidad de la vejiga. ya que esto puede sugerir una anomalía estructural o reflujo vesicoureteral severo subyacente.‬
 
-### _Historia de las infecciones urinarias anteriores_‬
+### Historia de las infecciones urinarias anteriores
 
 ¿Fueron estos cultivos positivos o tratados solo bajo sospecha clínica? ¿Cuáles fueron los organismos cultivados? ¿El niño requirió ingreso en el hospital? ¿Se sometió el niño a investigaciones después de que se diagnosticó y trató la ITU y qué mostraron las investigaciones?‬
 
-### _Historial de condiciones de predisposición tales como cálculos renales, espina bífida o anomalías congénitas_‬
+### Historial de condiciones de predisposición tales como cálculos renales, espina bífida o anomalías congénitas
 
 Los niños con vejigas neurogénicas de espina bífida a menudo se auto cateterizan y, por lo tanto, pueden estar predispuestos a las infecciones urinarias. Los niños con antecedentes de cálculos renales o vesicales también pueden presentar una ITU.‬
 
-### _Flujo urinario, patrón de evacuación_‬
+### Flujo urinario, patrón de evacuación
 
 Los niños con disfunción de la vejiga tienen un mayor riesgo de ITU [ [9](http://www.pediatricurologybook.com/uti_children.html#ENREF_9) ]. Los niños con hiperactividad de la vejiga, disinergia del esfínter detrusor, micción poco frecuente o micción incompleta tienen un mayor riesgo de IU [ [10](http://www.pediatricurologybook.com/uti_children.html#ENREF_10) ]. Las válvulas uretrales posteriores deben sospecharse en niños varones con mala corriente.‬
 
-### _Estreñimiento_‬
+### Estreñimiento
 
 El estreñimiento a menudo se presenta en niños con IU recurrentes. Existe una asociación entre estreñimiento, micción disfuncional, IU recurrentes y RVU en niños [ [11](http://www.pediatricurologybook.com/uti_children.html#ENREF_11) ]. Uno o todos estos componentes pueden estar presentes. A menudo se describen bajo el título de &#39;eliminación disfuncional&#39; o &#39;síndromes de eliminación disfuncional&#39;.‬
 
-### _Antecedentes familiares de reflujo vesicoureteral (RVU)_‬
+### Antecedentes familiares de reflujo vesicoureteral (RVU)
 
 Puede haber reflujo vesicoureteral primario puro y puede ser un factor subyacente en el niño con ITU. Si está presente, y en presencia de IU febriles, existe evidencia de que la intervención quirúrgica para corregir el RVU reducirá el riesgo de pielonefritis [ [12](http://www.pediatricurologybook.com/uti_children.html#ENREF_12) ].‬
 
-### _Examen físico_‬
+### Examen físico
 
 Además del examen físico estándar, el examen debe incluir la detección de sensibilidad en la lumbar, la vejiga o los riñones palpables y la aparición de los genitales externos. Las adherencias labiales en las hembras y el megaprepucio congénito en los machos pueden ser factores predisponentes. Se debe inspeccionar la parte posterior para detectar evidencia de espina bífida oculta. Las extremidades inferiores y el área peri-anal examinadas para detectar signos sutiles de neuropatía, como el desgaste de los músculos de la pantorrilla o la ausencia de reflejo cutáneo.‬
 
 ## Investigaciones
 
-### _Investigaciones para confirmar el diagnóstico de ITU_‬
+### Investigaciones para confirmar el diagnóstico de ITU
 
 El diagnóstico de ITU se confirma generalmente en una muestra de orina enviada para microscopía, cultivo y sensibilidades (MCS). El bebé o el bebé con fiebre que se encuentra muy enfermo se remite al departamento de emergencias de un centro de pediatría secundario o terciario, donde se realiza un examen séptico completo. En un bebé demasiado joven como para anularlo, el espécimen estándar de oro es un aspirado suprapúbico de orina. Si no es posible obtener una muestra suprapúbica, se puede tomar una muestra de catéter. La orina debe enviarse para microscopía y cultura de urgencia en el infante enfermo. Las bacterias que se observan en la microscopía son sensibles al 93% y específicas al 95% para una ITU [ [13](http://www.pediatricurologybook.com/uti_children.html#ENREF_13) ].‬
 
@@ -103,7 +103,7 @@ Los análisis de orina de la sala no son muy sensibles o específicos para confi
 
 Un cultivo con un crecimiento puro de más de 100,000 unidades formadoras de colonias por ml generalmente se considera una ITU, especialmente si se apoya en la presencia de glóbulos blancos en la orina en el microscopio [ [14](http://www.pediatricurologybook.com/uti_children.html#ENREF_14) ].‬
 
-### _Investigaciones recomendadas en un niño con IU inicial probada_‬
+### Investigaciones recomendadas en un niño con IU inicial probada
 
 Los estudios sugieren que entre el 21 y el 50% de los niños con una ITU tienen una anomalía subyacente. Alrededor del 10% de los niños que se presentan con una IU tendrán un hallazgo ecográfico anormal que puede o no afectar el manejo [ [15](http://www.pediatricurologybook.com/uti_children.html#ENREF_15) , [16](http://www.pediatricurologybook.com/uti_children.html#ENREF_16) ]. Esto incluye anomalías como la obstrucción de la unión ureteropiélica, la obstrucción de la unión vesicoureteral y las válvulas de la uretra posterior en los niños. Por este motivo, recomendamos que todos los niños que se presenten con una IU inicial se sometan a un ultrasonido renal.‬
 

@@ -143,27 +143,27 @@ Las anomalías urológicas asociadas incluyen hipoplasia ureteral (50), RVU (51,
 
 En este capítulo se proporciona un algoritmo para la evaluación del recién nacido con hidronefrosis detectada prenatalmente.‬
 
-### Estudios de laboratorio
+#### Estudios de laboratorio
 
-#### _Bioquímica Sérica_‬
+##### Bioquímica Sérica
 
 En presencia de un riñón contralateral normal, los electrolitos séricos, el bicarbonato, la urea y la creatinina usualmente son suficientes. Las personas con anomalías bilaterales del tracto urinario pueden requerir una evaluación más precisa de la función renal general mediante la medición de la tasa de filtración glomerular (TFG).‬
 
-#### _Microbiología de la Orina_‬
+##### Microbiología de la Orina
 
 Cada vez que se sospecha sobre la posibilidad de una infección que complica una UPJA, la orina debe enviarse rápidamente para microscopía, cultivo y estudio de sensibilidad a antibióticos.‬
 
-#### _Biomarcadores Urinarios_‬
+##### Biomarcadores Urinarios_‬
 
 En presencia de un riñón contralateral normal, los electrolitos séricos, el bicarbonato, la urea y la creatinina usualmente son suficientes. Las personas con anomalías bilaterales del tracto urinario pueden requerir una evaluación más precisa de la función renal general mediante la medición de la tasa de filtración glomerular (TFG).‬
 
-### Estudios por Imágenes
+#### Estudios por Imágenes
 
-#### Radiología
+##### Radiología
 
 La imagen seriada es central en la investigación de UPJA, con el fin de diferenciar entre aquellos que experimentan una resolución gradual y aquellos en riesgo de pérdida renal. Las investigaciones se repiten a intervalos para determinar si se han producido cambios, como el aumento de la hidronefrosis y / o la reducción de la función renal diferencial para indicar la intervención quirúrgica. La ecografía y la imagenología funcional también ayudan a determinar el éxito de la cirugía.‬
 
-#### _Ultrasonido_‬
+##### Ultrasonido
 
 El diagnóstico de UPJA unilateral o bilateral puede sospecharse en la ecografía cuando evidencia dilatación pélvica renal sin dilatación ureteral y una vejiga urinaria normal (6,7). Como se discutió anteriormente, se emplean diferentes clasificaciones para el grado de hidronefrosis a cada lado del Atlántico. Sin embargo, ambos sistemas requieren una evaluación de la dilatación de la pelvis renal y calicial **(Figura 2)**.‬
 
@@ -184,21 +184,21 @@ La información que ha de obtenerse de la ecografía renal debe incluir:‬
 ![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-2.png)‬  
 **Figura 2:** _Imagen de ultrasonido longitudinal de un riñón izquierdo extremadamente hidronefrótico. La distancia medida (8,79 cm) es la longitud renal. Tenga en cuenta el parénquima renal extendido sobre los cálices muy dilatados._‬
 
-#### _Ultrasonido Doppler_‬
+##### Ultrasonido Doppler
 
 En manos experimentadas, el escaneo Doppler puede permitir la demostración del cruce de vasos en el polo inferior en un niño cooperativo.‬
 
 ![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-3.png) ![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-4.png)‬  
 **Figura 3:** _Ultrasonido de un riñón hidronefrótico con diagnóstico prenatal derecho que muestra una pelvis renal dilatada (imagen de la izquierda), en combinación con un uréter dilatado (imagen de la derecha) que se puede localizar hasta detrás de la vejiga._‬
 
-#### _Cintigrafía Renal_‬
+##### Cintigrafía Renal
 
 Históricamente, el pielograma intravenoso (IVP) se utilizó para evaluar a los pacientes con posible UPJA. Hoy en día, la renografía con diurético ha tomado el lugar de la IVP en la evaluación de un niño con riñón hidronefrótico **(Figura 4)**. Los beneficios de la renografía con diuréticos son que no se necesita contraste intravenoso a base de yodo, la exposición a la radiación es mínima y la función renal diferencial se puede cuantificar mejor. La desventaja del examen de medicina nuclear es que no proporciona un conocimiento acabado de la anatomía renal.‬
 
 ![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-5.png) ![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-6.png)‬  
 **Figura 4:** _Mercaptotriglicilglicina (MAG-3) en un lactante con hidronefrosis prenatal derecha. Después de 12 meses de observación, la hidronefrosis previamente estable aumentó, lo que provocó una repetición de Mag3 y pieloplastia. El Mag3 demostró la función diferencial igual, pero mientras que el drenaje completo se observó a la izquierda después del cambio en la postura y la micción, en el trazador derecho persistió en la pelvis renal dilatada._‬
 
-#### _Mercaptotriglicilglicina (MAG-3)_‬
+##### Mercaptotriglicilglicina (MAG-3)
 
 La renografía diurética con mercaptotriglicilglicina es la modalidad de imagen funcional más popular en UPJA. Los protocolos precisos para la renografía Mag3 en niños han sido establecidos por la Asociación Europea de Medicina Nuclear (57) y la Sociedad Norteamericana de Medicina Nuclear (58). La renografía Mag3 permite la estimación del aclaramiento renal diferencial a través de la extracción del trazador de la sangre, así como observaciones sobre la excreción a través del tracto urinario por la desaparición del trazador. La función renal diferencial se evalúa mejor entre 1 y 2 minutos, y normalmente oscila entre 45-55%. Es de destacar que, en los riñones ectópicos, Mag3 subestima la función renal diferencial, y que se aconseja en estos casos la gamagrafía renal DMSA (ácido dimercaptosuccínico).‬
 
@@ -210,31 +210,31 @@ Las imágenes post-micción pueden tener en cuenta el efecto del vaciado de la v
 
 No obstante, valen las siguientes advertencias: el drenaje dañado no necesariamente indica obstrucción. La mala hidratación y la función renal general deficiente hacen imposible una estimación precisa de la función diferencial y del drenaje. En un riñón extremadamente hidronefrótico, las conclusiones sobre el drenaje deficiente son precarias, ya que esto puede reflejar un atraso o simplemente un llenado constante del sistema de gran capacidad. La renografía secuencial que documenta los cambios en la función diferencial puede ser necesaria para identificar a aquellos con obstrucción, definida por Koff y Campbell (16) como una restricción al flujo de orina que, si no se trata, causará un deterioro renal progresivo.‬
 
-#### _Ácido dimercaptosuccínico (DMSA)_‬
+##### Ácido dimercaptosuccínico (DMSA)
 
 El 99mTc ácido dimercaptosuccínico se une al túbulo contorneado proximal. La inyección intravenosa es seguida por la adquisición de imágenes 2-3 horas después (61). Hoy en día, DMSA proporciona la función relativa más precisa de los riñones y es el estudio de elección para las anomalías del parénquima renal. Como se discutió anteriormente, la función diferencial estimada por Mag3 es inexacta en aquellos con una función renal general deficiente y en aquellos con riñones ectópicos, y se recomienda la indicación de un DMSA. En casos de función diferencial reducida a alrededor del 15%, un DMSA puede ayudar a aclarar la elección entre la realización de una pieloplastia y una nefrectomía.‬
 
-#### _Dietilentriamina (DTPA)_‬
+##### Dietilentriamina (DTPA)
 
 La 99mTc dietilentriamina tiene una baja tasa de extracción renal y, en cambio, depende de la filtración. El riñón de los recién nacidos aún es inmaduro y el aclaramiento renal aumenta progresivamente hasta aproximadamente los 2 años de edad. En niños pequeños, esto da como resultado una alta actividad de fondo y una relación riñón-fondo deficiente para DTPA; Mag3 es por lo tanto el estudio de preferencia (61).‬
 
-#### _**Urografía por Resonancia Magnética (URM)**_‬
+##### Urografía por Resonancia Magnética (URM)
 
 Las ventajas de adquirir información anatómica y funcional del tracto urinario en un único estudio sin radiación ionizante hacen que la URM dinámica con contraste de gadolinio-DTPA sea una modalidad de imagen ideal para los niños. Se pueden obtener detalles de la vasculatura renal, incluidos los vasos de cruce de polos inferiores, la morfología cortical renal y la anatomía pélvica y ureteral renal. Sin embargo, la metodología para el análisis funcional continúa desarrollándose y los protocolos para su interpretación aún están siendo validados. Además, como generalmente se necesita sedación o anestesia general para URM en niños menores de 6 años, su uso se limita en su mayor parte a anomalías complejas del tracto urinario.‬
 
-#### _Fluoroscopía_‬
+##### Fluoroscopía
 
 Como se discutió anteriormente, el CUGM sólo está indicado en niños con hidronefrosis bilateral, en presencia de dilatación ureteral o una vejiga anormal.‬
 
-#### _Urografía Intravenosa (UIV)_‬
+##### Urografía Intravenosa (UIV)
 
 Como se explicó anteriormente, esto ha sido reemplazado en gran medida por las modalidades de imágenes anteriores.‬
 
-#### _Ureteropielografía Retrógrada_‬
+##### Ureteropielografía Retrógrada
 
 La ureteropielografía retrógrada, a través de la cistoscopía, a veces se indica para aclarar la anatomía ureteral. Por ejemplo, puede permitir la diferenciación entre las anomalías de la unión pélvico-ureteral y vesico-ureteral (VUJ), cuando no queda claro en las imágenes preoperatorias. De manera similar, una anomalía VUJ adicional puede identificarse de esta manera antes de la pieloplastia.‬
 
-#### _Pielografía Anterógrada_‬
+##### Pielografía Anterógrada
 
 En casos difíciles, la punción del sistema colector renal permite la observación del flujo de contraste a través de la UPJ. Whitaker intentó refinar el estudio anterógrado midiendo la presión durante la instalación de solución salina en la pelvis renal a un ritmo constante. Desafortunadamente, los resultados obtenidos se correlacionan pobremente con la &quot;obstrucción&quot; definida por otros medios, y por lo tanto, el estudio de Whitaker se usa raramente hoy en día **(Figura 5)**.‬
 
@@ -269,15 +269,15 @@ También se puede considerar la derivación temporal de la orina pélvica a trav
 
 Los principios quirúrgicos para la pieloplastia son la formación de una anastomosis en forma de embudo sin tensión que se estanca al agua y permite un drenaje dependiente. En niños, el procedimiento de elección es una reparación desmembrada, como lo describen Anderson y Hynes, que permite la escisión del segmento UPJ típicamente fibrótico y estenótico. Las tasas de éxito superan el 95%.‬
 
-### _Pieloplastia Anderson-Hynes_‬
+### Pieloplastia Anderson-Hynes
 
 El riñón se puede alcanzar con una lumbotomía anterior extraperitoneal, por el flanco o mediante una lumbotomía dorsal. Al seguir el polo inferior del riñón medialmente, el cirujano es guiado hacia la UPJ. El uréter se inclina y diseca distalmente para una reparación sin tensión. La adventicia se elimina de la UPJ y la pelvis renal. Luego se colocan suturas en la pelvis renal y se reseca la pelvis renal para una anastomosis dependiente. El uréter es modelado con forma de espátula para asegurar una anastomosis amplia. En presencia de vasos que cruzan el polo inferior, la anastomosis se modela anterior a la vasculatura. La colocación de un stent nefro-ureteral o JJ temporal depende de la preferencia del cirujano. Un metaanálisis reciente documentó tasas de éxito del 95% para el procedimiento con o sin colocación de stents, y se encontró que los stents externos son más rentables que no usar stents o usar stents internos JJ (66).‬
 
-### _Pieloplastia laparoscópica_‬
+### Pieloplastia laparoscópica
 
 La pieloplastia laparoscópica está creciendo en popularidad. El abordaje laparoscópico es especialmente efectivo para tratar riñones ectópicos o anormales, como por ejemplo un riñón en herradura. Sin embargo, es un procedimiento técnicamente exigente, que requiere una experiencia laparoscópica significativa. En los lactantes pequeños, las limitaciones de espacio hacen que el abordaje laparoscópico sea inviable. En niños mayores, el tiempo operatorio más prolongado se compensa con una disminución de la morbilidad, una estancia hospitalaria más corta y una recuperación más rápida (67). Las tasas de éxito son comparables a la pieloplastia abierta. Para una descripción de la técnica, el lector puede buscar en el capítulo de Tan sobre Cirugía Pediátrica (68). Otros autores emplean un abordaje retroperitoneoscópico, como lo ilustran El-Ghoneimi y cols. (69).‬
 
-### _Pieloplastia Laparoscópica Asistida por Robot_‬
+### Pieloplastia Laparoscópica Asistida por Robot
 
 Los sistemas quirúrgicos robóticos ofrecen una mejor manipulación y visualización del campo operatorio y, por lo tanto, una curva de aprendizaje más corta que la pieloplastia laparoscópica (70). La seguridad y la eficacia parecen ser comparables a la cirugía abierta. De nuevo, la duración reducida de la estadía hospitalaria y el requerimiento analgésico han de equilibrarse con un tiempo quirúrgico significativamente mayor (71).‬
 
