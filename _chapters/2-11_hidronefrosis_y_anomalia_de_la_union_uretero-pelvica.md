@@ -6,6 +6,7 @@ title: Hidronefrosis y anomalía de la unión úretero-pélvica
 sort-key: 2-11
 permalink-en: /hydronephrosis_upja.html
 layout: default
+review-formatting-complete: AM-2021-11-13
 ---
 
 # Hidronefrosis y Anomalía de la Unión Úretero-Pélvica
@@ -20,17 +21,17 @@ _<sup>a</sup>Hospital de Pediatria_{: .translator-location}
 _<sup>b</sup>Buenos Aires Argentina‬_{: .translator-location}
 {: #translator-p}
 
-**Hidronefrosis**‬
+## Hidronefrosis
 
-**Definición**‬
+### Definición
 
 La hidronefrosis se define como la dilatación de la pelvis renal y / o los cálices (1). Puede ocurrir como resultado de una disfunción del flujo de orina o el flujo retrógrado de orina.‬
 
-**Clasificaciones**‬
+### Clasificaciones
 
 Confusamente, se usan diferentes métodos para clasificar la gravedad de la hidronefrosis según los resultados de estudios de ultrasonido a ambos lados del Atlántico (2). En América del Norte, la clasificación SFU (Sociedad de Urología Fetal, del inglés &quot;Society of Fetal Urology&quot;) (3) ha sido adoptada como el estándar de oro (4). SFU Grado 1 describe una pelvis renal derramada. Grado 2 se refiere a una mayor dilatación de la pelvis renal con visualización de algunos cálices. Grado 3 es la dilatación de la pelvis renal con muchos cálices distendidos y con adelgazamiento adicional del parénquima renal que representa el Grado 4. Sin embargo, la subjetividad al evaluar el aspecto de los cálices, la pelvis renal y el parénquima da como resultado una variación inter-observador significativa, especialmente para las hidronefrosis de mayor grado (5). En Europa, se emplea un método más objetivo para medir el diámetro pélvico antero-posterior en el plano transversal (6), combinado con una descripción aún subjetiva del grado de dilatación del cáliz y la calidad del parénquima.‬
 
-**Diagnóstico Prenatal**‬
+### Diagnóstico Prenatal
 
 En el útero, la hidronefrosis se define como el diámetro pélvico renal fetal \&gt; 5 mm en el segundo trimestre y \&gt; 7 mm en el tercer trimestre (6,7). Se cree que la formación de orina comienza entre la 5ª y la 8ª semanas de gestación (8). A las 20 semanas, el feto produce aproximadamente 5 cc de orina por hora y para la semana 40 esto aumenta a 50 cc de orina por hora. Se puede observar que la vejiga fetal se vacía mediante un ultrasonido antes de la semana 15. La capacidad de la vejiga, que es de aproximadamente 10 cc a las 30 semanas, aumenta a 50 cc en un feto a término.‬
 
@@ -38,21 +39,21 @@ La dilatación del tracto urinario diagnosticada prenatalmente puede deberse a l
 
 ![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-1.jpg)‬
 
-_ **Figura 1:** _ _Imagen de ultrasonido prenatal de un riñón displásico multiquístico en un feto de mitad de gestación. Los marcadores indican la longitud renal (71 mm). Nótese los múltiples quistes de gran tamaño entre el parénquima ecogénico, que parecen no comunicante en un examen de ultrasonido meticuloso._‬
+_ **Figura 1:** _Imagen de ultrasonido prenatal de un riñón displásico multiquístico en un feto de mitad de gestación. Los marcadores indican la longitud renal (71 mm). Nótese los múltiples quistes de gran tamaño entre el parénquima ecogénico, que parecen no comunicante en un examen de ultrasonido meticuloso._‬
 
-**Historia Natural**‬
+### Historia Natural‬
 
 En el pasado, el manejo de la hidronefrosis era sencillo porque los niños presentaban síntomas, en particular infección o dolor, que justificaban su operación. En la actualidad, las anomalías congénitas del riñón y el tracto urinario (CAKUT, del inglés &quot;Congenital Anomalies of the Kidney and Urinary Tract&quot;) se diagnostican cada vez más mediante ultrasonografía prenatal, con 1: 850 embarazos (13) con una anomalía del tracto urinario detectada prenatalmente (AUTA, del inglés &quot;Antenatally detected Urinary Tract Anomaly&quot;) (14). Los avances en la tecnología de ultrasonido y la identificación de un gran número de dilataciones asintomáticas del tracto urinario superior han obligado a los médicos a modificar su comprensión de la importancia de la hidronefrosis. Los estudios de historia natural a largo plazo muestran que la dilatación a menudo mejora o se resuelve espontáneamente (15,16); hidronefrosis no es sinónimo de obstrucción (17,18).‬
 
-**Asesoramiento Postnatal del Recién Nacido con Hidronefrosis Prenatal**‬
+### Asesoramiento Postnatal del Recién Nacido con Hidronefrosis Prenatal
 
 Cuando se descubre la hidronefrosis prenatal, es imperativo confirmar el diagnóstico postnatal. El conocimiento de las evaluaciones prenatales durante la progresión del embarazo forma el punto de partida de la evaluación del recién nacido (19). El grado de hidronefrosis unilateral o bilateral, la dilatación ureteral, el tamaño renal y el aspecto parenquimatoso, la visualización y el tamaño de la vejiga fetal, así como el volumen de líquido amniótico en relación con la edad gestacional son los datos clave que se obtienen de la ecografía prenatal (7). La probabilidad de una patología posnatal significativa se correlaciona con la gravedad de la hidronefrosis antenatal (20).‬
 
-Examen Clínico‬
+_Examen Clínico‬:_
 
 Se requiere un examen físico minucioso del neonato. Esto puede revelar una masa abdominal palpable en recién nacidos con anomalías de unión uretero-pélvica (UPJA, del inglés &quot;Uretero-Pelvic Junction Anomaly&quot;), riñón displásico multiquístico (MCDK, del inglés &quot;Multicystic Dysplastic Kidney&quot;), enfermedad renal poliquística autosómica recesiva, obstrucción congénita del flujo de salida de la vejiga, válvulas uretrales posteriores (VUP, del inglés &quot;Posterior Urethral Valves&quot;) y atresia de uretra (19). Las anomalías del tracto urinario pueden ocurrir de forma secundaria a otras anomalías congénitas, por ejemplo, defectos del tubo neural, y aparecen en muchas anomalías cromosómicas y síndromes (21). Por ejemplo, la musculatura deficiente de la pared abdominal con criptorquitis bilateral aumenta la posibilidad del síndrome de ciruela pasa, mientras que la atresia anorrectal o esofágica puede apuntar a la asociación VACTERL (defectos vertebrales, atresia anal, defectos cardíacos, fístula traqueo-esofágica, anomalías renales, y anomalías en las extremidades). Los efectos secundarios de oligohidramnios, debido a oliguria o anuria en la segunda mitad del embarazo, pueden estar presentes, culminando en la secuencia de Potter o pie equinovaro (19). Si bien la aparición de la vejiga abierta en la pared abdominal anterior en la extrofia vesical es llamativa, otras CAKUT pueden no tener manifestaciones obvias en el examen físico. Por lo tanto, es necesario un ultrasonido posnatal.‬
 
-Investigaciones‬
+_Investigaciones‬:_
 
 La ecografía posnatal debe realizarse después del día 2 ó 3 de vida (22) porque el ultrasonido anterior a ésta puede llevar a un resultado falso negativo (23), debido a la oliguria relativa del período neonatal (6). Si no se detecta ninguna anormalidad, se recomienda una ecografía repetida a las 6 semanas de edad (19,20). La evaluación ecográfica debe comprender imágenes de la vejiga incluyendo el grosor de la pared de la misma y la presencia de uréteres o ureteroceles dilatados, vistas en decúbito prono de los riñones para medir con precisión la longitud renal y el diámetro pélvico renal en el plano anteroposterior, así como una evaluación de la dilatación calicial y el parénquima renal (6). A continuación se proporciona un algoritmo para la investigación del neonato con hidronefrosis prenatal.‬
 
@@ -66,11 +67,11 @@ Si la ecografía postnatal muestra dilatación pélvica renal unilateral, no es 
 
 El papel de la CUGM en los recién nacidos con dilatación unilateral está menos establecido, y todavía hay controversia (20). Inicialmente se consideraba que todos los bebés con dilatación pélvica de cualquier grado requerían un CUGM para excluir el reflujo vesicoureteral (RVU), que está presente en aproximadamente 15-20% de los casos (24). Estudios más recientes han cuestionado la importancia clínica del RVU. Nosotros, como muchos otros centros (25), abogamos por la realización de una CUGM sólo en pacientes con hidronefrosis bilateral o unilateral \&gt; 10 mm en un riñón solitario, con un uréter dilatado o en los que existe una sospecha de vejiga anormal. Una CUGM no es necesaria cuando hay hidronefrosis unilateral y un riñón contralateral normal. Otros autores, sin embargo, aún recomiendan que se realice una CUGM en todos los casos en que persista una hidronefrosis significativa después del nacimiento (19,26). Los pacientes deben recibir una dosis de tratamiento con antibióticos (trimetoprima 4 mg/kg bid) el día de la CUGM y los 3 días posteriores para prevenir complicaciones de la infección.‬
 
-Antibióticos de Profilaxis‬
+_Antibióticos de Profilaxis‬:_
 
 El uso de antibióticos profilácticos también se encuentra en debate (20,27,28). Mientras que algunas unidades recomiendan su uso en todos los neonatos sometidos a investigación por hidronefrosis antenatal (26,27), otros aconsejan que, en lugar de la profilaxis de rutina, las familias deben ser educadas sobre los signos y síntomas de una infección del tracto urinario diagnostica o, para permitir un diagnóstico y tratamiento oportunos si se la infección (19). Abogamos por el uso de trimetoprima profiláctica a dosis de 2 mg/kg inicialmente para todos los neonatos que cumplan con los criterios de CUGM, y posteriormente para aquellos que tienen RVU Grado III a V, o en ausencia de RVU pero con dilatación ureteral \&gt; 10 mm, o para aquellos con hidronefrosis \&gt; 20 mm.‬
 
-Etiologías subyacentes‬
+### Etiologías subyacentes‬
 
 Después de las investigaciones iniciales del recién nacido y de aquellas correspondientes a las 6-12 semanas de vida, se puede hacer un diagnóstico en la mayoría de los infantes. La siguiente tabla enumera las anomalías del parénquima renal más comunes y las causas de dilatación, que pueden coexistir. Los diagnósticos individuales se discuten en los siguientes capítulos.‬
 
@@ -91,79 +92,79 @@ Después de las investigaciones iniciales del recién nacido y de aquellas corre
  |‬
 | --- | --- |‬
 
-**Anomalía de la unión urétero-pélvica (UPJA)**‬
+## Anomalía de la unión urétero-pélvica (UPJA)
 
-**Definición**‬
+### Definición
 
 Una anomalía de la UPJ se define como la alteración del flujo de orina desde la pelvis renal hacia el uréter, lo que causa la dilatación patológica de la pelvis renal y los cálices, y culmina en un daño renal progresivo. El diagnóstico de UPJA puede sospecharse cuando una ecografía evidencia una pelvis renal dilatada sin dilatación ureteral y una vejiga normal (6,7) **.**‬
 
-**Incidencia**‬
+### Incidencia
 
 UPJA es la anomalía del tracto urinario diagnosticada prenatalmente más común (29,30) que representa aproximadamente la mitad de todas las hidronefrosis prenatales (15). El lado izquierdo es más afectado que el derecho en una proporción de 2:11. UPJA es bilateral en el 10% al 20% de los casos y es de 2 a 3 veces más común en hombres que en mujeres (7,31).‬
 
-**Etiología**‬
+### Etiología
 
 La mayoría de las UPJA es de origen primario y congénito, aunque el problema puede no ser clínicamente evidente hasta mucho más tarde en la vida.‬
 
-_ **UPJA Primario - Intrínseco:** _ con frecuencia, la UPJA congénita se caracteriza histológicamente por arreglos fibromusculares y neuronales anormales en la UPJ32, lo que interfiere con el peristaltismo normal de la orina en este punto (Véase fisiopatología).‬
+_UPJA Primario - Intrínseco:_ con frecuencia, la UPJA congénita se caracteriza histológicamente por arreglos fibromusculares y neuronales anormales en la UPJ32, lo que interfiere con el peristaltismo normal de la orina en este punto (Véase fisiopatología).‬
 
-_ **Extraluminal:** _ Alternativa o adicionalmente, la compresión extrínseca de la UPJ, que puede ser intermitente, puede a su vez resultar de, por ejemplo, vasos aberrantes que cruzan al polo inferior del riñón (7). Ocasionalmente, el uréter puede estar comprimido por la vena cava inferior o distorsionado por el istmo de un riñón en herradura. Aun así, una etiología intrínseca sigue siendo más común en un riñón en herradura con UPJA que una distorsión por su istmo.‬
+_Extraluminal:_ Alternativa o adicionalmente, la compresión extrínseca de la UPJ, que puede ser intermitente, puede a su vez resultar de, por ejemplo, vasos aberrantes que cruzan al polo inferior del riñón (7). Ocasionalmente, el uréter puede estar comprimido por la vena cava inferior o distorsionado por el istmo de un riñón en herradura. Aun así, una etiología intrínseca sigue siendo más común en un riñón en herradura con UPJA que una distorsión por su istmo.‬
 
-_ **Intraluminal:** _ La obstrucción por cálculos o pólipos fibroepiteliales es poco frecuente en niños.‬
+_Intraluminal:_ La obstrucción por cálculos o pólipos fibroepiteliales es poco frecuente en niños.‬
 
-_ **UPJA Secundario:** _En casos severos de RVU, el uréter puede volverse extremadamente tortuoso y retorcerse sobre sí mismo produciendo un UPJA secundario. La cicatrización después de una cirugía previa o piedras impactadas pueden resultar en una estenosis de la UPJ.‬
+_UPJA Secundario:_ En casos severos de RVU, el uréter puede volverse extremadamente tortuoso y retorcerse sobre sí mismo produciendo un UPJA secundario. La cicatrización después de una cirugía previa o piedras impactadas pueden resultar en una estenosis de la UPJ.‬
 
-**Genética**‬
+### Genética
 
 La UPJA congénita es esporádica y sólo media docena de familias con una alta incidencia de hidronefrosis han sido previamente informadas en la literatura: el vínculo con la región HLA del cromosoma 6 se identificó en algunas, pero no en otras familias (33). En cuanto a otros CAKUT (34,35), la heterogeneidad genética las UPJA congénitas ha de anticiparse en vista de nuestra comprensión de la complejidad de las redes de señalización reguladora, involucradas en la ureterogénesis.‬
 
-**Embriología**‬
+### Embriología
 
 El mesénquima metanéfrico envía señales a la yema ureteral para iniciar su crecimiento desde la cara posterior del conducto mesonéfrico hacia el blastema metanéfrico (36) en la quinta semana gestacional. La yema ureteral origina el epitelio de la pelvis renal y el uréter, el urotelio, y se ramifica repetidamente para formar los conductos colectores. Los extremos de los conductos colectores inducen la agregación de células mesenquimatosas metanéfricas e interacciones epiteliales - mesenquimatosas para la formación de nefronas. Las células mesenquimales que rodean el tallo de la yema ureteral se desarrollan en las células de la lámina propia, el músculo liso y el tejido conectivo de la pelvis renal y el uréter. La señalización recíproca entre los componentes epiteliales y mesenquimales de la pelvis renal y el uréter es esencial para su correcto desarrollo. Si bien la canalización del uréter se logra al final de la embriogénesis, la maduración de la pared ureteral continúa mucho más allá del nacimiento, lo que puede explicar la mejoría o resolución espontánea de muchas hidronefrosis detectadas prenatalmente (7).‬
 
-**Control Molecular**‬
+### Control Molecular
 
 El control molecular de la ureterogénesis normal está comenzando a desvelarse (37,38). Como los procesos de desarrollo y sus genes están altamente conservados entre especies, los modelos animales están contribuyendo enormemente a nuestro conocimiento. Se identifican cada vez más genes expresados durante el desarrollo normal del tracto urinario, principalmente del modelo animal ratón (39,40). Se están empleando diferentes técnicas para explorar la función de estos genes, incluidos los experimentos de cultivo de células y órganos in vitro, y los mutantes de ratón con genes específicos knock-outs. La identificación de mutaciones particulares en genes humanos correspondientes en algunos niños con malformaciones del tracto urinario (39,40) proporciona una mayor comprensión.‬
 
 Hasta el momento, se han sugerido varias redes reguladoras para el desarrollo ureteral, que pueden interconectarse u operar en paralelo. Por ejemplo, Airik y cols. (41) han sugerido un papel independiente para el factor de transcripción T-box 18 (Tbx18) en la señalización Wnt y en una cascada que implica sonic hedgehog (Shh) - Patched-1 (42) - proteína morfogenética ósea 4 (Bmp4) (43). El gen altamente conservado, Teashirt 3 (Tshz3), que codifica un factor de transcripción, puede actuar cadena abajo o como un co-factor permisivo de la vía Shh, y tiene efectos sobre la señalización del ácido retinoico y sobre la miocardina (36,37). Los precursores del músculo liso ureteral del ratón expresan Tshz3. Los ratones mutantes nulos de Teashirt 3 tienen hidronefrosis congénita sin obstrucción anatómica: el aumento de la hidronefrosis va precedido de una diferenciación del músculo liso ureteral fallida, y ex vivo, sus uréteres carecen de peristalsis (36). Además, una variante de codificación de TSHZ3 parece ser un factor de riesgo para UPJA congénito humano (36), lo que infiere una etiología genética para esta condición. Los alelos mutantes nulos del gen Dlgh1 (44), el receptor de angiotensina tipo 1 (Agtr1) (45) o la inactivación del gen de la calcineurina B1 (Cnb1) en el mesénquima de vías urinarias (46), también denotan un músculo liso pélvico ureteral defectuoso, con fracaso del peristaltismo, que resulta en hidronefrosis progresiva.‬
 
-**Fisiopatología**‬
+### Fisiopatología
 
 Nuestra comprensión de la fisiopatología de la UPJA congénita sigue siendo rudimentaria. La falta de un bloqueo anatómico en el uréter emparejado con un músculo liso anormal y una disposición neural en el UPJ32 (47), han dado lugar al concepto de una obstrucción &quot;funcional&quot;. El uréter normal impulsa la orina desde la pelvis renal hacia la vejiga a través de contracciones peristálticas unidireccionales desencadenadas por las células del marcapaso (48), al tiempo que previene el reflujo. Se cree que la falla de este mecanismo peristáltico causa hidronefrosis a través del flujo ineficaz de la orina (46). El cumplimiento intrínseco del sistema colector inicialmente intenta evitar aumentos de presión acomodando la orina acumulada a través de la dilatación. Sin embargo, la persistencia del deterioro del flujo urinario eventualmente produce hipertrofia de la pelvis renal con pérdida de funcionalidad y aumento de la presión dentro del sistema colector. Cambios en la función renal prosiguen luego. En términos generales, la obstrucción en la gestación temprana afecta el crecimiento renal y la diferenciación, produciendo pequeños riñones displásicos. Más tarde, genera principalmente un sistema dilatado (7) con estiramiento progresivo de la corteza renal precediendo cambios histológicos y funcionales. La clave en UPJA congénita es identificar aquellos casos que progresarán a un deterioro renal, si no se tratan, de aquellos que mejorarán o se resolverán espontáneamente con el tiempo.‬
 
-**Características Clínicas**‬
+### Características Clínicas
 
 Aunque muchos UPJA se diagnostican con ultrasonido prenatal, algunos todavía se presentan como problemas en la infancia y más allá. La detección de una masa abdominal fue uno de los principales síntomas de UPJA en bebés antes de la era del ultrasonido (49). El dolor en el cuadrante superior o el ángulo renal refleja una distensión más aguda de la pelvis renal, y puede acompañarse de náuseas y vómitos. Una historia detallada puede revelar que el dolor se correlaciona con períodos de mayor ingesta de líquidos o ingestión de un alimento con propiedades diuréticas (es decir, crisis de Dietl), o compresión intermitente de la UPJ, por ejemplo, por los vasos que cruzan los polos inferiores del riñón. La pielonefritis / pionefrosis y la sepsis, la hematuria y la hipertensión son presentaciones menos comunes de UPJA.‬
 
-**Anomalías Asociadas**‬
+_Anomalías Asociadas_
 
 Las anomalías urológicas asociadas incluyen hipoplasia ureteral (50), RVU (51,52), UPJ, duplicación ureteral parcial o completa (53,54) y riñón en herradura. La UPJA puede asociarse con anomalía anorrectal, cardiopatía congénita y síndrome de VATER (55).‬
 
-**Investigaciones**‬
+### Investigaciones
 
 En este capítulo se proporciona un algoritmo para la evaluación del recién nacido con hidronefrosis detectada prenatalmente.‬
 
-**Estudios de laboratorio**‬
+### Estudios de laboratorio
 
-_ **Bioquímica Sérica** _‬
+#### _Bioquímica Sérica_‬
 
 En presencia de un riñón contralateral normal, los electrolitos séricos, el bicarbonato, la urea y la creatinina usualmente son suficientes. Las personas con anomalías bilaterales del tracto urinario pueden requerir una evaluación más precisa de la función renal general mediante la medición de la tasa de filtración glomerular (TFG).‬
 
-_ **Microbiología de la Orina** _‬
+#### _Microbiología de la Orina_‬
 
 Cada vez que se sospecha sobre la posibilidad de una infección que complica una UPJA, la orina debe enviarse rápidamente para microscopía, cultivo y estudio de sensibilidad a antibióticos.‬
 
-_ **Biomarcadores Urinarios** _‬
+#### _Biomarcadores Urinarios_‬
 
 En presencia de un riñón contralateral normal, los electrolitos séricos, el bicarbonato, la urea y la creatinina usualmente son suficientes. Las personas con anomalías bilaterales del tracto urinario pueden requerir una evaluación más precisa de la función renal general mediante la medición de la tasa de filtración glomerular (TFG).‬
 
-**Estudios por Imágenes**‬
+### Estudios por Imágenes
 
-_ **Radiología** _‬
+#### Radiología
 
 La imagen seriada es central en la investigación de UPJA, con el fin de diferenciar entre aquellos que experimentan una resolución gradual y aquellos en riesgo de pérdida renal. Las investigaciones se repiten a intervalos para determinar si se han producido cambios, como el aumento de la hidronefrosis y / o la reducción de la función renal diferencial para indicar la intervención quirúrgica. La ecografía y la imagenología funcional también ayudan a determinar el éxito de la cirugía.‬
 
-_ **Ultrasonido** _‬
+#### _Ultrasonido_‬
 
 El diagnóstico de UPJA unilateral o bilateral puede sospecharse en la ecografía cuando evidencia dilatación pélvica renal sin dilatación ureteral y una vejiga urinaria normal (6,7). Como se discutió anteriormente, se emplean diferentes clasificaciones para el grado de hidronefrosis a cada lado del Atlántico. Sin embargo, ambos sistemas requieren una evaluación de la dilatación de la pelvis renal y calicial **(Figura 2)**.‬
 
@@ -181,27 +182,24 @@ La información que ha de obtenerse de la ecografía renal debe incluir:‬
 
 6. vistas de los uréteres y la vejiga, incluida la medición del volumen de la vejiga. En aquellos pacientes capaces de vaciar la vejiga, se debe registrar el volumen vesical antes y después de la micción **(Figura 3).**‬
 
-![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-2.png)‬
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-2.png)‬  
+**Figura 2:** _Imagen de ultrasonido longitudinal de un riñón izquierdo extremadamente hidronefrótico. La distancia medida (8,79 cm) es la longitud renal. Tenga en cuenta el parénquima renal extendido sobre los cálices muy dilatados._‬
 
-_Figura 2: Imagen de ultrasonido longitudinal de un riñón izquierdo extremadamente hidronefrótico. La distancia medida (8,79 cm) es la longitud renal. Tenga en cuenta el parénquima renal extendido sobre los cálices muy dilatados._‬
-
-_ **Ultrasonido Doppler** _‬
+#### _Ultrasonido Doppler_‬
 
 En manos experimentadas, el escaneo Doppler puede permitir la demostración del cruce de vasos en el polo inferior en un niño cooperativo.‬
 
-![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-3.png) ![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-4.png)‬
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-3.png) ![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-4.png)‬  
+**Figura 3:** _Ultrasonido de un riñón hidronefrótico con diagnóstico prenatal derecho que muestra una pelvis renal dilatada (imagen de la izquierda), en combinación con un uréter dilatado (imagen de la derecha) que se puede localizar hasta detrás de la vejiga._‬
 
-_Figura 3: Ultrasonido de un riñón hidronefrótico con diagnóstico prenatal derecho que muestra una pelvis renal dilatada (imagen de la izquierda), en combinación con un uréter dilatado (imagen de la derecha) que se puede localizar hasta detrás de la vejiga._‬
-
-_ **Cintigrafía Renal** _‬
+#### _Cintigrafía Renal_‬
 
 Históricamente, el pielograma intravenoso (IVP) se utilizó para evaluar a los pacientes con posible UPJA. Hoy en día, la renografía con diurético ha tomado el lugar de la IVP en la evaluación de un niño con riñón hidronefrótico **(Figura 4)**. Los beneficios de la renografía con diuréticos son que no se necesita contraste intravenoso a base de yodo, la exposición a la radiación es mínima y la función renal diferencial se puede cuantificar mejor. La desventaja del examen de medicina nuclear es que no proporciona un conocimiento acabado de la anatomía renal.‬
 
-![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-5.png) ![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-6.png)‬
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-5.png) ![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-6.png)‬  
+**Figura 4:** _Mercaptotriglicilglicina (MAG-3) en un lactante con hidronefrosis prenatal derecha. Después de 12 meses de observación, la hidronefrosis previamente estable aumentó, lo que provocó una repetición de Mag3 y pieloplastia. El Mag3 demostró la función diferencial igual, pero mientras que el drenaje completo se observó a la izquierda después del cambio en la postura y la micción, en el trazador derecho persistió en la pelvis renal dilatada._‬
 
-_Figura 4: Mercaptotriglicilglicina (MAG-3) en un lactante con hidronefrosis prenatal derecha. Después de 12 meses de observación, la hidronefrosis previamente estable aumentó, lo que provocó una repetición de Mag3 y pieloplastia. El Mag3 demostró la función diferencial igual, pero mientras que el drenaje completo se observó a la izquierda después del cambio en la postura y la micción, en el trazador derecho persistió en la pelvis renal dilatada._‬
-
-_Mercaptotriglicilglicina (MAG-3)_‬
+#### _Mercaptotriglicilglicina (MAG-3)_‬
 
 La renografía diurética con mercaptotriglicilglicina es la modalidad de imagen funcional más popular en UPJA. Los protocolos precisos para la renografía Mag3 en niños han sido establecidos por la Asociación Europea de Medicina Nuclear (57) y la Sociedad Norteamericana de Medicina Nuclear (58). La renografía Mag3 permite la estimación del aclaramiento renal diferencial a través de la extracción del trazador de la sangre, así como observaciones sobre la excreción a través del tracto urinario por la desaparición del trazador. La función renal diferencial se evalúa mejor entre 1 y 2 minutos, y normalmente oscila entre 45-55%. Es de destacar que, en los riñones ectópicos, Mag3 subestima la función renal diferencial, y que se aconseja en estos casos la gamagrafía renal DMSA (ácido dimercaptosuccínico).‬
 
@@ -213,39 +211,38 @@ Las imágenes post-micción pueden tener en cuenta el efecto del vaciado de la v
 
 No obstante, valen las siguientes advertencias: el drenaje dañado no necesariamente indica obstrucción. La mala hidratación y la función renal general deficiente hacen imposible una estimación precisa de la función diferencial y del drenaje. En un riñón extremadamente hidronefrótico, las conclusiones sobre el drenaje deficiente son precarias, ya que esto puede reflejar un atraso o simplemente un llenado constante del sistema de gran capacidad. La renografía secuencial que documenta los cambios en la función diferencial puede ser necesaria para identificar a aquellos con obstrucción, definida por Koff y Campbell (16) como una restricción al flujo de orina que, si no se trata, causará un deterioro renal progresivo.‬
 
-_Ácido dimercaptosuccínico (DMSA)_‬
+#### _Ácido dimercaptosuccínico (DMSA)_‬
 
 El 99mTc ácido dimercaptosuccínico se une al túbulo contorneado proximal. La inyección intravenosa es seguida por la adquisición de imágenes 2-3 horas después (61). Hoy en día, DMSA proporciona la función relativa más precisa de los riñones y es el estudio de elección para las anomalías del parénquima renal. Como se discutió anteriormente, la función diferencial estimada por Mag3 es inexacta en aquellos con una función renal general deficiente y en aquellos con riñones ectópicos, y se recomienda la indicación de un DMSA. En casos de función diferencial reducida a alrededor del 15%, un DMSA puede ayudar a aclarar la elección entre la realización de una pieloplastia y una nefrectomía.‬
 
-_Dietilentriamina (DTPA)_‬
+#### _Dietilentriamina (DTPA)_‬
 
 La 99mTc dietilentriamina tiene una baja tasa de extracción renal y, en cambio, depende de la filtración. El riñón de los recién nacidos aún es inmaduro y el aclaramiento renal aumenta progresivamente hasta aproximadamente los 2 años de edad. En niños pequeños, esto da como resultado una alta actividad de fondo y una relación riñón-fondo deficiente para DTPA; Mag3 es por lo tanto el estudio de preferencia (61).‬
 
-_**Urografía por Resonancia Magnética (URM)**_‬
+#### _**Urografía por Resonancia Magnética (URM)**_‬
 
 Las ventajas de adquirir información anatómica y funcional del tracto urinario en un único estudio sin radiación ionizante hacen que la URM dinámica con contraste de gadolinio-DTPA sea una modalidad de imagen ideal para los niños. Se pueden obtener detalles de la vasculatura renal, incluidos los vasos de cruce de polos inferiores, la morfología cortical renal y la anatomía pélvica y ureteral renal. Sin embargo, la metodología para el análisis funcional continúa desarrollándose y los protocolos para su interpretación aún están siendo validados. Además, como generalmente se necesita sedación o anestesia general para URM en niños menores de 6 años, su uso se limita en su mayor parte a anomalías complejas del tracto urinario.‬
 
-_ **Fluoroscopía** _‬
+#### _Fluoroscopía_‬
 
 Como se discutió anteriormente, el CUGM sólo está indicado en niños con hidronefrosis bilateral, en presencia de dilatación ureteral o una vejiga anormal.‬
 
-_**Urografía Intravenosa (UIV)**_‬
+#### _Urografía Intravenosa (UIV)_‬
 
 Como se explicó anteriormente, esto ha sido reemplazado en gran medida por las modalidades de imágenes anteriores.‬
 
-_ **Ureteropielografía Retrógrada** _‬
+#### _Ureteropielografía Retrógrada_‬
 
 La ureteropielografía retrógrada, a través de la cistoscopía, a veces se indica para aclarar la anatomía ureteral. Por ejemplo, puede permitir la diferenciación entre las anomalías de la unión pélvico-ureteral y vesico-ureteral (VUJ), cuando no queda claro en las imágenes preoperatorias. De manera similar, una anomalía VUJ adicional puede identificarse de esta manera antes de la pieloplastia.‬
 
-_ **Pielografía Anterógrada** _‬
+#### _Pielografía Anterógrada_‬
 
 En casos difíciles, la punción del sistema colector renal permite la observación del flujo de contraste a través de la UPJ. Whitaker intentó refinar el estudio anterógrado midiendo la presión durante la instalación de solución salina en la pelvis renal a un ritmo constante. Desafortunadamente, los resultados obtenidos se correlacionan pobremente con la &quot;obstrucción&quot; definida por otros medios, y por lo tanto, el estudio de Whitaker se usa raramente hoy en día **(Figura 5)**.‬
 
-![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-7.jpg)‬
+![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-7.jpg)‬  
+**Figura 5:** _Pielografía anterógrada de un riñón izquierdo que muestra una pelvis renal dilatada con cálices con compartimentos deformados. Tenga en cuenta el marcado cambio en la UPJ, con pequeñas cantidades de contraste que pasan a un uréter no dilatado a continuación, lo que confirma el diagnóstico de UPJA._‬
 
-_ **Figura 5:** _ _Pielografía anterógrada de un riñón izquierdo que muestra una pelvis renal dilatada con cálices con compartimentos deformados. Tenga en cuenta el marcado cambio en la UPJ, con pequeñas cantidades de contraste que pasan a un uréter no dilatado a continuación, lo que confirma el diagnóstico de UPJA._‬
-
-**Tratamiento**‬
+### Tratamiento
 
 Para quienes presentan dolor o infección, el objetivo del tratamiento es el alivio de los síntomas causados por el deterioro del flujo de orina a través de la UPJ. El objetivo ante una UPJA asintomática es la prevención de la pérdida de la función renal. Como se discutió anteriormente, la hidronefrosis no se equipara con la obstrucción. La mayoría de los niños con dilatación pélvica renal detectada prenatalmente mejoran espontáneamente. En otros, no obstante, la restricción del flujo de orina a través de la UPJ provocará un deterioro renal progresivo (15,16,62,63). El manejo de una UPJA asintomática es, por lo tanto, un equilibrio entre prevenir el deterioro renal por un lado y evitar la cirugía innecesaria y sus complicaciones por el otro. Quien se beneficiará de una operación sólo podrá decidirse después de un período de evaluación regular (16,17,64), con el grado de hidronefrosis durante el segundo y tercer trimestre de embarazo actuando como punto de partida. Aproximadamente el 25% de la hidronefrosis prenatal por UPJA requerirá intervención quirúrgica (15), generalmente durante los primeros años de vida (15,17,64).‬
 
@@ -263,41 +260,41 @@ El tratamiento quirúrgico es defendido por la mayoría de los autores en las si
 
 Estas indicaciones no son aceptadas por todos: algunos operan todos los lactantes durante el primer año de vida, argumentando que el resultado de la pieloplastia suele ser excelente en términos de drenaje y preservación de la función renal (65). Por el contrario, otros seguirán un enfoque conservador incluso con dilatación pélvica severa (16,17,64). Cuando se realiza la cirugía, la operación más común es una pieloplastia.‬
 
-_ **Nefrostomía Percutánea** _‬
+## Nefrostomía Percutánea‬
 
 La presentación aguda con pionefrosis requiere un drenaje inmediato mediante nefrostomía percutánea para el rescate renal, seguido de una pieloplastia una vez que la infección se haya estabilizado para aquellos con función renal preservada.‬
 
 También se puede considerar la derivación temporal de la orina pélvica a través de una nefrostomía percutánea durante 3-4 semanas para evaluar si la función renal puede recuperarse parcialmente en un riñón con función deteriorada y severamente dilatado (62). Sin embargo, Ransley y cols. (62) nunca observaron mejoría de la función en riñones con una función diferencial \&lt;10% inicialmente. Por lo tanto, la nefrectomía se recomienda para los niños con dilatación pélvica grave y función relativa muy pobre (\&lt;10%) en presencia de un riñón contralateral normal (15).‬
 
-_ **Pieloplastia** _‬
+## Pieloplastia
 
 Los principios quirúrgicos para la pieloplastia son la formación de una anastomosis en forma de embudo sin tensión que se estanca al agua y permite un drenaje dependiente. En niños, el procedimiento de elección es una reparación desmembrada, como lo describen Anderson y Hynes, que permite la escisión del segmento UPJ típicamente fibrótico y estenótico. Las tasas de éxito superan el 95%.‬
 
-_ **Pieloplastia Anderson-Hynes** _‬
+### _Pieloplastia Anderson-Hynes_‬
 
 El riñón se puede alcanzar con una lumbotomía anterior extraperitoneal, por el flanco o mediante una lumbotomía dorsal. Al seguir el polo inferior del riñón medialmente, el cirujano es guiado hacia la UPJ. El uréter se inclina y diseca distalmente para una reparación sin tensión. La adventicia se elimina de la UPJ y la pelvis renal. Luego se colocan suturas en la pelvis renal y se reseca la pelvis renal para una anastomosis dependiente. El uréter es modelado con forma de espátula para asegurar una anastomosis amplia. En presencia de vasos que cruzan el polo inferior, la anastomosis se modela anterior a la vasculatura. La colocación de un stent nefro-ureteral o JJ temporal depende de la preferencia del cirujano. Un metaanálisis reciente documentó tasas de éxito del 95% para el procedimiento con o sin colocación de stents, y se encontró que los stents externos son más rentables que no usar stents o usar stents internos JJ (66).‬
 
-_ **Pieloplastia laparoscópica** _‬
+### _Pieloplastia laparoscópica_‬
 
 La pieloplastia laparoscópica está creciendo en popularidad. El abordaje laparoscópico es especialmente efectivo para tratar riñones ectópicos o anormales, como por ejemplo un riñón en herradura. Sin embargo, es un procedimiento técnicamente exigente, que requiere una experiencia laparoscópica significativa. En los lactantes pequeños, las limitaciones de espacio hacen que el abordaje laparoscópico sea inviable. En niños mayores, el tiempo operatorio más prolongado se compensa con una disminución de la morbilidad, una estancia hospitalaria más corta y una recuperación más rápida (67). Las tasas de éxito son comparables a la pieloplastia abierta. Para una descripción de la técnica, el lector puede buscar en el capítulo de Tan sobre Cirugía Pediátrica (68). Otros autores emplean un abordaje retroperitoneoscópico, como lo ilustran El-Ghoneimi y cols. (69).‬
 
-_ **Pieloplastia Laparoscópica Asistida por Robot** _‬
+### _Pieloplastia Laparoscópica Asistida por Robot_‬
 
 Los sistemas quirúrgicos robóticos ofrecen una mejor manipulación y visualización del campo operatorio y, por lo tanto, una curva de aprendizaje más corta que la pieloplastia laparoscópica (70). La seguridad y la eficacia parecen ser comparables a la cirugía abierta. De nuevo, la duración reducida de la estadía hospitalaria y el requerimiento analgésico han de equilibrarse con un tiempo quirúrgico significativamente mayor (71).‬
 
-_ **Ureterocalicostomía** _‬
+## Ureterocalicostomía
 
 En situaciones raras, como por ejemplo, pieloplastia abierta fallida o ausencia de pelvis extrarenal, puede ser necesario considerar la anastomosis del uréter a un cáliz del polo inferior. Para el procedimiento, el parénquima renal que recubre el cáliz en cuestión se reseca para que el uréter pueda suturarse al cáliz del polo inferior.‬
 
-_ **Endopielotomía** _‬
+### Endopielotomía
 
 Es una intervención para resolver la estenosis pieloureteral. La estenosis de la unión pieloureteral es una estrechez parcial o total del conducto que une la pelvis renal al uréter a la salida del riñón que impide la normal evacuación de la orina. Consiste en cortar la zona de estrechez para que adquiera mayor calibre y facilite el paso de la orina mediante el uso de tecnología láser, electrocauterio, bisturí endoscópico o balón, después de una pieloplastia pediátrica fallida (72) seguida de un período de colocación de stents. Más recientemente, la endopielotomía se ha investigado como tratamiento primario en UPJA (73) congénito. La evaluación cuidadosa de la vasculatura que rodea al UPJ es esencial para evitar una hemorragia intraoperatoria. Se han informado tasas de éxito del orden del 70 % (72,73).‬
 
-_ **Nefrectomía** _‬
+### Nefrectomía
 
 Para aquellos con un riñón hidronefrótico que funciona muy mal con un riñón contralateral normal, se recomienda la nefrectomía. Esta se puede realizar abierta, retroperitoneoscópica o laparoscópica dependiendo de la preferencia del cirujano.‬
 
-**Complicaciones de la Pieloplastia**‬
+### Complicaciones de la Pieloplastia
 
 La mayoría de los cirujanos recomiendan antibióticos en la inducción de la anestesia y por una duración variable después de la operación. Ocasionalmente ocurre una infección postoperatoria de la herida o stent. El tratamiento con antibióticos / antifúngicos debe ajustarse a las sensibilidades del fármaco obtenidas de la orina, la sangre o el cultivo con hisopo de la herida. La eliminación temprana del &quot;plástico&quot; permanente usualmente es necesaria para la resolución.‬
 
@@ -307,17 +304,16 @@ La obstrucción persistente o recurrente puede ser el resultado de la formación
 
 La pérdida de la función renal puede suceder tras las complicaciones. Sin embargo, los autores también han observado un deterioro de la función diferencial después de la pieloplastia con una anastomosis amplia en la evaluación, principalmente en lactantes con hidronefrosis prenatal creciente y función renal reducida (74,75).‬
 
-![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-8.png)‬
+![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-11-8.png)‬  
+**Figura 6:** Nefro-ureterograma post-pieloplastia a través del nefro-stent trans-anastomótico que muestra un uréter dilatado que termina distalmente en un &quot;pico&quot; debido a una UPJA coexistente, que no había sido aparente preoperatoriamente.‬
 
-Figura 6: Nefro-ureterograma post-pieloplastia a través del nefro-stent trans-anastomótico que muestra un uréter dilatado que termina distalmente en un &quot;pico&quot; debido a una UPJA coexistente, que no había sido aparente preoperatoriamente.‬
-
-**Resultado de la Pieloplastia y Seguimiento**‬
+### Resultado de la Pieloplastia y Seguimiento
 
 En conjunto, la pieloplastia de Anderson-Hynes es extremadamente efectiva para aliviar la obstrucción de UPJ con tasas de éxito informadas consistentemente superiores al 95%. El seguimiento debe incluir ultrasonido y Mag3. El éxito quirúrgico está indicado por la resolución de los síntomas, hidronefrosis estable o reducida con función renal diferencial estable o mejorada; la mejora en el drenaje en Mag3 se observa con frecuencia. Sin embargo, es importante enfatizar que, especialmente en los riñones extremadamente hidronefróticos, la lentitud o la falta de drenaje aún no iguala la obstrucción (ver apartado de cintigrafía renal).‬
 
 Los pacientes pueden ser dados de alta del seguimiento postoperatorio después de un Mag3 y dos ecografías si muestran hidronefrosis disminuida y función diferencial estable o mejorada. Se debe aconsejar a los pacientes y sus padres sobre los síntomas y signos de infección del tracto urinario, y que esto o la aparición de dolor conllevan a la realización de ecografías repetidas en el futuro. En particular para los riñones con hidronefrosis macroscópica, generalmente se requiere un período de seguimiento más prolongado con ultrasonidos en serie para determinar el éxito (1). Los estudios de Mag3 también pueden necesitar ser repetidos para seguir los cambios en la función diferencial.‬
 
-**Bibliografía**‬
+## Bibliografía
 
 1. Thomas D. Essentials of Paediatric Urology. 2nd ed. London: Informa Healthcare; 2008.‬
 

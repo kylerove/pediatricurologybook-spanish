@@ -6,6 +6,7 @@ title: Enfermedad renal crónica pediátrica
 sort-key: 2-9
 permalink-en: /chronic_kidney_disease.html
 layout: default
+review-formatting-complete: AM-2021-11-13
 ---
 
 # Enfermedad renal crónica pediátrica
@@ -18,10 +19,11 @@ _Great Ormond Street Hospital para niños NHS Trust,‬ Londres, Reino Unido_
 _Miami Children&#39;s Hospital, Jackson Memorial Hospital, Miami, Fl, USA‬_{: .translator-location}
 {: #translator-p}
 
-**INTRODUCCIÓN **‬
+## INTRODUCCIÓN
+
  La enfermedad renal crónica (ERC) es el término usado para el daño renal irreversible que puede llevar a una disminución progresiva de la función renal. El término ERC ha reemplazado los términos anteriores de insuficiencia renal crónica (IRC), ya que define más claramente la disfunción renal de forma continua, en lugar de un cambio discreto.‬
 
-**DEFINICIONES Y CLASIFICACIONES  **‬
+## DEFINICIONES Y CLASIFICACIONES
 
 La definición y clasificación de la Iniciativa para la Calidad Renal de la Enfermedad Renal (NKF) de la Fundación Nacional del Riñón (KDOQI), por sus siglas en inglés) se ha aceptado internacionalmente.‬
  El grupo de trabajo KDOQI definió la ERC como cualquiera‬
@@ -32,7 +34,8 @@ La definición y clasificación de la Iniciativa para la Calidad Renal de la Enf
 
 El KDOQI también ha desarrollado un sistema de clasificación para la gravedad de la ERC basado en la TFG e independiente del diagnóstico renal primario (Tabla 1). La TFG es igual a la suma de las tasas de filtración en todas las nefronas en funcionamiento y, por lo tanto, puede dar una estimación de la función renal. La interpretación requiere una comprensión clara de que la TFG varía según la edad, el sexo y el tamaño corporal. La TFG normal es mucho menor en la infancia y alcanza valores adultos después de un año de edad. A pesar de esto, un GFR calculado basado en la creatinina sérica puede compararse con los valores normativos apropiados para la edad para detectar insuficiencia renal incluso en niños pequeños y bebés con CKD. Como la determinación real de la tasa de filtración glomerular (GFR) es incómoda, una alternativa es estimar el GFR mediante el uso de creatinina sérica, altura y en adolescentes. El sexo del paciente (tabla 2). Sin embargo, en pacientes con una ingesta dietética inusual (p. Ej., Dieta vegetariana o suplementos de creatinina) o en aquellos con masa muscular disminuida (p. Ej., Amputación, desnutrición o pérdida de masa muscular), el GFR estimado podría no ser exacto y el cálculo formal del GFR podría ser más recomendable.‬
 
-**EPIDEMIOLOGÍA **‬
+## EPIDEMIOLOGÍA
+
  Existen datos limitados sobre la epidemiología de la ERC en niños. El informe más completo proviene del registro prospectivo, basado en la población, del proyecto Ital Kid, que incluyó todos los casos pediátricos italianos de ERC definidos como un aclaramiento de creatinina (CrCl) inferior a 75mls / min / 1.73m2 entre 1990 y 2000. La incidencia media anual y la prevalencia de la ERC fue de 12.1 y 74.7 casos por millón de niños y adolescentes menores de 20 años, respectivamente.‬
  Los datos basados ​​en registros más grandes están disponibles principalmente en niños con enfermedad renal en etapa terminal (ESRD) que requieren terapia de reemplazo renal. Sobre esta base, las incidencias estimadas de ESRD en niños de Estados Unidos, Nueva Zelanda y Austria son de 14.8, 13.6 y 12.4 por millón de niños, mientras que en Japón es inferior a 4 por millón. La diferencia en la incidencia de la ESRD en todo el mundo se puede atribuir a varias razones, entre ellas la presencia de programas de detección y la fácil disponibilidad de terapias de reemplazo renal.‬
  El diagnóstico primario más común para la ERC en la infancia son las anomalías congénitas del riñón y el tracto urinario (CAKUT), que incluyen displasia renal, hipoplasia renal y uropatías obstruidas, incluidas las secundarias a las válvulas uretrales posteriores. Una preponderancia masculina a menudo se observa principalmente debido a la mayor incidencia de CAKUT entre los niños.‬
@@ -44,10 +47,11 @@ El KDOQI también ha desarrollado un sistema de clasificación para la gravedad 
 - 13 -18 años de edad: 28%.‬
 - 18 - 21 años de edad: 4%.‬
 
-**ETIOLOGÍA**‬
+## ETIOLOGÍA
+
   Las anomalías renales congénitas y la enfermedad glomerular representaron el 57% y el 17%, respectivamente, de más de 7000 niños con CKD en la base de datos más grande proporcionada por NAPRTCS. Anomalías renales congénitas como displasia renal con o sin reflujo vesicoureteral, con o sin válvulas uretrales posteriores; eran más comunes entre los niños más pequeños. La enfermedad glomerular fue frecuente en niños mayores, representando aproximadamente el 45% de los casos en pacientes mayores de 12 años. El trastorno glomerular más frecuente fue la glomeruloesclerosis focal y segmentaria (GEFS), que ocurrió en el 9% de todos los casos de ERC. Los niños afroamericanos tenían tres veces más probabilidades de desarrollar FSGS que los pacientes caucásicos (18% versus 6%), y la FSGS fue la causa de la ERC en un tercio de los pacientes adolescentes afroamericanos. Es importante tener en cuenta que en el 18% de todos los casos de ERC. El registro italiano (proyecto ItalKid) también informó una distribución similar de las etiologías, siendo la causa principal la hipoplasia / displasia renal, que ocurrió con y sin anomalías del tracto urinario en el 54% y el 14% de los pacientes, respectivamente.‬
 
-**HISTORIA NATURAL Y PROGRESIÓN DE LA ERC  **‬
+## HISTORIA NATURAL Y PROGRESIÓN DE LA ERC
 
 Los niños con ERC establecida pueden mostrar una progresión continua de la enfermedad renal que conduce a la enfermedad renal en etapa terminal (ESRD). Esto ha sido bien demostrado por la base de datos de NAPRTCS, que mostró que el 86% de los niños registrados progresaron a ESRD (aunque esto puede verse afectado, ya que la mayoría de los registrados en NAPRTCS tenían CKD avanzada).‬
 
@@ -58,7 +62,7 @@ El deterioro de la función renal entre los niños con ERC es particularmente co
 
 Muchos de estos factores son modificables con intervenciones tempranas. El informe inicial del estudio CKiD (un estudio prospectivo en curso que realizó un seguimiento de más de 580 niños con CKD) vinculó a la proteinuria, un factor modificable, con una FG disminuida. De manera similar, el ensayo ESCAPE mostró un beneficio definitivo de un control estricto de la presión arterial para disminuer el progreso de la ERC.‬
 
-PRESENTACIÓN CLÍNICA‬
+## PRESENTACIÓN CLÍNICA‬
 
 En vista de la gran heterogeneidad de la causa subyacente de la lesión renal, la presentación de la ERC también varía ampliamente. El examen de ultrasonido prenatal ahora puede identificar muchos fetos con CAKUT. Los que se detectan en las primeras etapas de la ERC probablemente sean asintomáticos y, a menudo, se detectan en exámenes de rutina o se resuelven por algún otro problema médico. En contraste, los niños en etapas avanzadas de insuficiencia renal son más propensos a ser sintomáticos.‬
 
@@ -67,7 +71,7 @@ Es más probable que las enfermedades glomerulares se presenten con síndrome ne
 
 Los síntomas y / o signos de insuficiencia renal severa generalmente comienzan a aparecer en la etapa III de la ERC. Estos síntomas (denominados síntomas de uremia) incluyen anorexia, vómitos, debilidad y fatiga fácil. Otros hallazgos atribuibles al estado urémico incluyen pericarditis, déficits en la función neurocognitiva y osteodistrofia renal. Aparte de estos, pueden aparecer signos y síntomas específicos de la etiología subyacente (como la nefritis por lupus o la vasculitis) y siempre se deben buscar.‬
 
-**COMPLICACIONES DE LA ERC  **‬
+## COMPLICACIONES DE LA ERC
 
 A medida que la ERC avanza a la etapa 3 en adelante, se manifiestan una serie de complicaciones debido al deterioro de las múltiples funciones que realizan los riñones. Estos incluyen trastornos de líquidos y electrolitos, osteodistrofia renal, anemia, hipertensión, dislipidemia, anomalías endocrinas, deterioro del crecimiento y disminución del aclaramiento de sustancias tóxicas.‬
  En el estudio de centro único más grande (366 niños) de niños con CKD, la mayoría de los cuales se encontraban en la CKD en estadio I (57%), la prevalencia general de complicaciones como hipertensión, anemia, osteodistrofia renal, fallo de crecimiento y trastornos electrolíticos significativos fueron 70 %, 37%, 17% 12% y 9% respectivamente.‬
@@ -87,18 +91,21 @@ _Enfermedad ósea_‬
 La enfermedad ósea de la CKD, conocida como osteodistrofia renal o, más recientemente, se describe como el trastorno óseo CKD-Mineral (CKD-MBD) puede tener una manifestación bioquímica sutil de la enfermedad CKD en estadio II. La patogenia de la CKD-MBD es compleja y su comprensión sigue evolucionando. Se cree que la eliminación del aclaramiento renal de fósforo con el aumento resultante de la hormona paratiroidea sérica (PTH) en respuesta a la retención de fosfato es un paso clave. También se cree que la disminución de la producción de calcitriol (también conocida como 1,25-dihidroxivitamina D) secundaria a la disfunción renal es un factor contribuyente importante. Además, la evidencia reciente también indica una mayor prevalencia de deficiencia generalizada de vitamina D en niños con CKD y esto también podría contribuir a la CKD-MBD. Los signos sutiles de enfermedad ósea comienzan a aparecer en pacientes con enfermedad en estadio III. Los pacientes con osteodistrofia renal más avanzada tienen dolor óseo, dificultad para caminar y / o deformidades esqueléticas.‬
 
 _Anemia_‬
+
  La anemia es la otra complicación importante y se debe a la reducción de la eritropoyetina, que se produce principalmente en los riñones. Generalmente se desarrolla cuando la eGFR cae por debajo de 60mls / min / 1.73m2. La anemia de la ERC es normalmente normocítica, normocrómica y un cuadro microcítico sugiere una deficiencia de hierro concomitante o un exceso de aluminio, mientras que un cuadro macrocítico sugiere una deficiencia de vitamina B12 o de folato. La anemia en niños con ERC se ha asociado con fatiga, debilidad, disminución de la atención, mayor somnolencia y poca tolerancia al ejercicio.‬
 
 _Hipertensión_‬
+
  La hipertensión es una de las complicaciones más comunes en niños con ERC, que va del 54 al 70% de los pacientes. Por lo general, se debe a la expansión de volumen, aunque también puede ser secundario a un exceso de renina de riñones dañados o iatrogénicos, como el uso de corticosteroides o ciclosporina o tacrolimus para el tratamiento de cualquier enfermedad renal subyacente.‬
 
 A diferencia de muchas de las complicaciones de la ERC, la hipertensión puede presentarse en las primeras etapas de la ERC, aunque la prevalencia aumenta con la disminución progresiva de la TFG. Esto se demostró en la serie de casos canadienses, que demostró que la prevalencia de la hipertensión aumentó del 63% en la ERC en estadio I al 80% entre las personas con estadio IV y ERC. La tasa de detección de la hipertensión aumenta con el monitoreo ambulatorio de la presión arterial durante 24 horas, como lo confirman los informes preliminares de CKiD, donde el 18% tenía hipertensión confirmada (presión arterial ambulatoria elevada) y un 34% adicional tenía hipertensión enmascarada (oficina normal pero presión arterial ambulatoria elevada).‬
  La hipertrofia ventricular izquierda (LVH) también es un hallazgo común y puede ser de tipo LVH concéntrico secundario a la presencia de hipertensión o LVH excéntrica secundaria a la sobrecarga de volumen asociada y anemia. En su informe preliminar, el estudio CKiD encontró HVI detectada por ecocardiografía en el 17% de los casos (con 11% de HVI excéntrica y 6% de HVI). La HVI fue más común en niños con hipertensión confirmada y enmascarada en comparación con aquellos con mediciones de PA normal (34, 20 y 8%, respectivamente).‬
 
-_Dislipemia_‬
+_Dislipemia_
+
  El metabolismo lipídico anormal es común en pacientes con ERC y aumenta el riesgo de enfermedad cardiovascular (ECV) junto con la hipertensión. Los adultos jóvenes de 25 a 34 años con ERC tienen al menos un riesgo 100 veces mayor de mortalidad y / o morbilidad relacionada con ECV en comparación con la población general. Esto ha llevado a la Asociación Americana del Corazón a identificar la ERC como una de las ocho enfermedades asociadas con un mayor riesgo de enfermedad arterial coronaria.‬
 
-_Disfunción endocrina _‬
+_Disfunción endocrina_‬
 
 Hormonas tiroideas: los estados de la ERC a menudo se asocian con el &quot;síndrome eutiroideo enfermo&quot; con niveles bajos y totales de T4 y T3 libres, un nivel normal de hormona estimulante de la tiroides (TSH) y niveles normales o disminuidos de globulina fijadora de hormona tiroidea u hormona liberadora de tirotropina (TRH).‬
 
@@ -107,13 +114,15 @@ Hormonas gonadales: las anomalías en las hormonas gonadales se observan en dos 
 Deterioro del crecimiento: la etiología de la falla de crecimiento, una complicación común de la ERC infantil, es multifactorial e incluye acidosis metabólica, disminución de la ingesta calórica, osteodistrofia renal y alteraciones en la función de la hormona del crecimiento y factor de crecimiento similar a la insulina (IGF-1) en particular, el crecimiento lineal deficiente se debe principalmente al aumento de los niveles de las proteínas que se unen al factor de crecimiento de la insulina, lo que promueve un estado resistente a la hormona del crecimiento que resulta en baja estatura.‬
 
 _Uremia_‬
+
  A medida que la insuficiencia renal ingresa a la ERC en el estadio V, generalmente se manifiesta una constelación de síntomas y signos conocidos como uremia. Esto incluye anorexia, náuseas, vómitos, retraso del crecimiento, neuropatía periférica y anomalías del sistema nervioso central que van desde la pérdida de concentración y el letargo, hasta las convulsiones, el coma y la muerte. Los pacientes urémicos también tienen una mayor tendencia a la hemorragia secundaria a las propiedades anormales de adhesión y agregación plaquetarias. También pueden tener una enfermedad pericárdica (pericarditis y derrame pericárdico) que, por sí misma, es una indicación para instituir diálisis en niños con CKD.‬
 
 Neurodesarrollo: la uremia se asocia con alteraciones del desarrollo cognitivo en los niños. Los hallazgos neurológicos pueden variar desde convulsiones y discapacidad intelectual grave y retraso en el desarrollo hasta déficits sutiles que resultan en un bajo rendimiento escolar. El resultado del desarrollo neurológico ha mostrado una mejora constante con la reducción del aluminio como aglutinante de fosfato y la optimización de la diálisis, la nutrición y el manejo de la anemia. Estudios recientes han mostrado un resultado optimista general entre los niños que comenzaron con diálisis a largo plazo y después del trasplante renal.‬
 
-_Sueño y fatiga_: la somnolencia diurna y la fatiga se observan con frecuencia en niños con ERC y aumentan con la disminución de la función renal. Los trastornos del sueño (incluido el síndrome de piernas inquietas / movimientos paroxísticos de las piernas, la respiración con trastornos del sueño, la somnolencia excesiva durante el día y el insomnio) también son comunes en niños con ERC en estadios I a IV, así como en aquellos en diálisis.‬
+Sueño y fatiga: la somnolencia diurna y la fatiga se observan con frecuencia en niños con ERC y aumentan con la disminución de la función renal. Los trastornos del sueño (incluido el síndrome de piernas inquietas / movimientos paroxísticos de las piernas, la respiración con trastornos del sueño, la somnolencia excesiva durante el día y el insomnio) también son comunes en niños con ERC en estadios I a IV, así como en aquellos en diálisis.‬
 
-EVALUACIÓN‬
+## EVALUACIÓN‬
+
  La evaluación de un niño con ERC comienza con una evaluación clínica, incluida la historia clínica y el examen físico. Las imágenes y las evaluaciones de laboratorio son complementos útiles no solo para establecer una causa subyacente sino también para determinar la gravedad de la insuficiencia renal e identificar cualquier complicación asociada.‬
 
 _Evaluación Clínica_‬
@@ -134,6 +143,7 @@ El examen físico de cualquier niño sospechoso de tener ERC debe incluir:‬
 - Auscultación cardíaca para detectar un roce pericárdico debido a pericarditis o disminución de los sonidos cardíacos secundarios a un derrame pericárdico.‬
 
 _Imágenes _‬
+
  La ecografía (US) Es la modalidad más utilizada y tiene la ventaja de ser no invasiva. Se puede usar para evaluar la estructura renal, para detectar cualquier anomalía estructural subyacente como CAKUT (incluida la patología obstructiva), incluidas las enfermedades quísticas renales. Es igualmente útil para medir la longitud de los riñones, que puede compararse con los valores normativos apropiados para la edad. Los riñones que son más pequeños de lo normal indican una disminución en la masa renal debido al mal desarrollo congénito (como hipoplasia renal), crecimiento deficiente o pérdida de nefrones debido a un trastorno o lesión subyacente. Además, el seguimiento en serie del crecimiento renal también se puede realizar a través de los ultrasonidos. En niños con un riñón solitario, la longitud renal generalmente está en el rango superior de longitud para los riñones pareados normales y, a menudo, es mayor que el percentil 95 debido a una hipertrofia renal compensatoria cuando el niño tiene una función renal normal. Es mejor correlacionar el tamaño del riñón con la altura en los niños con ERC, ya que la correlación con la edad puede llevar a un exceso de información de los riñones pequeños entre los niños con crecimiento deficiente.‬
 
 Las exploraciones nucleares tienen usos específicos tales como demostrar cicatrices (exploración DMSA) o demostrar cualquier obstrucción en el drenaje de la orina (exploración DTPA). Además, también pueden dar una buena estimación de las funciones renales globales e individuales.‬
@@ -165,7 +175,7 @@ El hemograma completo (FBC) se realiza para detectar la anemia, que es una compl
 
 La biopsia de riñón rara vez es útil para establecer la etiología subyacente de la ERC y tiene mayores riesgos. Es poco probable que ayude a guiar las opciones terapéuticas. Sin embargo, el resultado de la biopsia puede proporcionar información sobre la gravedad de la enfermedad, incluso si alguna anomalía puede ser reversible y el grado de cicatrización renal.‬
 
-**EVALUACIÓN DEL SEGUIMIENTO  **‬
+## EVALUACIÓN DEL SEGUIMIENTO
 
 La ERC generalmente es progresiva y, por lo tanto, los niños con ERC requieren un monitoreo continuo de su función renal y la detección de complicaciones asociadas con la ERC.‬
  Las recomendaciones para la frecuencia de la monitorización clínica, de laboratorio y nutricional de niños con CKD se publican en la Guía de práctica clínica de KDOQI para niños con enfermedad renal crónica. Se recomiendan evaluaciones más frecuentes en niños más pequeños y en niños con discapacidades graves, independientemente de su edad (como la Etapa IV y la ERC en Etapa V).‬
@@ -184,7 +194,7 @@ El manejo general incluye algunos principios básicos:‬
 La secuencia de implementación de los principios anteriores obviamente estará influenciada por las etapas de la ERC. En las primeras etapas de la ERC, el enfoque debe estar en la identificación de cualquier lesión reversible y en prevenir o retardar la progresión de la enfermedad renal. Lo ideal es que este período también se use para educar al niño y a la familia sobre la ERC, destacando el conocimiento de los factores de riesgo que pueden agravar la insuficiencia renal (como evitar los fármacos nefrotóxicos, las infecciones recurrentes, la deshidratación) y las medidas que pueden retardar la progresión de la insuficiencia renal. (como el control de la presión arterial).‬
  Las complicaciones asociadas con la ERC comienzan a aparecer a medida que la ERC avanza a la Etapa 3, donde el enfoque cambia a la anticipación, la identificación temprana y el manejo de las diversas complicaciones. Los pacientes que requerirán terapia de reemplazo renal (TRR) deben identificarse mucho antes del momento en que se requiere el TRR para que se pueda brindar una preparación y educación adecuadas tanto al paciente como a la familia. El estándar de oro es prepararse para donde sea posible trasplante renal relacionado con la vida preventiva.‬
 
-**DISFUNCIÓN RENAL REVERSIBLE  **‬
+## DISFUNCIÓN RENAL REVERSIBLE
 
 Las afecciones más comunes con función renal potencialmente recuperable se deben principalmente a la disminución de la perfusión renal o la administración de agentes nefrotóxicos.‬
  La hipoperfusión renal suele deberse a hipotensión secundaria a shock o agotamiento de volumen por diarrea y vómitos. La perfusión a los riñones también puede verse obstaculizada por fármacos como los antiinflamatorios no esteroideos, los inhibidores de la enzima convertidora de angiotensina (IECA) y los bloqueadores de los receptores de la angiotensina II (BRA). Los niños con enfermedad renal crónica a menudo tienen tubulopatía concomitante con trastornos en la retención de agua y sal. No pueden realizar una respuesta adecuada y son más propensos a la hipovolemia, lo que puede agravar aún más la función renal. Si una hipovolemia significativa se acompaña de una reducción de la TFG, un ensayo juicioso de repleción de líquidos puede dar como resultado el regreso de la función renal a la línea de base previa.‬
@@ -194,7 +204,7 @@ Disminución de la progresión de la ERC  En pacientes con ERC, el daño renal p
 - Control de la presión arterial: el ensayo ESCAPE recientemente concluido ha enfatizado claramente la importancia del control estricto de la presión arterial para retrasar la progresión de la ERC incluso en el grupo de edad pediátrica. En particular, los inhibidores de la ECA y los BRA se han sugerido como terapias antihipertensivas para reducir la proteinuria y controlar la presión arterial en estos pacientes. Se sugiere que los niños con hipertensión y proteinuria se traten con un inhibidor de la ECA o un BRA debido a los beneficios adicionales de su efecto.‬
 - Otras intervenciones: los estudios en adultos han demostrado el beneficio de la terapia para descender los lípidos en sangre y la corrección de la anemia en la progresión de la ERC. Aunque no están probados en niños, a menudo se implementan en pacientes pediátricos con ERC. En contraste, la restricción de proteínas, si bien se ha demostrado que es efectiva entre los adultos con ERC, no se recomienda en el grupo de edad pediátrica. En un estudio multicéntrico prospectivo, estratificado y aleatorizado de dos años con 191 niños con ERC, la institución con una dieta baja en proteínas (0,8 a 1,1 g / kg) no tuvo impacto en la disminución del aclaramiento de creatinina.‬
 
-**MANEJO DE COMPLICACIONES ESPECÍFICAS**‬
+## MANEJO DE COMPLICACIONES ESPECÍFICAS
 
 - Fluido y electrolitos: a medida que el GFR disminuye severamente (Etapas IV y V CKD), la retención de agua y sodio puede resultar en una sobrecarga de volumen. Una combinación de restricción dietética de sodio y terapia diurética puede corregir el aumento del balance hídrico y evitar que se repita la retención de agua. La terapia diurética incluye diuréticos de asa como la [furosemida](http://www.uptodate.com/online/content/topic.do?topicKey=ped_drug/81902&amp;source=see_link)  administrada a una dosis de 0,5 a 2 mg / kg / día o diuréticos tiazídicos como [hidroclorotiazida](http://www.uptodate.com/online/content/topic.do?topicKey=ped_drug/88425&amp;source=see_link)  de 1 a 3 mg / kg / día. Típicamente, los diuréticos tiazídicos se usan en etapas tempranas de la ERC y un diurético de asa en las etapas más avanzadas cuando las tiazidas son menos efectivas. Ambas clases de diuréticos se vuelven menos efectivas al disminuir la TFG.‬
 
@@ -258,7 +268,7 @@ El trasplante renal preventivo relacionado con la vida a menudo es la modalidad 
 
 Cuando el trasplante preventivo no es una opción, la elección entre las dos formas de diálisis generalmente está dictada por cuestiones técnicas, sociales, de concordancia y de preferencia familiar. La diálisis peritoneal es mucho más común en bebés y niños pequeños, en gran parte debido a problemas de acceso vascular; La hemodiálisis se vuelve más común en adolescentes mayores que tienen peritoneo deficiente. La diálisis peritoneal puede ser realizada por los padres en el hogar y puede realizarse durante la noche con una máquina de ciclismo. El uso de un ciclador permite potencialmente la menor interrupción de la vida en el hogar, la escuela y la asistencia al trabajo, en comparación con la diálisis peritoneal ambulatoria, que a menudo requiere un procedimiento de intercambio de diálisis peritoneal a realizarse durante el día, o hemodiálisis que generalmente requiere tres visitas semanales a un centro de hemodiálisis durante al menos tres a cuatro horas (sin contar el tiempo de viaje). Además, el acceso a un centro de hemodiálisis cercano puede no estar disponible para los pacientes y sus familias o el personal del centro puede no estar capacitado para cuidar a los niños, especialmente los niños y bebés prepúberes. Sin embargo, los programas de hemodiálisis en el hogar están aumentando en la práctica pediátrica.‬
 
-**CALIDAD DE VIDA **‬
+## CALIDAD DE VIDA
 
 La ERC, como ocurre con cualquier enfermedad crónica, afecta la calidad de vida tanto del niño como de la familia. Una encuesta de 402 familias de niños de 2 a 16 años de edad con ERC leve a moderada (GFR promedio 42.5mls / min / 1.73m2) de duración promedio de siete años encontró una baja calidad de vida relacionada con la salud en general en niños con ERC. Obtuvieron puntuaciones más bajas en comparación con sus compañeros saludables en los cuatro dominios evaluados: físico, escolar, emocional y social.‬
 
@@ -270,7 +280,7 @@ El impacto negativo de la enfermedad crónica en el estado emocional de los herm
 
 El manejo integral óptimo de estos problemas implica un enfoque multidisciplinario que aborda estas preocupaciones de manera proactiva.‬
 
-**Referencias**‬
+## Referencias
 
 1. K/DOQI clinical practice guidelines for chronic kidney disease: evaluation, classification, and stratification. Am J Kidney Dis 2002; **39**: S1‬
 2. Levey AS, Eckardt KU,Tsukamoto Y, et al. Definition and classification of chronic kidney disease: A position statement from Kidney Disease : Improving Global Outcomes (KDIGO).Kidney Int 2005;67;2089‬

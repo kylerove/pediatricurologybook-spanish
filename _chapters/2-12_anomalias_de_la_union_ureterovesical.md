@@ -6,6 +6,7 @@ title: Anomalías de la unión ureterovesical (UUV)
 sort-key: 2-12
 permalink-en: /Ureterovesical.html
 layout: default
+review-formatting-complete: AM-2021-11-13
 ---
 
 # Anomalías de la unión ureterovesical (UUV)
@@ -17,11 +18,11 @@ layout: default
 _Miami Children&#39;s Hospital, Jackson Memorial Hospital, Miami, Fl, USA‬_{: .translator-location}
 {: #translator-p}
 
-**Introducción**‬
+## Introducción
 
 Laa anomalías de la unión ureterovesical (UUV) fueron clasificadas por Smith_ et al._(1) en obstructivas, reflujante o, no obstructivo/no reflujante y; subdivididas en primarios (congénitos) o secundarios (adquiridos). King (2), más tarde publicó una clasificación más práctica: obstructivo, reflujante, no obstructivo/no reflujante y , obstructivo y reflujante. Las anomalías congénitas de UUV a menudo se presentan debido a la detección de un uréter dilatado o megaureter (Fig. 1). Los megauréteres primario congénitos son dos veces más comunes en los hombres y se presentan con una relación de izquierda a derecha de 1.8:1. (3) El enfoque de este capítulo será sobre el megaureter obstructivo y el no obstructivo/no reflujante.‬
 
-**Embriología y genética de la unión ureterovesical.**‬
+## Embriología y genética de la unión ureterovesical
 
 Las anomalías UUV forman parte de las anomalías congénitas del riñón y tracto urinario (CAKUT). Brevemente, CAKUT incluye un espectro de anomalías que afectan la formación del tracto urinario, incluyendo agenesia renal, displasia o hipoplasia; obstrucción ureteral proximal o distal (unión ureteropélvica UUP u, obstrucción UUV); dilatación del uréter (megauréter); incompetencia uretérica (reflujo vesicouretérico) y obstrucción uretral (por ejemplo, debido a válvulas uretrales posteriores o atresia uretral). (4) Desde el punto de vista embriológico, el riñón de los mamíferos se deriva de dos componentes: la yema ureteral, un epitelio que se ramifica de forma recurrente para formar los conductos colectores y el mesénquima metanéfrico. La yema ureteral también da lugar al epitelio de la pelvis renal y el uréter, que se conoce como el urotelio. (5)‬
 
@@ -51,11 +52,11 @@ Los autores también notaron que el desarrollo de la vaina periureteral precede 
 |‬
  |‬
 
-**Diagnóstico prenatal**‬
+## Diagnóstico prenatal
 
 En la mayoría de los centros del Reino Unido, las estudios prenatales se realizan de forma rutinaria a las 12 semanas (exploración de &quot;citas&quot;) y de 18 a 20 semanas (exploración de &quot;anomalía&quot;). Se realizan exploraciones adicionales más adelante en el embarazo cuando está indicado, como en casos de dilatación del tracto superior, hidronefrosis bilateral, vejiga de pared gruesa o presencia de oligohidramnios. Los datos de una gran base de datos europea para la vigilancia de malformaciones congénitas (EUROCAT) recopilada durante un período de diez años dieron una prevalencia general de hidronefrosis congénita de 11,5 por cada 10.000 nacimientos. (20) El 73% de los casos fueron diagnosticados prenatalmente, y el 72% fueron hombres. No se conoce la proporción de estos casos que también tenían un uréter dilatado. La detección de un uréter dilatado en ultrasonido fetal puede ser una tarea difícil. El feto puede no estar en la orientación adecuada, o el uréter puede estar oculto por estructuras superpuestas o gases intestinales maternos. Además, es posible que los técnicos no estén capacitados para buscar específicamente los uréteres dilatados en el examen de rutina. Como resultado, es probable que la detección prenatal de uréteres dilatados no sea confiable. (3) En un estudio de 101 pacientes con hidroureteronefrosis identificada postnatalmente referida al Hospital Great Ormond Street, solo el 20% tenía un uréter dilatado documentado prenatalmente. (3) Cuarenta y ocho (47,5%) de los bebés tenían RVU u otra patología, y 53 (52,5%) eran sospechosos de tener una obstrucción de la UUV.‬
 
-**Investigación postnatal**‬
+## Investigación postnatal
 
 Después del nacimiento, a los bebés con diagnóstico prenatal de hidronefrosis suelen ser iniciados con profilaxis antibiótica, hasta que tener un diagnóstico definitivo. La investigación inicial consiste en una ecografía del tracto renal, que se realiza idealmente entre los días 3 y 7 de la vida. Los niños con hidronefrosis bilateral deben ser cateterizados y obtener una ecografía y cistouretrograma de evacuación (VCUG) para excluir la obstrucción de la salida de la vejiga (BOO), como las válvulas uretrales posteriores, y / o identificar el RVU bilateral. En ausencia de obstrucción uretral, después de las 4 semanas de edad, debe realizarse una renografía diurética con 99mTc-MAG-3 y una nueva ecografía. En presencia de dilatación unilateral (Fig. 2a yb), se realiza una ecografía, una renografía diurética MAG-3 y un VCUG entre las cuatro semanas y los tres meses de edad.‬
  Los bebés que se presentan postnatalmente (por ejemplo, por una infección del tracto urinario) también se investigan de manera similar, aunque es aconsejable esperar la recuperación de la urosepsis antes de embarcarse en un MCUG o MAG-3.‬
@@ -66,16 +67,17 @@ Por lo tanto, se debe tener en cuenta una combinación de hallazgos clínicos y 
 
 Es importante tener en cuenta que la obstrucción ipsilateral UUP y UUV puede coexistir. El MAG-3 preoperatorio puede sugerir una patología dual cuando el uréter obstruido se llena pero no se drena, ya que la pelvis obstruida se drena lentamente. Cay _et al,_ informaron que un pielograma retrógrado fue útil para hacer un diagnóstico en aquellos casos que se sospechaban antes de la operación.(24) La mayoría de los pacientes en su serie de casos, sin embargo, solo eran sospechosos de tener ambos OUUV y OUUP cuando se descubrió un uréter dilatado en la pieloplastia, y después de dificultades para insertar un stent más allá de la UVJ. Un nefrostograma postoperatorio confirmó el diagnóstico.‬
 
-**Manejo**‬
+## Manejo
+
  La tendencia en el manejo de los megaureteres primarios ha cambiado en los últimos veinte años. En 1989, Peters_ et al. _informaron que el 89% de los pacientes requirieron cirugía antes de los 8 meses de edad. (25) Ese mismo año, Keating_ et al_., informaron que cuando la decisión de intervenir se basaba en la función renal absoluta, se podía realizar un seguimiento conservador de hasta el 87% de los pacientes. (26) Otra publicación de la misma unidad confirmó la estabilidad o la mejoría en el seguimiento a largo plazo del mismo grupo de pacientes que tuvieron un manejo conservador. (27) Liu_ et al.,_ también sugirieron que la mayoría de los megaureteres pueden ser seguidos de forma conservadora, y mostraron que con un seguimiento promedio de 3,1 años, el 34% de los megaureteres primarios se resolvieron espontáneamente. De los casos restantes, el 17% se reimplantó debido a infección o deterioro de la función renal, mientras que el 49% tuvo una dilatación persistente en el seguimiento y todavía se estaba controlando de forma conservadora.‬
 
-**Megaureteres **** sin reflujo no obstruidos**‬
+### Megaureteres sin reflujo no obstruidos
 
 Los megaureteres asociados con un DRF\&gt; 40% en un paciente asintomático se pueden manejar de forma conservadora. El seguimiento cercano (cada 3-4 meses) con ultrasonido y la profilaxis con antibióticos están garantizados durante al menos el primer año de vida, especialmente en casos con dilatación significativa (\&gt; 1 cm de diámetro ureteral). (3- 23) Song _et al.,_8 mostraron que el riesgo de ITU es mayor con la obstrucción UUV que con la UUP, y que las ITU tienden a ocurrir dentro de los primeros seis meses de vida.(8) Una vez que se observa que la hidronefrosis está mejorando, las citas de seguimiento pueden reducirse a seis meses y luego al año, y se debe suspender la profilaxis con antibióticos. A una mediana de seguimiento de 25,8 meses, McLellan _et al._ mostraron que la hidronefrosis se había resuelto completamente en el 72% de los casos. (27). Los niños con megauréter persistente al final del estudio observaron una disminución significativa en el grado de hidronefrosis, lo que sugiere un proceso dinámico con una tendencia hacia la resolución. Los autores también sugirieron que el grado de hidronefrosis a la presentación según la clasificación de la Society of Fetal Urology (SFU) tuvo un efecto significativo en la edad media de resolución (la Tabla 1 resume los grados de SFU de hidronefrosis). Los megauréteres con grados 1 a 3 de hidronefrosis en el momento del diagnóstico se resolvieron entre los 12 y 36 meses de edad. Los grados 4 a 5 de hidronefrosis tardaron más tiempo en resolverse, hasta 72 meses. (23)‬
 
 Sin embargo, no hay evidencia de que la resolución sea permanente, y estudios recientes sugieren que el seguimiento debe continuar en la vida adulta. Un estudio de seguimiento a largo plazo realizado por Shukla _et al.,_ informaron deterioro tardío en un niño de 14 años con megauréteres primarios bilaterales, que se presentó con mayor dilatación y deterioro funcional seis años después de haber sido dado de alta del seguimiento conservador. (29) Aún más alarmante es el estudio de Hemal _et al.,_ que informó el resultado de 55 pacientes con megauréteres congénitos que se presentaron por primera vez en la tercera década de la vida, de los cuales se encontró que 20 pacientes tenían cálculos renales.(30) Cinco pacientes con megauréteres bilaterales se encontraban en insuficiencia renal crónica en el momento del diagnóstico, de los cuales dos eventualmente murieron de la enfermedad. Por lo tanto, una resolución temprana después de un manejo conservador no es una garantía de por vida, y es recomendable un seguimiento en la edad adulta.‬
 
-**Megauréteres obstruidos (obstrucción UUV)**‬
+### Megauréteres obstruidos (obstrucción UUV)‬
 
 El megauréter obstruido requiere intervención quirúrgica para preservar la función renal. Aunque en la mayoría de los casos, la intervención definitiva es la reimplantación ureteral, se han propuesto otras intervenciones como medidas temporales. Éstos incluyen:‬
 
@@ -87,7 +89,7 @@ El megauréter obstruido requiere intervención quirúrgica para preservar la fu
 
 _Reimplantación ureteral_‬
 
-Peters _et al. 31_demostraron que la reparación de un megauréter obstruido en la infancia temprana mejora el drenaje renal según lo evaluado por la urografía excretora y, por lo tanto, ofrece la posibilidad de prevenir el daño renal antes del desarrollo de síntomas o la disminución de la función en el renograma. La reimplantación uretérica permite la extirpación del segmento angosto y aperistáltico, y el uréter se canaliza hacia la vejiga en forma de antirreflujo. El túnel debe tener al menos cinco veces el diámetro ureteral para ser efectivo datos basados ​​en un estudio realizado por Paquin en 1959. (32) Para obtener esta relación cuando el diámetro ureteral es superior a 10 mm, es posible que se necesiten los 10 cm distales del uréter deban ser modelados. También se puede requerir un enganche en el psoas para asegurar una entrada directa del uréter en la vejiga. Los 2 tipos de técnicas de modelaje ureteral más comunenmente utilizados son de tipo plicatura reportados por Starr, y Kalicinski_; y el_ modelaje ureteral modificado por Hendren. (33-34-35) Kalicinski _et al; . _describió una técnica de plegado mediante la cual la parte lateral avascular del uréter se excluyó de la luz mediante una sutura continua longitudinal y luego se dobla por la parte posterior antes de la reimplantación. (34) Starr, modificó este procedimiento, introduciendo muchas suturas de Lembert interrumpidas que doblan la pared ureteral hacia adentro y suturando el uréter en dos capas, preservando así su suministro de sangre pero haciendo la reimplantación más incómoda. (35). Ben-Meir _et al.,_ compararon el resultado de la reimplantación de megauréteres con y sin modelaje, y reportaron que no hubo diferencias significativas en el resultado (94% de tasa de éxito en el grupo con modelaje y 96% en el grupo sin). (36) Las técnicas de reimplantación intravesical (Cohen y Leadbetter-Politano) son preferibles para algunos autores cuando el uréter va a modelar, especialmente en niños mayores con un grado de disfunción de la vejiga. (37) También se han descrito técnicas de reimplante con modelaje ureteral laparoscópica y robótica, aunque se esperan resultados a largo plazo. (38-39)‬
+Peters _et al. 31_ demostraron que la reparación de un megauréter obstruido en la infancia temprana mejora el drenaje renal según lo evaluado por la urografía excretora y, por lo tanto, ofrece la posibilidad de prevenir el daño renal antes del desarrollo de síntomas o la disminución de la función en el renograma. La reimplantación uretérica permite la extirpación del segmento angosto y aperistáltico, y el uréter se canaliza hacia la vejiga en forma de antirreflujo. El túnel debe tener al menos cinco veces el diámetro ureteral para ser efectivo datos basados ​​en un estudio realizado por Paquin en 1959. (32) Para obtener esta relación cuando el diámetro ureteral es superior a 10 mm, es posible que se necesiten los 10 cm distales del uréter deban ser modelados. También se puede requerir un enganche en el psoas para asegurar una entrada directa del uréter en la vejiga. Los 2 tipos de técnicas de modelaje ureteral más comunenmente utilizados son de tipo plicatura reportados por Starr, y Kalicinski_; y el_ modelaje ureteral modificado por Hendren. (33-34-35) Kalicinski _et al; . _ describió una técnica de plegado mediante la cual la parte lateral avascular del uréter se excluyó de la luz mediante una sutura continua longitudinal y luego se dobla por la parte posterior antes de la reimplantación. (34) Starr, modificó este procedimiento, introduciendo muchas suturas de Lembert interrumpidas que doblan la pared ureteral hacia adentro y suturando el uréter en dos capas, preservando así su suministro de sangre pero haciendo la reimplantación más incómoda. (35). Ben-Meir _et al.,_ compararon el resultado de la reimplantación de megauréteres con y sin modelaje, y reportaron que no hubo diferencias significativas en el resultado (94% de tasa de éxito en el grupo con modelaje y 96% en el grupo sin). (36) Las técnicas de reimplantación intravesical (Cohen y Leadbetter-Politano) son preferibles para algunos autores cuando el uréter va a modelar, especialmente en niños mayores con un grado de disfunción de la vejiga. (37) También se han descrito técnicas de reimplante con modelaje ureteral laparoscópica y robótica, aunque se esperan resultados a largo plazo. (38-39)‬
 
 La reimplantación ureteral en bebés menores de un año de edad puede ser difícil debido a la discrepancia entre el uréter con dilatación gruesa y la vejiga infantil pequeña, y la preocupación por la posible disfunción de la vejiga en forma iatrogénica. De Jong, investigó el resultado funcional de la vejiga de 49 recién nacidos y lactantes con megauréteres obstructivos o de reflujo primarios, que se sometieron a un procedimiento Politano Leadbetter, con un seguimiento promedio de 7,3 años. (40) No se observó una disfunción miccional en el seguimiento, y la capacidad de la vejiga para la edad aumentó significativamente. No se observó obstrucción ureteral postoperatoria. El autor concluyó que las reconstrucciones del tracto urinario inferior en niños pequenos no dañan las propiedades urodinámicas de la vejiga y el suelo pélvico, siempre que la cirugía sea realizada por cirujanos urólogos pediátricos especializados. Un estudio adicional del mismo grupo comparó el resultado urodinámico en pacientes que se sometieron a una reimplantación ureteral antes o después de un año de edad. (41) No se encontraron diferencias significativas en la capacidad de la vejiga, el cumplimiento o la incidencia de inestabilidad.‬
 
@@ -103,10 +105,11 @@ _Procedimientos temporales_‬
 
 Las medidas temporales incluyen el reimplante ureteral reflujante, descrito por Lee _et al_ ., donde el uréter proximal a la obstrucción se anastomosa a la cúpula de la vejiga en una forma de reflujo libre, convirtiendo así la obstrucción &quot;peligrosa&quot; en el mal menor que es reflujo. (46) Una ureterostomía cutánea temporal es una opción alternativa, aunque no sin sus complicaciones, que incluyen estenosis de estoma y pielonefritis. (47)‬
 
-**Conclusión**‬
+## Conclusión
+
  Las anomalías de UUV pueden ser obstructivas, reflujantes, no obstructivas - no reflujantes, u obstructivo y reflujante. Todos los tipos de anomalías congénitas de UUV pueden asociarse con un uréter dilatado o &quot;mega&quot;, por lo que se requiere una evaluación cuidadosa del paciente, combinado con una investigación radiológica, para identificar megauréteres &quot;obstruidos&quot; que requieren intervención quirúrgica. Solo el 10-20% de los megauréteres requieren intervención, mientras que el resto se puede monitorear de forma conservadora. Las opciones quirúrgicas incluyen reimplante ureteral, con o sin adaptación ureteral, procedimientos endoscópicos o medidas temporales como una ureterostomía cutánea o ureteroneocistostomía reflujante.‬
 
-**Referencias**‬
+## Referencias
 
       1.   Smith ED. Report of Working Party to establish the international nomenclature for the large ureter. In: Bergsma D, Duckett JW, editors. Birth Defects. Original articles series. 13 ed. 1977 p. 3-8.‬
       2.   King LR. Megaloureter: definition, diagnosis and management. J Urol 1980; **123**: 222-223.‬
@@ -157,14 +160,11 @@ Ref Type: Report‬
     46.   Lee SD, Akbal C, Kaefer M. Refluxing ureteral reimplant as temporary treatment of obstructive megaureter in neonate and infant. J Urol 2005; **173**: 1357-1360.‬
     47.   Gearhart JP. Primary obstructive ureter in neonates. Treatment by temporary uretero-cutaneostomy. Br J Urol 1994; **74**: 133-134.‬
 
-![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-1.jpg)‬
-
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-1.jpg)‬  
 **Figura 1.**  Vista intraoperatoria de un megauréter y un segmento yuxta-vesical (AS) estrecho y angosto.‬
 
-![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-2.jpg) ![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-3.jpg)‬
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-2.jpg) ![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-3.jpg)‬  
+**Figuras 2a y b.** Aparición ecográfica de un uréter dilatado proximal (a) y distal detrás de la vejiga (b)‬
 
-**Figuras 2a y b. ** Aparición ecográfica de un uréter dilatado proximal (a) y distal detrás de la vejiga (b)‬
-
-![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-4.jpg)‬
-
-**Figura 3a y b. ** Imágenes MAG-3 que muestran el drenaje retardado del marcador (curva roja) a los 20 minutos (a) y el uréter izquierdo visible (L) en la imagen tardía (b), lo que sugiere un bloqueo en el UUV‬
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-12-4.jpg)‬  
+**Figura 3a y b.** Imágenes MAG-3 que muestran el drenaje retardado del marcador (curva roja) a los 20 minutos (a) y el uréter izquierdo visible (L) en la imagen tardía (b), lo que sugiere un bloqueo en el UUV‬

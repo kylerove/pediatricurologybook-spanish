@@ -6,6 +6,7 @@ title: Duplicación Renal, ureterocele y ureter ectópico
 sort-key: 2-8
 permalink-en: /duplex-kidney.html
 layout: default
+review-formatting-complete: AM-2021-11-13
 ---
 
 # Duplicación Renal, ureterocele y ureter ectópico
@@ -18,13 +19,13 @@ _Evelina Children&#39;s Hospital‬, London, UK_
 _Miami Children&#39;s Hospital, Jackson Memorial Hospital, Miami, Fl, USA‬_{: .translator-location}
 {: #translator-p}
 
-**Introducción**‬
+## Introducción
 
 Los riñones de sistema colector doble es una anomalía relativamente común. Los riñones dobles pueden asociarse con ureterocele, inserción de uréter ectópico o reflujo vesicouretérico (RVU). Este capítulo tratará la terminología, la incidencia, la embriología y la fisiopatología de los riñones dobles. Se discutirá el manejo del reflujo en riñones dúplex, uréteres ectópicos y ureteroceles.‬
 
 Los uréteres ectópicos de sistema único y los ureteroceles de sistema único son entidades distintas de las que se observan en los riñones dúplex. Para mayor comodidad, la discusión de la gestión de estas condiciones se incluirá en este capítulo.‬
 
-**Terminología**‬
+## Terminología
 
 La terminología que rodea a los riñones con sistema colector doble ha sido conflictiva. La Academia Americana de Pediatría (AAP) elaboró ​​una terminología estandarizada en 1984, que se adoptó ampliamente (1):‬
 
@@ -44,7 +45,7 @@ _Un ureterocele intravesical_ es uno que se encuentra enteramente dentro de la v
 
 _Un ureterocele ectópico._ es aquella en la que una parte del ureterocele se encuentra permanentemente en el cuello de la vejiga o en la uretra.‬
 
-**Incidencia**‬
+## Incidencia
 
 La incidencia de riñones dobles en series post-mortem está entre 0.5-1.25% (2-4).Se identificaron riñones dobles en el 1,8% de los urogramas intravenosos realizados en 5196 pacientes. En 69 (73%) de estos pacientes, el riñón duplicado se consideró un hallazgo incidental (5). En este grupo, el 30% de los sistemas dobles eran sistemas colectores dobles completos. La incidencia de riñones dobles es similar para los lados izquierdo y derecho. Los riñones dobles se ven aproximadamente dos veces más frecuentemente en mujeres que en hombres (4; 5). Los riñones dobles son bilaterales en aproximadamente una quinta parte.‬
 
@@ -52,7 +53,7 @@ El número de casos detectados antes de la emergencia es menor que la incidencia
 
 Parece que hay una fuerte predisposición genética. En las personas con riñones dobles, hasta el 30% tienen familiares con riñones con doble sistema colector completos y dos tercios con sistemas bífidos, lo que sugiere una herencia autosómica dominante con expresión variable y penetrancia incompleta (8-10).‬
 
-**Embriología**‬
+## Embriología
 
 El riñón se forma cuando la yema ureteral, que surge del conducto mesonéfrico, se encuentra con el tejido metanéfrico y, mediante un proceso de inducción recíproca, provoca la formación del riñón. La parte distal de la yema uretérica se incorpora finalmente en la vejiga desde el trígono. En el extremo craneal, la ramificación de la yema ureteral da lugar al uréter, pelvis renal, cálices y conductos colectores. La ramificación prematura de la yema ureteral da como resultado un dúplex incompleto con uréteres que se encuentran antes de la vejiga o una pelvis renal bífida. Si se desarrolla más de una yema y migra a los metanéfricos, se forma un riñón dúplex con dos uréteres separados. Inicialmente, el brote uretérico más craneal se conecta al polo superior. Sin embargo, como el brote uretérico se incorpora en la vejiga, el botón uretérico del polo superior gira y migra más caudalmente que el botón uretérico del polo inferior. Esto hace que el uréter del polo superior tenga una abertura más caudal que el uréter del polo inferior: una observación realizada inicialmente por Weigert (11) y luego de forma independiente por Meyer (12). Esta es la Ley Meyer Weigert.‬
 
@@ -64,21 +65,22 @@ Un ureterocele es un globo del uréter terminal cuando entra en la vejiga. La em
 
 El desarrollo de un cecoureterocele requiere una explicación más compleja. Es posible que el uréter distal se vea afectado por los estímulos de crecimiento de las estructuras adyacentes. La estimulación del crecimiento de la yema uretérica provoca el agrandamiento del uréter distal y su abertura. La expansión adicional del uréter es provocada por el estímulo que causa el agrandamiento de la vejiga. Finalmente, una lengua de esta parte del uréter se transporta distalmente por la migración caudal de los conductos de Müller (18).‬
 
-**Fisiopatología**‬
+## Fisiopatología‬
 
 A primera vista, el tema de duplicación renal aparece complejo y desalentador. Sin embargo, la mayoría de los problemas clínicos se relacionan con la forma en que los uréteres se insertan en la vejiga. Vale la pena repetir que el uréter desde el polo superior de una duplicación renal tendrá una inserción más distal / medial en la vejiga que el uréter desde el polo inferior. El uréter del polo inferior puede tener una inserción normal o puede estar asociado con el reflujo vesicoureteral (RVU). El uréter del polo superior puede tener una inserción normal, una inserción ectópica o puede estar asociado con un ureterocele. El reflujo, los uréteres ectópicos y los ureteroceles se tratarán con más detalle a continuación.‬
 
 Si bien el uréter del polo inferior es más comúnmente afectado por el reflujo, a veces puede verse afectado por la obstrucción. Esto puede ocurrir como resultado de la compresión de un uréter dilatado anormal del polo superior (18). Las duplicaciones renales son susceptibles a otras patologías; por ejemplo, la obstrucción de la unión pelviuretérica puede afectar el polo inferior hasta en un 2% (19).‬
 
-El parénquima de una duplicación renal no se distribuye equitativamente entre los dos polos (Figura 1).‬
+El parénquima de una duplicación renal no se distribuye equitativamente entre los dos polos (**Figura 1**).‬
 
-![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-1.jpg)‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-1.jpg)‬  
+**Figura 1:** Urograma intravenoso de un riñón de sistema colector doblederecho no complicado.
 
-**Figura 1: Urograma intravenoso de un riñón de sistema colector doblederecho no complicado. L**** a mayoría de los cálices pertenecen al polo inferior y se desplazan hacia abajo y lateralmente dando la apariencia de un &quot;lirio caído&quot;**‬
+_La mayoría de los cálices pertenecen al polo inferior y se desplazan hacia abajo y lateralmente dando la apariencia de un lirio caído‬._
 
 En una serie de UIV, se observó que los riñones normales tenían una media de 9,4 cálices, mientras que los casos de duplicación renal tenían 11,3 cálices; el polo superior tenían 3.7 cálices y el polo inferior 7.6 cálices (5). En general, el polo superior contribuye aproximadamente a un tercio de la masa total del parénquima renal.‬
 
-**Reflujo vesicoureteral en duplicación renal**‬
+## Reflujo vesicoureteral en duplicación renal
 
 En general, el uréter de polo inferior de una duplicación renal completa se inserta más lateralmente en la vejiga y tendrá un curso intramural más corto y menos oblicuo a través de la pared de la vejiga que un uréter normal. Esto hace que sea más propenso al reflujo.‬
 
@@ -88,15 +90,13 @@ El RVU en el polo inferior en las duplicaciones renales se presenta con mayor fr
 
 La investigación por ultrasonido puede mostrar un polo inferior dilatado o un uréter dilatado (ver la Figura 2).‬
 
-![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-2.jpg)‬
-
-**Figura 2: Ecografía que muestra un polo inferior dilatado de un riñón duplicado**‬
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-2.jpg)‬  
+**Figura 2:** Ecografía que muestra un polo inferior dilatado de un riñón duplicado
 
 En los bebés, un cistograma miccional proporciona información precisa sobre la anatomía del reflujo. Una exploración con radionucleótidos con ácido dimercaptosuccínico (DMSA) brinda información sobre la función del polo afectado e información sobre cicatrices focales (consulte la Figura 3).‬
 
-![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-3.jpg)‬
-
-**Figura 3: DMSA que demuestra poca función en el polo renal inferior izquierdo de un riñón duplicado**‬
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-3.jpg)‬  
+**Figura 3:** DMSA que demuestra poca función en el polo renal inferior izquierdo de un riñón duplicado‬
 
 La historia natural del RVU en una duplicación renal es de resolución espontánea en una gran proporción. Se han observado tasas de resolución espontánea de RVU del 58% en los pacientes tratados sin cirugía (24). La resolución espontánea de RVU en duplicación renal completa es comparable a los riñones individuales (26), con una resolución del 85% de grado I-II y una resolución del 36% para el grado III (25). Sin embargo, un estudio más reciente encontró que cuando se incluyen grados de reflujo más altos en la comparación, la tasa de resolución espontánea no es tan buena (23). Solo el 7% de RVU de grado III en duplicación renal se resolvió, y ninguno de los grados más altos de RVU se resolvió en un seguimiento medio de tres años y medio.‬
 
@@ -138,37 +138,37 @@ El tratamiento de un uréter ectópico sintomático requiere cirugía. El riñó
 
 Cuando se conserva la función del polo superior, una alternativa a la heminefrectomía es la reimplantación uretérica. En este caso, ambos uréteres del riñón de doble sistema colector deben reimplantarse juntos. Sin embargo, la reimplantación se puede evitar al drenar el polo superior hacia el sistema del polo inferior, ya sea con una ureteroureterostomía o con una uretero-pielostomía (65). Hoy en día, la laparoscopia ha progresado hacia una reconstrucción de este tipo, y se describen tanto la ureteroureterostomía como la ureteropielostomía laparoscópica (41; 66).‬
 
-**Ureterocele**‬
+## Ureterocele
 
 Describir los ureteroceles como obstructivos no da una explicación adecuada de las diferencias en cómo se comportan. La clasificación AAP de ureteroceles (1), que distingue los ureteroceles intravesicales y ectópicos, tiene la ventaja de ser simple y se usa ampliamente. Otra clasificación encontrada regularmente en la literatura fue desarrollada por Stephens et al (18). Esta clasificación se describe a continuación e incluye diferencias en la forma en que actúan los ureteroceles:‬
 
-**Estenótico**‬
+### Estenótico
 
 Este es el tipo más común de ureterocele. El ureterocele se encuentra dentro de la vejiga. Su orificio se encuentra dentro del trígono y es obstructivo. Corresponde a un ureterocele intravesical.‬
 
-**Esfinterico**‬
+### Esfinterico
 
 En esta forma de ureterocele, un uréter más bien dilatado recorre la submucosa de la vejiga y adopta un calibre más normal a medida que se desplaza hacia la uretra. Tiene una abertura a nivel del esfínter. Su orificio no es estrecho, pero el drenaje del ureterocele se ve afectado por la contracción del esfínter. El ureterocele asociado puede ser muy grande.‬
 
-**Esfintero-estenótico**‬
+### Esfintero-estenótico
 
 Aquí el ureterocele tiene un orificio que está al nivel del esfínter. Su orificio estrecho impide su drenaje, por lo que el ureterocele permanece inflado y obstruye la salida de la vejiga.‬
 
-**Ciego**‬
+### Ciego
 
 Esta forma de ureterocele se extiende debajo del trígono y en la salida de la vejiga. Ninguna apertura es identificable. El ureterocele dilatado puede causar una obstrucción severa de la salida de la vejiga.‬
 
-**No obstructivo**‬
+### No obstructivo
 
 Este tipo de ureterocele se encuentra completamente dentro de la vejiga y tiene una gran abertura que no impide el drenaje del ureterocele.‬
 
-**Cecoureterocele**‬
+### Cecoureterocele
 
 Esta forma de ureterocele se extiende por vía submucosa hacia la uretra. El orificio del ureterocele se encuentra más próximo a la uretra o la vejiga. Una &quot;lengua&quot; de ureterocele submucoso se encuentra caudal a la abertura. Si su abertura es pequeña, el llenado del ureterocele puede obstruir la salida de la vejiga. Si el ureterocele tiene una gran abertura (ya sea natural o iatrogénicamente), la lengua del cecoureterocele se llenará por reflujo durante la evacuación y puede obstruir la uretra.‬
 
 En una serie de 60 ureteroceles: el 40% fue estenótico, un tercio esfinteriano, el 6% esfinterostenótico, el 5% ciego, el 5% no obstructivo y el 5% un cecoureterocele (18).‬
 
-**Presentación**‬
+### Presentación
 
 La incidencia de ureterocele en la autopsia es de 1 en 500-4,000 (67; 68). En pacientes identificados con riñones con doble sistema colector, se encontrará que 5-20% tiene ureteroceles (20; 21). La mayoría de los ureteroceles solían presentarse con infección del tracto urinario. Con la mejora en la exploración prenatal, la mitad o tres cuartos se detectan por vía antenal (69-72).‬
 
@@ -176,23 +176,23 @@ Es común que los ureteroceles obstruyan el polo superior del riñón afectado d
 
 El reflujo vesicouretérico coexistente es común y afecta a la mitad del polo inferior ipsilateral y al riñón contralateral en un cuarto (74). La función anormal de la vejiga es común en niños con ureterocele. Más de la mitad tendrá vejigas anormalmente grandes, y los volúmenes residuales son comunes (75). Se han observado cálculos en una gran proporción de pacientes adultos que presentan ureterocele (76).‬
 
-**Investigación**‬
+### Investigación
 
 La investigación de un ureterocele tiene como objetivo confirmar su presencia, describir su estructura (intravesical o ectópica) e identificar una patología coexistente (por ejemplo, RVU, polo inferior y obstrucción de la salida de la vejiga).‬
 
-El ureterocele y su uréter dilatado asociado y el polo superior generalmente se identifican en la ecografía (ver Figura 4).‬
+El ureterocele y su uréter dilatado asociado y el polo superior generalmente se identifican en la ecografía (**ver Figura 4**).‬
 
-![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-4.jpg)‬
-
-  **Figura 4: Ecografía que muestra un ureterocele en la vejiga.**  **Tenga en cuenta que en este caso la orina en la vejiga es más ecogénica que en el ureterocele, lo que implica un vaciamiento deficiente de la vejiga.**‬
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-4.jpg)‬  
+**Figura 4:** Ecografía que muestra un ureterocele en la vejiga. Tenga en cuenta que en este caso la orina en la vejiga es más ecogénica que en el ureterocele, lo que implica un vaciamiento deficiente de la vejiga.
 
 Se debe tener cuidado de que un uréter distal dilatado adyacente a una vejiga no se confunda con un ureterocele. Se puede pasar por alto un ureterocele que está colapsado en el momento de la ecografía. Un ultrasonido cuidadoso puede proporcionar información útil sobre la extensión del ureterocele y el grosor de su pared posterior.‬
 
 El cistograma miccional es una investigación invaluable en el paciente con un ureterocele (ver Figura 5).‬
 
-![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-5.jpg)‬
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-8-5.jpg)‬  
+**Figura 5:** Cistograma miccional que muestra un ureterocele ectópico.
 
-  **Figura 5: Cistograma miccional que muestra un ureterocele ectópico. E**** l ureterocele se extiende hacia la uretra y presenta reflujo asociado hacia el uréter dilatado del polo inferior**‬
+El ureterocele se extiende hacia la uretra y presenta reflujo asociado hacia el uréter dilatado del polo inferior
 
 Identifica su tamaño y la relación del fondo de ojo y la base del ureterocele con el cuello de la vejiga y la uretra, lo que indica una posible obstrucción de la salida de la vejiga. Se obtiene información de referencia adicional sobre el RVU. Se debe tener cuidado de que un ureterocele evertido no se identifique erróneamente como un divertículo parauretérico (77).‬
 
@@ -200,11 +200,11 @@ Un escaneo de radionucleótidos con ácido dimercaptosuccínico (DMSA) es útil 
 
 Una combinación de ultrasonido y cistograma miccional a menudo puede distinguir entre los ureteroceles ectópicos e intravesical. Sin embargo, esto no siempre es posible, y se puede requerir una cistoscopía para hacer la distinción en hasta un cuarto del total de casos (78). Al realizar la cistoscopía se debe tener cuidado de no borrar el ureterocele; idealmente, el paciente debe estar bien hidratado y el flujo de irrigación debe mantenerse al mínimo.‬
 
-**Tratamiento**‬
+### Tratamiento
 
 Dada la complejidad y la variación en la anatomía de los ureteroceles, tal vez no sea sorprendente que no haya un consenso claro sobre el manejo de los ureteroceles. Los objetivos del tratamiento pueden ser controversiales: el objetivo de minimizar el daño de la obstrucción del tracto superior y la vejiga, el deseo de ofrecer tratamientos individuales o mínimos, el objetivo de evitar problemas iatrogénicos como un nuevo reflujo o la obstrucción a la salida de la vejiga, y el deseo de efectuar una corrección anatómica definitiva. Por lo tanto, existen varios enfoques de tratamiento posibles que se pueden ofrecer a un paciente con un ureterocele, con recomendaciones específicas para los ureteroceles intravesical y ectópico. En general, las opciones de tratamiento varían entre el tratamiento conservador, la punción del ureterocele,‬
 
-**Tratamiento conservador**‬
+### Tratamiento conservador
 
 El manejo expectante de los ureteroceles detectados antenatalmente puede ser un tratamiento exitoso que evite la cirugía potencialmente difícil y sus complicaciones. Dejar el tejido renal displásico in situ puede no representar un mayor riesgo de hipertensión (79). La principal preocupación sobre el manejo expectante de los ureteroceles es la predisposición de un riñón hidronefrótico obstruido a la infección.‬
 
@@ -218,7 +218,7 @@ Este enfoque puede aplicarse con éxito a los ureteroceles asociados con un riñ
 
 Sauvage et al, inicialmente tomaron una postura diferente (84). Sin embargo, al evaluar sus resultados de la cirugía para el ureterocele, se sintieron decepcionados por sus propios resultados operativos. Sugirieron que un período de observación cuidadosa podría ser útil para estratificar qué pacientes realmente requieren cirugía, y en los cuales se puede evitar por completo la cirugía.‬
 
-**Heminefrectomía del polo superior**‬
+### Heminefrectomía del polo superior
 
 Esta estrategia de tratamiento a veces se denomina &quot;tratamiento simple&quot;. El polo superior del riñón asociado con un ureterocele significativo generalmente tiene una función mínima. La extracción del polo superior mediante heminefrectomía eliminará un sistema obstruido predispuesto a una infección del tracto urinario. La extracción, combinada con la succión del uréter distal en el momento de la operación también provocará el colapso y la descompresión del ureterocele. Se espera que el reflujo coexistente hacia el polo inferior se resuelva en la mayoría (85). Sin embargo, Husmann et al. encontraron que el reflujo no se resolvió mediante hemi-nefrectomía; el 15% de las personas sin reflujo preexistente desarrolló reflujo, y el reflujo continuó después de la heminefrectomía en el 84% de las personas con reflujo preexistente (86).‬
 
@@ -228,7 +228,7 @@ Un grupo reporta una tasa de éxito del 80% para el enfoque simple (70). Esto es
 
 Otra modificación es realizar la heminefrectomía del polo superior por vía laparoscópica (91; 92). Este es un procedimiento técnicamente difícil incluso para un cirujano laparoscópico experimentado. La conversión a abrir se requiere en hasta un 12,5%, las recolecciones peri-renales se ven en una quinta parte, y aún no está claro si la tasa de reoperación es comparable a la heminefrectomía abierta.‬
 
-**Punción del Ureterocele / tratamiento endoscópico**‬
+### Punción del Ureterocele / tratamiento endoscópico
 
 El tratamiento endoscópico de ureteroceles mediante punción es una solución potencialmente muy atractiva. La punción del ureterocele mediante cistoscopia es una operación con una morbilidad perioperatoria mucho menor que las alternativas de la nefrectomía del polo superior o la reconstrucción del cuello de la vejiga. Casi se puede realizar como cirugía de día. Una punción individual conlleva solo un 10-20% de probabilidad de repetir la punción (69; 93; 94). Incluso puede ser posible que alguna función del polo superior se pueda recuperar.‬
 
@@ -242,7 +242,7 @@ El diagnóstico prenatal de los ureteroceles abre la posibilidad de intervenció
 
 La punción no debe considerarse un tratamiento universal para el ureterocele, pero debe tener un papel definido. Para el niño que presenta una infección aguda, puede proporcionar alivio de emergencia de la obstrucción (70; 86). La punción tiene una alta tasa de éxito para los ureteroceles intravesicales, y para estos pueden ofrecerse como tratamiento definitivo (100; 111-114). Para los ureteroceles ectópicos, se debe esperar una alta tasa de reoperación. En este caso, la punción del ureterocele debe considerarse como parte de un procedimiento por etapas: ya sea facilitando la cirugía reconstructiva posterior (69; 115), o permitiendo que el RVU se controle cistoscópicamente (103-105).‬
 
-**Reconstrucción del cuello vesical**‬
+### Reconstrucción del cuello vesical
 
 El propósito de la reconstrucción del cuello vesical en el tratamiento del ureterocele es corregir las anomalías anatómicas que se encuentran con los ureteroceles. Puede incluir todo o parte de lo siguiente: extirpación del ureterocele, reparación de la debilidad del cuello de la vejiga y la pared de la vejiga, reimplantación de los uréteres asociados y hemi-nefrectomía de un polo superior que funciona mal. Se puede realizar una marsupialización del ureterocele, en lugar de su escisión completa, para evitar una disección difícil en la uretra (116). El beneficio de la reconstrucción es que todos los problemas funcionales asociados con el ureterocele se pueden corregir: RVU, debilidad del esfínter y obstrucción a la salida de la vejiga del ureterocele, creada principalmente o iatrogénicamente (90).‬
 
@@ -250,7 +250,7 @@ La reconstrucción puede ofrecerse como tratamiento primario o secundario. La ci
 
 Una visión más optimista de la reconstrucción es proporcionada por otros. Una serie informó una tasa de éxito del 83% para la reconstrucción primaria, pero los autores advirtieron sobre la posibilidad de complicaciones mayores para esta cirugía difícil (70). En otra serie de niñas sometidas a reconstrucción por ureterocele bilateral, el 70% tenía residuos postoperatorios significativos y una quinta parte necesitaba realizar una cateterización intermitente (118). Otro grupo informó una incidencia del 20% de IU después de la reconstrucción y una incidencia del 13% de disfunción de la vejiga (119).‬
 
-**Ureteroureterostomía**‬
+### Ureteroureterostomía
 
 Conectar el drenaje del uréter del polo superior al polo inferior es otra técnica que se puede aplicar a los niños con ureterocele. Anastomosar un uréter al otro uréter menos enfermo es relativamente simple y puede evitar problemas de escisión del ureterocele y reconstrucción del cuello vesical (38; 120; 121). Este es un procedimiento que conlleva menos morbilidad que la heminefrectomía o la reconstrucción. Se ha informado una tasa de éxito del 91% para el tratamiento de los ureteroceles, con una anastomosis patente, y sin reflujo u obstrucción (38). Otra serie informó el éxito después de dos años de seguimiento en ocho niños con ureterocele pero sin reflujo (121).‬
 
@@ -260,7 +260,7 @@ Una de las ventajas de la ureteroureterostomía es que se puede realizar a trav�
 
 En conclusión, ningún procedimiento único proporciona un tratamiento universal para todos los ureteroceles. Se pueden hacer algunas generalizaciones: la punción del ureterocele es apropiada para la descompresión de emergencia de sistemas con infección aguda y para los ureteroceles intravesicales; la hemi-nefrectomía del polo superior conlleva una buena tasa de éxito donde no hay reflujo asociado. Aun así, el tratamiento para los ureteroceles debe adaptarse al paciente individual.‬
 
-**Ureterocele de un solo sistema**‬
+## Ureterocele de un solo sistema
 
 Una quinta parte de todos los ureteroceles se producen en sistemas únicos, a diferencia de los sistemas collectores dobles(122; 123). Los ureteroceles de sistema único suelen ser intravesicales y los riñones asociados a menudo tienen una función razonable. La mayoría de los ureteroceles de sistema único que se presentan en la infancia se detectan por vía antenal (124).‬
 
@@ -268,7 +268,7 @@ La investigación debe comenzar con una ecografía renal. La hidronefrosis puede
 
 Si no hay obstrucción o reflujo del riñón afectado, entonces el tratamiento no quirúrgico es apropiado (82) y se deben esperar buenos resultados del tratamiento conservador. Si el ureterocele perjudica el drenaje del riñón afectado, se indica la cirugía. La punción transuretral o la incisión del ureterocele es mucho más probable que tenga éxito en los ureteroceles del sistema simplex que en los riñones dobles. Las tasas de reoperación de los ureteroceles en sistemas únicos son bajas, con tasas del 0-25% (95; 112; 113; 126).‬
 
-**Uréter ectópico de un solo sistema**‬
+## Uréter ectópico de un solo sistema
 
 Aproximadamente una quinta parte de los uréteres ectópicos están asociados con riñones de un solo sistema (127). Algunos informan que son más comunes en niños (128-130), otros que hay una preponderancia femenina en India y Japón (131; 132), y otros encontraron una distribución equitativa en niños y niñas (133).‬
 
@@ -278,13 +278,13 @@ La displasia renal es frecuente. Sin embargo, a diferencia de los uréteres ect�
 
 El diagnóstico de uréteres ectópicos de un solo sistema puede resultar difícil. En la micción del cistograma, el reflujo se puede demostrar en solo la mitad (128). La cistoscopia inicial puede fallar en identificar el uréter ectópico en dos tercios (134).‬
 
-**Uréter ectópico bilateral**‬
+### Uréter ectópico bilateral‬
 
 Los uréteres ectópicos bilaterales son una malformación rara y distinta que afecta a las niñas (133). Ningún uréter drena hacia la vejiga, que es pequeña con un esfínter poco desarrollado. Es posible que durante el desarrollo el origen anormal de ambos brotes ureterales dé lugar a una mala inducción mesenquimática de las estructuras urogenitales. Esto resulta en la falla del desarrollo normal de la vejiga y el cuello de la vejiga. Las funciones del esfínter y del depósito de la vejiga se ven gravemente afectadas (135; 136). Por lo tanto, aunque el niño pueda presentar incontinencia, la reimplantación uretérica no podrá corregir la incontinencia (137). Una revisión de la literatura de 1937 encontró que, a pesar de la cirugía, solo el 20% se convirtió en continente (138).‬
 
 Lograr la continencia requiere la reimplantación ureteral, la mejora del almacenamiento de la vejiga y la mejora de la resistencia de salida de la vejiga. La reimplantación uretérica es difícil debido al pequeño tamaño de la vejiga. La creación de una ventana entre un uréter distal y la vejiga puede, al permitir el ciclo de la vejiga, y de esta manera lograr que se desarrolle una capacidad razonable de la vejiga y posiblemente evitar la necesidad de procedimientos de aumento de la vejiga (119; 139). La capacidad de la vejiga puede mejorarse con la enterocistoplastia. Una variedad de procedimientos de salida de vejiga se ha descrito en este contexto: Dees-Leadbetter reconstrucción del cuello de la vejiga (140), procedimiento de Kropp, cabestrillo pubovaginal (136), cierre del cuello de la vejiga (141) y esfínter urinario artificial (142; 143).‬
 
-**Referencias**‬
+## Referencias
 
 1. Glassberg KI, Braren V, Duckett JW, Jacobs EC, King LR, Lebowitz RL et al. Suggested terminology for duplex systems, ectopic ureters and ureteroceles. J Urol 1984; **132**: 1153-1154.‬
 2. Campbell MF. Surgical treatment of anomalies of upper urinary tract in children. Journal of the American Medical Assoication 1936; **106**: 193-196.‬

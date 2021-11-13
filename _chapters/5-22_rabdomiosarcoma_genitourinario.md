@@ -57,20 +57,18 @@ _Antecedentes_‬
 
 _Presentación clínica y manejo inicial._‬
 
-El paciente o su familia suelen observar el PT-RMS como una masa escrotal indolora que puede o no ser distinta del testículo. El enfoque clínico de esta situación implica una historia clínica completa y un examen físico seguido de marcadores tumorales séricos para evaluar una neoplasia testicular primaria (AFP, bHCG, LDH), así como una ecografía escrotal para tratar de distinguir entre una ubicación primaria testicular o paratesticular. Es de destacar que el examen físico debe tener en cuenta específicamente cualquier invasión aparente de la pared escrotal, así como cualquier linfadenopatía inguinal o cervical. La estadificación consiste en electrolitos séricos, hemograma completo, pruebas de función hepática y aspirados / biopsias de médula ósea bilateral. La estadificación adicional incluye imágenes de corte transversal del tórax, y abdomen. ( **Figura 1**  ).‬
+El paciente o su familia suelen observar el PT-RMS como una masa escrotal indolora que puede o no ser distinta del testículo. El enfoque clínico de esta situación implica una historia clínica completa y un examen físico seguido de marcadores tumorales séricos para evaluar una neoplasia testicular primaria (AFP, bHCG, LDH), así como una ecografía escrotal para tratar de distinguir entre una ubicación primaria testicular o paratesticular. Es de destacar que el examen físico debe tener en cuenta específicamente cualquier invasión aparente de la pared escrotal, así como cualquier linfadenopatía inguinal o cervical. La estadificación consiste en electrolitos séricos, hemograma completo, pruebas de función hepática y aspirados / biopsias de médula ósea bilateral. La estadificación adicional incluye imágenes de corte transversal del tórax, y abdomen. (**Figura 1**).‬
 
 _Imágenes de TC pélvica axial de tumor primario en un niño con RMS paratesticular_‬
 
-![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-5-22-1.png)‬
-
-**Figura 1**‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-5-22-1.png)‬  
+**Figura 1.**‬
 
 _Imágenes de TC abdominal sagital de linfadenopatía masiva en un niño con RMS paratesticular_‬
 
 Las exploraciones óseas han sido tradicionalmente parte de la estadificación en el momento del diagnóstico según los protocolos del grupo de estudio cooperativo. Sin embargo, una investigación reciente sugiere que las exploraciones con FDG-PET pueden ser más beneficiosas en la estadificación y para futuras comparaciones durante y después del tratamiento para evaluar la efectividad terapéutica (  **Figura 2**  ). [28](http://www.pediatricurologybook.com/rhabdomyosarcoma.html#_ENREF_28) , [29](http://www.pediatricurologybook.com/rhabdomyosarcoma.html#_ENREF_29)‬
 
-![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-5-22-2.png)‬
-
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-5-22-2.png)‬  
 **Figura 2**‬
 
 _Imágenes PET de metástasis óseas y blandas generalizadas en un niño con RMS paratesticular_‬
