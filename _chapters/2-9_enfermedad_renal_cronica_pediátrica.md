@@ -82,25 +82,25 @@ A medida que la ERC avanza a la etapa 3 en adelante, se manifiestan una serie de
 
 En el estudio de centro único más grande (366 niños) de niños con CKD, la mayoría de los cuales se encontraban en la CKD en estadio I (57%), la prevalencia general de complicaciones como hipertensión, anemia, osteodistrofia renal, fallo de crecimiento y trastornos electrolíticos significativos fueron 70 %, 37%, 17% 12% y 9% respectivamente.‬
 
-_Desequilibrio de líquidos y electrolitos._‬
+### Desequilibrio de líquidos y electrolitos
 
 Las alteraciones de líquidos y electrolitos generalmente se presentan cuando el GFR cae por debajo de 10 a 15 ml / min / 1.73m2. A medida que el GFR se deteriora gravemente (estadio IV y TAC), la disminución de la producción de orina provoca una retención de agua que puede provocar una sobrecarga de volumen, hipertensión e hiponatremia.‬
 
 De las complicaciones de los electrolitos, la hiperpotasemia es la más peligrosa y generalmente ocurre en la etapa posterior de la ERC. Aunque la hiperpotasemia se produce debido a la excreción inadecuada de potasio por la reducción de la TFG, también se debe a la disminución del suministro de sodio a los túbulos distales, secundaria a la reducción de la TFG que produce una tasa de cambio reducida de potasio y, por lo tanto, una excreción inadecuada de potasio. Otros factores que contribuyen a la hiperpotasemia son el aumento de la degradación del tejido debido al estado hipercatabólico, la acidosis metabólica, la acidosis tubular renal tipo IV en algunos pacientes con uropatía obstructiva, el hipoaldosteronismo (en algunos casos debido a la administración de un inhibidor de la enzima convertidora de la angiotensina o un bloqueador del receptor de la angiotensina).‬
 
-_Acidosis metabólica_‬
+### Acidosis metabólica
 
 La acidosis metabólica es otra complicación común que generalmente se manifiesta cuando el GFR disminuye a menos de 40 a 50 ml / min / 1.73 m2. Esto generalmente se debe a un menor número de nefronas que funcionan para mantener el grado de excreción de amoníaco requerido para el equilibrio ácido-base. El efecto neto es la retención de iones de hidrógeno que resulta en acidosis metabólica. El espacio aniónico generalmente aumenta en este contexto, pero puede ser normal debido a la retención concomitante de aniones como fosfato, sulfato, urato e hipurato. La presencia de acidosis tiene un impacto negativo en el crecimiento, ya que el cuerpo utiliza el hueso para amortiguar el exceso de iones de hidrógeno y se ha demostrado que el tratamiento de los trastornos óseos asociados con la ERC es mejor si se corrige la adicionalmente la acidosis.‬
 
-_Enfermedad ósea_‬
+### Enfermedad ósea
 
 La enfermedad ósea de la CKD, conocida como osteodistrofia renal o, más recientemente, se describe como el trastorno óseo CKD-Mineral (CKD-MBD) puede tener una manifestación bioquímica sutil de la enfermedad CKD en estadio II. La patogenia de la CKD-MBD es compleja y su comprensión sigue evolucionando. Se cree que la eliminación del aclaramiento renal de fósforo con el aumento resultante de la hormona paratiroidea sérica (PTH) en respuesta a la retención de fosfato es un paso clave. También se cree que la disminución de la producción de calcitriol (también conocida como 1,25-dihidroxivitamina D) secundaria a la disfunción renal es un factor contribuyente importante. Además, la evidencia reciente también indica una mayor prevalencia de deficiencia generalizada de vitamina D en niños con CKD y esto también podría contribuir a la CKD-MBD. Los signos sutiles de enfermedad ósea comienzan a aparecer en pacientes con enfermedad en estadio III. Los pacientes con osteodistrofia renal más avanzada tienen dolor óseo, dificultad para caminar y / o deformidades esqueléticas.‬
 
-_Anemia_‬
+### Anemia
 
 La anemia es la otra complicación importante y se debe a la reducción de la eritropoyetina, que se produce principalmente en los riñones. Generalmente se desarrolla cuando la eGFR cae por debajo de 60mls / min / 1.73m2. La anemia de la ERC es normalmente normocítica, normocrómica y un cuadro microcítico sugiere una deficiencia de hierro concomitante o un exceso de aluminio, mientras que un cuadro macrocítico sugiere una deficiencia de vitamina B12 o de folato. La anemia en niños con ERC se ha asociado con fatiga, debilidad, disminución de la atención, mayor somnolencia y poca tolerancia al ejercicio.‬
 
-_Hipertensión_‬
+### Hipertensión
 
 La hipertensión es una de las complicaciones más comunes en niños con ERC, que va del 54 al 70% de los pacientes. Por lo general, se debe a la expansión de volumen, aunque también puede ser secundario a un exceso de renina de riñones dañados o iatrogénicos, como el uso de corticosteroides o ciclosporina o tacrolimus para el tratamiento de cualquier enfermedad renal subyacente.‬
 
@@ -108,11 +108,11 @@ A diferencia de muchas de las complicaciones de la ERC, la hipertensión puede p
 
 La hipertrofia ventricular izquierda (LVH) también es un hallazgo común y puede ser de tipo LVH concéntrico secundario a la presencia de hipertensión o LVH excéntrica secundaria a la sobrecarga de volumen asociada y anemia. En su informe preliminar, el estudio CKiD encontró HVI detectada por ecocardiografía en el 17% de los casos (con 11% de HVI excéntrica y 6% de HVI). La HVI fue más común en niños con hipertensión confirmada y enmascarada en comparación con aquellos con mediciones de PA normal (34, 20 y 8%, respectivamente).‬
 
-_Dislipemia_
+### Dislipemia
 
 El metabolismo lipídico anormal es común en pacientes con ERC y aumenta el riesgo de enfermedad cardiovascular (ECV) junto con la hipertensión. Los adultos jóvenes de 25 a 34 años con ERC tienen al menos un riesgo 100 veces mayor de mortalidad y / o morbilidad relacionada con ECV en comparación con la población general. Esto ha llevado a la Asociación Americana del Corazón a identificar la ERC como una de las ocho enfermedades asociadas con un mayor riesgo de enfermedad arterial coronaria.‬
 
-_Disfunción endocrina_‬
+### Disfunción endocrina
 
 Hormonas tiroideas: los estados de la ERC a menudo se asocian con el &quot;síndrome eutiroideo enfermo&quot; con niveles bajos y totales de T4 y T3 libres, un nivel normal de hormona estimulante de la tiroides (TSH) y niveles normales o disminuidos de globulina fijadora de hormona tiroidea u hormona liberadora de tirotropina (TRH).‬
 
@@ -120,7 +120,7 @@ Hormonas gonadales: las anomalías en las hormonas gonadales se observan en dos 
 
 Deterioro del crecimiento: la etiología de la falla de crecimiento, una complicación común de la ERC infantil, es multifactorial e incluye acidosis metabólica, disminución de la ingesta calórica, osteodistrofia renal y alteraciones en la función de la hormona del crecimiento y factor de crecimiento similar a la insulina (IGF-1) en particular, el crecimiento lineal deficiente se debe principalmente al aumento de los niveles de las proteínas que se unen al factor de crecimiento de la insulina, lo que promueve un estado resistente a la hormona del crecimiento que resulta en baja estatura.‬
 
-_Uremia_‬
+### Uremia
 
 A medida que la insuficiencia renal ingresa a la ERC en el estadio V, generalmente se manifiesta una constelación de síntomas y signos conocidos como uremia. Esto incluye anorexia, náuseas, vómitos, retraso del crecimiento, neuropatía periférica y anomalías del sistema nervioso central que van desde la pérdida de concentración y el letargo, hasta las convulsiones, el coma y la muerte. Los pacientes urémicos también tienen una mayor tendencia a la hemorragia secundaria a las propiedades anormales de adhesión y agregación plaquetarias. También pueden tener una enfermedad pericárdica (pericarditis y derrame pericárdico) que, por sí misma, es una indicación para instituir diálisis en niños con CKD.‬
 
@@ -132,11 +132,11 @@ Sueño y fatiga: la somnolencia diurna y la fatiga se observan con frecuencia en
 
 La evaluación de un niño con ERC comienza con una evaluación clínica, incluida la historia clínica y el examen físico. Las imágenes y las evaluaciones de laboratorio son complementos útiles no solo para establecer una causa subyacente sino también para determinar la gravedad de la insuficiencia renal e identificar cualquier complicación asociada.‬
 
-_Evaluación Clínica_‬
+### Evaluación Clínica
 
 La historia debe incluir documentación de la edad al inicio de los síntomas, la duración de los síntomas y la presencia de síntomas debidos a uremia (debilidad, fatiga, anorexia o vómitos), cualquier enfermedad sistémica subyacente (fiebre, erupción cutánea o artralgia / artritis) o trastornos renales específicos (p. ej., glomerulonefritis) que pueden presentarse con síndrome nefrótico y / o nefrítico. También se debe tratar de obtener cualquier historia relevante como neonatal, médica pasada, drogas (nefrotoxicidad, así como reacciones idiosincrásicas) y antecedentes familiares. Se debe buscar un énfasis particular en la falla del crecimiento, poliuria, polidipsia, enuresis, detección prenatal de cualquier anomalía renal, anomalías de la columna o infección recurrente del tracto urinario.‬
 
-_Examen Físico_‬
+### Examen Físico
 
 El examen físico de cualquier niño sospechoso de tener ERC debe incluir:‬
 
@@ -149,7 +149,7 @@ El examen físico de cualquier niño sospechoso de tener ERC debe incluir:‬
 - Evaluación de cualquier signo de hipervolemia al observar la presencia de edema, estertores, agrandamiento hepático y / o sensibilidad, y galope cardíaco.‬
 - Auscultación cardíaca para detectar un roce pericárdico debido a pericarditis o disminución de los sonidos cardíacos secundarios a un derrame pericárdico.‬
 
-_Imágenes _‬
+### Imágenes
 
 La ecografía (US) Es la modalidad más utilizada y tiene la ventaja de ser no invasiva. Se puede usar para evaluar la estructura renal, para detectar cualquier anomalía estructural subyacente como CAKUT (incluida la patología obstructiva), incluidas las enfermedades quísticas renales. Es igualmente útil para medir la longitud de los riñones, que puede compararse con los valores normativos apropiados para la edad. Los riñones que son más pequeños de lo normal indican una disminución en la masa renal debido al mal desarrollo congénito (como hipoplasia renal), crecimiento deficiente o pérdida de nefrones debido a un trastorno o lesión subyacente. Además, el seguimiento en serie del crecimiento renal también se puede realizar a través de los ultrasonidos. En niños con un riñón solitario, la longitud renal generalmente está en el rango superior de longitud para los riñones pareados normales y, a menudo, es mayor que el percentil 95 debido a una hipertrofia renal compensatoria cuando el niño tiene una función renal normal. Es mejor correlacionar el tamaño del riñón con la altura en los niños con ERC, ya que la correlación con la edad puede llevar a un exceso de información de los riñones pequeños entre los niños con crecimiento deficiente.‬
 
@@ -159,7 +159,7 @@ Otros estudios de imágenes se utilizan con menos frecuencia y su uso está rest
 
 Los agentes de contraste iónicos y no iónicos utilizados para procedimientos radiográficos y estudios de imagen pueden ser nefrotóxicos y pueden causar disfunción renal aguda. Los agentes de contraste basados ​​en gadolinio para la resonancia magnética (RM) y la angiografía por resonancia magnética se han asociado con dermopatía nefrogénica por fibrosis y, a veces, con fibrosis sistémica nefrogénica mortal en niños y adultos con estadios III, IV y V CKD. Por lo tanto, los agentes de contraste deben usarse con precaución en pacientes con ERC.‬
 
-_Pruebas de laboratorio_‬
+### Pruebas de laboratorio
 
 Dependiendo del tipo de enfermedad renal, los estudios de sangre y orina a menudo se usan para apoyar el diagnóstico de la ERC. Las pruebas de laboratorio son útiles para identificar y controlar varias complicaciones de la ERC. Además, la creatinina sérica puede dar una estimación básica del grado de disfunción renal y el GFR estimado una estimación más confiable de la función renal.‬
 
@@ -177,7 +177,7 @@ Como se indicó anteriormente, la eGFR se puede usar para clasificar la gravedad
 
 El análisis de orina es una prueba de detección útil para detectar anomalías del riñón y el tracto urinario, y como una ayuda para identificar la causa subyacente de la ERC. La varilla de medición urinaria permite detectar proteinuria, pH, capacidad de concentración, glucosuria, hematuria y piuria, que pueden servir como una guía inicial para la posible etiología subyacente de la ERC. La proteinuria significativa junto con la hematuria es un indicador de la enfermedad glomerular subyacente. La proteinuria también puede estar presente en la disfunción tubular y se ha demostrado que es un importante biomarcador de la progresión de la ERC. La gravedad de la enfermedad renal se asocia generalmente con la cantidad y la duración de la proteinuria. Por lo tanto, la proteinuria persistente de alto grado (proteinuria 2+ o mayor) generalmente justifica una evaluación rápida de otros signos de disfunción renal.‬
 
-_Pruebas de laboratorio adicionales:_‬
+### Pruebas de laboratorio adicionales
 
 La estimación de electrolitos que se requiere rutinariamente para detectar anomalías, como hipercalemia y acidosis metabólica (con bicarbonato sérico bajo). El calcio sérico, el fosfato, la 25-hidroxivitamina D y el nivel de hormona paratiroidea se realizan para detectar cualquier anomalía en el metabolismo mineral óseo.‬
 
