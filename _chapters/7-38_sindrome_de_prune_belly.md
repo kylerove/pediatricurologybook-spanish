@@ -11,11 +11,11 @@ review-formatting-complete: KR-2021-11-05
 
 # Síndrome de prune belly
 
-**J CHANDRA SINGH, MD<sup>2</sup>, DOUGLAS W STORM, MD<sup>1</sup>‬, ASHAY PATEL, DO‬<sup>2</sup>, VENKATA RAMA JAYANTHI, MD<sup>2</sup>**  
-_<sup>1</sup>Departamento de Urología‬, San Diego Naval Medical Center‬, San Diego, CA, USA_  
-_[douglas.storm@med.navy.mil](mailto:douglas.storm@med.navy.mil)_  
+**J CHANDRA SINGH, MD<sup>1</sup>, DOUGLAS W STORM, MD<sup>2</sup>‬, ASHAY PATEL, DO‬<sup>1</sup>, VENKATA RAMA JAYANTHI, MD<sup>1</sup>**  
 _<sup>2</sup>División de Urología Pediátrica, Hospital‬ Nacional para Niños,‬ Columbus, OH, USA‬_  
-_[ashay.patel@nationwidechildrens.org](mailto:ashay.patel@nationwidechildrens.org)_‬
+_[ashay.patel@nationwidechildrens.org](mailto:ashay.patel@nationwidechildrens.org)_‬  
+_<sup>1</sup>Departamento de Urología‬, San Diego Naval Medical Center‬, San Diego, CA, USA_  
+_[douglas.storm@med.navy.mil](mailto:douglas.storm@med.navy.mil)_
 
 *Traducido y editado desde el original al español | [Enlace a la versión en inglés]({{ page.permalink-en }})*{: #translation-head}  
 **Francisca Yankovic‬**{: #translator-names}  
