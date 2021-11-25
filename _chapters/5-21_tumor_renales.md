@@ -105,7 +105,7 @@ El diagnóstico diferencial de TW incluye neuroblastoma y otros tumores renales.
 **Tabla 2.** Diagnósticos diferenciales de TW
 
 | **Diagnóstico** | **Histología y características principales** |‬
-|:---------------:|----------------------------------------------|
+|:---------------:|:----------------------------------------------|
 | Neuroblastoma | Pseudo-rosetas de Homer-Wright: pequeñas, redondas y azules y patrón en roseta |‬
 | Acumulación y excreción de HVA, VMA y dopamina en la orina. |‬
 | Cáncer más común en la infancia |‬
@@ -138,7 +138,7 @@ La estadificación del tumor y la histología son los predictores más potentes 
 **Tabla 3.** Sistemas de estadificación NWTS / COG &amp; SIOP
 
 | **Escenario** | **Criterios** |‬
-|:-------------:|---------------|
+|:-------------:|:---------------|
 | Estadío I | Tumor confinado al riñón y resecado por completo. Cápsula renal intacta. Sin rotura tumoral ni extensión al seno renal. |‬
 | Estadío II | Resección completa con márgenes negativos y afectación ganglionar. Extensión tumoral regional (penetración extracapsular, extensión al seno renal, afectación vascular) |‬
 | Estadío III | Tumor no hematógeno residual confinado al abdomen (ganglios linfáticos, cualquier derrame de tumor, biopsia preoperatoria, tumor extirpado en más de una pieza) |‬
@@ -158,7 +158,7 @@ En cuanto a la quimioterapia, el avance reciente más significativo ha sido la a
 **Tabla 4.** protocolo de tratamiento COG
 
 | **Etapa / Histología / Biomarcador** | **Quimioterapia** | **Radiación** |‬
-|---------------|---------------|---------------|
+|:---------------|---------------|---------------|
 | Estadío I - HF - &lt;2 - &lt;550gm | ninguna | ninguna |‬
 | Estadío I - HF - &gt; 2a - &gt; 550 gm | EE-4A | ninguna |‬
 | Estadío II- HF | EE-4A | ninguna |‬
@@ -194,12 +194,12 @@ En el protocolo SIOP, se administra un curso preoperatorio de [vincristina](http
 **Tabla 5.** Protocolo de tratamiento SIOP
 
 | **Escenario** | **Quimioterapia** | **Radiación** |‬
-|---------------|-------------------|---------------|
+|:-------------:|:------------------|:--------------|
 | Estadío I | AMD + VCR x 4 semanas | ninguna |‬
 | Estadío II | AMD + VCR + DOX x 27wks | 15 Gy en LN regional |‬
 | Estadío III | AMD + VCR + DOX x 27wks | 15 Gy |‬
 | Estadío IV | AMD + VCR + DOX x 27wks | 12 Gy si lesión pulmonar persistente a la semana 9 |‬
-|   | agregue ifosfamida, carboplatino, etopósido en la semana 9 si la respuesta completa no se logró en 34 semanas |‬
+|   | agregue ifosfamida, carboplatino, etopósido en la semana 9 si la respuesta completa no se logró en 34 semanas |‬   |
 
 AMD, dactinomicina; DOX, doxorubicina; VCR, vincristina
 
@@ -208,7 +208,7 @@ El régimen de radiación recomendado por el COG en detalle se organiza en la  *
 **Tabla 6.** Recomendación de tratamiento de radiación por COG.
 
 | **Sitio de tratamiento** | **Presentación clínica** |‬
-|--------------------------|--------------------------|
+|:------------------------:|:-------------------------|
 | Irradiación de flanco | Etapa III FH, Etapa I-III FA o DA |‬
 | Irradiación de todo el abdomen. | Etapa abdominal III |‬
 |   | 1. ruptura del tumor preoperatoria |‬
