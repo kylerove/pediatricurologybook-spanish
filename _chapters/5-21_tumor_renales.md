@@ -68,12 +68,12 @@ La pérdida de apoptosis en células tumorales se identifica como uno de los mec
 
 | **Síndromes** | **Gen** | **Características** |‬
 |---------------|:-------:|---------------------|
-| _ **SÍNDROMES DE SOBRECRECIMIENTO** _ |‬
+| _**SÍNDROMES DE SOBRECRECIMIENTO**_ |‬   |
 | Síndrome de Beckwith-Wiedemann  | _WT2_ | Macrosomía, macroglosia, onfalocele, ojos prominentes, pliegues en las orejas, riñones grandes, hiperplasia pancreática |‬
 | Síndrome de perlman | _DIS3L2_ | Gigantismo fetal, visceromegalia, rostro inusual, hamartomas renales bilaterales con nefroblastomatosis. |‬
 | Síndrome de Sotos | _NSD1_ | Anomalías faciales, de extremidades y cognitivas. |‬
 | Síndrome de Simpson-Golabi-Behmel | _GPC3_ | Organomegalia, aspecto bulldog, cardiopatía congénita, polidactilia |‬
-| _ **SÍNDROMES SIN SOBRECRECIMIENTO** _ |‬
+| _**SÍNDROMES SIN SOBRECRECIMIENTO**_ |‬   |
 | Síndrome de WAGR | _WT1_ | Aniridia, anomalías en la GU, insuficiencia renal, discapacidad intelectual. |‬
 | Síndrome de Denys-Drash | _WT1_ | Enfermedad renal progresiva, pseudohermafroditismo masculino. |‬
 | Síndrome de Frasier | _WT1_ | Glomerulonefropatía progresiva, pseudohermafroditismo masculino, gónadas estrías, gonadoblastoma |‬
@@ -177,14 +177,15 @@ En cuanto a la quimioterapia, el avance reciente más significativo ha sido la a
 | Estadio IV AD (sin enfermedad medible \*) | UH-1 | sí |‬
 | Estadio IV AD (enfermedad medible) | VCR + ventana IRIN | sí |‬
 | Etapa IV DA (RC / RP después de la ventana VCR + IRIN) | UH-2 | sí |‬
-| _HF = histología favorable; AF = anaplasia focal; AD = anaplasia difusa_ |‬
-| _EE-4A = vincristina, dactinomicina_ |‬
-| _DD-4A = vincristina, dactinomicina, doxorrubicina_ |‬
-| _M = vincristina, dactinomicina, doxorubicina, ciclofosfamida, etopósido_ |‬
-| _UH-1 = vincristina, dactinomicina, doxorubicina, ciclofosfamida, etopósido, carboplatino_ |‬
-| _UH-2 = vincristina, doxorubicina, ciclofosfamida, etopósido, carboplatino, irinotecán_ |‬
-| _VCR = vincristina; IRIN = irinotecan; RC = respuesta completa; RP = respuesta parcial_ |‬
-| _\* enfermedad medible: presencia de lesión con un diámetro más largo de al menos 1 cm en la TC o la RM_ |‬
+
+_HF_ = histología favorable; AF = anaplasia focal; AD = anaplasia difusa
+_EE-4A_ = vincristina, dactinomicina
+_DD-4A_ = vincristina, dactinomicina, doxorrubicina
+_M_ = vincristina, dactinomicina, doxorubicina, ciclofosfamida, etopósido
+_UH-1_ = vincristina, dactinomicina, doxorubicina, ciclofosfamida, etopósido, carboplatino
+_UH-2_ = vincristina, doxorubicina, ciclofosfamida, etopósido, carboplatino, irinotecán
+_VCR_ = vincristina; IRIN = irinotecan; RC = respuesta completa; RP = respuesta parcial
+\* enfermedad medible: presencia de lesión con un diámetro más largo de al menos 1 cm en la TC o la RM
 
 Hay algunas excepciones en las que los protocolos de COG recomiendan la quimioterapia preoperatoria. Estos incluyen pacientes con TW que se someten a una cirugía planificada de nefrectomía parcial / preservación de nefronas, que tienen un tumor inoperable y que tienen un trombo en vena cava inferior que se extiende por encima de las venas suprahepáticas.[^10]<sup>,</sup>[^70]<sup>,</sup>[^85]‬[^86]<sup>,</sup>[^87]
 
@@ -198,8 +199,9 @@ En el protocolo SIOP, se administra un curso preoperatorio de [vincristina](http
 | Estadío II | AMD + VCR + DOX x 27wks | 15 Gy en LN regional |‬
 | Estadío III | AMD + VCR + DOX x 27wks | 15 Gy |‬
 | Estadío IV | AMD + VCR + DOX x 27wks | 12 Gy si lesión pulmonar persistente a la semana 9 |‬
-| agregue ifosfamida, carboplatino, etopósido en la semana 9 si la respuesta completa no se logró en 34 semanas |‬
-| AMD, dactinomicina; DOX, doxorubicina; VCR, vincristina  |‬
+|   | agregue ifosfamida, carboplatino, etopósido en la semana 9 si la respuesta completa no se logró en 34 semanas |‬
+
+AMD, dactinomicina; DOX, doxorubicina; VCR, vincristina
 
 El régimen de radiación recomendado por el COG en detalle se organiza en la  **Tabla 6**  .‬
 
@@ -209,13 +211,13 @@ El régimen de radiación recomendado por el COG en detalle se organiza en la  *
 |--------------------------|--------------------------|
 | Irradiación de flanco | Etapa III FH, Etapa I-III FA o DA |‬
 | Irradiación de todo el abdomen. | Etapa abdominal III |‬
-| 1. ruptura del tumor preoperatoria |‬
-| 2. mets peritoneales |‬
-| 3. derrame tumoral |‬
+|   | 1. ruptura del tumor preoperatoria |‬
+|   | 2. mets peritoneales |‬
+|   | 3. derrame tumoral |‬
 | Irradiación pulmonar total. | MTS pulmonares |‬
-| 1. 1p / 16q LOH |‬
-| 2. No CR después de la quimioterapia en semana 6 |‬
-| 3. Otros sitios de MTS. |‬
+|   | 1. 1p / 16q LOH |‬
+|   | 2. No CR después de la quimioterapia en semana 6 |‬
+|   | 3. Otros sitios de MTS. |‬
 | Irradiación cerebral | MTS Cerebro |‬
 | Irradiación hepática | MTS focales no resecados en el diagnóstico o MTS difusas |‬
 | Irradiación de hueso | MTS hueso |‬
