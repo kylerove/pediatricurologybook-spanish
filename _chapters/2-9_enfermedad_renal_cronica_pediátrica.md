@@ -369,8 +369,8 @@ El manejo integral óptimo de estos problemas implica un enfoque multidisciplina
 
 Tabla 1: (puesta en escena de KDOQI)‬
 
-|‬ Escenario | GFR (mL / min / 1.73 m<sup>2</sup>) |‬
-| --- | --- |‬
+|‬ **Escenario** | **GFR (mL / min / 1.73 m<sup>2</sup>)** |‬
+|:---------------------------------:|---|:------------------------:|
 | I | Daño renal con normal o ↑ GFR ≥90 |‬
 | II | Daño renal con leve ↓ GFR 60-89 |‬
 | III | Daño renal con moderado ↓ GFR 30-59 |‬
@@ -379,8 +379,8 @@ Tabla 1: (puesta en escena de KDOQI)‬
 
 Tabla 2: TFG normal en niños y adultos jóvenes‬
 
-|‬ Género /edad | Ecuación de Schwartz‬ Longitud en cm y Cr en mg / dL | GFR medio ± SD mL / min / 1.73 m<sup>2</sup> |‬
-| --- | --- | --- |‬
+|‬ **Género /edad** | **Ecuación de Schwartz‬ Longitud en cm y Cr en mg / dL** | **GFR medio ± SD mL / min / 1.73 m<sup>2</sup>** |‬
+|:---------------------------------:|---|:------------------------:|
 | 1 semana (masculino y femenino) | GFR = 0.33 \* (Longitud / SCr) en Preterm‬ |
 |     | GFR = 0.45 \* (Longitud / SCr) en Término | 40.6 ± 14.8 |‬
 | 2-8 semanas (masculino y femenino) | GFR = 0.45 \* (Longitud / SCr) | 65.8 ± 24.8 |‬
