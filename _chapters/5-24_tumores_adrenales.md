@@ -77,23 +77,23 @@ Con informes más antiguos que indican hasta un 95% de tumores adrenocorticales 
 
 **Tabla 2:** Mediciones de suero y orina para presentación clínica.‬
 
-| **Presentación** | **Valor** |‬
-|-----|-----|
-| Características del síndrome de Cushing |‬ - 24 horas de cortisol en orina‬
-- Nivel de cortisol a la medianoche‬
-- Supresión de dexametasona a dosis altas‬
- |‬
-| Virilización | - 17-cetoesteroides urinarios‬
-- Testosterona‬
-- DHEA‬
-- DHEA-S‬
-- 17-Hidroxiprogesterona‬
-- Deoxicorticosterona‬
- |‬
-| Hipertensión, hipocalemia |‬ - Aldosterona‬
-- Renina‬
- |‬
-| Feminización (desarrollo mamario, edad ósea avanzada, pubertad isosexual precoz) | Estradiol |‬
+| **Presentación**                                                                 | **Valor**                          |
+| -------------------------------------------------------------------------------- | ---------------------------------- |
+| Características del síndrome de Cushing                                          | ‬- 24 horas de cortisol en orina‬    |
+|                                                                                  | - Nivel de cortisol a la medianoche‬       |
+|                                                                                  | - Supresión de dexametasona a dosis altas‬ |
+|                                                                                  | ‬                                   |
+| Virilización                                                                     | - 17-cetoesteroides urinarios‬      |
+|                                                                                  | - Testosterona‬                     |
+|                                                                                  | - DHEA‬                             |
+|                                                                                  | - DHEA-S‬                           |
+|                                                                                  | - 17-Hidroxiprogesterona‬           |
+|                                                                                  | - Deoxicorticosterona‬              |
+|                                                                                  | ‬                                   |
+| Hipertensión, hipocalemia                                                        | ‬ - Aldosterona‬                     |
+|                                                                                  | - Renina‬                           |
+|                                                                                  | ‬                                   |
+| Feminización (desarrollo mamario, edad ósea avanzada, pubertad isosexual precoz) | Estradiol                          | 
 
 #### Radiología
 
