@@ -369,25 +369,22 @@ El manejo integral óptimo de estos problemas implica un enfoque multidisciplina
 
 Tabla 1: (puesta en escena de KDOQI)‬
 
-|‬
- Escenario | GFR (mL / min / 1.73 m2) |‬
+|‬ Escenario | GFR (mL / min / 1.73 m<sup>2</sup>) |‬
 | --- | --- |‬
 | I | Daño renal con normal o ↑ GFR ≥90 |‬
 | II | Daño renal con leve ↓ GFR 60-89 |‬
 | III | Daño renal con moderado ↓ GFR 30-59 |‬
 | IV | Daño renal severo ↓ GFR 15-29 |‬
-| V | Insuficiencia renal \&lt;15 (o en diálisis) |‬
+| V | Insuficiencia renal &lt;15 (o en diálisis) |‬
 
 Tabla 2: TFG normal en niños y adultos jóvenes‬
 
-|‬
- Género /edad | Ecuación de Schwartz‬
- Longitud en cm y Cr en mg / dL | GFR medio ± SD mL / min / 1.73 m<sup>2</sup>sup> |‬
+|‬ Género /edad | Ecuación de Schwartz‬ Longitud en cm y Cr en mg / dL | GFR medio ± SD mL / min / 1.73 m<sup>2</sup> |‬
 | --- | --- | --- |‬
-| 1 semana (masculino y femenino) | GFR = 0.33 \* (Longitud / SCr) en Preterm‬
- GFR = 0.45 \* (Longitud / SCr) en Término | 40.6 ± 14.8 |‬
+| 1 semana (masculino y femenino) | GFR = 0.33 \* (Longitud / SCr) en Preterm‬ |
+|     | GFR = 0.45 \* (Longitud / SCr) en Término | 40.6 ± 14.8 |‬
 | 2-8 semanas (masculino y femenino) | GFR = 0.45 \* (Longitud / SCr) | 65.8 ± 24.8 |‬
-| \&gt; 8 semanas (masculino y femenino) | GFR = 0.45 \* (Longitud / SCr) | 95.7 ± 21.7 |‬
+| &gt; 8 semanas (masculino y femenino) | GFR = 0.45 \* (Longitud / SCr) | 95.7 ± 21.7 |‬
 | 2-12 años (hombres y mujeres) | GFR = 0.55 \* (Longitud / SCr) | 133.0 ± 27.0 |‬
 | 13-21 años (varones) | GFR = 0.70 \* (Longitud / SCr) | 140.0 ± 30.0 |‬
 | 13-21 años (mujeres) | GFR = 0.55 \* (Longitud / SCr) | 126.0 ± 22.0 |‬
