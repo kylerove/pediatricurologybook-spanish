@@ -11,7 +11,7 @@ review-formatting-complete: KR-2021-11-05
 
 # Síndrome de prune belly
 
-**DOUGLAS W STORM, MD<sup>1</sup>‬, ASHAY PATEL, DO‬<sup>2</sup>**  
+**J CHANDRA SINGH, MD<sup>2</sup>, DOUGLAS W STORM, MD<sup>1</sup>‬, ASHAY PATEL, DO‬<sup>2</sup>, VENKATA RAMA JAYANTHI, MD<sup>2</sup>**  
 _<sup>1</sup>Departamento de Urología‬, San Diego Naval Medical Center‬, San Diego, CA, USA_  
 _[douglas.storm@med.navy.mil](mailto:douglas.storm@med.navy.mil)_  
 _<sup>2</sup>División de Urología Pediátrica, Hospital‬ Nacional para Niños,‬ Columbus, OH, USA‬_  
