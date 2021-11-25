@@ -284,7 +284,7 @@ La mayoría de los tumores se encuentran en el nivel toracolumbar, con una minor
 |  | Embrionario | Yo, yo | 2, 3 | Todos | 
 | Intermedio‬ |
 |  | Embrionario | III | 2, 3 | Todos | 
-| Alveolar | I, II, III | 1, 2, 3 | Todos | 
+|  | Alveolar | I, II, III | 1, 2, 3 | Todos | 
 | Alto | Embrionario | IV | 4 | Todos | 
 |  | Alveolar | IV | 4 | Todos | 
 
