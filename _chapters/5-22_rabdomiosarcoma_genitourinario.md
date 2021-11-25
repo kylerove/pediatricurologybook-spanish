@@ -278,15 +278,15 @@ La mayoría de los tumores se encuentran en el nivel toracolumbar, con una minor
 
 **Table 3A.** Clasificación de riesgo
 
-| **Riesgo** | **Histología** | **Grupo postoperatorio** | **Etapa IRSG Pre-Op** | **Años** |‬
-|:----------:|----------------|--------------------------|-----------------------|----------|‬
-| Bajo  | Embrionario | I, II, III | 1 | Todos |‬
-|   | Embrionario | Yo, yo | 2, 3 | Todos |‬
-| Intermedio‬
-|   | Embrionario | III | 2, 3 | Todos |‬
-| Alveolar | I, II, III | 1, 2, 3 | Todos |‬
-| Alto | Embrionario | IV | 4 | Todos |‬
-|   | Alveolar | IV | 4 | Todos |‬
+| **Riesgo** | **Histología** | **Grupo postoperatorio** | **Etapa IRSG Pre-Op** | **Años** | ‬ |
+| :----------: | ---------------- | -------------------------- | ----------------------- | ---------- | ‬ |
+| Bajo | Embrionario | I, II, III | 1 | Todos | ‬ |
+|  | Embrionario | Yo, yo | 2, 3 | Todos | ‬ |
+| Intermedio‬ |
+|  | Embrionario | III | 2, 3 | Todos | ‬ |
+| Alveolar | I, II, III | 1, 2, 3 | Todos | ‬ |
+| Alto | Embrionario | IV | 4 | Todos | ‬ |
+|  | Alveolar | IV | 4 | Todos | ‬ |
 
 **Table 3B.** Clasificación de riesgo Clasificación de riesgo específica según el sitio de localización GU
 
