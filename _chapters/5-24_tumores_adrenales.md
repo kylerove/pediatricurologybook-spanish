@@ -79,26 +79,23 @@ Con informes más antiguos que indican hasta un 95% de tumores adrenocorticales 
 
 | **Presentación** | **Valor** |‬
 |-----|-----|
-| Características del síndrome de Cushing |‬
-- 24 horas de cortisol en orina‬
+| Características del síndrome de Cushing |‬ - 24 horas de cortisol en orina‬
 - Nivel de cortisol a la medianoche‬
 - Supresión de dexametasona a dosis altas‬
  |‬
-| Virilización |‬
-- 17-cetoesteroides urinarios‬
+| Virilización | - 17-cetoesteroides urinarios‬
 - Testosterona‬
 - DHEA‬
 - DHEA-S‬
 - 17-Hidroxiprogesterona‬
 - Deoxicorticosterona‬
  |‬
-| Hipertensión, hipocalemia |‬
-- Aldosterona‬
+| Hipertensión, hipocalemia |‬ - Aldosterona‬
 - Renina‬
  |‬
 | Feminización (desarrollo mamario, edad ósea avanzada, pubertad isosexual precoz) | Estradiol |‬
 
-#### Radiología_
+#### Radiología
 
 Las modalidades de imágenes disponibles incluyen radiografía, ultrasonografía (US), pielografía intravenosa (PIV), tomografía axial computada (TC), resonancia magnética nuclear (RM), tomografía por emisión de positrones (PET) y gammagrafía con meta-yodobencilguanadina (MIBG) [^41]. Según Ozturk y cols. junto al apoyo de otros autores, la TAC es el estudio más útil para evaluar la glándula adrenal [^41]. Estos autores recomiendan un protocolo detallado de TAC con el objeto de detectar lesiones, consistente en colimación de 2,5 - 3 mm, contraste oral e intravenoso y reconstrucción de 1,5 - 3 mm a través de la región adrenal. Se puede esperar que la evaluación por TAC de los adenomas corticosuprarrenales muestre una lesión redonda o nodular de menos de 4 cm de diámetro con una apariencia de baja densidad (&lt; 10 unidades Hounsfield). En el adenoma corticosuprarrenal en adultos, hasta un 30% carece de suficientes lípidos como para visualizarse como lesiones de baja densidad (42,43). Considerando un solapamiento significativo entre las características histopatológicas del carcinoma corticosuprarrenal y adenoma corticosuprarrenal en la población pediátrica, parece improbable que la TAC pueda distinguir confiablemente entre ambos. Además, la dificultad para distinguir los 2 tumores virtualmente resulta en que todos los detectados en niños sean extirpados después de un examen apropiado para establecer el diagnóstico (es decir, tumor adrenocortical, feocromocitoma, neuroblastoma). No obstante, informes más recientes sobre masas suprarrenales no funcionales en adultos (&quot;incidentalomas&quot;) confirman virtualmente la presencia de adenomas corticosuprarrenales si el tumor magnificado es de &lt; 10 unidades de Hounsfield [^44].‬
 
