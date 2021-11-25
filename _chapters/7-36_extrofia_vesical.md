@@ -235,7 +235,7 @@ Malformaciones pulmonares y/o cardíacas que amenacen con la vida son infrecuent
 
 Austin y sus colegas establecieron criterios mayores y menores para el diagnóstico prenatal de extrofia cloacal según la incidencia de los hallazgos de la ecografía prenatal en 20 pacientes.‬
 
-Los criterios principales se encontraron en\&gt; 50% de los casos e incluyeron:‬
+Los criterios principales se encontraron en&gt; 50% de los casos e incluyeron:‬
 
 1. No visualización de la vejiga (91%)‬
 2. Defecto de la pared anterior infraumbilical de línea media grande o una estructura de la pared anterior quística (82%)‬

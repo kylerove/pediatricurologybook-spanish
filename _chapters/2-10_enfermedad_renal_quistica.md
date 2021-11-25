@@ -30,16 +30,16 @@ Los riñones quísticos se detectan fácilmente con ultrasonido, por lo que cada
 
 ## ADPKD
 
- ADPKD representa alrededor del 5-10% de los pacientes adultos en diálisis o con un trasplante renal en el mundo desarrollado, pero rara vez causa problemas en la infancia (Fick-Brosnahan et al. 2001). El 90% de los pacientes tiene un padre afectado, y el diagnóstico puede confirmarse virtualmente al encontrar quistes en el mismo. Sin embargo, los quistes renales se desarrollan progresivamente durante muchas décadas, por lo que uno debe tener cuidado con los resultados negativos si los padres son jóvenes. Una guía útil es que alrededor del 95% de las personas afectadas tendrán quistes cuando alcancen los 30 (Liapis y Winyard 2007). Las complicaciones renales incluyen cálculos, infecciones, dolor en el flanco y hematuria macroscópica, pero también existe un riesgo de hipertensión, quistes hepáticos y pancreáticos, y aneurismas cerebrales.‬
+ADPKD representa alrededor del 5-10% de los pacientes adultos en diálisis o con un trasplante renal en el mundo desarrollado, pero rara vez causa problemas en la infancia (Fick-Brosnahan et al. 2001). El 90% de los pacientes tiene un padre afectado, y el diagnóstico puede confirmarse virtualmente al encontrar quistes en el mismo. Sin embargo, los quistes renales se desarrollan progresivamente durante muchas décadas, por lo que uno debe tener cuidado con los resultados negativos si los padres son jóvenes. Una guía útil es que alrededor del 95% de las personas afectadas tendrán quistes cuando alcancen los 30 (Liapis y Winyard 2007). Las complicaciones renales incluyen cálculos, infecciones, dolor en el flanco y hematuria macroscópica, pero también existe un riesgo de hipertensión, quistes hepáticos y pancreáticos, y aneurismas cerebrales.‬
 
 Las mutaciones en PKD1 o PKD2 causan más del 98% de ADPKD (Harris y Rossetti 2010). Un tercer locus (PKD3) ha sido postulado, pero nunca probado. Las mutaciones de la PKD1 tienen un inicio más temprano de los síntomas en comparación con la PKD2, pero ambos genes exhiben una heterogeneidad alélica extensa y manifestaciones clínicas variables, quizás atribuibles a los antecedentes genéticos y las diferencias ambientales que modifican la patogénesis (Fain et al. 2005). PKD1 se encuentra en el cromosoma 16p13.3 y codifica una proteína de 460 kDa, policistina 1. PKD2 se asigna a 4q13-q23 y codifica policistina 2, un canal de calcio que interactúa con su contraparte más grande en un complejo de policistina transmembrana en la membrana plasmática. La localización incluye cilios, pero ambas policistinas también se encuentran en muchos otros sitios subcelulares, incluidas las uniones de células basales y laterales (Wilson 2004)‬
 
 ## ARPKD
 
- La ARPKD es mucho menos común que la ADPKD, pero es más probable que se presente antes del nacimiento o en la infancia, por lo que a menudo se la conocía como &quot;PKD infantil&quot; antes de que se definiera su herencia y genética. Este término confuso no se debe usar ya que en la actualidad existe una gran cantidad de la enfermedad dominante diagnosticada en la niñez debido a las pruebas genéticas familiares. Generalmente, la ARPKD se presenta en forma prenatal debido a riñones agrandados y brillantes, y existe una alta probabilidad de muerte perinatal por desarrollo pulmonar inmaduro si hay oligo o anhidramnios severos antes de las 24 semanas de gestación (Winyard y Chitty 2001). Después del nacimiento, los niños afectados pueden ser diagnosticados de manera fortuita debido al agrandamiento de los riñones, pero es más probable que presenten síntomas y signos de insuficiencia renal. Denota, la hipertensión es común en ARPKD y puede requerir múltiples medicamentos para controlarla. La fibrosis hepática también puede convertirse en un problema a medida que el niño crece. Alrededor del 85% de los pacientes con ARPKD sobreviven al período perinatal, y las cifras históricas de los EE.UU. sugieren un 78% al año y un 75% de supervivencia a los 5 años (Guay-Woodford y Desmond 2003). Los estudios paralelos del Reino Unido sugieren una supervivencia renal actuarial del 86% al año y del 67% a los 15 años para aquellos pacientes que sobreviven el primer mes (Roy et al. 1997).‬
+La ARPKD es mucho menos común que la ADPKD, pero es más probable que se presente antes del nacimiento o en la infancia, por lo que a menudo se la conocía como &quot;PKD infantil&quot; antes de que se definiera su herencia y genética. Este término confuso no se debe usar ya que en la actualidad existe una gran cantidad de la enfermedad dominante diagnosticada en la niñez debido a las pruebas genéticas familiares. Generalmente, la ARPKD se presenta en forma prenatal debido a riñones agrandados y brillantes, y existe una alta probabilidad de muerte perinatal por desarrollo pulmonar inmaduro si hay oligo o anhidramnios severos antes de las 24 semanas de gestación (Winyard y Chitty 2001). Después del nacimiento, los niños afectados pueden ser diagnosticados de manera fortuita debido al agrandamiento de los riñones, pero es más probable que presenten síntomas y signos de insuficiencia renal. Denota, la hipertensión es común en ARPKD y puede requerir múltiples medicamentos para controlarla. La fibrosis hepática también puede convertirse en un problema a medida que el niño crece. Alrededor del 85% de los pacientes con ARPKD sobreviven al período perinatal, y las cifras históricas de los EE.UU. sugieren un 78% al año y un 75% de supervivencia a los 5 años (Guay-Woodford y Desmond 2003). Los estudios paralelos del Reino Unido sugieren una supervivencia renal actuarial del 86% al año y del 67% a los 15 años para aquellos pacientes que sobreviven el primer mes (Roy et al. 1997).‬
 
 
- Las mutaciones en el riñón poliquístico y el gen de la enfermedad hepática 1 (PKHD1) causan ARPKD; este se encuentra en el cromosoma 6p21 y codifica una proteína llamada fibrocistina (o poliductina de diferentes autores). Existe una gran cantidad de mutaciones conocidas diseminadas por todo el gen, y la mayoría de los pacientes son heterocigotos compuestos. Existe un alto riesgo de presentación fetal y muerte neonatal si el niño tiene dos mutaciones truncantes (Bergmann et al. 2005). La fibrocistina se localiza fuertemente en el cilio primario de las células epiteliales renales, y existe evidencia de que esto también puede formar parte del complejo policistina más amplio (Wang et al. 2007). Los quistes solo se derivan de los conductos colectores en ARPKD, pero pueden provenir de todos los segmentos de nefrona en ADPKD (¡aunque el 85-90% todavía surge de los conductos colectores!).‬
+Las mutaciones en el riñón poliquístico y el gen de la enfermedad hepática 1 (PKHD1) causan ARPKD; este se encuentra en el cromosoma 6p21 y codifica una proteína llamada fibrocistina (o poliductina de diferentes autores). Existe una gran cantidad de mutaciones conocidas diseminadas por todo el gen, y la mayoría de los pacientes son heterocigotos compuestos. Existe un alto riesgo de presentación fetal y muerte neonatal si el niño tiene dos mutaciones truncantes (Bergmann et al. 2005). La fibrocistina se localiza fuertemente en el cilio primario de las células epiteliales renales, y existe evidencia de que esto también puede formar parte del complejo policistina más amplio (Wang et al. 2007). Los quistes solo se derivan de los conductos colectores en ARPKD, pero pueden provenir de todos los segmentos de nefrona en ADPKD (¡aunque el 85-90% todavía surge de los conductos colectores!).‬
 
 ## Quistes simples
 
@@ -73,79 +73,46 @@ El trabajo experimental con animales en la PKD ha descubierto una serie de nuevo
 
 ## Figura
 
- Hematoxilina y secciones teñidas con eosina de riñones quísticos pediátricos. Las vistas de la corteza se muestran en la columna izquierda y la médula en la derecha. A y B) PKD autosómica dominante con algunos quistes en la corteza y la médula que surgen de todos los segmentos de nefrona. Esto fue desde una etapa temprana, de ahí la arquitectura bien conservada de los glomérulos, túbulos y conductos colectores que rodean normalmente. C y D) PKD autosómica recesiva con numerosos quistes alargados que atraviesan la corteza y la médula; tenga en cuenta que todos los glomérulos parecen tener un espacio de Bowman normal, no dilatado, ya que los quistes solo surgen de los conductos colectores en esta condición. E y F) Enfermedades renales glomerulocísticas con displasia marcada; note la interrupción significativa de la diferenciación renal y los mechones glomerulares visibles en prácticamente todos los quistes.‬
+Hematoxilina y secciones teñidas con eosina de riñones quísticos pediátricos. Las vistas de la corteza se muestran en la columna izquierda y la médula en la derecha. A y B) PKD autosómica dominante con algunos quistes en la corteza y la médula que surgen de todos los segmentos de nefrona. Esto fue desde una etapa temprana, de ahí la arquitectura bien conservada de los glomérulos, túbulos y conductos colectores que rodean normalmente. C y D) PKD autosómica recesiva con numerosos quistes alargados que atraviesan la corteza y la médula; tenga en cuenta que todos los glomérulos parecen tener un espacio de Bowman normal, no dilatado, ya que los quistes solo surgen de los conductos colectores en esta condición. E y F) Enfermedades renales glomerulocísticas con displasia marcada; note la interrupción significativa de la diferenciación renal y los mechones glomerulares visibles en prácticamente todos los quistes.‬
 
 ![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-2-10-1.jpg)  
+**Figura 1**
 
 ## Referencias
 
 Adalat, S., Woolf, A.S., Johnstone, K.A., et al. 2009. HNF1B mutations associate with hypomagnesemia and renal magnesium wasting. _J.Am.Soc.Nephrol._, 20, (5) 1123-1131 available from: PM:19389850‬
-
 Bean, S.A., Bednarek, F.J., &amp; Primack, W.A. 1995. Aggressive respiratory support and unilateral nephrectomy for infants with severe perinatal autosomal recessive polycystic kidney disease. _J Pediatr_, 127, (2) 311-313 available from: PM:7636663‬
-
 Bergmann, C., Senderek, J., Windelen, E., et al. 2005. Clinical consequences of PKHD1 mutations in 164 patients with autosomal-recessive polycystic kidney disease (ARPKD). _Kidney Int._, 67, (3) 829-848‬
-
 Decramer, S., Parant, O., Beaufils, S., et al. 2007. Anomalies of the TCF2 gene are the main cause of fetal bilateral hyperechogenic kidneys. _J Am Soc Nephrol_, 18, (3) 923-933 available from: PM:17267738‬
-
 Drozdz, D., Drozdz, M., Gretz, N., et al. 1998. Progression to end-stage renal disease in children with posterior urethral valves. _Pediatr Nephrol_, 12, (8) 630-636 available from: PM:9811384‬
-
 Edghill, E.L., Bingham, C., Ellard, S., &amp; Hattersley, A.T. 2006. Mutations in hepatocyte nuclear factor-1beta and their related phenotypes. _J Med.Genet._, 43, (1) 84-90 available from: PM:15930087‬
-
 Fain, P.R., McFann, K.K., Taylor, M.R., Tison, M., Johnson, A.M., Reed, B., &amp; Schrier, R.W. 2005. Modifier genes play a significant role in the phenotypic expression of PKD1. _Kidney Int._, 67, (4) 1256-1267 available from: PM:15780078‬
-
 Fick-Brosnahan, G.M., Tran, Z.V., Johnson, A.M., Strain, J.D., &amp; Gabow, P.A. 2001. Progression of autosomal-dominant polycystic kidney disease in children. _Kidney Int._, 59, (5) 1654-1662 available from: PM:11318935‬
  Godley, M.L., Desai, D., Yeung, et al. 2001. The relationship between early renal status, and the resolution of vesico-ureteric reflux and bladder function at 16 months. _BJU.Int._, 87, (6) 457-462 available from: PM:11298034‬
-
 Gonzalez, C.C., Bitsori, M., &amp; Tullus, K. 2007. Progression of chronic renal failure in children with dysplastic kidneys. _Pediatr.Nephrol_, 22, (7) 1014-1020 available from: PM:17380351‬
-
 Guay-Woodford, L.M. &amp; Desmond, R.A. 2003. Autosomal recessive polycystic kidney disease: the clinical experience in North America. _Pediatrics_, 111, (5 Pt 1) 1072-1080 available from: PM:12728091‬
-
 Harris, P.C. &amp; Rossetti, S. 2010. Molecular diagnostics for autosomal dominant polycystic kidney disease. _Nat.Rev.Nephrol._, 6, (4) 197-206 available from: PM:20177400‬
-
 Hildebrandt, F., Attanasio, M., &amp; Otto, E. 2009. Nephronophthisis: disease mechanisms of a ciliopathy. _J Am Soc Nephrol_, 20, (1) 23-35 available from: PM:19118152‬
-
 Ismaili, K., Schurmans, T., Wissing, K.M., et al. 2001. Early prognostic factors of infants with chronic renal failure caused by renal dysplasia. _Pediatr.Nephrol_, 16, (3) 260-264 available from: PM:11322375‬
-
 Jenkins, D., Bitner-Glindzicz, M., Malcolm, S., et al. 2005. De novo Uroplakin IIIa heterozygous mutations cause human renal adysplasia leading to severe kidney failure. _J.Am.Soc.Nephrol._, 16, (7) 2141-2149 available from: PM:15888565‬
-
 Komura, M., Kanamori, Y., Sugiyama, M., et al. 2008. Antenatally diagnosed giant multicystic dysplastic kidney resected during the neonatal period. _J.Pediatr.Surg._, 43, (11) 2118-2120 available from: PM:18970954‬
-
 Liapis, H. &amp; Winyard, P. J. D. 2007, &quot;Cystic diseases and developmental kidney defects,&quot; _In Heptinstall&#39;s Pathology of the KidneyJennette JC,. Olson JL, Schwartz MM, Silva FG_, 6 ed. vol. 2 J. C. Jennette et al., eds., Philadephia, USA: Lippincott Williams and Wilkins, pp. 1257-1306.‬
-
 McPherson, E., Carey, J., Kramer, A., Hall, J.G., Pauli, R.M., Schimke, R.N., &amp; Tasin, M.H. 1987. Dominantly inherited renal adysplasia. _Am.J.Med.Genet._, 26, 863-872‬
-
 Murthi,G.V.S., AZMY,A.F., &amp; Wilkinson,A.G. 2001. Management of simple renal cysts in children. _J.R.Coll.Surg.Edinb._, 46, 205-207‬
-
 Narchi, H. 2005a. Risk of hypertension with multicystic kidney disease: a systematic review. _Arch.Dis.Child_, 90, (9) 921-924 available from: PM:15871982‬
-
 Narchi, H. 2005b. Risk of Wilms&#39; tumour with multicystic kidney disease: a systematic review. _Arch.Dis.Child_, 90, (2) 147-149 available from: PM:15665166‬
-
 Ong, A.C. &amp; Wheatley, D.N. 2003. Polycystic kidney disease--the ciliary connection. _Lancet_, 361, (9359) 774-776 available from: PM:12620752‬
-
 Rickwood, A.M., Anderson, P.A., &amp; Williams, M.P. 1992. Multicystic renal dysplasia detected by prenatal ultrasonography. Natural history and results of conservative management. _Br.J Urol._, 69, (5) 538-540‬
-
 Rottenberg, G.T., Gordon, I., &amp; de Bruyn, R. 1997. The natural history of the multicystic dysplastic kidney in children. _Br.J Radiol._, 70, (832) 347-350 available from: PM:9166069‬
-
 Roy, S., Dillon, M.J., Trompeter, R.S., &amp; Barratt, T.M. 1997. Autosomal recessive polycystic kidney disease: long-term outcome of neonatal survivors. _Pediatr Nephrol_, 11, (3) 302-306 available from: PM:9203177‬
-
 Rudnik-Schoneborn, S., John, U., Deget, F., et al. 1998. Clinical features of unilateral multicystic renal dysplasia in children. _Eur.J Pediatr_, 157, (8) 666-672 available from: PM:9727853‬
-
 Van Dyck, M., Sidler, S., &amp; Proesmans, W. 1998. Chronic renal failure in infants: effect of strict conservative treatment on growth. _Eur.J Pediatr_, 157, (9) 759-762 available from: PM:9776537‬
-
 Wang, S., Zhang, J., Nauli, S.M., Li, X., Starremans, P.G., Luo, Y., Roberts, K.A., &amp; Zhou, J. 2007. Fibrocystin/polyductin, found in the same protein complex with polycystin-2, regulates calcium responses in kidney epithelia. _Mol.Cell Biol._, 27, (8) 3241-3252‬
-
 Weber, S., Moriniere, V., Knuppel, T., et al. 2006. Prevalence of mutations in renal developmental genes in children with renal hypodysplasia: results of the ESCAPE study. _J Am Soc Nephrol_, 17, (10) 2864-2870 available from: PM:16971658‬
-
 Weber, S., Taylor, J.C., Winyard, P., et al. 2008. SIX2 and BMP4 mutations associate with anomalous kidney development. _J.Am.Soc.Nephrol._, 19, (5) 891-903 available from: PM:18305125‬
-
 Wilson, P.D. 2004. Polycystic kidney disease: new understanding in the pathogenesis. _Int.J.Biochem.Cell Biol._, 36, (10) 1868-1873 available from: PM:15203099‬
-
 Winyard, P. &amp; Chitty, L. 2001. Dysplastic and polycystic kidneys: diagnosis, associations and management. _Prenat.Diagn._, 21, (11) 924-935 available from: PM:11746145‬
-
 Winyard, P. &amp; Chitty, L.S. 2008. Dysplastic kidneys. _Semin.Fetal Neonatal Med._, 13, (3) 142-151 available from: PM:18065301‬
-
 Winyard, P. J. D. &amp; Jenkins, D. Putative roles of cilia in polycystic kidney disease. BBA - Molecular Basis of Disease . 2011. Ref Type: In Press‬
-
 Wuhl, E., Trivelli, A., Picca, S., et al. 2009. Strict blood-pressure control and progression of renal failure in children. _N.Engl.J Med._, 361, (17) 1639-1650 available from: PM:19846849‬
-
 Yang, S.P., Woolf, A.S., Quinn, F., &amp; Winyard, P.J.D. 2001. Deregulation of renal transforming growth factor-b1 after experimental short-term ureteric obstruction in fetal sheep. _Am.J.Pathol._, 159, 109-117‬

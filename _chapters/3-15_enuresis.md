@@ -80,17 +80,24 @@ En 1879, Powers describió los experimentos llevados a cabo por Goltz, quien mie
 
 Así como es importante tener una comprensión de los mecanismos renales que controlan el volumen de la orina, el urólogo también debe entender el control neural de la función de la vejiga. En los últimos veinte años, nuestra comprensión del control neuroanatómico y neurofisiológico de la función de la vejiga (almacenamiento y micción) ha aumentado enormemente. Esta función biológica aparentemente simple requiere una integración muy compleja de los sistemas nervioso autónomo (simpático y parasimpático) y somático para controlar tanto la musculatura lisa como la estriada. Todo esto sucede bajo el control y la supervisión de estructuras cerebrales superiores que reflejan un comportamiento adquirido o aprendido. Incluso ahora todavía hay mucho que aprender con modelos aún diferentes del control de la micción. Una descripción detallada sobre este tema va más allá del alcance de este texto y el lector es referido a los trabajos de DeGroat, Hostege y Blok (40, 41, 42).‬
 
-A diferencia de muchos animales, los humanos al nacer son muy inmaduros en su desarrollo tanto físico como mental / neurológico (43). Ahora parece que 5/6 del crecimiento del cerebro humano se produce después del parto y la mielinización rápida no se completa hasta aproximadamente la edad de 3-4 años. Esto explica el logro gradual y progresivo de los hitos del desarrollo, como sentarse a 7 ![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-15-1.jpg) meses, gateando a 9 meses, caminando a 12 meses y las tasas de progreso más lentas para funciones más altas como hablar, comprender, socializar, etc. Sabemos que el control de la vejiga es un fenómeno adquirido que progresa del vaciado automático o reflexivo de la vejiga de un neonato, a la capacidad volitiva de abstenerse e iniciar el vaciado de la vejiga bajo demanda que sigue al entrenamiento exitoso del baño. Koff argumenta que trazar una línea en la arena y decir que más allá de ese tiempo una ocurrencia normal previamente aceptada es ahora un proceso patológico en lugar de una simple reflexión de desarrollo tardío es contraintuitivo (44). Sobre la base de gran parte de la evidencia ya presentada, propone la existencia de un retraso de desarrollo dual en su SNC.‬
+![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-15-1.jpg)
+**Figura 1**
+
+A diferencia de muchos animales, los humanos al nacer son muy inmaduros en su desarrollo tanto físico como mental / neurológico (43). Ahora parece que 5/6 del crecimiento del cerebro humano se produce después del parto y la mielinización rápida no se completa hasta aproximadamente la edad de 3-4 años. Esto explica el logro gradual y progresivo de los hitos del desarrollo, como sentarse a 7 meses, gateando a 9 meses, caminando a 12 meses y las tasas de progreso más lentas para funciones más altas como hablar, comprender, socializar, etc. Sabemos que el control de la vejiga es un fenómeno adquirido que progresa del vaciado automático o reflexivo de la vejiga de un neonato, a la capacidad volitiva de abstenerse e iniciar el vaciado de la vejiga bajo demanda que sigue al entrenamiento exitoso del baño. Koff argumenta que trazar una línea en la arena y decir que más allá de ese tiempo una ocurrencia normal previamente aceptada es ahora un proceso patológico en lugar de una simple reflexión de desarrollo tardío es contraintuitivo (44). Sobre la base de gran parte de la evidencia ya presentada, propone la existencia de un retraso de desarrollo dual en su SNC.‬
 
 Retraso de desarrollo eferente: un fallo del SNC para suprimir el arco reflejo de micción mientras el paciente está dormido, también debe asociarse con un fallo para despertarse.‬
 
 En 1989, Javelin informó sobre el desarrollo neurológico de 156 enuréticos y 170 controles, niños de 7 años, a los cuales observaron su desarrollo e historias perinatales y aplicaron una prueba de deterioro motor (45). Él, como otros, encontró más torpeza motora fina y gruesa en los niños enuréticos. Los niños enuréticos también tienen tasas de crecimiento más lentas, lo que sugiere que la enuresis aislada se asoció con un retraso evidente en el desarrollo. Además, esos pacientes tuvieron la mayor influencia genética, lo que sugiere que el retraso en el desarrollo fue de origen genético. Los eventos perinatales no tuvieron una asociación significativa con la enuresis monosintomática, pero pequeños para edad gestacional, la asfixia y otras lesiones neurológicas durante el período neonatal se asociaron con un mayor riesgo de desarrollar enuresis no sintomática. Otros también han encontrado evidencia de retraso neuromotor generalizado y disfunción específica del tronco cerebral en enuréticos (46). Ese mismo grupo también encontró evidencia de retraso en la maduración de la corteza motora del cerebro (47). Ornitz et al utilizaron muy hábilmente la inhibición prepulso (IBP) de un reflejo de sobresalto para modelar la inhibición refleja de la contracción de la vejiga durante el llenado mediado por el núcleo tegmental pedúnculopontino a través de la región L del centro de micción pontino (48). En resumen, el reflejo de inhibición prepulso es un embotamiento del reflejo de sobresalto normal en respuesta a una visión auditiva, visual o ![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-15-2.jpg) estímulo táctil por sensibilización previa con un estímulo mucho más débil 120 mseg antes. En comparación con el control de los niños, los enuréticos tienen una respuesta PPI deficiente. Es interesante que esta deficiencia se mantiene incluso después de que la enuresis se haya resuelto, lo que sugiere un posible rasgo hereditario que predispone a la enuresis en lugar de un retraso del desarrollo per se (49).‬
 
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-15-2.jpg)  
+**Figura 2**
+
 Cuando se les pregunta a las familias qué creen que es la causa de la enuresis, casi universalmente apuntan a la profundidad del sueño del paciente y su incapacidad para despertarlo. Sin embargo, numerosos estudios sobre el sueño han demostrado una arquitectura normal del sueño y que los episodios enuréticos ocurren durante todas las etapas del sueño. Es su viabilidad lo que se deteriora. Wolfish demostró que los varones enuréticos eran más difíciles de despertar que los controles emparejados por edad, con el 9.3% de los primeros y el 39.7% de los últimos respondiendo a estímulos acústicos de hasta 120dB (50). Esto es consistente con la experiencia de los padres que &#39;levantan&#39; a sus hijos para orinar durante la noche, generalmente señalando que pueden hacerlo sin que parezca que están completamente despiertos. Además, la terapia de alarma a menudo se abandona temprano debido a una falla en despertar al paciente a pesar de despertar a todos los demás miembros del hogar. Un informe reciente que utiliza una tecnología diferente (un Actigraph, que documenta el movimiento) llevado a cabo en el entorno del hogar del paciente en lugar del hospital, sugiere que los enuréticos no tienen una arquitectura de sueño normal como se indicó anteriormente, sino que tienen un sueño más fragmentado con más despertares nocturnos y más movimiento durante el sueño (51). Esto no es incompatible con el trabajo anterior, ya que una mayor perturbación del sueño puede resultar en una mayor privación del sueño y, por lo tanto, mayores umbrales de activación.‬
 
 Ha habido múltiples informes contradictorios de asociaciones entre la enuresis y otras parasomnias, como caminar dormido, hablar dormido, pesadillas, etc. Durante mucho tiempo se ha sostenido la creencia de una asociación entre la obstrucción de la vía aérea superior y la enuresis. A fines de 1800, una asociación de respiración bucal y enuresis se atribuyó al envenenamiento por ácido carbónico (32). Más recientemente, un informe de Turquía examinó a 321 niños que se sometieron a una adenoamigdalectomía, de los cuales 111 presentaban enuresis antes de la operación (52). Setenta y cuatro de los enuréticos estaban disponibles para la evaluación después de la operación, de los cuales 47 ya no se quejaban de la enuresis y 3 tenían una frecuencia reducida. Informan una tasa de curación del 63% que, incluso con la intención a tratar, el análisis del 111 original aún sería del 46%.‬
 
-![](RackMultipart20210723-4-1a3tyd4_html_fb1ec6d8ef845.jpg)‬
+![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-15-3.jpg)  
+**Figura 3**
 
 En última instancia, la enuresis se produce porque el paciente no logra despertar para anular una vez que el volumen de orina en la vejiga se acerca o supera su capacidad para contenerla.‬
 
@@ -124,13 +131,16 @@ Aunque no hay evidencia directa para respaldar estas simples medidas clínicas e
 
 Con estas medidas simples e intuitivas bien establecidas, debe considerarse la terapia complementaria.‬
 
-Para una revisión exhaustiva del manejo de la enuresis nocturna en niños y adolescentes, el lector debe consultar las directrices del Instituto Nacional de Salud y Excelencia Clínica (NICE) para la gestión de la enuresis nocturna, publicadas en octubre de 2010 por el NHS en el Reino Unido ( [http: //www.nice.org.uk/nicemedia/live/13246/51367/51367.pdf](http://www.nice.org.uk/nicemedia/live/13246/51367/51367.pdf) ). Nos referiremos aquí a las diversas opciones de tratamiento disponibles que intentan lógicamente abordar las anomalías patológicas subyacentes en los tres sistemas descritos anteriormente. Algunos autores han sugerido subdividir la enuresis nocturna en subcategorías dependientes de desmopresina y depender de detrusor.‬
+Para una revisión exhaustiva del manejo de la enuresis nocturna en niños y adolescentes, el lector debe consultar las directrices del Instituto Nacional de Salud y Excelencia Clínica (NICE) para la gestión de la enuresis nocturna, publicadas en octubre de 2010 por el NHS en el Reino Unido ([http: //www.nice.org.uk/nicemedia/live/13246/51367/51367.pdf](http://www.nice.org.uk/nicemedia/live/13246/51367/51367.pdf)). Nos referiremos aquí a las diversas opciones de tratamiento disponibles que intentan lógicamente abordar las anomalías patológicas subyacentes en los tres sistemas descritos anteriormente. Algunos autores han sugerido subdividir la enuresis nocturna en subcategorías dependientes de desmopresina y depender de detrusor.‬
 
 ### Desmopresina
 
 El tratamiento con desmopresina tiene sus orígenes en el uso de polvo pituitario, y posteriormente de pituitaria posterior, para reducir el volumen urinario. El primer reporte de polvo pituitario para tratar diabetes insípida fue en 1924; y 1925 se utilizó por primera para tratar enuresis nocturna en niños. No fue sino hasta 1955 que un estudio cruzado doble ciego de Di-sipidin (polvo de pituitaria posterior) versus placebo fue llevado a cabo por Marson en Leeds (59). Él encontró una importante reducción en la incidencia de enuresis durante el tratamiento con el polvo en 4 adolescentes seleccionados.‬
 
-Hoy en día s ![Figura 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-15-3.gif) e usa desmopresina, un análogo sintético de la vasopresina, disponible desde 1980. La desmopresina, o dDAVP, se crea al desaminar el residuo de cisteína (que prolonga su actividad) en un extremo de la vasopresina y al reemplazar la L-arginina con D-arginina (que reduce la actividad del vasopresor). De este modo, dDAVP se convierte en un potente antidiurético con una actividad vasopresora reducida y una vida media prolongada de 1,5 a 3,5 horas en comparación con los 12 minutos de la vasopresina (60). El tiempo para la actividad biológica máxima después de la ingestión es de aproximadamente 60 minutos (61). Su inicio de acción rápido significa que a menudo se recomienda cuando se necesita una respuesta rápida (como ir a campamentos durante la noche, dormir fuera de casa, etc.).‬
+![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-15-3.gif)  
+**Figura 4**
+
+Hoy en día s (**Figura 3**) e usa desmopresina, un análogo sintético de la vasopresina, disponible desde 1980. La desmopresina, o dDAVP, se crea al desaminar el residuo de cisteína (que prolonga su actividad) en un extremo de la vasopresina y al reemplazar la L-arginina con D-arginina (que reduce la actividad del vasopresor). De este modo, dDAVP se convierte en un potente antidiurético con una actividad vasopresora reducida y una vida media prolongada de 1,5 a 3,5 horas en comparación con los 12 minutos de la vasopresina (60). El tiempo para la actividad biológica máxima después de la ingestión es de aproximadamente 60 minutos (61). Su inicio de acción rápido significa que a menudo se recomienda cuando se necesita una respuesta rápida (como ir a campamentos durante la noche, dormir fuera de casa, etc.).‬
 
 Hay pruebas claras de que, en comparación con el placebo, la desmopresina reduce el mojar la cama de una a dos noches (62). Las personas que reciben desmopresina tienen casi el doble de probabilidades de curarse con las que reciben placebo (que se define como lograr 14 noches secas consecutivas). La tasa de éxito a corto plazo para el tratamiento con desmopresina es del 69% (rango 32-100%), con tasas de éxito a largo plazo de 45,7% (rango 7-78%) (63). Con una mejor selección de pacientes a través del uso de pruebas diagnósticas invasivas menores como la cistouretrografía miccional, la cistometría y la videocistometría, las tasas de éxito a corto plazo mejoran a 84% (47-97.2%) y a largo plazo hasta el 78,5%. Éste es probablemente el resultado si se seleccionan pacientes con formas leves de enuresis no monosintomática. Una retirada gradual de la desmopresina está asociada con un beneficio prolongado mayor; con 57% teniendo menos de 2 noches húmedas por mes en los que lo suspendieron abruptamente, comparado con un 80% en aquellos que lo retiraron de manera gradual (64).‬
 
@@ -138,7 +148,7 @@ La desmopresina viene en una variedad de preparaciones a base de intravenosas, g
 
 Parece que hay una mayor probabilidad de éxito con una mayor duración del tratamiento, por ejemplo, 3 meses. La terapia prolongada con desmopresina ha demostrado ser eficaz y segura (66).‬
 
-Por lo tanto, las recomendaciones actuales para el uso de desmopresina son que se puede ofrecer a niños mayores de 7 años y se puede considerar para aquellos entre 5 y 7 años. Es apropiado cuando se necesita un tratamiento de inicio rápido o de corta duración o en aquellos en los que la terapia de alarma no es apropiada (se moja \&lt;2 noches / semana) o que han fallado a la terapia de alarma. No tiene ningún papel en el manejo de la incontinencia diurna aislada, pero la enuresis no monosintomática no es una contraindicación para su uso (junto con el manejo de los síntomas diurnos). Se debe comenzar con una dosis baja de 120 mcgs para Melt o de 200 mcgs para tableta y considerar duplicar la dosis después de 2 semanas en pacientes que no respondieron. Para aquellos que no respondieron después de 4 semanas (en dosis más altas), considere la posibilidad de interrumpir, reevaluar y una terapia alternativa o combinada (67).‬
+Por lo tanto, las recomendaciones actuales para el uso de desmopresina son que se puede ofrecer a niños mayores de 7 años y se puede considerar para aquellos entre 5 y 7 años. Es apropiado cuando se necesita un tratamiento de inicio rápido o de corta duración o en aquellos en los que la terapia de alarma no es apropiada (se moja &lt;2 noches / semana) o que han fallado a la terapia de alarma. No tiene ningún papel en el manejo de la incontinencia diurna aislada, pero la enuresis no monosintomática no es una contraindicación para su uso (junto con el manejo de los síntomas diurnos). Se debe comenzar con una dosis baja de 120 mcgs para Melt o de 200 mcgs para tableta y considerar duplicar la dosis después de 2 semanas en pacientes que no respondieron. Para aquellos que no respondieron después de 4 semanas (en dosis más altas), considere la posibilidad de interrumpir, reevaluar y una terapia alternativa o combinada (67).‬
 
 ### Terapia de alarma‬
 
@@ -194,306 +204,120 @@ Según Fergusson et al., El predictor más fuerte del resultado fue una enuresis
 
 ## Resultados y complicaciones
 
-Durante bastante tiempo, ningún tratamiento se creyó necesario o indicado, ya que la enuresis se consideró un fenómeno normal, lo que refleja diferentes tasas de logro de la continencia (90). La cifra citada a menudo de 15% de resolución espontánea o 1 posibilidad en 6 de alcanzar la sequedad nocturna por año se atribuye a Forsythe y Redmond (91). Su artículo en 1974 informó su propia serie de 1129 que habían asistido a una Clínica de Enuresis en Belfast desde 1952 a 1959 y que no habían sido tratados con una alarma eléctrica. A partir de estos pacientes y una revisión de la literatura en el momento en que publicaron tasas de &#39;curación espontánea&#39; de 14% entre 5 y 9 años, 16% entre 10 y 14 años y 16% durante 15-19 años. El 3% de los pacientes seguían mojándose después de los 20 años. Cabe señalar que este estudio no se limitó a los enuréticos nocturnos monosintomáticos. La enuresis primaria sola ocurrió en 629 o el 56% de su población. Sus conclusiones se ven aún más debilitadas por el hecho de que estos 1129 pacientes &quot;no se curaron con medicamentos ni con la operación&quot;; todos los pacientes habían recibido tratamiento con al menos 2 fármacos con diferentes mecanismos de acción de la actividad similar a la atropina (belladona, fenobarbitona, atropina, etc.), actividad anticolinérgica (propantelina), efedrina y actividad similar a la anfetamina, sedantes (hidrocloruro de hidroxicina), diuréticos ![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-15-4.jpg) (ciclopentiazida), así como psicoterapia, modificación del comportamiento (despertarse en las noches, etc.). Sin embargo, sus tasas de resolución fueron proporcionales a otras publicadas hasta ese momento.‬
+Durante bastante tiempo, ningún tratamiento se creyó necesario o indicado, ya que la enuresis se consideró un fenómeno normal, lo que refleja diferentes tasas de logro de la continencia (90). La cifra citada a menudo de 15% de resolución espontánea o 1 posibilidad en 6 de alcanzar la sequedad nocturna por año se atribuye a Forsythe y Redmond (91). Su artículo en 1974 informó su propia serie de 1129 que habían asistido a una Clínica de Enuresis en Belfast desde 1952 a 1959 y que no habían sido tratados con una alarma eléctrica. A partir de estos pacientes y una revisión de la literatura en el momento en que publicaron tasas de &#39;curación espontánea&#39; de 14% entre 5 y 9 años, 16% entre 10 y 14 años y 16% durante 15-19 años. El 3% de los pacientes seguían mojándose después de los 20 años. Cabe señalar que este estudio no se limitó a los enuréticos nocturnos monosintomáticos. La enuresis primaria sola ocurrió en 629 o el 56% de su población. Sus conclusiones se ven aún más debilitadas por el hecho de que estos 1129 pacientes &quot;no se curaron con medicamentos ni con la operación&quot;; todos los pacientes habían recibido tratamiento con al menos 2 fármacos con diferentes mecanismos de acción de la actividad similar a la atropina (belladona, fenobarbitona, atropina, etc.), actividad anticolinérgica (propantelina), efedrina y actividad similar a la anfetamina, sedantes (hidrocloruro de hidroxicina), diuréticos (ciclopentiazida), así como psicoterapia, modificación del comportamiento (despertarse en las noches, etc.). Sin embargo, sus tasas de resolución fueron proporcionales a otras publicadas hasta ese momento.‬
 
-Un gran estudio epidemiológico basado en un estudio realizado por el grupo de CK Yeung en Hong Kong definió las tasas de prevalencia de la enuresis nocturna en niños y adolescentes (90). Una tasa de respuesta del 78,6% a los 21,000 cuestionarios reveló una prevalencia general de enuresis nocturna primaria del 3,1%, de los cuales el 20,7% también tenía incontinencia urinaria diurna. Demuestran muy elegantemente una marcada reducción en la incidencia global de la enuresis nocturna primaria con el aumento de la edad. Una tasa de prevalencia global del 16,1% a los 5 años de edad se había reducido al 10,1% a los 7 años, al 3,14% a los 9 años y al 2,2% a los 19 años. Hubo una marcada preponderancia masculina hasta los 7 años y, posteriormente, solo un ligero sesgo hacia que más niños sean afectados. Lo que no se desprende de este estudio es si esta resolución es &quot;espontánea&quot; o el resultado de una intervención médica / conductual. Los datos más interesantes que surgieron de ese estudio revelaron que la resolución espontánea probablemente solo se aplica a aquellos que tienen síntomas enuréticos leves, es decir, mojar \&lt;3 noches a la semana.‬
+![Figura 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-3-15-5.jpg)  
+**Figura 5**
 
+Un gran estudio epidemiológico basado en un estudio realizado por el grupo de CK Yeung en Hong Kong definió las tasas de prevalencia de la enuresis nocturna en niños y adolescentes (90). Una tasa de respuesta del 78,6% a los 21,000 cuestionarios reveló una prevalencia general de enuresis nocturna primaria del 3,1%, de los cuales el 20,7% también tenía incontinencia urinaria diurna. Demuestran muy elegantemente una marcada reducción en la incidencia global de la enuresis nocturna primaria con el aumento de la edad. Una tasa de prevalencia global del 16,1% a los 5 años de edad se había reducido al 10,1% a los 7 años, al 3,14% a los 9 años y al 2,2% a los 19 años. Hubo una marcada preponderancia masculina hasta los 7 años y, posteriormente, solo un ligero sesgo hacia que más niños sean afectados. Lo que no se desprende de este estudio es si esta resolución es &quot;espontánea&quot; o el resultado de una intervención médica / conductual. Los datos más interesantes que surgieron de ese estudio revelaron que la resolución espontánea probablemente solo se aplica a aquellos que tienen síntomas enuréticos leves, es decir, mojar &lt;3 noches a la semana.‬
 
+**Tabla 1.** También demostraron que los enuréticos adolescentes tienen una mayor prevalencia de enuresis nocturna no monosintomática que los menores de 10 años.‬ (Adaptado de Yeung et al, _BJU International_ 2006, **97**: 1069–1073‬)
 
-|   | 5 años de edad | 19 años |‬
-| --- | --- | --- |‬
+|   | **5 años de edad** | **19 años** |‬
+|:-------------|:-------------:|:-------------:|
 | Prevalencia general | 16.1% | 2.2% |‬
-| % que mojaron \&lt;3 noches / semana | 55.7% | 10.3% |‬
+| % que mojaron &lt;3 noches / semana | 55.7% | 10.3% |‬
 | % de personas que mojaron 3-6 noches / semana | 30% | 41.4% |‬
 | % de noches mojadas 7 / semana | 14,3% | 48.3% |‬
-
-Adaptado de Yeung et al, BJU International 2006, 97: 1069-1073‬
-
-También demostraron que los enuréticos adolescentes tienen una mayor prevalencia de enuresis nocturna no monosintomática que los menores de 10 años.‬
-
 
 ## Resultados a largo plazo / Gestión de adolescentes
 
 Ha habido una serie de publicaciones que analizan el impacto psicológico y académico de la enuresis y la capacidad del tratamiento para mejorarlo. Informes anteriores han sugerido que los enuréticos no alcanzaron su potencial académico completo, pero eso se invierte después de la resolución de la enuresis. Sin embargo, un reciente estudio de gran población en el Reino Unido no encontró esto (92). Encontraron una asociación entre el orinarse en la cama y el aumento de la información sobre preocupaciones de los padres sobre tristeza / depresión, trastornos de la atención / actividad, trastornos de conducta, comportamiento de oposición y ansiedad general. A diferencia de los informes anteriores, no encontraron ninguna evidencia de un aumento en los problemas de comportamiento informados por los niños, como el acoso escolar / victimización, el rendimiento académico, la autoestima o las amistades.‬
 
-
-
-&quot;El manejo de la enuresis nocturna es un arte gratificante que requiere un médico entusiasta que esté dispuesto a usar una variedad de diferentes estratagemas con confianza según las necesidades particulares del niño y la familia&quot; Roy Meadow, Arch Dis Child, 1974, 49: 257- 258‬
+&quot;El manejo de la enuresis nocturna es un arte gratificante que requiere un médico entusiasta que esté dispuesto a usar una variedad de diferentes estratagemas con confianza según las necesidades particulares del niño y la familia&quot; Roy Meadow, _Arch Dis Child_, 1974, **49**: 257- 258‬
 
 ## Referencias
 
-  - [http://www.kidney.org/patients/bw/index.cfm](http://www.kidney.org/patients/bw/index.cfm)‬
-  -‬
-  - Bower, WF, Moore, KH, Shepherd, RB y Adams, RD   **La epidemiología de la enuresis infantil en Australia**  . BJU, 1996, 78: 602-606.‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/8944518](http://www.ncbi.nlm.nih.gov/pubmed/8944518)‬
-  -‬
-  - Butler, RJ, Golding, J., Northstone, K. y el equipo de estudio de APSPAC.   **Enuresis nocturna a los 7,5 años: prevalencia y análisis de los signos clí**** nicos** . BJU International, 2005, 96: 404-410‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16042739](http://www.ncbi.nlm.nih.gov/pubmed/16042739)‬
-  -‬
-  - Yeung, CK, Sreedhar, B., Sihoe, JDY, Sit, FKY y Lau, J.   **Diferencias en las características de la enuresis nocturna entre niños y adolescentes: una evaluació**** n cr ****ítica de un gran estudio epidemioló**** gico** . BJU International, 2006, 97: 1069-1073‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16643494](http://www.ncbi.nlm.nih.gov/pubmed/16643494)‬
-  -‬
-  - Chung, JM, Lee, SD, Kang, DD, Kim, KS, Kim, SY, Moon du, G., Park, KH, Pai, KS, Suh, HJ, Lee, JW, Cho, WY, Ha, TS y Han, SW   **Un estudio epidemiológico de la evacuación y los hábitos intestinales en niños coreanos: un estudio multicéntrico a nivel nacional**  . Urología, 2010, 76: 215-219.‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/20163840](http://www.ncbi.nlm.nih.gov/pubmed/20163840)‬
-  -‬
-  - Vande Walle, J. y Van Laecke, E.   **Pitfalls en estudios de niños con enuresis nocturna monosintomá**** tica** . Pediatr Nephrol, 2008, 23: 173-178‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/18057964](http://www.ncbi.nlm.nih.gov/pubmed/18057964)‬
-  -‬
-  - Norgaard, JP, van Gool, JD, Hjalmas, K., Djurhuus, JC y Hellstrom, A.-L.   **Estandarización y definiciones en la disfunción del tracto urinario inferior en niños**  . BJU, 1998, 81 (Suppl. 3): 1-16‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/9634012](http://www.ncbi.nlm.nih.gov/pubmed/9634012)‬
-  -‬
-  - Neveus, T. y otros. La  **estandarización de la terminología de la función del tracto urinario inferior en niños y adolescentes: Informe del Comité de Normalizació**** n de la International Children&#39;s Continence Society** . J Urol 2006, 176: 314-324‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16753432](http://www.ncbi.nlm.nih.gov/pubmed/16753432)‬
-  -‬
-  - Robson, WLM, Leung, AKC y Van Howe, R.   **Enuresis nocturna primaria y secundaria: similitudes en la presentación**  . Pediatría 2005, 115: 956-959.‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/15805370](http://www.ncbi.nlm.nih.gov/pubmed/15805370)‬
-  -‬
-  - von Gontard, A., Heron, J. y Joinson, C.  **Antecedentes familiares de enuresis nocturna e incontinencia urinaria: resultados de un gran estudio epidemioló**** gico** . J Urol, 2011, 185 (6): 2303-2306‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/21511300](http://www.ncbi.nlm.nih.gov/pubmed/21511300)‬
-  -‬
-  - Jarvelin, MR, Vikevainen-Tervonen, L., Moilanen, I. y Huttunen, N.-P.   **Enuresis en niños de siete años**  . Acta Paediatr Scand 1988, 77: 148 - 153.‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/3369293](http://www.ncbi.nlm.nih.gov/pubmed/3369293)‬
-  -‬
-  - Wang, QW, Wen, JG, Zhu, QH, Zhang, GX, Yang, K., Wang, Y., Zhu, ZQ, Li, ZZ, Zhang, RL, Yang, YF y Wei, JX  **El efecto de la agregación familiar En los niños con enuresis nocturna primaria**  . Neurourol Urodyn 2009, 28 (5): 423-426‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/19012298](http://www.ncbi.nlm.nih.gov/pubmed/19012298)‬
-  -‬
-  - Loeys, B., Hoebeke, P., Raes, A., Messiaen, L., De Paepe, A. y Vande Walle, J.  **¿**** Existe enuresis monosintom ****á**** tica? **** Una exploració**** n gen ****ética molecular de 32 familias con enuresis / incontinencia**  . BJU International 2002, 90: 76-83‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12081775](http://www.ncbi.nlm.nih.gov/pubmed/12081775)‬
-  -‬
-  - Eiberg, H., Berendt, I. y Mohr, J.  **Asignación de enuresis nocturna hereditaria dominante (ENUR1) al cromosoma 13q** . Nature Genetics 1995, 10: 354-356‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/7670476](http://www.ncbi.nlm.nih.gov/pubmed/7670476)‬
-  -‬
-  - Schaumburg, HL, Kapilin, U., Blasvaer, C., Eiberg, H., von Gontard, A., Djurhiuus, JC y Rittig, S.   **Fenotipos hereditarios en la enuresis nocturna**  . BJU International 2008, 102: 816-821‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/18564134](http://www.ncbi.nlm.nih.gov/pubmed/18564134)‬
-  -‬
-  - von Gontard, A., Schaumburg, H., Hollmann, E., Eibery, H. y Rittig, S.  **La gen**** ética de la enuresis: una revisión. **  J Urol 2001, 166: 2438-24434‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/11696807](http://www.ncbi.nlm.nih.gov/pubmed/11696807)‬
-  -‬
-  - Butler, RJ y Holland, P.   **Los tres sistemas: una forma conceptual de entender la enuresis nocturna**  . Scand J Urol Nephrol 2000, 34 (4): 270-277‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/11095087](http://www.ncbi.nlm.nih.gov/pubmed/11095087)‬
-  -‬
-  - Robertson, GL y Norgaard, NP   **Regulación renal del volumen de orina: posibles implicaciones para la nicturia**  . BJU International 2002, 90 (Suppl.3): 7-10‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12445091](http://www.ncbi.nlm.nih.gov/pubmed/12445091)‬
-  -‬
-  - Nielsen, S.   **Las acuaporinas renales: una visió**** n general** . BJU International 2002, 90 (Suppl. 3): 1-6‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12445090](http://www.ncbi.nlm.nih.gov/pubmed/12445090)‬
-  -‬
-  - Nejsum, LN  **El sistema de plomería renal: canales de agua de acuaporina**  . CMLS, celular. Mol. Vida sci. 2005, 62: 1692-1706‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/15924268](http://www.ncbi.nlm.nih.gov/pubmed/15924268)‬
-  -‬
-  - MacLean Poulton, E.   **Poliuria nocturna relativa como factor en la enuresis**  . The Lancet 1952, 8 de noviembre: 906-907‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12991636](http://www.ncbi.nlm.nih.gov/pubmed/12991636)‬
-  -‬
-  - Rittig, S., Knudsen, UB, Norgaard, JP, Pedersen, EB y Djurhuus, JC   **Ritmo diurno anormal de la vasopresina plasm**** ática y gasto urinario en pacientes con enuresis** . Am J Physiol 1989, 256 (Electrolye Fluid Renal Fluid, 25): F664-F671‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/2705537](http://www.ncbi.nlm.nih.gov/pubmed/2705537)‬
-  -‬
-  - Rittig, S., Matthiesen, TB, Pedersen, EB y Djurhuus, JC   **Variación circadiana de la angiotensina II y la aldosterona en la enuresis nocturna: Relación con la presión arterial y la producció**** n de orina** . J Urol 2006, 176: 774-780‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16813944](http://www.ncbi.nlm.nih.gov/pubmed/16813944)‬
-  -‬
-  - Aceto, G., Penza, R., Delvecchio, M., Chiozza, ML, Cimador, M. y Caione, P.   **La tasa de excreción de fracciones de sodio en la enuresis nocturna se correlaciona con la poliuria nocturna y la osmolalidad**  . J Urol 2004, 171: 2567-2570‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/15118420](http://www.ncbi.nlm.nih.gov/pubmed/15118420)‬
-  -‬
-  - Raes, A., Dossche, L., Hertegonne, N., Nuytemans, L., Hoebeke, P., Van Laecke, E., Donckerwolcke, R. y Vande Walle, J.   **Hypercalciuria est**** á relacionada con la excreció ****n osmolar en ni**** ños con Enuresis nocturna** . J Urol 2010, 183: 297-301.‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/19914655](http://www.ncbi.nlm.nih.gov/pubmed/19914655)‬
-  -‬
-  - Valenti, G., Laera, A., Pace, G., Aceto, G., Lospalluti, ML, Penza, R., Selvaggi, FP, Chiozza, ML y Svelto, M.   **La acuaporina urinaria 2 y la calciuria se correlacionan con la gravedad De la enuresis en niños**  . J Am Soc Nephrol 2000, 11: 1873-1881‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/11004218](http://www.ncbi.nlm.nih.gov/pubmed/11004218)‬
-  -‬
-  - Neveus, T., Hansell, P., y Stenberg, A.   **Vasopresina e hipercalciuria en la neuresis: una reaparici**** ón** l. BJU International 2002, 90: 725-729‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12410756](http://www.ncbi.nlm.nih.gov/pubmed/12410756)‬
-  -‬
-  - Procino, G., Mastrofrancesco, L., Mira, A, Tamma, G., Carmosino, M., Emma, ​​F., Svelto, M. y Valenti, G.   **Aquaporin 2 y receptor de detección de calcio apical: Nuevos jugadores en Trastornos poliuricos asociados a hipercalciuria**  . Seminarios en nefrología 2008, 28 (3): 297-305‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/18519090](http://www.ncbi.nlm.nih.gov/pubmed/18519090)‬
-  -‬
-  - Rittig, S., Knudsen, UB, Norgaard, JP, Gregersen, H., Pedersen, EB y Djurhuus, JC   **Variació**** n diurna del p ****é**** ptido natriur ****ético auricular en plasma en pacientes normales y pacientes con enuresis nocturna**  . Scand J Clin Lab Invest 1991, 51: 209-217‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/1828306](http://www.ncbi.nlm.nih.gov/pubmed/1828306)‬
-  -‬
-  - Kamperis, K., Hansen, MN, Hagstroem, S., Hvistend, G, Djurhuus, JC y Rittig, S.   **El ritmo circadiano de la producción de orina, y vasopresina urinaria y la excreció**** n de prostaglandina E2 en ni ****ños sanos**  . J Urol 2004, 171: 2571-2575‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/15118421](http://www.ncbi.nlm.nih.gov/pubmed/15118421)‬
-  -‬
-  - Kamperis, K., Rittig, S., Jorgensen, KA y Djurhuus, JC   **Poliuria nocturna en la enuresis nocturna monosintomática refractaria al tratamiento con desmopresina**  . Am J Physiol Renal Physiol 2006, 291: F1232-F1240‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16804103](http://www.ncbi.nlm.nih.gov/pubmed/16804103)‬
-  -‬
-  - Salmon, MA    **Un relato histórico de la enuresis nocturna y su tratamiento**  . Proc Roy Soc Med 1975, 68: 443-445‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/801839](http://www.ncbi.nlm.nih.gov/pubmed/801839)‬
-  -‬
-  - Watanabe, H. y Azuma, Y.   **Una propuesta para un sistema de clasificación de enuresis basado en el monitoreo simultáneo durante la noche de la electroencefalografía y la cistometría**  . Sleep 1989, 12 (3): 257-264‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/2740698](http://www.ncbi.nlm.nih.gov/pubmed/2740698)‬
-  -‬
-  - Watanabe, H., Kawauchi, A., Kitamori, T y Azuma, Y.   **Sistema de tratamiento para la enuresis nocturna según un sistema de clasificació**** n original** . Eurolol 1994, 25: 43-50.‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/8307075](http://www.ncbi.nlm.nih.gov/pubmed/8307075)‬
-  -‬
-  - Yeung, CK, Sit, FKY, To, LKC, Chiu, HN, Sihoe, JDY y Wong, C. La   **reducción de la capacidad vesical funcional nocturna es un factor común en la patogenia de la enuresis nocturna refractaria**  . BJU International 2002, 90: 302-307‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12133069](http://www.ncbi.nlm.nih.gov/pubmed/12133069)‬
-  -‬
-  - Yeung, CK  **Enuresis nocturna (enuresis)** . Curr Opin Urol 2003, 13: 337-343‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12811299](http://www.ncbi.nlm.nih.gov/pubmed/12811299)‬
-  -‬
-  - Hansen, MN, Rittig, S., Siggaard, C., Kamperis, K., Hvistendahl, G., Schaumburg, HL, Schmidt, F., Rawashdeh, Y. y Djurhuus, JC.  **Variabilidad intraindividual en la producción nocturna de orina y Capacidad funcional de la vejiga estimada por registros domiciliarios en pacientes con enuresis nocturna**  . J Urol 2001, 166: 2452-2455‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/11696810](http://www.ncbi.nlm.nih.gov/pubmed/11696810)‬
-  -‬
-  - Oredsson, AF y Jorgensen, TM   **Cambios en la capacidad de la vejiga nocturna durante el tratamiento con la campana y la almohadilla para la enuresis nocturna monosintomá**** tica** . J Urol 1998, 160: 166-169‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/9628642](http://www.ncbi.nlm.nih.gov/pubmed/9628642)‬
-  -‬
-  - Norgaard, JP, Hansen, JH, Wildschiotz, G., Sorensen, S., Rittig, S. y Djurhuus, JC.   **Cistometrías del sueño en niños con enuresis nocturna**  . J Urol 1989, 141: 1156-1159‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/2709503](http://www.ncbi.nlm.nih.gov/pubmed/2709503)‬
-  -‬
-  - Fowler, CJ, Griffiths, D. y de Groat, WC   **El control neuronal de la micción**  . Nat Rev Neurosci 2008, 9 (6): 453-466‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/18490916](http://www.ncbi.nlm.nih.gov/pubmed/2709503)‬
-  -‬
-  - Holstege, G. E l  **sistema motor motor emocional y control de micciones**  . Neurourology and Urodynamics 2010, 29: 42-48‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/20025036](http://www.ncbi.nlm.nih.gov/pubmed/20025036)‬
-  -‬
-  - Blok, BFM, Willemsen, ATM y Holstege, G.   **Un estudio PET sobre el control cerebral de la micción en humanos**  . Brain 1997, 120: 111-121‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/9055802](http://www.ncbi.nlm.nih.gov/pubmed/9055802)‬
-  -‬
-  - Dobbing, J. and Sands, J.   **Crecimiento cuantitativo y desarrollo del cerebro humano**  . Arch Dis Child 1973, 48: 757-767‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/4796010](http://www.ncbi.nlm.nih.gov/pubmed/4796010)‬
-  -‬
-  - Koff, SA   **Cura de la enuresis nocturna: ¿por qué la desmopresina no es muy efectiva? **   Pediatr Nephrol 1996, 10: 667-670‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/8897581](http://www.ncbi.nlm.nih.gov/pubmed/8897581)‬
-  -‬
-  - Jarvelin, MR   **Historia del desarrollo y hallazgos neurológicos en niños enuré**** ticos** . Dev Med and Child Neur 1989, 31: 728-736‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/2599267](http://www.ncbi.nlm.nih.gov/pubmed/2599267)‬
-  -‬
-  - von Gontard, A., Schmelzer, D., Seifen, S. y Pukrop, R. Compromiso   **del sistema nervioso central en la enuresis nocturna: evidencia de retraso neuromotor general y disfunción especí**** fica del tronco cerebral** . J Urol 2001, 166: 2448-2451‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/11696809](http://www.ncbi.nlm.nih.gov/pubmed/11696809)‬
-  -‬
-  - von Gontard, A., Freitag, CM, Seifen, S., Pukrop, R. y Rohling, D.   **Desarrollo neuromotor en la enuresis nocturna**  . Dev Med &amp; Child Neur 2006, 48: 744-750‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16904021](http://www.ncbi.nlm.nih.gov/pubmed/16904021)‬
-  -‬
-  - Ornitz, EM, Russell, AT, Hanna, GL, Gabikian, P., Gehricke, JG., Song, D. y Guthrie, D.   **Inhibición de sobresalto del sobresalto y la neurobiología de la enuresis nocturna primaria**  . Biol Psychiatry 1999, 45: 1455-1466‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/10356628](http://www.ncbi.nlm.nih.gov/pubmed/10356628)‬
-  -‬
-  - Freitag, CM, Rohling, D., Seifen, S., Pukrop, R. y von Gontard, A.   **Neurofisiolog**** ía de la enuresis nocturna: potenciales evocados e inhibición prepulso del reflejo de sobresalto** . Dev Med &amp; Child Neurol 2006, 48: 278-284‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16542515](http://www.ncbi.nlm.nih.gov/pubmed/16542515)‬
-  -‬
-  -‬
-  - Wolfish, NM, Pivik, RT y Busby, KA   **Umbrales elevados de activación del sueño en niños enuréticos: implicaciones clí**** nicas** . Acta Paediatr1997, 86: 381-384‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/9174224](http://www.ncbi.nlm.nih.gov/pubmed/9174224)‬
-  -‬
-  - Cohen-Zrubavel, V., Kushnir, B., Kushnir, J. y Sadeh, A. El   **sueño y la somnolencia en niños con enuresis nocturna**  . Sleep 2011, 34 (2): 191-194‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/21286252](http://www.ncbi.nlm.nih.gov/pubmed/21286252)‬
-  -‬
-  - Cinar, U., Vural, C., Cakir, B., Topuz, E., Karaman, MI y Turgut, S.  ** Enuresis nocturna y obstrucció**** n de la v ****ía aérea superior**  . Int J Pediatr Otorhinolaryngol 2001, 59: 115-118‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/11378186](http://www.ncbi.nlm.nih.gov/pubmed/11378186)‬
-  -‬
-  - Robson, WLM y Leung, AKC   **Enuresis nocturna secundaria**  . Clin Pediatrics 2000, 39 (7): 379-385‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/10914301](http://www.ncbi.nlm.nih.gov/pubmed/10914301)‬
-  -‬
-  - Neveus, T.   **Enuresis nocturna: antecedentes teóricos y directrices prácticas**  . Pediatr Nephrol 2011, 26: 1207-1214‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/21267599](http://www.ncbi.nlm.nih.gov/pubmed/21267599)‬
-  -‬
-  - Thiedke, CC   **Enuresis nocturna**  . Am Fam Physcian 2003, 67: 1499-1506‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12722850](http://www.ncbi.nlm.nih.gov/pubmed/12722850)‬
-  -‬
-  - Moffatt, MEK   **Enuresis nocturna: implicaciones psicológicas del tratamiento y el no tratamiento**  . J Pediatr 1989, 114, (4, Parte 2): 697-704‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/2647952](http://www.ncbi.nlm.nih.gov/pubmed/2647952)‬
-  -‬
-  - Hjalmas, K., Arnold, T., Bower, W., Caione, P., Chiozza, LM, von Gontard, A., Han, SW, Husman, DA, Kawauchi, A., LAckgren, G., Lottmann, H., Mark, S., Rittig, S., Robson, L., Vande Walle, J. y Yeung CK   **Enuresis nocturna: una estrategia de gestión internacional basada en la evidencia**  . J Urol 2004, 171: 2545-2561‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/15118418](http://www.ncbi.nlm.nih.gov/pubmed/15118418)‬
-  -‬
-  - Cayan, S., Doruk, E., Bozlu, M., Duce, MN, Ulusoy, E. y Akbay, E.   **La evaluación del estreñimiento en la enuresis nocturna primaria monosintomá**** tica** . Urología y nefrología internacionales 2001, 33: 513-516‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12230285](http://www.ncbi.nlm.nih.gov/pubmed/12230285)‬
-  -‬
-  - Marson, FGW   **Tratamiento de la pituitaria posterior de la enuresis nocturna**  . BMJ 1955, 14 de mayo: 1194-1195.‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/14363834](http://www.ncbi.nlm.nih.gov/pubmed/14363834)‬
-  -‬
-  - Richardson, DW, y Robinson, AG   **Desmopressin**  . Annals of Internal Medicine 1985, 103: 228-239‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/3893256](http://www.ncbi.nlm.nih.gov/pubmed/3893256)‬
-  -‬
-  - Vande Walle, JGJ, Bogaert, GA, Mattsson, S., Schurmans, T., Hoebeke, P., Deboe, V. y Norgaard, JP   **Una nueva formulación oral de desmopresina de rá**** pida fusi ****ón: un estudio farmacodinámico en niños con enfermedad nocturna primaria La enuresis**  . BJU International 2006, 97: 603-609‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16469035](http://www.ncbi.nlm.nih.gov/pubmed/16469035)‬
-  -‬
-  - Glazener, CMA y Evans, JHC   **Desmopresina para la enuresis nocturna en niños**  . Base de Datos Cochrane de Revisiones Sistemáticas 2002, Número 3. Art. No. CD002112‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12137645](http://www.ncbi.nlm.nih.gov/pubmed/12137645)‬
-  -‬
-  - Alloussi, SH, Murtz, G., Lang, C., Madersbacher, H., Strugala, G., Seibold, J., Schwenter, C., Stenzl, A. y Alloussi, S.   **Reg**** ímenes de tratamiento con desmopresina en monosintomático y no monosintomá ****tico Enuresis: una revisi**** ón desde la perspectiva clínica** . J Ped Urol 2011, 7: 10-20‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/20576470](http://www.ncbi.nlm.nih.gov/pubmed/20576470)‬
-  -‬
-  - Marschall-Kehrel, D. y Harms, TW   **La abstinencia desmopresina estructurada mejora la respuesta y el resultado del tratamiento para los niños enuré**** ticos monosintom ****á**** ticos** . J Urol 2009, 182: 2022-2027‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/19695616](http://www.ncbi.nlm.nih.gov/pubmed/19695616)‬
-  -‬
-  - Vilhardt, H. y Lundin, S.   **Efecto biológico y concentraciones plasmáticas de dDAVP después de la administración nasal y peroral en humanos**  . Gen Pharmac 1986, 17 (4): 481-483‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/3758654](http://www.ncbi.nlm.nih.gov/pubmed/3758654)‬
-  -‬
-  - Knudsen, UB, Rittig, S., Norgaard, JP, Lundemose, JB, Pedersen, EB y Djurhuus, JC   **Tratamiento a largo plazo de la enuresis nocturna con desmopresina. Un estudio de seguimiento**  . Urol Res 1991, 19: 237-240.‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/1926658](http://www.ncbi.nlm.nih.gov/pubmed/1926658)‬
-  -‬
-  - NICE guía clínica 111.   **Enuresis nocturna: el manejo de la enuresis en niños y jóvenes**  .  [www.nice.org.uk/guidance/CG111](http://www.nice.org.uk/guidance/CG111)‬
-  -‬
-  - De Guchtenaere, A., Raes, A., Vande Walle, C., Hoebeke, P., Van Laecke, E., Donckerwolcke, R. y Vande Walle, J.   **Evidencia de respuesta anti-enurética parcial relacionada con efectos farmacodinámicos deficientes de desmopresina en spray nasal**  . J Urol 2009, 181: 302-309‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/19013601](http://www.ncbi.nlm.nih.gov/pubmed/19013601)‬
-  -‬
-  - Althaus, J.   **Enuresis nocturna tratada por alternativas voltaicas**  . BMJ 1883, 20 de enero: 104‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/20750468](http://www.ncbi.nlm.nih.gov/pubmed/20750468)‬
-  -‬
-  - Goel, KM, Thomson, RB, Gibb, EM y McAinsh, TF   **Evaluación de nueve tipos diferentes de alarmas de enuresis**  . Arch Dis Child 1984, 59: 748-753‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/6476872](http://www.ncbi.nlm.nih.gov/pubmed/6476872)‬
-  -‬
-  - Glazener, CMA, Evans, JHC y Peto, RE   **Intervenciones de alarma para la enuresis nocturna en niños**  . Base de Datos Cochrane de Revisiones Sistemáticas 2005, Número 2 Art. No. CD002911‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/15846643](http://www.ncbi.nlm.nih.gov/pubmed/15846643)‬
-  -‬
-  - Baeyens, D., Lierman, A., Roeyers, H., Hoebeke, P. y Vande Walle, J.   **Adherencia en niños con enuresis nocturna**  . J Ped Urol 2009, 5: 105-109‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/18996052](http://www.ncbi.nlm.nih.gov/pubmed/18996052)‬
-  -‬
-  - Schulz-Jurgensen, S., Rieger, M., Schaefer, J., Neusuess, A. y Eggert, P. El   **efecto de la 1-desamino-8-d-arginina vasopresina en la inhibición prepulso del sobresalto apoya una etiología central de la monosintomática primaria La enuresis**  . J Pediatr 2007, 151: 571-574‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/18035131](http://www.ncbi.nlm.nih.gov/pubmed/18035131)‬
-  -‬
-  - Glazener, CMA, Evans, JHC y Peto, RE  **Medicamentos para la enuresis nocturna en niños (que no sean desmopresina y tricí****clicos** ). Base de Datos Cochrane de Revisiones Sistemáticas 2003, Número 4 Art. No. CD002238‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/14583948](http://www.ncbi.nlm.nih.gov/pubmed/14583948)‬
-  -‬
-  - Lovering, JS, Tallett, SE y McKendry, la   **eficacia de la oxibutinina en el tratamiento de la enuresis primaria**  . Pediatría 1988, 82 (1): 104-106‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/3288951](http://www.ncbi.nlm.nih.gov/pubmed/3288951)‬
-  -‬
-  - Austin, PF, Ferguson, G., Yan, Y., Campigotto, MJ, Royer, ME y Coplen, DE   **Tratamiento combinado con desmopresina y un medicamento anticolinérgico para pacientes que no responden a la desmopresina para la enuresis nocturna monosintomá**** tica: un estudio aleatorio, doble ciego, placebo -Control controlado** . Pediatría 2008, 122: 1027-1032‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/18977983](http://www.ncbi.nlm.nih.gov/pubmed/18977983)‬
-  -‬
-  - MacLean, REG  **Clorhidrato de imipramina (tofranil) y enuresis** . Am J Psychiatry 1960, 117: 551‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/13764959](http://www.ncbi.nlm.nih.gov/pubmed/13764959)‬
-  -‬
-  - Glazener, CMA, Evans, JHC y Peto, RE   **Tricíclicos y fármacos relacionados para la enuresis nocturna en niños**  . Base de Datos Cochrane de Revisiones Sistemáticas 2003, Número 3 Art. No. CD002117‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/12917922](http://www.ncbi.nlm.nih.gov/pubmed/12917922)‬
-  -‬
-  - Lundmark, E. y Neveus, T.   **Reboxetine en enuresis resistente a la terapia: una evaluación retrospectiva**  . Scand J Urol &amp; Nephrol 2009, 43: 365-368‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/19921980](http://www.ncbi.nlm.nih.gov/pubmed/19921980)‬
-  -‬
-  - Vogt, M., Lehnert, T., Till, H. y Rolle, U.   **Evaluación de diferentes modos de terapia combinada en niños con enuresis nocturna monosintomá**** tica** . BJU International 2009, 105: 1456-1459‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/19764973](http://www.ncbi.nlm.nih.gov/pubmed/19764973)‬
-  -‬
-  - al-Wailli, NS I  **supositorio de ndometacina para tratar la enuresis nocturna primaria: estudio doble ciego**  . J Urol 1989, 142 (5): 1290-1292‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/2681838](http://www.ncbi.nlm.nih.gov/pubmed/2681838)‬
-  -‬
-  - Metin, A. y Aykol, N. Supositorio   **sódico de diclofenaco en el tratamiento de la enuresis nocturna primaria**  . Int Urol Nephrol 1992, 24 (2): 113-117‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/1624253](http://www.ncbi.nlm.nih.gov/pubmed/1624253)‬
-  -‬
-  -‬
-  - Neveus, T. Johansson, E., Nydahl-Persson, K., Peterson, H. y Hansson, S.   **Tratamiento diurético para la enuresis nocturna**  . Scand J Urol Nephrol 2005, 39 (6): 474-478‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16303723](http://www.ncbi.nlm.nih.gov/pubmed/16303723)‬
-  -‬
-  - Iawwa, IA, Matani, YS, Saleh, AA y Al-Ghazo, MA   **Un ensayo controlado con placebo de los efectos de la hidroclorotiazida sobre la enuresis nocturna**  . Urol Int 2010, 84 (3): 319-324‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/20389163](http://www.ncbi.nlm.nih.gov/pubmed/20389163)‬
-  -‬
-  - Bower, WF, Diao, M., Tang, JL y Yeung, CK   **Acupuntura para la enuresis nocturna en niños: una revisió**** n sistem ****ática y exploración de las razones**  . Neurourology and Urodynamics 2005, 24: 267-272.‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/15791606](http://www.ncbi.nlm.nih.gov/pubmed/15791606)‬
-  -‬
-  - Glazener, CMA, Evans, JHC y Cheuk, DKL.   **Intervenciones complementarias y misceláneas para la enuresis nocturna en niños**  . Base de Datos Cochrane de Revisiones Sistemáticas 2005, Número 2 Art. No. CD005230‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/15846744](http://www.ncbi.nlm.nih.gov/pubmed/15846744)‬
-  -‬
-  - Alexopoulos, EI, Kostadima, E., Pagonari, I., Zintzaras, E., Gourgoulianis, K. y Kaditis, AG   **Asociación entre la enuresis nocturna primaria y el ronquido habitual en niños**  . Urología 2006, 68: 406-409‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16904463](http://www.ncbi.nlm.nih.gov/pubmed/16904463)‬
-  -‬
-  - Kalorin, CM, Mouzakes, J., Gavin, JP, Davis, TD, Feustel, P. y Kogan, BA La   **amigdalectomía no mejora la enuresis: resultados de un ensayo prospectivo controlado**  . J Urol 2010, 184: 2527-2532‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/21030049](http://www.ncbi.nlm.nih.gov/pubmed/21030049)‬
-  -‬
-  - Fergusson, DM, Horwood, LJ y Shannon, FT   **Factores relacionados con la edad de obtención del control nocturno de la vejiga: un estudio longitudinal de 8 años**  . Pediatría 1986, 78 (5): 884-890‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/3763302](http://www.ncbi.nlm.nih.gov/pubmed/3763302)‬
-  -‬
-  - Yeung, CK, Sreedhar, B., Sihoe, JDY Sit, FKY y Lau, J.   **Diferencias en las características de la enuresis nocturna entre niños y adolescentes: una evaluació**** n cr ****ítica de un gran estudio epidemioló**** gico** . BJU International 2006, 97: 1069-1073‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/16643494](http://www.ncbi.nlm.nih.gov/pubmed/16643494)‬
-  -‬
-  - Forsythe, WI y Redmond, A.   **Enuresis y tasa de curación espontánea. Estudio de 1129 enuré**** ticos** . Arch Dis Child 1974, 49: 259-263‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/4830115](http://www.ncbi.nlm.nih.gov/pubmed/4830115)‬
-  -‬
-  - Joinson, C., Heron, J., Emond, A. y Butler, R.   **Problemas psicol**** ógicos en niños con enuresis y humectación combinada (día y noche): un estudio realizado en el Reino Unido y basado en la población** . J Psicología pediátrica 2007, 32 (5): 605-616‬
-  - [http://www.ncbi.nlm.nih.gov/pubmed/17071625](http://www.ncbi.nlm.nih.gov/pubmed/17071625)‬
+1. Bed-wetting. Kidney.org. [http://www.kidney.org/patients/bw/index.cfm](http://www.kidney.org/patients/bw/index.cfm)
+1. Bower, WF, Moore, KH, Shepherd, RB y Adams, RD   **La epidemiología de la enuresis infantil en Australia**  . BJU, 1996, 78: 602-606. [http://www.ncbi.nlm.nih.gov/pubmed/8944518](http://www.ncbi.nlm.nih.gov/pubmed/8944518)
+1. Butler, RJ, Golding, J., Northstone, K. y el equipo de estudio de APSPAC.   **Enuresis nocturna a los 7,5 años: prevalencia y análisis de los signos clí**** nicos** . BJU International, 2005, 96: 404-410 [http://www.ncbi.nlm.nih.gov/pubmed/16042739](http://www.ncbi.nlm.nih.gov/pubmed/16042739)
+1. Yeung, CK, Sreedhar, B., Sihoe, JDY, Sit, FKY y Lau, J.   **Diferencias en las características de la enuresis nocturna entre niños y adolescentes: una evaluació**** n cr ****ítica de un gran estudio epidemioló**** gico** . BJU International, 2006, 97: 1069-1073 [http://www.ncbi.nlm.nih.gov/pubmed/16643494](http://www.ncbi.nlm.nih.gov/pubmed/16643494)
+1. Chung, JM, Lee, SD, Kang, DD, Kim, KS, Kim, SY, Moon du, G., Park, KH, Pai, KS, Suh, HJ, Lee, JW, Cho, WY, Ha, TS y Han, SW   **Un estudio epidemiológico de la evacuación y los hábitos intestinales en niños coreanos: un estudio multicéntrico a nivel nacional**  . Urología, 2010, 76: 215-219. [http://www.ncbi.nlm.nih.gov/pubmed/20163840](http://www.ncbi.nlm.nih.gov/pubmed/20163840)
+1. Vande Walle, J. y Van Laecke, E.   **Pitfalls en estudios de niños con enuresis nocturna monosintomá**** tica** . Pediatr Nephrol, 2008, 23: 173-178 [http://www.ncbi.nlm.nih.gov/pubmed/18057964](http://www.ncbi.nlm.nih.gov/pubmed/18057964)
+1. Norgaard, JP, van Gool, JD, Hjalmas, K., Djurhuus, JC y Hellstrom, A.-L.   **Estandarización y definiciones en la disfunción del tracto urinario inferior en niños**  . BJU, 1998, 81 (Suppl. 3): 1-16 [http://www.ncbi.nlm.nih.gov/pubmed/9634012](http://www.ncbi.nlm.nih.gov/pubmed/9634012)
+1. Neveus, T. y otros. La  **estandarización de la terminología de la función del tracto urinario inferior en niños y adolescentes: Informe del Comité de Normalizació**** n de la International Children&#39;s Continence Society** . J Urol 2006, 176: 314-324 [http://www.ncbi.nlm.nih.gov/pubmed/16753432](http://www.ncbi.nlm.nih.gov/pubmed/16753432)
+1. Robson, WLM, Leung, AKC y Van Howe, R.   **Enuresis nocturna primaria y secundaria: similitudes en la presentación**  . Pediatría 2005, 115: 956-959. [http://www.ncbi.nlm.nih.gov/pubmed/15805370](http://www.ncbi.nlm.nih.gov/pubmed/15805370)
+1. von Gontard, A., Heron, J. y Joinson, C.  **Antecedentes familiares de enuresis nocturna e incontinencia urinaria: resultados de un gran estudio epidemioló**** gico** . J Urol, 2011, 185 (6): 2303-2306 [http://www.ncbi.nlm.nih.gov/pubmed/21511300](http://www.ncbi.nlm.nih.gov/pubmed/21511300)
+1. Jarvelin, MR, Vikevainen-Tervonen, L., Moilanen, I. y Huttunen, N.-P.   **Enuresis en niños de siete años**  . Acta Paediatr Scand 1988, 77: 148 1. 153. [http://www.ncbi.nlm.nih.gov/pubmed/3369293](http://www.ncbi.nlm.nih.gov/pubmed/3369293)
+1. Wang, QW, Wen, JG, Zhu, QH, Zhang, GX, Yang, K., Wang, Y., Zhu, ZQ, Li, ZZ, Zhang, RL, Yang, YF y Wei, JX  **El efecto de la agregación familiar En los niños con enuresis nocturna primaria**  . Neurourol Urodyn 2009, 28 (5): 423-426 [http://www.ncbi.nlm.nih.gov/pubmed/19012298](http://www.ncbi.nlm.nih.gov/pubmed/19012298)
+1. Loeys, B., Hoebeke, P., Raes, A., Messiaen, L., De Paepe, A. y Vande Walle, J.  **¿**** Existe enuresis monosintom ****á**** tica? **** Una exploració**** n gen ****ética molecular de 32 familias con enuresis / incontinencia**  . BJU International 2002, 90: 76-83 [http://www.ncbi.nlm.nih.gov/pubmed/12081775](http://www.ncbi.nlm.nih.gov/pubmed/12081775)
+1. Eiberg, H., Berendt, I. y Mohr, J.  **Asignación de enuresis nocturna hereditaria dominante (ENUR1) al cromosoma 13q** . Nature Genetics 1995, 10: 354-356 [http://www.ncbi.nlm.nih.gov/pubmed/7670476](http://www.ncbi.nlm.nih.gov/pubmed/7670476)
+1. Schaumburg, HL, Kapilin, U., Blasvaer, C., Eiberg, H., von Gontard, A., Djurhiuus, JC y Rittig, S.   **Fenotipos hereditarios en la enuresis nocturna**  . BJU International 2008, 102: 816-821 [http://www.ncbi.nlm.nih.gov/pubmed/18564134](http://www.ncbi.nlm.nih.gov/pubmed/18564134)
+1. von Gontard, A., Schaumburg, H., Hollmann, E., Eibery, H. y Rittig, S.  **La gen**** ética de la enuresis: una revisión. **  J Urol 2001, 166: 2438-24434 [http://www.ncbi.nlm.nih.gov/pubmed/11696807](http://www.ncbi.nlm.nih.gov/pubmed/11696807)
+1. Butler, RJ y Holland, P.   **Los tres sistemas: una forma conceptual de entender la enuresis nocturna**  . Scand J Urol Nephrol 2000, 34 (4): 270-277 [http://www.ncbi.nlm.nih.gov/pubmed/11095087](http://www.ncbi.nlm.nih.gov/pubmed/11095087)
+1. Robertson, GL y Norgaard, NP   **Regulación renal del volumen de orina: posibles implicaciones para la nicturia**  . BJU International 2002, 90 (Suppl.3): 7-10 [http://www.ncbi.nlm.nih.gov/pubmed/12445091](http://www.ncbi.nlm.nih.gov/pubmed/12445091)
+1. Nielsen, S.   **Las acuaporinas renales: una visió**** n general** . BJU International 2002, 90 (Suppl. 3): 1-6 [http://www.ncbi.nlm.nih.gov/pubmed/12445090](http://www.ncbi.nlm.nih.gov/pubmed/12445090)
+1. Nejsum, LN  **El sistema de plomería renal: canales de agua de acuaporina**  . CMLS, celular. Mol. Vida sci. 2005, 62: 1692-1706 [http://www.ncbi.nlm.nih.gov/pubmed/15924268](http://www.ncbi.nlm.nih.gov/pubmed/15924268)
+1. MacLean Poulton, E.   **Poliuria nocturna relativa como factor en la enuresis**  . The Lancet 1952, 8 de noviembre: 906-907 [http://www.ncbi.nlm.nih.gov/pubmed/12991636](http://www.ncbi.nlm.nih.gov/pubmed/12991636)
+1. Rittig, S., Knudsen, UB, Norgaard, JP, Pedersen, EB y Djurhuus, JC   **Ritmo diurno anormal de la vasopresina plasm**** ática y gasto urinario en pacientes con enuresis** . Am J Physiol 1989, 256 (Electrolye Fluid Renal Fluid, 25): F664-F671 [http://www.ncbi.nlm.nih.gov/pubmed/2705537](http://www.ncbi.nlm.nih.gov/pubmed/2705537)
+1. Rittig, S., Matthiesen, TB, Pedersen, EB y Djurhuus, JC   **Variación circadiana de la angiotensina II y la aldosterona en la enuresis nocturna: Relación con la presión arterial y la producció**** n de orina** . J Urol 2006, 176: 774-780 [http://www.ncbi.nlm.nih.gov/pubmed/16813944](http://www.ncbi.nlm.nih.gov/pubmed/16813944)
+1. Aceto, G., Penza, R., Delvecchio, M., Chiozza, ML, Cimador, M. y Caione, P.   **La tasa de excreción de fracciones de sodio en la enuresis nocturna se correlaciona con la poliuria nocturna y la osmolalidad**  . J Urol 2004, 171: 2567-2570 [http://www.ncbi.nlm.nih.gov/pubmed/15118420](http://www.ncbi.nlm.nih.gov/pubmed/15118420)
+1. Raes, A., Dossche, L., Hertegonne, N., Nuytemans, L., Hoebeke, P., Van Laecke, E., Donckerwolcke, R. y Vande Walle, J.   **Hypercalciuria est**** á relacionada con la excreció ****n osmolar en ni**** ños con Enuresis nocturna** . J Urol 2010, 183: 297-301. [http://www.ncbi.nlm.nih.gov/pubmed/19914655](http://www.ncbi.nlm.nih.gov/pubmed/19914655)
+1. Valenti, G., Laera, A., Pace, G., Aceto, G., Lospalluti, ML, Penza, R., Selvaggi, FP, Chiozza, ML y Svelto, M.   **La acuaporina urinaria 2 y la calciuria se correlacionan con la gravedad De la enuresis en niños**  . J Am Soc Nephrol 2000, 11: 1873-1881 [http://www.ncbi.nlm.nih.gov/pubmed/11004218](http://www.ncbi.nlm.nih.gov/pubmed/11004218)
+1. Neveus, T., Hansell, P., y Stenberg, A.   **Vasopresina e hipercalciuria en la neuresis: una reaparici**** ón** l. BJU International 2002, 90: 725-729 [http://www.ncbi.nlm.nih.gov/pubmed/12410756](http://www.ncbi.nlm.nih.gov/pubmed/12410756)
+1. Procino, G., Mastrofrancesco, L., Mira, A, Tamma, G., Carmosino, M., Emma, ​​F., Svelto, M. y Valenti, G.   **Aquaporin 2 y receptor de detección de calcio apical: Nuevos jugadores en Trastornos poliuricos asociados a hipercalciuria**  . Seminarios en nefrología 2008, 28 (3): 297-305 [http://www.ncbi.nlm.nih.gov/pubmed/18519090](http://www.ncbi.nlm.nih.gov/pubmed/18519090)
+1. Rittig, S., Knudsen, UB, Norgaard, JP, Gregersen, H., Pedersen, EB y Djurhuus, JC   **Variació**** n diurna del p ****é**** ptido natriur ****ético auricular en plasma en pacientes normales y pacientes con enuresis nocturna**  . Scand J Clin Lab Invest 1991, 51: 209-217 [http://www.ncbi.nlm.nih.gov/pubmed/1828306](http://www.ncbi.nlm.nih.gov/pubmed/1828306)
+1. Kamperis, K., Hansen, MN, Hagstroem, S., Hvistend, G, Djurhuus, JC y Rittig, S.   **El ritmo circadiano de la producción de orina, y vasopresina urinaria y la excreció**** n de prostaglandina E2 en ni ****ños sanos**  . J Urol 2004, 171: 2571-2575 [http://www.ncbi.nlm.nih.gov/pubmed/15118421](http://www.ncbi.nlm.nih.gov/pubmed/15118421)
+1. Kamperis, K., Rittig, S., Jorgensen, KA y Djurhuus, JC   **Poliuria nocturna en la enuresis nocturna monosintomática refractaria al tratamiento con desmopresina**  . Am J Physiol Renal Physiol 2006, 291: F1232-F1240 [http://www.ncbi.nlm.nih.gov/pubmed/16804103](http://www.ncbi.nlm.nih.gov/pubmed/16804103)
+1. Salmon, MA    **Un relato histórico de la enuresis nocturna y su tratamiento**  . Proc Roy Soc Med 1975, 68: 443-445 [http://www.ncbi.nlm.nih.gov/pubmed/801839](http://www.ncbi.nlm.nih.gov/pubmed/801839)
+1. Watanabe, H. y Azuma, Y.   **Una propuesta para un sistema de clasificación de enuresis basado en el monitoreo simultáneo durante la noche de la electroencefalografía y la cistometría**  . Sleep 1989, 12 (3): 257-264 [http://www.ncbi.nlm.nih.gov/pubmed/2740698](http://www.ncbi.nlm.nih.gov/pubmed/2740698)
+1. Watanabe, H., Kawauchi, A., Kitamori, T y Azuma, Y.   **Sistema de tratamiento para la enuresis nocturna según un sistema de clasificació**** n original** . Eurolol 1994, 25: 43-50. [http://www.ncbi.nlm.nih.gov/pubmed/8307075](http://www.ncbi.nlm.nih.gov/pubmed/8307075)
+1. Yeung, CK, Sit, FKY, To, LKC, Chiu, HN, Sihoe, JDY y Wong, C. La   **reducción de la capacidad vesical funcional nocturna es un factor común en la patogenia de la enuresis nocturna refractaria**  . BJU International 2002, 90: 302-307 [http://www.ncbi.nlm.nih.gov/pubmed/12133069](http://www.ncbi.nlm.nih.gov/pubmed/12133069)
+1. Yeung, CK  **Enuresis nocturna (enuresis)** . Curr Opin Urol 2003, 13: 337-343 [http://www.ncbi.nlm.nih.gov/pubmed/12811299](http://www.ncbi.nlm.nih.gov/pubmed/12811299)
+1. Hansen, MN, Rittig, S., Siggaard, C., Kamperis, K., Hvistendahl, G., Schaumburg, HL, Schmidt, F., Rawashdeh, Y. y Djurhuus, JC.  **Variabilidad intraindividual en la producción nocturna de orina y Capacidad funcional de la vejiga estimada por registros domiciliarios en pacientes con enuresis nocturna**  . J Urol 2001, 166: 2452-2455 [http://www.ncbi.nlm.nih.gov/pubmed/11696810](http://www.ncbi.nlm.nih.gov/pubmed/11696810)
+1. Oredsson, AF y Jorgensen, TM   **Cambios en la capacidad de la vejiga nocturna durante el tratamiento con la campana y la almohadilla para la enuresis nocturna monosintomá**** tica** . J Urol 1998, 160: 166-169 [http://www.ncbi.nlm.nih.gov/pubmed/9628642](http://www.ncbi.nlm.nih.gov/pubmed/9628642)
+1. Norgaard, JP, Hansen, JH, Wildschiotz, G., Sorensen, S., Rittig, S. y Djurhuus, JC.   **Cistometrías del sueño en niños con enuresis nocturna**  . J Urol 1989, 141: 1156-1159 [http://www.ncbi.nlm.nih.gov/pubmed/2709503](http://www.ncbi.nlm.nih.gov/pubmed/2709503)
+1. Fowler, CJ, Griffiths, D. y de Groat, WC   **El control neuronal de la micción**  . Nat Rev Neurosci 2008, 9 (6): 453-466 [http://www.ncbi.nlm.nih.gov/pubmed/18490916](http://www.ncbi.nlm.nih.gov/pubmed/2709503)
+1. Holstege, G. E l  **sistema motor motor emocional y control de micciones**  . Neurourology and Urodynamics 2010, 29: 42-48 [http://www.ncbi.nlm.nih.gov/pubmed/20025036](http://www.ncbi.nlm.nih.gov/pubmed/20025036)
+1. Blok, BFM, Willemsen, ATM y Holstege, G.   **Un estudio PET sobre el control cerebral de la micción en humanos**  . Brain 1997, 120: 111-121 [http://www.ncbi.nlm.nih.gov/pubmed/9055802](http://www.ncbi.nlm.nih.gov/pubmed/9055802)
+1. Dobbing, J. and Sands, J.   **Crecimiento cuantitativo y desarrollo del cerebro humano**  . Arch Dis Child 1973, 48: 757-767 [http://www.ncbi.nlm.nih.gov/pubmed/4796010](http://www.ncbi.nlm.nih.gov/pubmed/4796010)
+1. Koff, SA   **Cura de la enuresis nocturna: ¿por qué la desmopresina no es muy efectiva? **   Pediatr Nephrol 1996, 10: 667-670 [http://www.ncbi.nlm.nih.gov/pubmed/8897581](http://www.ncbi.nlm.nih.gov/pubmed/8897581)
+1. Jarvelin, MR   **Historia del desarrollo y hallazgos neurológicos en niños enuré**** ticos** . Dev Med and Child Neur 1989, 31: 728-736 [http://www.ncbi.nlm.nih.gov/pubmed/2599267](http://www.ncbi.nlm.nih.gov/pubmed/2599267)
+1. von Gontard, A., Schmelzer, D., Seifen, S. y Pukrop, R. Compromiso   **del sistema nervioso central en la enuresis nocturna: evidencia de retraso neuromotor general y disfunción especí**** fica del tronco cerebral** . J Urol 2001, 166: 2448-2451 [http://www.ncbi.nlm.nih.gov/pubmed/11696809](http://www.ncbi.nlm.nih.gov/pubmed/11696809)
+1. von Gontard, A., Freitag, CM, Seifen, S., Pukrop, R. y Rohling, D.   **Desarrollo neuromotor en la enuresis nocturna**  . Dev Med &amp; Child Neur 2006, 48: 744-750 [http://www.ncbi.nlm.nih.gov/pubmed/16904021](http://www.ncbi.nlm.nih.gov/pubmed/16904021)
+1. Ornitz, EM, Russell, AT, Hanna, GL, Gabikian, P., Gehricke, JG., Song, D. y Guthrie, D.   **Inhibición de sobresalto del sobresalto y la neurobiología de la enuresis nocturna primaria**  . Biol Psychiatry 1999, 45: 1455-1466 [http://www.ncbi.nlm.nih.gov/pubmed/10356628](http://www.ncbi.nlm.nih.gov/pubmed/10356628)
+1. Freitag, CM, Rohling, D., Seifen, S., Pukrop, R. y von Gontard, A.   **Neurofisiolog**** ía de la enuresis nocturna: potenciales evocados e inhibición prepulso del reflejo de sobresalto** . Dev Med &amp; Child Neurol 2006, 48: 278-284 [http://www.ncbi.nlm.nih.gov/pubmed/16542515](http://www.ncbi.nlm.nih.gov/pubmed/16542515)
+-
+1. Wolfish, NM, Pivik, RT y Busby, KA   **Umbrales elevados de activación del sueño en niños enuréticos: implicaciones clí**** nicas** . Acta Paediatr1997, 86: 381-384 [http://www.ncbi.nlm.nih.gov/pubmed/9174224](http://www.ncbi.nlm.nih.gov/pubmed/9174224)
+1. Cohen-Zrubavel, V., Kushnir, B., Kushnir, J. y Sadeh, A. El   **sueño y la somnolencia en niños con enuresis nocturna**  . Sleep 2011, 34 (2): 191-194 [http://www.ncbi.nlm.nih.gov/pubmed/21286252](http://www.ncbi.nlm.nih.gov/pubmed/21286252)
+1. Cinar, U., Vural, C., Cakir, B., Topuz, E., Karaman, MI y Turgut, S.  ** Enuresis nocturna y obstrucció**** n de la v ****ía aérea superior**  . Int J Pediatr Otorhinolaryngol 2001, 59: 115-118 [http://www.ncbi.nlm.nih.gov/pubmed/11378186](http://www.ncbi.nlm.nih.gov/pubmed/11378186)
+1. Robson, WLM y Leung, AKC   **Enuresis nocturna secundaria**  . Clin Pediatrics 2000, 39 (7): 379-385 [http://www.ncbi.nlm.nih.gov/pubmed/10914301](http://www.ncbi.nlm.nih.gov/pubmed/10914301)
+1. Neveus, T.   **Enuresis nocturna: antecedentes teóricos y directrices prácticas**  . Pediatr Nephrol 2011, 26: 1207-1214 [http://www.ncbi.nlm.nih.gov/pubmed/21267599](http://www.ncbi.nlm.nih.gov/pubmed/21267599)
+1. Thiedke, CC   **Enuresis nocturna**  . Am Fam Physcian 2003, 67: 1499-1506 [http://www.ncbi.nlm.nih.gov/pubmed/12722850](http://www.ncbi.nlm.nih.gov/pubmed/12722850)
+1. Moffatt, MEK   **Enuresis nocturna: implicaciones psicológicas del tratamiento y el no tratamiento**  . J Pediatr 1989, 114, (4, Parte 2): 697-704 [http://www.ncbi.nlm.nih.gov/pubmed/2647952](http://www.ncbi.nlm.nih.gov/pubmed/2647952)
+1. Hjalmas, K., Arnold, T., Bower, W., Caione, P., Chiozza, LM, von Gontard, A., Han, SW, Husman, DA, Kawauchi, A., LAckgren, G., Lottmann, H., Mark, S., Rittig, S., Robson, L., Vande Walle, J. y Yeung CK   **Enuresis nocturna: una estrategia de gestión internacional basada en la evidencia**  . J Urol 2004, 171: 2545-2561 [http://www.ncbi.nlm.nih.gov/pubmed/15118418](http://www.ncbi.nlm.nih.gov/pubmed/15118418)
+1. Cayan, S., Doruk, E., Bozlu, M., Duce, MN, Ulusoy, E. y Akbay, E.   **La evaluación del estreñimiento en la enuresis nocturna primaria monosintomá**** tica** . Urología y nefrología internacionales 2001, 33: 513-516 [http://www.ncbi.nlm.nih.gov/pubmed/12230285](http://www.ncbi.nlm.nih.gov/pubmed/12230285)
+1. Marson, FGW   **Tratamiento de la pituitaria posterior de la enuresis nocturna**  . BMJ 1955, 14 de mayo: 1194-1195. [http://www.ncbi.nlm.nih.gov/pubmed/14363834](http://www.ncbi.nlm.nih.gov/pubmed/14363834)
+1. Richardson, DW, y Robinson, AG   **Desmopressin**  . Annals of Internal Medicine 1985, 103: 228-239 [http://www.ncbi.nlm.nih.gov/pubmed/3893256](http://www.ncbi.nlm.nih.gov/pubmed/3893256)
+1. Vande Walle, JGJ, Bogaert, GA, Mattsson, S., Schurmans, T., Hoebeke, P., Deboe, V. y Norgaard, JP   **Una nueva formulación oral de desmopresina de rá**** pida fusi ****ón: un estudio farmacodinámico en niños con enfermedad nocturna primaria La enuresis**  . BJU International 2006, 97: 603-609 [http://www.ncbi.nlm.nih.gov/pubmed/16469035](http://www.ncbi.nlm.nih.gov/pubmed/16469035)
+1. Glazener, CMA y Evans, JHC   **Desmopresina para la enuresis nocturna en niños**  . Base de Datos Cochrane de Revisiones Sistemáticas 2002, Número 3. Art. No. CD002112 [http://www.ncbi.nlm.nih.gov/pubmed/12137645](http://www.ncbi.nlm.nih.gov/pubmed/12137645)
+1. Alloussi, SH, Murtz, G., Lang, C., Madersbacher, H., Strugala, G., Seibold, J., Schwenter, C., Stenzl, A. y Alloussi, S.   **Reg**** ímenes de tratamiento con desmopresina en monosintomático y no monosintomá ****tico Enuresis: una revisi**** ón desde la perspectiva clínica** . J Ped Urol 2011, 7: 10-20 [http://www.ncbi.nlm.nih.gov/pubmed/20576470](http://www.ncbi.nlm.nih.gov/pubmed/20576470)
+1. Marschall-Kehrel, D. y Harms, TW   **La abstinencia desmopresina estructurada mejora la respuesta y el resultado del tratamiento para los niños enuré**** ticos monosintom ****á**** ticos** . J Urol 2009, 182: 2022-2027 [http://www.ncbi.nlm.nih.gov/pubmed/19695616](http://www.ncbi.nlm.nih.gov/pubmed/19695616)
+1. Vilhardt, H. y Lundin, S.   **Efecto biológico y concentraciones plasmáticas de dDAVP después de la administración nasal y peroral en humanos**  . Gen Pharmac 1986, 17 (4): 481-483 [http://www.ncbi.nlm.nih.gov/pubmed/3758654](http://www.ncbi.nlm.nih.gov/pubmed/3758654)
+1. Knudsen, UB, Rittig, S., Norgaard, JP, Lundemose, JB, Pedersen, EB y Djurhuus, JC   **Tratamiento a largo plazo de la enuresis nocturna con desmopresina. Un estudio de seguimiento**  . Urol Res 1991, 19: 237-240. [http://www.ncbi.nlm.nih.gov/pubmed/1926658](http://www.ncbi.nlm.nih.gov/pubmed/1926658)
+1. NICE guía clínica 111.   **Enuresis nocturna: el manejo de la enuresis en niños y jóvenes**  .  [www.nice.org.uk/guidance/CG111](http://www.nice.org.uk/guidance/CG111)
+1. De Guchtenaere, A., Raes, A., Vande Walle, C., Hoebeke, P., Van Laecke, E., Donckerwolcke, R. y Vande Walle, J.   **Evidencia de respuesta anti-enurética parcial relacionada con efectos farmacodinámicos deficientes de desmopresina en spray nasal**  . J Urol 2009, 181: 302-309 [http://www.ncbi.nlm.nih.gov/pubmed/19013601](http://www.ncbi.nlm.nih.gov/pubmed/19013601)
+1. Althaus, J.   **Enuresis nocturna tratada por alternativas voltaicas**  . BMJ 1883, 20 de enero: 104 [http://www.ncbi.nlm.nih.gov/pubmed/20750468](http://www.ncbi.nlm.nih.gov/pubmed/20750468)
+1. Goel, KM, Thomson, RB, Gibb, EM y McAinsh, TF   **Evaluación de nueve tipos diferentes de alarmas de enuresis**  . Arch Dis Child 1984, 59: 748-753 [http://www.ncbi.nlm.nih.gov/pubmed/6476872](http://www.ncbi.nlm.nih.gov/pubmed/6476872)
+1. Glazener, CMA, Evans, JHC y Peto, RE   **Intervenciones de alarma para la enuresis nocturna en niños**  . Base de Datos Cochrane de Revisiones Sistemáticas 2005, Número 2 Art. No. CD002911 [http://www.ncbi.nlm.nih.gov/pubmed/15846643](http://www.ncbi.nlm.nih.gov/pubmed/15846643)
+1. Baeyens, D., Lierman, A., Roeyers, H., Hoebeke, P. y Vande Walle, J.   **Adherencia en niños con enuresis nocturna**  . J Ped Urol 2009, 5: 105-109 [http://www.ncbi.nlm.nih.gov/pubmed/18996052](http://www.ncbi.nlm.nih.gov/pubmed/18996052)
+1. Schulz-Jurgensen, S., Rieger, M., Schaefer, J., Neusuess, A. y Eggert, P. El   **efecto de la 1-desamino-8-d-arginina vasopresina en la inhibición prepulso del sobresalto apoya una etiología central de la monosintomática primaria La enuresis**  . J Pediatr 2007, 151: 571-574 [http://www.ncbi.nlm.nih.gov/pubmed/18035131](http://www.ncbi.nlm.nih.gov/pubmed/18035131)
+1. Glazener, CMA, Evans, JHC y Peto, RE  **Medicamentos para la enuresis nocturna en niños (que no sean desmopresina y tricí****clicos** ). Base de Datos Cochrane de Revisiones Sistemáticas 2003, Número 4 Art. No. CD002238 [http://www.ncbi.nlm.nih.gov/pubmed/14583948](http://www.ncbi.nlm.nih.gov/pubmed/14583948)
+1. Lovering, JS, Tallett, SE y McKendry, la   **eficacia de la oxibutinina en el tratamiento de la enuresis primaria**  . Pediatría 1988, 82 (1): 104-106 [http://www.ncbi.nlm.nih.gov/pubmed/3288951](http://www.ncbi.nlm.nih.gov/pubmed/3288951)
+1. Austin, PF, Ferguson, G., Yan, Y., Campigotto, MJ, Royer, ME y Coplen, DE   **Tratamiento combinado con desmopresina y un medicamento anticolinérgico para pacientes que no responden a la desmopresina para la enuresis nocturna monosintomá**** tica: un estudio aleatorio, doble ciego, placebo -Control controlado** . Pediatría 2008, 122: 1027-1032 [http://www.ncbi.nlm.nih.gov/pubmed/18977983](http://www.ncbi.nlm.nih.gov/pubmed/18977983)
+1. MacLean, REG  **Clorhidrato de imipramina (tofranil) y enuresis** . Am J Psychiatry 1960, 117: 551 [http://www.ncbi.nlm.nih.gov/pubmed/13764959](http://www.ncbi.nlm.nih.gov/pubmed/13764959)
+1. Glazener, CMA, Evans, JHC y Peto, RE   **Tricíclicos y fármacos relacionados para la enuresis nocturna en niños**  . Base de Datos Cochrane de Revisiones Sistemáticas 2003, Número 3 Art. No. CD002117 [http://www.ncbi.nlm.nih.gov/pubmed/12917922](http://www.ncbi.nlm.nih.gov/pubmed/12917922)
+1. Lundmark, E. y Neveus, T.   **Reboxetine en enuresis resistente a la terapia: una evaluación retrospectiva**  . Scand J Urol &amp; Nephrol 2009, 43: 365-368 [http://www.ncbi.nlm.nih.gov/pubmed/19921980](http://www.ncbi.nlm.nih.gov/pubmed/19921980)
+1. Vogt, M., Lehnert, T., Till, H. y Rolle, U.   **Evaluación de diferentes modos de terapia combinada en niños con enuresis nocturna monosintomá**** tica** . BJU International 2009, 105: 1456-1459 [http://www.ncbi.nlm.nih.gov/pubmed/19764973](http://www.ncbi.nlm.nih.gov/pubmed/19764973)
+1. al-Wailli, NS I  **supositorio de ndometacina para tratar la enuresis nocturna primaria: estudio doble ciego**  . J Urol 1989, 142 (5): 1290-1292 [http://www.ncbi.nlm.nih.gov/pubmed/2681838](http://www.ncbi.nlm.nih.gov/pubmed/2681838)
+1. Metin, A. y Aykol, N. Supositorio   **sódico de diclofenaco en el tratamiento de la enuresis nocturna primaria**  . Int Urol Nephrol 1992, 24 (2): 113-117 [http://www.ncbi.nlm.nih.gov/pubmed/1624253](http://www.ncbi.nlm.nih.gov/pubmed/1624253)
+1. Neveus, T. Johansson, E., Nydahl-Persson, K., Peterson, H. y Hansson, S.   **Tratamiento diurético para la enuresis nocturna**  . Scand J Urol Nephrol 2005, 39 (6): 474-478 [http://www.ncbi.nlm.nih.gov/pubmed/16303723](http://www.ncbi.nlm.nih.gov/pubmed/16303723)
+1. Iawwa, IA, Matani, YS, Saleh, AA y Al-Ghazo, MA   **Un ensayo controlado con placebo de los efectos de la hidroclorotiazida sobre la enuresis nocturna**  . Urol Int 2010, 84 (3): 319-324 [http://www.ncbi.nlm.nih.gov/pubmed/20389163](http://www.ncbi.nlm.nih.gov/pubmed/20389163)
+1. Bower, WF, Diao, M., Tang, JL y Yeung, CK   **Acupuntura para la enuresis nocturna en niños: una revisió**** n sistem ****ática y exploración de las razones**  . Neurourology and Urodynamics 2005, 24: 267-272. [http://www.ncbi.nlm.nih.gov/pubmed/15791606](http://www.ncbi.nlm.nih.gov/pubmed/15791606)
+1. Glazener, CMA, Evans, JHC y Cheuk, DKL.   **Intervenciones complementarias y misceláneas para la enuresis nocturna en niños**  . Base de Datos Cochrane de Revisiones Sistemáticas 2005, Número 2 Art. No. CD005230 [http://www.ncbi.nlm.nih.gov/pubmed/15846744](http://www.ncbi.nlm.nih.gov/pubmed/15846744)
+1. Alexopoulos, EI, Kostadima, E., Pagonari, I., Zintzaras, E., Gourgoulianis, K. y Kaditis, AG   **Asociación entre la enuresis nocturna primaria y el ronquido habitual en niños**  . Urología 2006, 68: 406-409 [http://www.ncbi.nlm.nih.gov/pubmed/16904463](http://www.ncbi.nlm.nih.gov/pubmed/16904463)
+1. Kalorin, CM, Mouzakes, J., Gavin, JP, Davis, TD, Feustel, P. y Kogan, BA La   **amigdalectomía no mejora la enuresis: resultados de un ensayo prospectivo controlado**  . J Urol 2010, 184: 2527-2532 [http://www.ncbi.nlm.nih.gov/pubmed/21030049](http://www.ncbi.nlm.nih.gov/pubmed/21030049)
+1. Fergusson, DM, Horwood, LJ y Shannon, FT   **Factores relacionados con la edad de obtención del control nocturno de la vejiga: un estudio longitudinal de 8 años**  . Pediatría 1986, 78 (5): 884-890 [http://www.ncbi.nlm.nih.gov/pubmed/3763302](http://www.ncbi.nlm.nih.gov/pubmed/3763302)
+1. Yeung, CK, Sreedhar, B., Sihoe, JDY Sit, FKY y Lau, J.   **Diferencias en las características de la enuresis nocturna entre niños y adolescentes: una evaluació**** n cr ****ítica de un gran estudio epidemioló**** gico** . BJU International 2006, 97: 1069-1073 [http://www.ncbi.nlm.nih.gov/pubmed/16643494](http://www.ncbi.nlm.nih.gov/pubmed/16643494)
+1. Forsythe, WI y Redmond, A.   **Enuresis y tasa de curación espontánea. Estudio de 1129 enuréticos** . Arch Dis Child 1974, 49: 259-263 [http://www.ncbi.nlm.nih.gov/pubmed/4830115](http://www.ncbi.nlm.nih.gov/pubmed/4830115)
+1. Joinson, C., Heron, J., Emond, A. y Butler, R.   **Problemas psicol**** ógicos en niños con enuresis y humectación combinada (día y noche): un estudio realizado en el Reino Unido y basado en la población** . J Psicología pediátrica 2007, 32 (5): 605-616 [http://www.ncbi.nlm.nih.gov/pubmed/17071625](http://www.ncbi.nlm.nih.gov/pubmed/17071625)

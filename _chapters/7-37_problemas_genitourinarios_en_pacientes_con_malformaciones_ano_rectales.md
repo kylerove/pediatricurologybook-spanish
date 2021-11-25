@@ -68,7 +68,7 @@ El término malformación ano rectal representa un amplio espectro de anomalías
 
 | **MASCULINO** | **FEMENINO** |‬
 |---------------|-----------------|
-| Fístula rectovesical (cuello vesical) |  Cloaca canal común\&gt;3 cm   canal común\&lt;3 cm    |‬
+| Fístula rectovesical (cuello vesical) |  Cloaca canal común&gt;3 cm   canal común&lt;3 cm    |‬
 | Fístula recto uretral (prostática) |‬
 | Fístula recto uretral (bulbar) |   Fistula recto vestibular           |‬
 | Atresia rectal |   Atresia rectal |‬
@@ -104,7 +104,7 @@ El ano imperforado sin fístula es raro, ya que el recto se encuentra generalmen
 
 ### La cloaca
 
-La cloaca es el extremo más grave del espectro de malformaciones ano rectales en las mujeres en las que la orina, genitales y el recto drenan a través de un canal común y una sola abertura perineal. Existe una alta incidencia de defectos sacros y urinarios asociados. Aquellos con un canal común corto \&lt;3 cm se pueden reparar con un abordaje sagital posterior. Sin embargo, aquellos con un canal cloacal común largo representan un defecto más complejo que generalmente requerirá una combinación de abdomen y sagital posterior. Figuras 7 y 8‬
+La cloaca es el extremo más grave del espectro de malformaciones ano rectales en las mujeres en las que la orina, genitales y el recto drenan a través de un canal común y una sola abertura perineal. Existe una alta incidencia de defectos sacros y urinarios asociados. Aquellos con un canal común corto &lt;3 cm se pueden reparar con un abordaje sagital posterior. Sin embargo, aquellos con un canal cloacal común largo representan un defecto más complejo que generalmente requerirá una combinación de abdomen y sagital posterior. Figuras 7 y 8‬
 
 ![Figura 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-7.jpg)  
 ![Figura 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-7-37-8.jpg)‬

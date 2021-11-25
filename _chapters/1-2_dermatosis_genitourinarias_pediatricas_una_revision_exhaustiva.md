@@ -53,17 +53,17 @@ El eritema multiforme (EM) es una afección dermatológica generalizada, caracte
 
 **Mesa 1.** Causas de eritema multiforme
 
-|             **Drogas**            |   |  **Agentes infecciosos** |
-|:---------------------------------:|---|:------------------------:|
-| Antiinflamatorios no esteroidales |   |            VEB           |
-|         Anticonvulsivantes        |   |            VHS           |
-|           Antimicóticos           |   |            CMV           |
-|                                   |   |  Neumonía por mycoplasma |
-|          **Antibióticos**         |   |         Hepatitis        |
-|          1. sulfonamidas          |   | Virus de varicela zoster |
-|           2. penicilinas          |   |  Infecciones por hongos  |
-|         3. cefalosporinas         |   |         Parásitos        |
-|           4. quinolonas           |   |       Estreptococos      |
+|             **Drogas**            |  **Agentes infecciosos** |
+|:---------------------------------:|:------------------------:|
+| Antiinflamatorios no esteroidales |            VEB           |
+|         Anticonvulsivantes        |            VHS           |
+|           Antimicóticos           |            CMV           |
+|                                   |  Neumonía por mycoplasma |
+|          **Antibióticos**         |         Hepatitis        |
+|          1. sulfonamidas          | Virus de varicela zoster |
+|           2. penicilinas          |  Infecciones por hongos  |
+|         3. cefalosporinas         |         Parásitos        |
+|           4. quinolonas           |       Estreptococos      |
 
 ![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-1-2-1.jpg)  
 **Figura 1**

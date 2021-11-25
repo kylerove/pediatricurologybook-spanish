@@ -69,7 +69,7 @@ En los niños con urolitiasis, el objetivo principal es el manejo quirúrgico, c
 #### Indicaciones
 
 1. Gran carga litiásica, por ejemplo, cálculos coraliformes‬
-2. Cálculo único \&gt; 2 cm de tamaño‬
+2. Cálculo único &gt; 2 cm de tamaño‬
 3. Cálculos múltiples‬
 4. Cálculo de composición dura, no susceptible de desintegración por LEC‬
 
@@ -83,7 +83,7 @@ _Ultrasonografia y Radiografía convencional_: esto permite la localización pre
 
 _Pielografia Endovenosa (IVU)_: esto demuestra la anatomía calicilar y la ubicación de los cálculos dentro del sistema colector. Las variaciones anatómicas, como los sistemas dúplex o los sistemas bífidos, también se pueden detectar antes de la operación.‬
 
-_DMSA_: puede realizarse a través del mismo sitio de inyección de la IVU y nos da la función del riñón. Cuando el riñón tiene una función deficiente (\&lt;10%), la nefrectomía puede ser la alternativa y la mejor intervención.‬
+_DMSA_: puede realizarse a través del mismo sitio de inyección de la IVU y nos da la función del riñón. Cuando el riñón tiene una función deficiente (&lt;10%), la nefrectomía puede ser la alternativa y la mejor intervención.‬
 
 1. Stent ureteral preoperatorio mediante cistoscopia. La punta del stent ureteral se coloca al nivel de la unión pieloureteral. Se inserta una sonda Foley y el stent se sujeta a la sonda para evitar su desplazamiento. Luego se realiza un estudio retrógrado para visualizar la anatomía (**Figura 4**)‬
 2. El paciente se posiciona en prono con el lado afectado a 30-45 grados de elevación. Esto lleva al extremo del cáliz posterior hacia la dirección de la punción.‬

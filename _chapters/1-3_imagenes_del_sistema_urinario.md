@@ -40,7 +40,7 @@ Las preguntas que deben hacerse al elegir un estudio son:‬
 Si tiene alguna duda, entonces es aconsejable hablar con su radiólogo. A continuación se muestran ejemplos de diferentes niveles de radiación y su radiación de fondo equivalente para comparación.‬
 
 | Procedimiento diagnóstico | Dosis efectiva típica (MsV) | Número equivalente de radiografías de tórax | Aproximado equivalente a la radiación de fondo. |‬
-| --- | --- | --- | --- |‬
+|:-------------:|:-------------:|:-------------:|:-------------:|
 | Rayos X de abdomen | 1.0 | 50 | 6 meses |‬
 | IVU | 2.5 | 125 | 14 meses |‬
 | Tomografía computarizada de abdomen y pelvis | 10 | 500 | 4.5 años |‬
