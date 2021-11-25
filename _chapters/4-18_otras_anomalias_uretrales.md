@@ -31,21 +31,13 @@ Estas anomalías, que se limitan a los varones, son ocho veces menos frecuentes 
 Las válvulas uretrales anteriores (VUA) son una causa mucho menos común de obstrucción infravesical, pero igualmente con morbilidad potencial al igual que las válvulas uretrales posteriores. Como se describe clásicamente, éstos toman la forma de una membrana diafragmática fenestrada o una cúspide de la mucosa que surge de la pared ventral de la uretra. Debido a que las válvulas uretrales anteriores se encuentran ocasionalmente en el extremo distal de un divertículo, se desconoce si la anomalía se desarrolló principalmente como un divertículo con debilitamiento de la uretra distal y un desarrollo secundario de obstrucción valvular; o una obstrucción valvular temprana que resultó en un mal desarrollo proximal de la uretra y cuerpo esponjoso.‬
 
 - El origen embrionario de las válvulas uretrales anteriores es algo controvertido. Se ha sugerido que pueden ser el resultado de un intento abortado de duplicación uretral, falla de alineación entre la uretra proximal y distal que resulta en un remanente de tejido que puede actuar como una válvula, o dilatación quística congénita de las glándulas periuretrales que da como resultado un efecto de válvula.‬
-
 - Estas válvulas pueden ubicarse en cualquier lugar de la uretra anterior. En el 40% de los casos, la válvula se presenta en la uretra bulbar, mientras que en el 30% se encuentra en la unión penoescrotal y en el 30% restante a nivel de la uretra peniana. Rara vez se han reportado en la fosa navicular.‬
-
 - Las VUA se pueden manifestar dentro de un amplio espectro de gravedad en función del grado de dilatación uretral, la presencia de un divertículo asociado, así como el grado de dilatación del tracto superior.‬
-
 - La manifestaciones clínicas son secundarias a síntomas de vaciamiento (antes conocidos como obstructivos). Estos pacientes comúnmente presentan goteo miccional, dificultad para vaciar, incontinencia, intermitencia o retención urinaria, chorro urinario débil e infecciones recurrentes del tracto urinario. Los niños mayores también pueden tener enuresis, goteo postmiccional o falla de medro.‬
-
 - Los cambios secundarios en el tracto urinario superior son poco frecuentes. Sin embargo, en el período neonatal, la obstrucción puede dar lugar a megacistis, ruptura vesical, hidroureteronefrosis grave, azoemia o ascitis urinaria.‬
-
 - La cistouretrografía miccional es el estudio de diagnóstico de elección, ya que demuestra la obstrucción. Curiosamente, la uretra a menudo se observa estrecha distal a las válvulas y dilatada proximalmente. La válvula en sí puede visualizarse como un defecto lineal a lo largo de la pared ventral, pero también puede notarse como un cambio abrupto en el calibre de la uretra. El reflujo vesicoureteral se ha observado en aproximadamente un tercio de los pacientes, y la dilatación del tracto superior se observó en la mitad.‬
-
 - Endoscópicamente, la válvula aparece como una cúspide o colgajo de tejido ventralmente localizado. Ocasionalmente se ha descrito como una membrana similar al iris. Se debe examinar la uretra con cuidado en el extremo distal de cualquier divertículo uretral porque el flujo retrógrado de la solución de irrigación puede aplanar el mecanismo de la válvula contra la pared uretral. La presión suprapúbica con la vejiga llena y los puertos de irrigación del cistoscopio abiertos pueden demostrar el mecanismo de la válvula con mayor facilidad. Además, la elevación de la válvula con un bucle endoscópico es fundamental para identificar la lesión.‬
-
 - El tratamiento es mediante incisión endoscópica. La incisión transuretral de la válvula es efectiva para la mayoría de los pacientes, pero se debe tener cuidado de hacer una incisión amplia para evitar cualquier labio obstructivo distal.‬
-
 - El tratamiento endoscópico deja al paciente con un divertículo uretral en la mayoría de los casos. Si el paciente presenta un gran divertículo y un defecto en el esponjoso, éste puede beneficiarse de la reparación abierta, que permite la reconstrucción de la válvula, el divertículo y los tejidos involucrados.Es poco frecuente, pero si el paciente presenta falla renal grave asociada a obstrucción, se puede realizar una vesicostomía cutánea temporal para permitir el drenaje y mejoría de la función renal.‬
 
 ### Divertículo uretral
@@ -67,15 +59,12 @@ Comparte algunas de las características de un divertículo uretral, pero incluy
 La clasificación de los tipos fusiforme y escafoide refleja la gravedad del defecto y el efecto consiguiente en los cuerpos esponjoso y cavernosos.‬
 
 - La variante escafoide resulta de la deficiencia o ausencia del cuerpo esponjoso ventral.‬
-
 - En la megalouretra fusiforme se afectan tanto el cuerpo esponjoso como los cavernosos.‬
-
 - Más recientemente, Adamson y Burge han descrito un tercer tipo con todos los cuerpos intactos.‬
 
 La causa de la megalouretra sigue siendo algo controvertida.‬
 
 - Stephens postuló que un retraso en la canalización del núcleo epitelial distal podría conducir a obstrucción y dilatación proximal.‬
-
 - Otros han sugerido que la detención embriológica del mesodermo que invierte los pliegues uretrales influye en el desarrollo de los cuerpos y el tejido eréctil.‬
 
 La megalouretra a menudo se asocia no solo con otras anomalías urorrectales como el ano imperforado, el síndrome de abdomen en ciruela y las válvulas uretrales, sino también con diversos grados de uropatía.‬
@@ -219,20 +208,17 @@ La mayoría de los pólipos pueden extirparse endoscópicamente (escisión trans
 Las estenosis uretrales en los niños son el resultado de tres posibilidades etiológicas: congénitas, infecciosas o traumáticas (iatrogénicas o no iatrogénicas).‬
 
 - Congénito
-
 - La cuestión de si realmente existen las estenosis congénitas ha sido debatida previamente.‬
-
 - La distinción entre una válvula congénita y una válvula tipo 3 puede ser bastante difícil, ya que la primera es distal al verumontanum y la última se encuentra en la uretra membranosa.‬
-
 - La verdadera incidencia de la estenosis congénita no se conoce. Sin embargo, si se define una estenosis como congénita cuando no hay traumatismo o instrumentación conocidos, casi el 14% de las estenosis encontradas en niños se ajustan a esta clasificación.‬
 
-_Infeccioso_‬
+### Infeccioso
 
 La etiología infecciosa es una causa rara de estenosis en los niños debido al tiempo de generación para que se desarrollen las estenosis, que a menudo son décadas.‬
 
 La etiología inflamatoria debe considerarse diferente de la infecciosa, y los catéteres permanentes desempeñan un papel en el desarrollo.‬
 
-_Traumático_‬
+### Traumático
 
 Un evento traumático es el factor etiológico más importante en el desarrollo de la estenosis en los niños.‬
 
@@ -281,11 +267,7 @@ La condición es poco frecuente, pero ocurre en niños de 6 años en adelante, c
 ## Referencias
 
 Thomas D., Duffy P., Rickwood A. &quot;Lo esencial de la urología pediátrica &quot; , 2ª edición; pag. 117-120; Reino Unido, 2008.‬
-
 Gillenwater J., Howards S., Grayhack J., Mitchell M. &quot; Urología pediátrica y de adultos&quot; , 4ª edición. Por Lippincott Williams &amp; Wilkins Publishers. USA, 2002.‬
-
 Stringer M., Oldham K., Mouriquand P. &quot;Cirugía pediátrica y urología: resultados a largo plazo&quot; , 2ª edición. Cambridge University Press, USA. 2006‬
-
 Berrocal T., López-Pereira, Arjonilla A., Gutiérrez J. &quot; Anomalías del uréter distal, vejiga y uretra en niños:Características embriológicas, radiológicas y patológicas &quot; . Radiografía, 2002.‬
-
 Rodríguez A., Cespón E., González A., Bonelli C., Lorenzo J., Cuerpo MA, Nieto J. &quot; Dup l i c de i d a d de u r e t r un m un scu l i n un&quot; . Servicio de urología. Hospital Arquitecto Marcide. El Ferrol, La Coruña. Actas Urol Esp. 26 (1): 69-73, 2002.‬

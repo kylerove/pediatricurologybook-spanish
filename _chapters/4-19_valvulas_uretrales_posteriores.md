@@ -76,7 +76,8 @@ El síndrome de VURD (displasia de reflujo unilateral de las válvulas) descrito
 El procedimiento de elección para las VUP es la ablación de la válvula primaria, que se realiza una vez que el bebé está estable desde un punto de vista médico. En la inducción de la anestesia se administra una dosis de antibiótico intravenoso, por ejemplo, amoxicilina/clavulanato 30 mg / kg. El bebé se coloca en la posición de litotomía y una cistoscopia de diagnóstico utilizando 0 ° 6/8 Fr cistoscopio neonatal realizado. La uretra posterior se debe inspeccionar cuidadosamente y se debe observar la configuración de la válvula. También debe tenerse en cuenta la configuración del cuello vesical y las apariencias de la vejiga y los orificios ureterales. El resectoscopio 11 Fr se ensambla con el electrodo de la cuchilla fría / hoz o con el insecto y la resección de la válvula se realiza normalmente en las posiciones de las 5, las 7 y las 12 en punto (**Figura 2**).‬
 
 Vista endoscópica de VUP con los sitios marcados para la incisión de la válvula.‬
- ![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-4-19-2.jpg)‬  
+
+![Figura 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-4-19-2.jpg)‬  
 
 Se coloca un catéter uretral al final del procedimiento y se retira 24-48 horas después. La creatinina debe verificarse después de retirar el catéter y pesar los pañales para documentar la producción de orina. La profilaxis antibiótica y los suplementos renales deben continuar hasta una revisión adicional.‬
 
@@ -96,37 +97,30 @@ Un número menor de pacientes con VUP no se presentarán como neonatos o bebés,
 
 Cada institución tendrá un régimen de seguimiento diferente para los niños con válvulas uretrales posteriores. Sin embargo, los principios del seguimiento son universales y los objetivos son maximizar la función renal, minimizar las infecciones urinarias y las cicatrices renales, evaluar y manejar la disfunción miccional con el objetivo de lograr la continencia urinaria total y eventualmente organizar la transición a servicios para adolescentes y adultos. La participación de la nefrología pediátrica es imprescindible para maximizar los resultados y garantizar el correcto manejo médico de estos niños (Tabla 1).‬
 
-|   | Creat y‬
- Electrolitos | FBC |‬
-GFR corregido | NOSOTROS | CUGM | MAG3 | Cistoscopia /‬
- ablación valvular | MSU | BFA | Video-‬
- Urodinámica‬
- vía SPC. |‬
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |‬
-| Nacimiento | √ | √ |   | √ | √ |   | √ |   |   |   |‬
-| 3 meses | √ | √ |   | √ |   | √ | +/- circuncisión | √ |   |   |‬
-| 1 año | √ | √ | √ | √ |   |   |   | √ | √ |   |‬
-| 2 años | √ | √ |   | √ |   | √ |   | √ | √ |   |‬
-| 3 años | √ | √ | √ | √ |   |   |   | √ | √ |   |‬
-| 4 años | √ | √ |   | √ |   | √ |   | √ | √ | √ |‬
-| 5 años | √ | √ | √ | √ |   |   |   | √ | √ |   |‬
-| 6 años | √ | √ |   | √ |   | √ |   | √ | √ |   |‬
-| 7 años | √ | √ |   | √ |   |   |   | √ | √ |   |‬
-| 8 años | √ | √ |   | √ |   | √ |   | √ | √ |   |‬
-| 9 años | √ | √ |   | √ |   |   |   | √ | √ |   |‬
-| 10 años | √ | √ | √ | √ |   | √ |   | √ | √ |   |‬
-| 11-14 años‬
- anual | √ | √ |   | √ |   |   |   | √ | √ |   |‬
-| &gt; 15 años | √ | √ | √ | √ |   | +/- |   | √ | √ | adolescente‬
- de referencia |‬
+**Tabla 1**: Ejemplo de protocolo de seguimiento de pacientes con VUP utilizado en Great Ormond Street Hospital, Reino Unido‬
 
-    **Tabla 1**  : Ejemplo de protocolo de seguimiento de pacientes con VUP utilizado en Great Ormond Street Hospital, Reino Unido‬
+|                 | Creat & Electrolytes | FBC | Corrected  GFR | US | MCUG | MAG3 | Cystoscopy/ valve ablation | MSU | BFA | Video- Urodynamics via SPC |
+|-----------------|----------------------|-----|----------------|----|------|------|----------------------------|-----|-----|----------------------------|
+| Birth           | ✔︎                    | ✔︎   |                | ✔︎  | ✔︎    |      | ✔︎                          |     |     |                            |
+| 3 months        | ✔︎                    | ✔︎   |                | ✔︎  |      | ✔︎    | +/- circumcision           | ✔︎   |     |                            |
+| 1 year          | ✔︎                    | ✔︎   | ✔︎              | ✔︎  |      |      |                            | ✔︎   | ✔︎   |                            |
+| 2 years         | ✔︎                    | ✔︎   |                | ✔︎  |      | ✔︎    |                            | ✔︎   | ✔︎   |                            |
+| 3 years         | ✔︎                    | ✔︎   | ✔︎              | ✔︎  |      |      |                            | ✔︎   | ✔︎   |                            |
+| 4 years         | ✔︎                    | ✔︎   |                | ✔︎  |      | ✔︎    |                            | ✔︎   | ✔︎   | ✔︎                          |
+| 5 years         | ✔︎                    | ✔︎   | ✔︎              | ✔︎  |      |      |                            | ✔︎   | ✔︎   |                            |
+| 6 years         | ✔︎                    | ✔︎   |                | ✔︎  |      | ✔︎    |                            | ✔︎   | ✔︎   |                            |
+| 7 years         | ✔︎                    | ✔︎   |                | ✔︎  |      |      |                            | ✔︎   | ✔︎   |                            |
+| 8 years         | ✔︎                    | ✔︎   |                | ✔︎  |      | ✔︎    |                            | ✔︎   | ✔︎   |                            |
+| 9 years         | ✔︎                    | ✔︎   |                | ✔︎  |      |      |                            | ✔︎   | ✔︎   |                            |
+| 10 years        | ✔︎                    | ✔︎   | ✔︎              | ✔︎  |      | ✔︎    |                            | ✔︎   | ✔︎   |                            |
+| 11-14 yr Annual | ✔︎                    | ✔︎   |                | ✔︎  |      |      |                            | ✔︎   | ✔︎   |                            |
+| >15 yr          | ✔︎                    | ✔︎   | ✔︎              | ✔︎  |      | +/-  |                            | ✔︎   | ✔︎   | Adolescent referral        |
 
-  Conteo sanguíneo completo de glóbulos    rojos‬
-   Frecuencia de filtración glomerular de GFR‬
-   Ultrasonido del tracto renal de EE . UU.‬
+Conteo sanguíneo completo de glóbulos rojos‬
+Frecuencia de filtración glomerular de GFR‬
+Ultrasonido del tracto renal de EE . UU.‬
 CUGM cistouretrograma miccional‬
-   MSU muestra de orina en la parte media de la prueba, para incluir una prueba de proteinuria‬
+MSU muestra de orina en la parte media de la prueba, para incluir una prueba de proteinuria‬
 BFA evaluación de la función de la vejiga.‬
 Relacionado con la edad; en bebés, las alarmas de pañales y las mediciones residuales después de la evacuación; en niños mayores cuadros de frecuencia-volumen, estudios de flujo y mediciones residuales post vacías‬
 SPC catéter suprapúbico‬
@@ -180,9 +174,9 @@ El término &#39;síndrome de vejiga valvular&#39; se introdujo como un concepto
 
 Durante los últimos 30 años, los médicos han comenzado a reconocer y comprender la importancia de la disfunción de la vejiga y el impacto de la continencia urinaria y la función renal en niños con válvulas uretrales posteriores. Se observan marcadas diferencias en la técnica de la urodinámica, la clasificación de diferentes patrones y el momento de los exámenes al revisar la literatura sobre este tema.‬
 
-Holmdahl et al siguieron a 12 niños con VUP menores de 15 años. La inestabilidad durante el llenado urodinámico se observó en 2/3 de los pacientes a los 5 años de edad, pero en la pubertad se había reducido.28 La capacidad de la vejiga a los 5 años parecía ser normal, pero después de la pubertad se demostró que tenía aproximadamente el doble de la capacidad esperada. El patrón urodinámico cambió con el tiempo y la inestabilidad disminuyó a favor de un patrón sobre distendido con la edad. Este cambio en el comportamiento de la vejiga también fue demostrado por De Gennaro et al, donde el 71% de los 48 pacientes estudiados tuvieron estudios urodinámicos anormales entre las edades de 10 meses a 15 años.29 En el grupo de edad &lt;8 años, el 44% tenía hipercontráctil y el 31% hipocontráctil Las vejigas y los pacientes mayores de 8 años demostraron 28% de patrones urodinámicos hipercontráciles y 50% hipocontráctiles. Misseri et al demostraron un índice menor (5.9%) de falla miogénica (acontráctil o incapaz de generar contracción del detrusor para vaciado de vejiga adecuado) en su estudio retrospectivo, de 51 niños y concluyeron que el fallo detrusor se debía a un tratamiento coexistente anticolinérgico en su cohorte de casos. 30‬
+Holmdahl et al siguieron a 12 niños con VUP menores de 15 años. La inestabilidad durante el llenado urodinámico se observó en 2/3 de los pacientes a los 5 años de edad, pero en la pubertad se había reducido.28 La capacidad de la vejiga a los 5 años parecía ser normal, pero después de la pubertad se demostró que tenía aproximadamente el doble de la capacidad esperada. El patrón urodinámico cambió con el tiempo y la inestabilidad disminuyó a favor de un patrón sobre distendido con la edad. Este cambio en el comportamiento de la vejiga también fue demostrado por De Gennaro et al, donde el 71% de los 48 pacientes estudiados tuvieron estudios urodinámicos anormales entre las edades de 10 meses a 15 años.29 En el grupo de edad &lt;8 años, el 44% tenía hipercontráctil y el 31% hipocontráctil Las vejigas y los pacientes mayores de 8 años demostraron 28% de patrones urodinámicos hipercontráciles y 50% hipocontráctiles. Misseri et al demostraron un índice menor (5.9%) de falla miogénica (acontráctil o incapaz de generar contracción del detrusor para vaciado de vejiga adecuado) en su estudio retrospectivo, de 51 niños y concluyeron que el fallo detrusor se debía a un tratamiento coexistente anticolinérgico en su cohorte de casos.30‬
 
-La disfunción de la vejiga es clave para los resultados de la función renal a largo plazo, como se ilustra en el estudio de seguimiento a largo plazo de Parkhouse et al, donde se asoció el hallazgo de incontinencia a los 5 años en el 44% de los pacientes, que se definió como no seco durante el día. con un resultado renal deficiente en el 46% de este grupo (p &lt;0,001) .20 En el grupo de Ansari de 227 niños con válvulas uretrales posteriores, mostraron un riesgo general del 30% de desarrollar enfermedad renal crónica, con un 10% de progresar a insuficiencia renal terminal. .31 Disfunción vesical grave, definida como bajo cumplimiento con la presión de llenado final&gt; 40 cm de H20 o volumen residual post-vacío&gt; 30% o detrusor poco activo o la necesidad de CIC, fue más frecuente en los pacientes que progresaron a ESRF (p &lt;0,0001). El estudio de Mazen de 116 pacientes con VUP seguido de una media de 10. 3 años (rango 18 meses-22 años) encontraron que el 42% de los pacientes tenían ESRF o habían sido trasplantados. Se observaron anomalías urodinámicas en el 80% del grupo de pacientes en general y la inestabilidad de la vejiga y el cumplimiento deficiente se correlacionaron con un resultado funcional renal deficiente (p = 0,04) 32.‬
+La disfunción de la vejiga es clave para los resultados de la función renal a largo plazo, como se ilustra en el estudio de seguimiento a largo plazo de Parkhouse et al, donde se asoció el hallazgo de incontinencia a los 5 años en el 44% de los pacientes, que se definió como no seco durante el día. con un resultado renal deficiente en el 46% de este grupo (p &lt;0,001) .20 En el grupo de Ansari de 227 niños con válvulas uretrales posteriores, mostraron un riesgo general del 30% de desarrollar enfermedad renal crónica, con un 10% de progresar a insuficiencia renal terminal. .31 Disfunción vesical grave, definida como bajo cumplimiento con la presión de llenado final&gt; 40 cm de H20 o volumen residual post-vacío&gt; 30% o detrusor poco activo o la necesidad de CIC, fue más frecuente en los pacientes que progresaron a ESRF (p &lt;0,0001). El estudio de Mazen de 116 pacientes con VUP seguido de una media de 10. 3 años (rango 18 meses-22 años) encontraron que el 42% de los pacientes tenían ESRF o habían sido trasplantados. Se observaron anomalías urodinámicas en el 80% del grupo de pacientes en general y la inestabilidad de la vejiga y el cumplimiento deficiente se correlacionaron con un resultado funcional renal deficiente (p = 0,04).‬32
 
 La función de la vejiga continúa evolucionando durante la adolescencia, y el manejo efectivo de la vejiga debe continuar hasta la edad adulta. El crecimiento prostático altera las dinámicas de la salida de la vejiga y el patrón en cambio de la dinámica de la vejiga visto en la primera infancia continúa cambiando a lo largo de la adolescencia con capacidad de vejiga aumentada y grandes volúmenes residuales post vaciado prevalente. Algunos hombres jóvenes tal vez deban iniciar cateterización intermitente de limpieza para encargarse de este deterioro irreversible de la función de la vejiga.‬
 
@@ -203,74 +197,40 @@ Hay pocos estudios que informen sobre los resultados de fertilidad y paternidad 
 - Un número significativo de niños con VUP desarrollará enfermedad renal crónica e insuficiencia renal terminal.‬
 - El seguimiento estructurado tiene como objetivo prevenir el deterioro del tracto superior, prevenir la infección del tracto urinario, maximizar el crecimiento y permitir la vigilancia de la disfunción de la vejiga.‬
 
-## Referencias de válvulas uretrales posteriores
+## Referencias
 
 1. Dewan PA, Zappala SM, Ransley PG, Duffy PG. Reevaluación endoscópica de la morfología de la obstrucción congénita de la uretra posterior. J Urol 1992; **70**: 439-444‬
-
 2. Heikkila J, Taskinen S, Toppari J, Rintala R. Las válvulas uretrales posteriores a menudo se asocian con critorquidia y hernia inguinal. J Urol 2008; 180 (2): 715-717‬
-
 3. Kitagawa H, Pringle KC, Koike J, Zuccullo J et al. La derivación vesicoamniótica para la obstrucción completa del tracto urinario es parcialmente efectiva. J Pediatr Surg 2006; 41 (2): 394-402‬
-
 4. Glick PL, Harrison MR, Adzick NS, Noall RA et al. Corrección de la hidronefrosis congénita en el útero IV: la descompresión en el útero previene la displasia renal. J Pediatr Surg 1984; 19 (6): 649-657‬
-
 5. Craparo F, Rustico M, Tassis B, Coviello et al. Suero fetal beta2-microglobulina antes y después de la derivación vesical; Un enfoque de 2 pasos para evaluar los fetos con obstrucción del tracto urinario inferior. J Urol 2007; 178 (6): 2576-2579‬
-
 6. Clark TJ, Martin WL, Divakaran TG, Whittle MJ et al. Drenaje prenatal de la vejiga en el tratamiento de la obstrucción fetal del tracto urinario inferior: una revisión sistemática y un metanálisis. Obstet Gynecol 2003; 102 (2): 367-382‬
-
 7. Sarhan O, Zaccaria I, Macher M, Muller F et al. Resultado a largo plazo de las válvulas uretrales posteriores detectadas prenatalmente: un estudio de centro único de 65 casos manejados por ablación de válvula primaria. J Urol 2008; 179 (1): 307-312‬
-
 8. Grupo de estudio colaborativo PLUTO, Kilby M, Khan K, Morris K, Daniels J et al. Protocolo de ensayo PLUTO: derivación percutánea para la obstrucción del tracto urinario inferior ensayo controlado aleatorizado. BJOG 2007; 114 (7): 904-905, e1-4‬
-
 9. Hoover DL, Duckett JJ. Válvulas uretrales posteriores, reflujo unilateral y displasia renal: un síndrome. J Urol 1982; 128 (5): 994-997‬
-
 10. Cuckow PM, Dineen MD, Risdon RA, Ransley PG et al. Función renal a largo plazo en válvulas uretrales posteriores, reflujo unilateral y síndrome de displasia renal. J Urol 1997; 158 (3 pt 2): 1004-1007‬
-
 11. Smeulders N, Makin E, Desai D, Duffy P et al. El valor predictivo de un cistouretrograma de micción repetida para las valvas remanentes después de la ablación endoscópica primaria de las válvulas uretrales posteriores. J Ped Urol 2011; 7 (2): 203-208‬
-
 12. Mukherjee S, Joshi A, Carroll D, Chandran H at al. ¿Cuál es el efecto de la circuncisión sobre el riesgo de infección del tracto urinario en niños con válvulas uretrales posteriores? J Ped Surg 2009; **44**: 417-421‬
-
 13. Ghanem MA, Nijman RJM. Seguimiento a largo plazo de desviación urinaria alta (sobria) bilateral en pacientes con válvulas uretrales posteriores y su efecto sobre la función de la vejiga. J Urol 2005; **173**: 1721-1724‬
-
 14. Tietjen DN, Gloor JM, Husmann DA. Desviación urinaria proximal en el manejo de las válvulas uretrales posteriores: ¿es necesario? J Urol 1997; **158**: 1008-1010‬
-
 15. López Pereira P, Espinosa L, Martínez Urrutina MJ, Lobato R et al. Válvulas uretrales posteriores: factores pronósticos. BJU Int 2003; **91**: 687-690‬
-
 16. Godbole P, Wade A, Mushtaq I, Wilcox D. Vesicostomía frente a la ablación de la válvula primaria de las válvulas uretrales posteriores: ¿siempre una diferencia en el resultado? J Ped Urol 2007; **3**: 273-275‬
-
 17. Jaureguizar E, López Pereira P, Urrutina MJM, Espinosa L et al. ¿La pieluereterostomía neonatal empeora la función de la vejiga en niños con válvulas uretrales posteriores? J Urol 2000; **164**: 1031-1034‬
-
 18. Podesta M, Ruarte A, Garguilo C, Medel R et al. La función de la vejiga asociada con las válvulas uretrales posteriores después de la ablación valvular primaria o el desvío urinario proximal en niños y adolescentes. J Urol 2002; **168**: 1830-1835‬
-
 19. Henneberry MO, Stephens FD. Hipoplasia y displasia renal en lactantes con válvulas uretrales posteriores. J Urol 1980; **123**: 912-915‬
-
 20. Parkhouse HF, Barratt TM, Dillon MJ, Duffy PG at al. Oportunidad a largo plazo de niños con válvulas uretrales posteriores. Br J Urol 1988; **62**: 59-62‬
-
 21. Kousidis G, Thomas DFM, Morgan H, Haider N et al. El resultado a largo plazo de las válvulas uretrales posteriores detectadas prenatalmente: estudio de seguimiento de 10 a 23 años. BJU Int 2008; **102**: 1020-1024‬
-
 22. DeFoor W, Clark C, Jackson E, Reddy P et al. Factores de riesgo para enfermedad renal en etapa terminal en niños con válvulas uretrales posteriores. J Urol 2008; **180**: 1705-1708‬
-
 23. Heikkila J, Holmberg C, Kyllonen L, Rintala R at al. Riesgo a largo plazo de enfermedad renal en etapa terminal en pacientes con válvulas uretrales posteriores. J Urol 2011; **186**: 2392-2396‬
-
 24. Celedon CG, Bitsori M, Tullus K. Progresión de la insuficiencia renal crónica en niños con riñones displásicos. Pediatr Nephrol 2007; **22**: 1014-1020‬
-
 25. Farhat W, McLorie G, Capolicchio G, Khoury A y otros. Resultados de la ablación de la válvula primaria versus desviación del tracto superior en pacientes con válvulas uretrales posteriores. Urology 2000; 56 (4): 653-657‬
-
 26. Levin R, Monson FC, Haugaard N, Buttyan R et al. Características genéticas y celulares de la obstrucción del flujo de salida de la vejiga. Urol Clin North Am 1995; 22 (2): 263-283‬
-
 27. Peters CA, Bolkier M, Bauer SB, Hendren WH et al. Las consecuencias urodinámicas de las válvulas uretrales posteriores. J Urol 1990; 144 (1): 122-126‬
-
 28. Holmdahl G, Sillen U, Hanson E, Hermansson G y otros. Disfunción vesical en niños con válvulas uretrales posteriores antes y después de la pubertad. J Urol 1996; **155**: 694-698‬
-
 29. De Gennaro M, Mosiello G, Capitanucci ML, Silveri M et al. Detección precoz de la disfunción de la vejiga tras la ablación de las válvulas uretrales posteriores. Eur J Pediatr Surg 1996; **6**: 163-165‬
-
 30. Misseri R, Combs AJ, Hrowitz, Donohoe JM et al. Fallo miogénico en la valvulopatía uretral posterior: ¿real o imaginado? J Urol 2002; **168**: 1844-1848‬
-
 31. Ansari MS, Gulia A, Srivastava A, Kapoor R. Factores de riesgo de progresión a enfermedad renal en etapa terminal en niños con válvulas de uretra posterior. J Pediatr Urol 2010; 6 (3): 261-264‬
-
 32. Ghanem MA, Wolffenbuttel KP, de Vylder A, Nijman RJM. Disfunción vesical a largo plazo y función renal en niños con válvulas uretrales posteriores según los hallazgos urodinámicos. J Urol 2004; **171**: 2409-2412‬
-
 33. Riley P, Marcas SD, Desai D, Mushtaq I et al. Retos a los que se enfrenta el trasplante renal en pacientes pediátricos con disfunción del tracto urinario inferior. Transplantation 2010; 89 (11): 1299-1307‬
-
 34. Woodhouse C, Reilly JM, Bahadur G. Función sexual y fertilidad en pacientes tratados por válvulas uretrales posteriores. J Urol 1989; 142 (2 parte 2): 586-588‬
-
 35. López Pereira P, Miquel M, Martínez Urrutina MJ, Moreno JA et al. Función vesical a largo plazo, fertilidad y función sexual en pacientes con válvulas uretrales posteriores tratadas en la infancia. J Pediatr Urol 2011. Epub antes de imprimir.‬

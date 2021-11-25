@@ -65,8 +65,6 @@ Hasta 2003, después de 25 años de historia y casos tratados, con más de 300 f
 ## Conclusión
 la obstrucción del tracto urinario inferior es variable en gravedad y en ocasiones se asocia con una alta mortalidad. Los factores pronósticos adversos deben identificarse mejor para seleccionar aquellos casos que no siempre morirán y que pueden beneficiarse de la descompresión de la vejiga. Se necesitan ensayos aleatorios para apoyar la indicación de intervención.‬
 
-
-
 ## Referencias
 
 1. Johnson MP, Corsi P, Bradfield W et al: El análisis de orina secuencial‬ mejora la evaluación de la función renal fetal en la uropatía obstructiva.‬ Am J Obstet Gynecol 173: 59, 1995‬
