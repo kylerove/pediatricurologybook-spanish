@@ -256,15 +256,15 @@ La mayoría de los tumores se encuentran en el nivel toracolumbar, con una minor
 | *Estadío* | **Sitio Anatómico** | **T** | **N**| **M** |‬
 |:---------:|:--------------------|:-----:|:----:|:-----:|
 | 1 | Vaginal / uterino / cervical y paratesticular | cualquiera | cualquiera | M0 |‬
-| 2 | Vejiga / próstata | T1a / T2a (≤5cm) | N0 o Nx | M0 |‬
-| 3 | Vejiga / próstata | T1a / T2a (≤5cm)_ **O** _T1b / T2b (&gt; 5cm) | N1 cualquiera | M0 M0 |‬
+| 2 | Vejiga / próstata | T1a / T2a (≤5cm) | N0 _**o**_ Nx | M0 |‬
+| 3 | Vejiga / próstata | T1a / T2a (≤5cm) _**o**_ T1b / T2b (&gt; 5cm) | N1 cualquiera | M0 |‬
 | 4 | cualquiera | cualquiera | cualquiera | M1 |‬
 
 **Tabla 2.** Agrupación clínica posquirúrgica
 
 | **Grupo** |             |‬
 |:---------:|:------------|
-| I | Enfermedad localizada, completamente resecada (márgenes microscópicamente negativos) y nodos regionales no involucrados_ **La biopsia o el muestreo de ganglios linfáticos es altamente recomendable** _ |‬
+| I | Enfermedad localizada, completamente resecada (márgenes microscópicamente negativos) y nodos regionales no involucrados _**La biopsia o el muestreo de ganglios linfáticos es altamente recomendable**_ |‬
 | I a | Confinado al órgano de origen. |‬
 | Ib | Compromiso de estructuras contiguas: infiltración fuera del músculo u órgano de origen, a través de los planos fasciales |‬
 | II | Resección total macroscópica con evidencia de diseminación regional. |‬

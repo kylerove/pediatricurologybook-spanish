@@ -56,7 +56,7 @@ La pérdida de heterocigosidad (LOH), definida como la pérdida de una de las do
 
 Se están utilizando en forma creciente nuevas técnicas, tales como el Microarray de ADN para perfil de expresión y Array de hibridación genómica comparativa para investigar la genética molecular del TW. Estas proporcionaron nuevas perspectivas sobre la genética del TW al examinar la expresión genética global en subtipos / histologías específicas del tumor.[^47]<sup>,</sup>[^48]‬
 
-Otros genes relacionados con TW incluyen: _WTX_ (un gen supresor de tumores en el cromosoma X), [^49] _CTNNB1_ (gen de la β-catenina en la ruta de señalización WNT / β-catenina asociada con _WT1_ y _WTX_ en WT), [^50]<sup>,</sup>[^51] _FWT1_ (ubicado en 17q12-q21) y  _FWT2 _ (ubicado en 19q13.4).[^52]<sup>,</sup>[^53]‬
+Otros genes relacionados con TW incluyen: _WTX_ (un gen supresor de tumores en el cromosoma X), [^49] _CTNNB1_ (gen de la β-catenina en la ruta de señalización WNT / β-catenina asociada con _WT1_ y _WTX_ en WT), [^50]<sup>,</sup>[^51] _FWT1_ (ubicado en 17q12-q21) y  _FWT2_ (ubicado en 19q13.4).[^52]<sup>,</sup>[^53]‬
 
 _Biomarcadores_‬
 
