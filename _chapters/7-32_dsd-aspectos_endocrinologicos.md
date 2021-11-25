@@ -11,10 +11,10 @@ review-formatting-complete: KR-2021-11-07
 
 # Desordenes del Desarrollo Sexual (DSD) —Aspectos Endocrinológicos**‬
 
-**Garry L. Warne AM MBBS FRACP**‬
-_Departamento de Endocrinología y Diabetes, The Royal Children&#39;s Hospital, Melbourne, Australia_
-_Departamento de pediatría de la Universidad de Melbourne; y Murdoch Childrens Research Institute, Melbourne, Australia_
-_Teléfono: +61 3 9345 5954, Fax: +61 3 9345 4615_
+**Garry L. Warne AM MBBS FRACP**‬  
+_Departamento de Endocrinología y Diabetes, The Royal Children&#39;s Hospital, Melbourne, Australia_  
+_Departamento de pediatría de la Universidad de Melbourne; y Murdoch Childrens Research Institute, Melbourne, Australia_  
+_Teléfono: +61 3 9345 5954, Fax: +61 3 9345 4615_  
 _Correo electrónico: garry.warne@rch.org.au‬_
 
 *Traducido y editado desde el original al español | [Enlace a la versión en inglés]({{ page.permalink-en }})*{: #translation-head}  
