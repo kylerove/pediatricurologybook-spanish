@@ -278,37 +278,37 @@ La mayoría de los tumores se encuentran en el nivel toracolumbar, con una minor
 
 **Table 3A.** Clasificación de riesgo
 
-| **Riesgo** | **Histología** | **Grupo postoperatorio** | **Etapa IRSG Pre-Op** | **Años** | ‬ |
-| :----------: | ---------------- | -------------------------- | ----------------------- | ---------- | ‬ |
-| Bajo | Embrionario | I, II, III | 1 | Todos | ‬ |
-|  | Embrionario | Yo, yo | 2, 3 | Todos | ‬ |
+| **Riesgo** | **Histología** | **Grupo postoperatorio** | **Etapa IRSG Pre-Op** | **Años** |
+|:-------------:|:-------------:|-------------|-------------|-------------|
+| Bajo | Embrionario | I, II, III | 1 | Todos | 
+|  | Embrionario | Yo, yo | 2, 3 | Todos | 
 | Intermedio‬ |
-|  | Embrionario | III | 2, 3 | Todos | ‬ |
-| Alveolar | I, II, III | 1, 2, 3 | Todos | ‬ |
-| Alto | Embrionario | IV | 4 | Todos | ‬ |
-|  | Alveolar | IV | 4 | Todos | ‬ |
+|  | Embrionario | III | 2, 3 | Todos | 
+| Alveolar | I, II, III | 1, 2, 3 | Todos | 
+| Alto | Embrionario | IV | 4 | Todos | 
+|  | Alveolar | IV | 4 | Todos | 
 
 **Table 3B.** Clasificación de riesgo Clasificación de riesgo específica según el sitio de localización GU
 
-|‬ **Sitio primario** | **Etapa Pre-Op** | **Enfoque quirúrgico inicial** | **Grupo postoperatorio** | **Histología** | **Años** | **Riesgo** |‬
-|:------------------:|:----------------:|--------------------------------|--------------------------|----------------|‬----------|------------|
-| Paratesticular   | 1 | Orquiectomia | I, II, III | Embrionario | Todos | Bajo |‬
-|   | 1 | Orquiectomia | I, II, III | Alveolar | Todos | Intermedio |‬
-|   | 4 | Orquiectomia | IV | Embrionario | Todos | Alto |‬
-|   | 4 | Orquiectomia | IV | Alveolar | Todos | Alto |‬
-| Vaginal / uterino /‬ cervical  | 1 | Resección | I, II, III | Embrionario | Todos | Bajo |‬
-|   | 1 | Biopsia | III | Embrionario | Todos | Bajo |‬
-|   | 1 | Resección | I, II, III | Alveolar | Todos | Intermedio |‬
-|   | 1 | Biopsia | III | Alveolar | Todos | Intermedio |‬
-|   | 4 | Resección o biopsia | IV | Embrionario | Todos | Alto |‬
-|   | 4 | Resección o biopsia | IV | Alveolar | Todos | Alto |‬
-|  Vejiga / próstata    | 2 o 3 | Resección | Yo o II | Embrionario | Todos | Bajo |‬
-|   | 2 o 3 | Resección | III | Embrionario | Todos | Intermedio |‬
-|   | 2 o 3 | Biopsia | III | Embrionario | Todos | Intermedio |‬
-|   | 2 o 3 | Resección | I, II, III | Alveolar | Todos | Intermedio |‬
-|   | 2 o 3 | Biopsia | III | Alveolar | Todos | Intermedio |‬
-|   | 4 | Resección o biopsia | IV | Embrionario | Todos | Alto |‬
-|   | 4 | Resección o biopsia | IV | Alveolar | Todos | Alto |‬
+| ‬ **Sitio primario** | **Etapa Pre-Op** | **Enfoque quirúrgico inicial** | **Grupo postoperatorio** | **Histología** | **Años** | **Riesgo** | 
+|:-------------:|:-------------:|-------------|-------------|-------------|-------------|-------------|
+| Paratesticular | 1 | Orquiectomia | I, II, III | Embrionario | Todos | Bajo |
+|  | 1 | Orquiectomia | I, II, III | Alveolar | Todos | Intermedio | 
+|  | 4 | Orquiectomia | IV | Embrionario | Todos | Alto | 
+|  | 4 | Orquiectomia | IV | Alveolar | Todos | Alto | 
+| Vaginal / uterino /‬ cervical | 1 | Resección | I, II, III | Embrionario | Todos | Bajo | 
+|  | 1 | Biopsia | III | Embrionario | Todos | Bajo | 
+|  | 1 | Resección | I, II, III | Alveolar | Todos | Intermedio | 
+|  | 1 | Biopsia | III | Alveolar | Todos | Intermedio | 
+|  | 4 | Resección o biopsia | IV | Embrionario | Todos | Alto | 
+|  | 4 | Resección o biopsia | IV | Alveolar | Todos | Alto | 
+| Vejiga / próstata | 2 o 3 | Resección | Yo o II | Embrionario | Todos | Bajo | 
+|  | 2 o 3 | Resección | III | Embrionario | Todos | Intermedio | 
+|  | 2 o 3 | Biopsia | III | Embrionario | Todos | Intermedio | 
+|  | 2 o 3 | Resección | I, II, III | Alveolar | Todos | Intermedio | 
+|  | 2 o 3 | Biopsia | III | Alveolar | Todos | Intermedio | 
+|  | 4 | Resección o biopsia | IV | Embrionario | Todos | Alto | 
+|  | 4 | Resección o biopsia | IV | Alveolar | Todos | Alto | 
 
 ## Clave de abreviaturas:
 
